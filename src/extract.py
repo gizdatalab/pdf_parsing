@@ -1,10 +1,23 @@
 # script to extract data from directory and write content from PDFs into machine readable format
 
-import os
-from langchain.document_loaders import PyMuPDFLoader
+# could also use this function to return images for OCR?
 
-def extract(extract_path = '../documents/'):
+import os
+# langchain PyMuPDF
+from langchain.document_loaders import PyMuPDFLoader
+# llama-index simple reader & Nougat 
+from llama_index.core import SimpleDirectoryReader
+from llama_index.readers.nougat_ocr import PDFNougatOCR
+from llama_index.readers.file import UnstructuredReader
+
+# haystack 2.0
+
+def lc_extract_pdf(extract_path = '../documents/'):
     
+    if extract_path == '../documents/':
+
+        print("data path optional - default is '../documents/'")
+
     docs = []
     for pdf_document in os.listdir(extract_path):
         try:
@@ -12,5 +25,14 @@ def extract(extract_path = '../documents/'):
         except Exception as e:
             print("Exception: ", e)
 
+    print("Langchain Doc Extraction successful!")
+
     return docs
 
+def lli_extract_pdf(extract_path = '../documents/'):
+
+    if extract_path == '../documents/':
+
+        print("data path optional - default is '../documents/'")
+
+    
