@@ -1,0 +1,23 @@
+MONTH (A );AMT Collected
+July;50,277,812
+august;33,623,000
+September;33,471,600
+October;45,168,300
+November;29,022,000
+December;43,450,400
+January;35,474,500
+February;31,088,000
+march;37,117,900
+April;32,487,200
+may;31,157,600
+June;23,796,400
+TOTAL;426,134,712
+MONTH (B);AMOUNT BANKED TO BOU
+June;92,763,000
+march;84,900,000
+December;42,800,000
+November;60,000,000
+September;5,725,000
+September;107,700,000
+TOTAL;393,888,000
+Variation ( C);32,246,712

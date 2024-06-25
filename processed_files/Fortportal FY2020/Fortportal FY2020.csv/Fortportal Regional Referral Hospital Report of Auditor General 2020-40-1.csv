@@ -1,0 +1,30 @@
+S/N;Type of medical equipment;Recommended no.;Available no.;Not available
+1;monitors;15;4;11
+2;Delivery beds;5;2;3
+3;Baby warmers;5;2;3
+4;Patient trolleys;6;2;4
+5;Wheelchairs;4;1;3
+6;Vacuum extractor;4;2;2
+7;MVA;6;3;3
+8;Treatment trolleys;20;8;12
+9;Delivery sets;10;3;7
+10;Vagina speculum cucos;55;20;35
+11;Evacuation sets;10;3;7
+12;Sims speculum vagina;55;10;45
+13;D and C set;11;4;7
+14;C-section sets;20;10;10
+15;Hysteritactomy;2;0;2
+16;laparotomy;2;1;1
+17;Oxygen cylinders;10;6;4
+18;Oxygen concentrator;5;1;4
+19;Oxygen cylinder head;10;3;7
+20;Suction machine;4;2;2
+21;BP machine;5;1;4
+22;stethoscope;5;2;3
+23;Rescistation neonatal kit;10;6;4
+24;Adult Rescistation kit;8;2;6
+25;Sterilizer drums;20;13;7
+26;Autoclaves;8;4;4
+27;Cheatle forceps;10;6;4
+28;Drip stands;70;12;58
+29;Baby weighing scales;6;2;4

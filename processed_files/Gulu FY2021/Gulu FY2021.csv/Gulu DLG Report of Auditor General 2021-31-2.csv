@@ -1,0 +1,15 @@
+S/N.;Month (for which salary is paid);Salary payment date;Loan (482) payment date;Variance (in days);Remarks
+1;July;8/3/2020;8/31/2020;28;Delayed
+2;August;8/26/2020;9/21/2020;26;Delayed
+3;September;9/21/2020;10/26/2020;35;Delayed
+4;October;10/26/2020;11/16/2020;21;Delayed
+5;November;11/26/2020;12/16/2020;20;Delayed
+6;December;12/16/2020;2/15/2021;61;Delayed
+7;January;1/28/2021;3/3/2021;34;Delayed
+8;February;2/25/2021;3/25/2021;28;Delayed
+9;March;3/25/2021;4/14/2021;20;Delayed
+10;April;4/22/2021;4/22/2021;0;Concurrent
+11;May;5/25/2021;6/22/2021;28;Delayed
+12;June;6/22/2021;6/25/2021;3;Delayed
+;Total;;;304;
+;Average;;;25.3;
