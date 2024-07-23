@@ -1,0 +1,14 @@
+,S/N.,Month (for which salary is paid),Salary payment date,Loan (482) payment date,Variance (in days),Audit Remarks
+0,1.0,Jul-20,30/07/2020,12/08/2020,13,Delayed
+1,2.0,Aug-20,26/08/2020,26/08/2020,0,Concurrent
+2,3.0,Sep-20,24/09/2020,27/10/2020,33,Delayed
+3,4.0,Oct-20,27/10/2020,02/11/2020,6,Delayed
+4,5.0,Nov-20,26/11/2020,26/11/2020,0,Concurrent
+5,6.0,Dec-20,17/12/2020,17/12/2020,0,Concurrent
+6,7.0,Jan-21,27/01/2021,12/03/2021,44,Delayed
+7,8.0,Feb-21,12/03/2021,12/03/2021,0,Concurrent
+8,9.0,Mar-21,22/03/2021,09/04/2021,18,Delayed
+9,10.0,Apr-21,29/04/2021,24/06/2021,56,Delayed
+10,11.0,May-21,04/06/2021,04/06/2021,0,Concurrent
+11,12.0,Jun-21,22/06/2021,22/06/2021,0,Concurrent
+12, ,Average, , ,14, 

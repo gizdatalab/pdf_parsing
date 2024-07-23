@@ -1,0 +1,7 @@
+,Bill Item,Unit,Contract Rate (F) UGX,Lowest rate among municipalities (Fm) UGX,Score (2*Fm/F),Percentage of Contract rate to lowest rate (1+(F- Fm)/Fm)%
+0,600mm culverts,M,"120,000","120,000",2.0,100%
+1,Concrete for drains,CM,"150,000","150,000",2.0,100%
+2,Prime Coat,Ltr,"5,500","4,800",1.75,115%
+3,First Seal Coat,M 2,"22,000","22,000",2.0,100%
+4,Gravel for Sub- base,M 3,"30,000","30,000",2.0,100%
+5,Total Score, , , ,9.75,Average = 103%

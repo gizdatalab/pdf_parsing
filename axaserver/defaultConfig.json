@@ -111,8 +111,8 @@
       "text": true,
       "csv": true,
       "markdown": true,
-      "pdf": false,
-      "simpleJson": true
+      "simpleJson": true,
+      "pdf": false
     }
   }
 }

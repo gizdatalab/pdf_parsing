@@ -1,0 +1,5 @@
+,NO,Employee ID,Employee Name,Retirement date/death date (A),Month payroll was accessed (B),Time taken (days) to access the payroll C=(B-A)
+0,1.0,57567,Albert Stephen Muwaya,16/08/2021,Mar-22,211
+1,2.0,57664,Godfrey Sunday,23/04/2022,Yet to access,114 (by end of Aug 2022)
+2, ,Total, , , ,325
+3, ,Average, , , ,162.50

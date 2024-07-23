@@ -1,0 +1,1456 @@
+OFFICE OF THE AUDITOR GENERAL
+OFFICE OF THE AUDITOR GENERAL
+UGANDA
+
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA RAILWAYS CORPORATION
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Table of Contents - ii
+List of Acronyms - iv
+Qualified Opinion - 1
+Basis for Qualified Opinion - 1
+  1.0 Loss on Compensation for Stolen Materials from Steel Companies- UGX.12.76Bn - 1
+  2.0 Loss of Abandoned Dismantled Railway Materials – EURO 3,083,846.54 - 2
+  3.0 Unsupported provision for bad debts- UGX.4.4Bn - 3
+  4.0 Unsupported VAT receivable - UGX.1.13Bn - 3
+  5.0 Undisclosed Revenue - UGX.0.76Bn from Rental Income - 3
+  6.0 Unaccounted for Fuel Deposits - 4
+  7.0 Unaccounted for URC wagons in Kenya - 4
+  8.0 Unsupported GoU equipment loans - 4
+Key Audit Matter - 5
+  9.0 Implementation of the approved budget - 5
+  9.4 Delivery of services from implemented activities - 8
+  10.0 Management of public land - 10
+Emphasis of Matter - 12
+  11.0 Non- remittance of NSSF Contribution - 12
+  12.0 Utilization of GOU Funds Received for Purchase of Locomotives - 12
+  13.0 Accrued Rental Arrears for Kisumu URC House KSHS 1,8660,153 - 13
+  14.0 Outstanding Compensation from UNRA for Land for Flyover Project - UGX.28.16Bn - 14
+Other matter - 14
+  15.0 Revision of Freight Tariffs by URC - 14
+  16.0 Loss of Potential Revenue from a Concession Agreement for Pamba Ferry - 15
+  17.0 Financial analysis and assessment of the Corporation’s performance - 16
+Other Information - 17
+Directors’ Responsibilities for the Financial Statements - 17
+Auditor's Responsibilities for the audit of the Financial Statements - 18
+Other Reporting Responsibilities - 19
+Report on the Audit of Compliance with Legislation - 19
+  18.0 Management of Information Technology (IT) Investments in Government - 19
+  19.0 Management of Public Land - 21
+  20.0 Procurements - 22
+  20.1 Civil Works for the Rehabilitation of Tororo-Gulu Railway Line - 22
+ii
+
+
+
+
+
+
+
+
+
+
+
+20.2 Construction of 2-stance Toilet and Provision of Mobile Toilet Services at Nalukolongo
+Workshop - 23
+    20.2.1 Unauthorized Contract Variation- UGX 29,535,900 - 23
+  21.0 Payroll Management - 24
+  21.1 Inequalities in Staff Salaries - 24
+  22.0 Management of Tenancy Agreements - 24
+  22.1 Lack of tenancy agreements - 24
+    22.1.1 Expired tenancy agreements - 25
+    22.1.2 Failure to implement the tenancy agreement payment terms - 25
+  22.2 Delayed disposal of scrapped rail material- Tororo Station - 26
+Appendices - 27
+APPENDIX I: Extent of Implementation of Outputs and Activities - 27
+Appendix II: Delivery of Services - 28
+Appendix III: Completeness of the Land register - 31
+Appendix IV: Encumbered Land - 33
+Appendix V: Lack of Land titles - 37
+Appendix VI: Irregular Transfer of Land - 39
+Appendix VII (a-i) – IT Systems not cleared by NITA-U - 39
+Appendix VII (a-ii) IT equipment not cleared by NITA-U - 40
+Appendix VII (b) – IT Systems not integrated/without interfaces - 42
+Appendix XII (a); Land leases that are not in URC Lease register - 42
+Appendix VIII (b); Irregularities in Management of leased land - 43
+Appendix VIII (c): Irregular allocation of Land by District Land Board (DLB), KCCA and ULC
+ - 43
+
+
+
+
+
+
+
+
+
+
+
+List of Acronyms
+
+ACRONYM	MEANING	
+EDF	European Development Fund	
+GOU	Government Of Uganda	
+ICT	Information Communication Technology	
+ICT	Information and Communication Technology	
+IESBA	International Ethics Standards Board for Accountants	
+INTOSAI	International Organization of Supreme Audit Institutions	
+ISSAIs	International Standards of Supreme Audit Institutions	
+IT	Information Technology	
+MDAs	Ministries, Departments and Agencies	
+Mn	Million	
+Bn	Billion	
+MoFPED	Corporation of Finance, Planning and Economic Development	
+MOU	Memorandum of Understanding	
+MoWT	Ministry of Works and Transport	
+NSSF	National Social Security Fund	
+PFMA	Public Financial Management Act	
+PPDA	Public Procurement and Disposal of Assets	
+TI	Treasury Instructions	
+UGX	Uganda Shillings	
+UNRA	Uganda National Roads Authority	
+URC	Uganda Railways Corporation	
+USD	United States Dollars	
+VAT	Value Added Tax	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE AUDIT OF FINANCIAL STATEMENTS OF UGANADA RAILWAYS
+
+CORPORATION FOR THE YEAR ENDED 30 TH JUNE, 2022
+
+THE RT. HON. SPEAKER OF PARLIAMENT
+
+Qualified Opinion
+
+I have audited the accompanying financial statements of Uganda Railways Corporation (URC) which comprise the statement of Financial Position as at 30 th June 2022, and the Statement of Comprehensive Income, Statement of Changes in Equity and Statement of Cash Flows together with other accompanying statements for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, except for the possible effect of the matters described in the Basis for Qualified Opinion section of my report, the financial statements present fairly, in all material respects, the financial position of Uganda Railways Corporation as at 30 th June 2021 and the results of its operations and cash flows for the period then ended, in accordance with the International Financial Reporting Standards and the Uganda Corporation Act, Cap 331 of the Laws of Uganda.
+
+Basis for Qualified Opinion 1.0 Loss on Compensation for Stolen Materials from Steel Companies- UGX.12.76Bn
+
+During the year, the Managing Director instituted an investigation into stolen and recovered railway materials from two steel Companies. A review of the investigation reports and other documents revealed the following;
+
+i. It was established that 750 meters of the railway line had been vandalised and the culprits who were arrested led security to one factory in Mukono District where the railway materials, having identification marks of URC, were found. Although the cost of the stolen railway materials, excluding compensation and re-instatement costs, was estimated at UGX.1.10Bn, URC entered into an out of court settlement for only UGX.0.21Bn as per the agreement made on 16 th November, 2021 resulting into a loss of UGX.0.89Bn. ii. Similarly, a joint search was carried out by URC and security agencies at another factory with locations in Lugazi and Iganga where 1,946 railway materials were also discovered. Using the rates applied by Chief Civil Engineer in respect of materials found at the earlier premises, the materials discovered in Lugazi and Iganga were worth UGX.12.39Bn. However, URC again entered into an out of court settlement for only UGX.0.52Bn as per the agreement made on 27 th September, 2021 resulting into a loss of UGX.11.87Bn. It was also observed that the payment received from out court settlement was also less than the exhibits recovered from the site totalling to 1946 railways equivalent to UGX.8.76Bn
+
+
+
+
+
+
+
+
+
+
+
+in order to discourage them from buying vandalised materials. It was further explained that it is difficult to prove that the two companies were responsible for vandalising sections of the line yet the materials recovered were not for the whole section. The factory in Mukono negotiated to pay less as it claimed to be on the verge of bankruptcy due to Covid-19. Management considered it prudent to secure the settlement amount.
+
+I advised the Board to review the process of out of court settlement to ensure transparent and verifiable procedures. In the event that collusion is identified, appropriate action including recovery measures from responsible parties should be instituted.
+
+2.0
+
+Loss of Abandoned Dismantled Railway Materials – EURO 3,083,846.54
+
+The PSST/National Authorising Officer of the European Development Fund (EDF)- Ministry of Finance, Planning and Economic Development (PSST/NAO) signed a contract with an International firm on 21 st November, 2019 for the rehabilitation of the Tororo-Gulu Railway at a contract price of EUR.39,337,756 (excluding VAT/other taxes).
+
+Article 43.5 of the contract (ownership of plant and materials) requires that upon termination of the contract before completion of the works, the contractor shall deliver to the contracting authority any plant, temporary works, equipment or materials in which the contracting authority has vested in. If it fails to do so, the contracting authority may take such appropriate action as it deems fit in order to obtain possession of such plant, temporary works, equipment and materials and recover the cost of doing so from the contractor.
+
+The contractor terminated the contract due to delays in payment by the Government of Uganda. After termination, the contractor never handed over the re-usable materials for reconstruction of the line. As a result, most of the materials were stolen and purportedly sold to steel making factories resulting into loss of materials to the Corporation. Evidence obtained from Supervising Consultant reports indicates that by 30 th July 2022, URC had lost 136,416 of the items that had been recovered equivalent to Euro. 3,083,846.54. The lost railway materials have not been accounted for in the financial statements.
+
+
+
+
+
+
+
+
+
+
+
+3.0
+
+Unsupported provision for bad debts- UGX.4.4Bn
+
+In Note 14 to the financial statements, management made a provision for bad debts worth UGX.4.4Bn against the total figure for freight and rental debtors of UGX.7.2Bn resulting into net receivables of UGX.2.8Bn. However, I was not provided with the circumstances for the high provision (61%) and the details of debtor’s ageing analysis to enable me determine the justification and accuracy of the provision made during the year.
+
+The Accounting Officer explained that the provision for bad debts was made against freight and rental balances for the prior period that had not been adjusted for the approved debt write off and no provision had been made during the year. I was not provided evidence for approval of the write off. I advised the Accounting Officer to have a comprehensive debtors’ policy that clearly spells out the basis for provisions and write off. Under the circumstances, I could not confirm accuracy and valuation of the debtor’s amount in the financial statements.
+
+4.0
+
+Unsupported VAT receivable - UGX.1.13Bn
+
+The statement of financial position shows that the Corporation had a total of trade and other receivables of UGX. 85.62Bn as at 30 th June 2022. Included in the details of other receivables under note 14 of the financial statements is UGX.11.54Bn relating to VAT receivable. I verified the supporting documents and noted that UGX.1.13Bn was not supported. Without supporting documentation, the accuracy of VAT receivable could not be confirmed. As a result, the receivables figure may be misstated.
+
+Although the Accounting Officer stated that monthly, returns are available for verification. No documents were availed for verification.
+
+I advised the Accounting Officer to provide supporting documentation to the VAT receivable amount disclosed in the financial statements or make the necessary adjustments to the financial statements.
+
+5.0
+
+Undisclosed Revenue - UGX.0.76Bn from Rental Income
+
+I performed a re-computation of the rental revenue due to URC using the signed tenancy and lease agreements, monthly revenue returns and reports from the stations’ estates managers and noted that the expected total revenue for the year under audit was UGX.2.19Bn. However, under Note 3(a) on page 18 of the financial statements for the financial year ended 30 th June 2022, total rental revenue for the year was disclosed as UGX. 1.43Bn.This resulted into undisclosed revenue of UGX. 0.76Bn. The revenue for the year under audit is misstated. In addition, the undisclosed rental and freight revenue collected may imply that the said revenue was misappropriated.
+
+
+
+
+
+
+
+
+
+
+
+6.0
+
+Unaccounted for Fuel Deposits
+
+Paragraph 7.1.20 of the URC financial accounting policies and procedures manual 2022, states that no payment instruction shall be signed unless it is accompanied by properly authorized supporting documentation. I noted that a total of UGX.0.51Bn was paid to two suppliers as fuel deposits but was not satisfactorily accounted for as supporting documents such as fuel consumption statements from the suppliers were missing.
+
+Consequently, I was not able to verify that the fuel was utilized for the intended purpose.
+
+Although the Accounting Officer explained that, the fuel consumption statements from suppliers were available for verification they were not availed by the time of reporting.
+
+I advised the Accounting Officer that in the circumstance that funds remain unaccounted for, recovery measures should be considered against the responsible parties or staff.
+
+7.0
+
+Unaccounted for URC wagons in Kenya
+
+A review of the asset register revealed that URC has 521 wagons located in different parts of Kenya. However, through field inspection, I was able to confirm existence of only 128 wagons leaving a balance of 393 wagons unaccounted for.
+
+There is a possibility that asset values in the financial statements are overstated.
+
+The Accounting Officer explained that there were many wagons left in Kenya by RVR (U) Ltd upon concession termination. A repatriation exercise to return these assets to Uganda commenced in July 2021 and by December 2021, a total of 243 wagons had been brought back. A wagon census and technical assessment of the condition of URC wagons in Kenya and Tanzania is planned for December 2022.
+
+I advised the Accounting Officer to carry out a comprehensive board of survey to establish the existence of the remaining 393 wagons and make necessary adjustments in the fixed assets register.
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer explained that management has made several written communication and reminders to the Accountant General in an attempt to resolve this matter but still waiting for his advice.
+
+I advised the Accounting Officer to obtain a written confirmation from the Ministry of Finance, planning and Economic development and Accountant General regarding the settlement of the loans and subsequently explore the option of write off from URC books of accounts.
+
+Key Audit Matter
+
+Key audit matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were addressed in the context of my audit of the financial statements as a whole and in forming my opinion thereon, and I do not provide a separate opinion on these matters. I have determined the matters described below to be key audit matters communicated in my report.
+
+9.0
+
+Implementation of the approved budget
+
+Paragraph 2 of schedule 5 of the PFMA requires Accounting Officers to prepare an appropriation account showing the services for which the money expended were voted, the sums actually expended on each service and the state of each vote compared with the amount appropriated for that vote by Parliament.
+
+Over the years, I have observed improvements in the performance regarding implementation of the budget but entities still face a number of challenges including COVID-19, which continue to affect implementation of activities, service delivery and credibility of the budget. It is against this background that budget performance was considered a key audit area during the office-wide planning. I reviewed documents such as work plans, performance reports, conducted interviews and physical inspection in arriving at my findings.
+
+Uganda Railways Corporation (URC) was established under URC Act, 1992 cap 331 of the Laws of Uganda to carry out construction, operation and maintenance of railway, marine and road services both in and outside Uganda for the carriage of goods and passengers.
+
+
+
+
+
+
+
+
+
+
+
+The Corporation’s key deliverables for the financial year under review were;
+
+Key deliverables for the URC for the year-2021/2022
+
+Output	Budget ('Bn')	Cumulative % share of the total approved budget	
+Maintenance of locomotives and wagons	44.00	23.87	
+Compensation and Benefits	16.06	32.59	
+Track infrastructure development	10.34	38.20	
+Management and control of cargo tracking system	8.47	42.80	
+Maintenance of breakdown & mechanical handling cranes	7.81	47.03	
+Track infrastructure maintenance	5.44	49.99	
+Maintenance of wagons	4.76	52.57	
+Employee welfare and engagement	4.69	55.11	
+Maintenance of marine vessels and port facilities	3.07	56.78	
+Administrative	1.56	57.63	
+Maintenance of machinery, plants & equipment	1.46	58.42	
+Property redevelopment	1.17	59.05	
+Maintenance of electrical installations	1.03	59.61	
+Land management	1.00	60.15	
+ICT equipment	0.65	60.51	
+Work force management	0.64	60.85	
+Expansion of CCTV Cameras	0.51	61.13	
+Power(ICT) management	0.51	61.41	
+Extension and provision of Network Services	0.48	61.67	
+Procurement of Assets	0.43	61.90	
+Repair Maintenance of IT Hardware	0.38	62.11	
+Management and Control	0.35	62.30	
+Support trains operations	0.25	62.44	
+Procurement of supporting Tools of trade	0.23	62.56	
+Yards and Terminal activities	0.22	62.68	
+Commuter operations	0.20	62.79	
+Upcountry station audits	0.20	62.90	
+Ports activities	0.18	62.99	
+Re-Tooling /Equipping of Staff	0.15	63.07	
+Telecom Infrastructure maintenance	0.13	63.14	
+Information and communication systems audit	0.12	63.20	
+Recruitment of competent candidates	0.11	63.26	
+Systems and Applications	0.05	63.29	
+Administration of audit work	0.01	63.30	
+Telecommunication Equipment & maintenance	0.01	63.30	
+Total	116.67		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I reviewed the implementation of the approved 2021/2022 budget by the entity and noted the following;
+
+No	Observation	Recommendation	
+9.1	Revenue Performance Performance of Internally Generated Revenue I reviewed the revenue estimates, revenue sources and rates charged at the entity for the financial year 2021/2022 and noted that the Corporation budgeted to collect revenues amounting to UGX.128.96Bn during the year under review. Out of this, only UGX.16.4Bn was collected, representing a performance of 12.7% of the target. Shortfalls in revenue collections affect effective delivery of the mandate of the Corporation.The Accounting Officer explained that the Budget estimates were within the anticipated annual targets, however the Corporation experienced a lot of challenges in the under listed areas among others: Persistent break down of URC old locomotives both mainline & shunting. Fuel shortages and escalation in prices. Railway line Accidents majorly capsizements that resulted in closure of the railway line. iv. Worldwide decline in containerized cargo business brought about by the Covid-19 pandemic. The lengthy court process and endless miscellaneous court application in collection of money for disposed land to UNRA. Inability to raise revenue from other sources other than freight due to non-clearance of land leases by the Attorney General’s office.frustrated the Corporationi.ii. iii.v. vi.of GoU receipts According to the approved budget, although the Corporation was to receive UGX.225.175Bn from GOU sources, only UGX.191Bn was received, resulting into a shortfall of UGX.34.175Bn representing under performance of 15.17%Performance	advised the Accounting Officer to always come up with more realistic revenue estimates as well as improve the enforcement of revenue agreements/contract.advised the Accounting Officer to always revise the entity’s budget, work plans, and seek for the relevant approvals from the Board whenever necessary.II	
+9.2	Absorption of GOU funding Out of the total funds of UGX.191Bn received during the financial year, UGX.158.69Bn was spent by the entity resulting in an unspent balance of UGX.32.31Bn representing absorption level of 83.1%.under absorption of funds was mainly due to delayed submission of certificates of completion of works on the Namanve-Tororo railway rehabilitation project.The Accounting Officer explained that unspent balances in this case arose from a variation between the project implementation work plan and the work completionThe	advised the Accounting Officer to continuously monitor the performance and implementation of projects being undertaken to ensure that they are implemented according to project schedule and budget.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	certificates issued hence giving rise to unspent balances.		
+9.3	assessed the implementation of a sample of thirty seven (37) outputs that had been fully quantified with a total of seventy eight (78) activities with a budget worth UGX.116Bn and noted that; i. Two (2) outputs with three (3) activities and expenditure worth UGX.0.37bn were fully implemented. ii. Fifteen (15) outputs with forty two (42) activities with expenditure worth partially implemented. Out of the forty two (42) activities, the entity fully implemented six (6) activities; eighteen (18) activities were partially implemented, while eighteen (18) activities remained unimplemented.UGX.39.6bn wereiii. Twenty (20) outputs with thirty three (33) activities with expenditure worth UGX.3bn were not implemented at all The full details on the status of implementation of planned activities are in Appendix I.Non-implementation of planned activities implies that the expected services to the beneficiary customers were not attained.Accounting Officer explained that non- implementation of planned activities is majorly caused by failure to raise anticipated income and insufficient Government funding.IImplementation of outputs and activitiesThe	advised the Accounting Officer to always come up with a revenue enhancement strategy so that activities and outputs are implemented as plannedI	
+
+
+
+
+9.4
+
+Delivery of services from implemented activities
+
+I under took procedures to establish if activities were undertaken in timely manner, were of expected quality and quantity, and if citizens were getting the expected services. In addition, I assessed if the works/services were delivered at reasonable costs. Below is a summary of my observations, details of which have been provided as Appendix II. Table below refers.
+
+Delivery of service for implemented activities
+
+No	Activity details	Total contract sum	Summary of findings	Conclusion regarding service delivery-	
+1	Rehabilitation of the Namanve – Tororo Line	UGX 184.07Bn	i. The majority of the line was undressed and laid back along the stretch however, the sleepers are not packed and made firm on the permanent way.There are no ballast stones on the sections of the main line worked on.iii. On some sections of the network such as the stretch fromii.	Without proper supervision of the on-going works it is highly possible that the identified gaps in the works being done on the line will go unattended to, leading to substandard work.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mukono to Lugazi, the bolts and anti-vandal wires do not fasten the rails and the network is not steady on the ground. This is still an active line and trains have been having challenges navigating through this section of the line while loaded. Through interaction with the responsible staff, it was noted that during the financial year under review there were cases where trains tripped and derailed on several sections on the railway line causing among others; delays in delivery of cargo; loss of confidence among the existing and potential clients of the railway business.
+
+iv. There is a risk that this may cause a rise in the premium payments for insurance of these trains due to the rise in the level of risk.
+
+v. Some of the new rails laid along the network waiting to be installed were seen rusting just a few months after they were delivered to the sites. Several materials including sleepers and rails on the accident areas had to immediately be replaced because they were damaged beyond repair. The new rail materials that are being laid in some of the sections may not be of a durable and dependable quality. It is not clear who is meeting the cost of replacement of these
+
+
+
+
+
+
+
+
+
+
+
+	sleepers since they are broken to accidents.due		
+2	Construction of the Sleeper making Factory at Kawolo Station	EUR. 19.84Mn	i. The progress of works was approximately 55%; only 2 sleeper making moulds out of 120 have been delivered on sight; and the batching plant was delivered site waiting assembly and installations.ontoii. A brick perimeter wall has been built around the factory. However, a stretch of about 30 meters from the factory fence the URC station landmark posts was left outside this enclosure. Some of the residential structures built near this land by the community were quite beyond the mark posts demarcating the boundaries the station reserve land.of	This is an area highly affected by encroachment and this leaves this land outside the constructed fence susceptible to encroachment. The delays in completing the works may affect attainment of the intended project objectives.	
+
+
+
+
+The Accounting Officer explained that these are ongoing works with different ongoing activities at different stages of completion. To date there has been no works completed for final acceptance.
+
+I advised the Accounting Officer to intensify the supervision and monitoring of the on-going works to ensure that satisfactory rehabilitation of the line and construction of the factory are undertaken.
+
+
+
+
+
+
+
+
+
+
+
+Documents, such as; Laws and Regulations, approved strategic plans, policy statements, budgets, Financial Statements, Asset Register, Court case files and correspondences, Land titles and lease files were reviewed. In addition, I interacted with entity management and discussed issues affecting public land management. Furthermore, I physically inspected some of the pieces of land owned by the URC.
+
+From the procedures undertaken, I noted the following;
+
+No	Finding	Recommendation	
+10.1	I noted that 6 pieces of land measuring approximately 10.8 hectares out of 281 pieces of land measuring approximately 8,407 hectares (0.13 %) and costing UGX.2.47Bn were not recorded in the entity’s land register.. Appendix III refers.Maintenance of land registerincomplete recording of land in the land register affects the entity’s ability to keep track and monitor all its land.Accounting Officer attributed to update its assetsfailure by management to the Privatization Unit’s failure to sell off some of the land. It was further explained that management will undertake a review of the properties to confirm the status and the Register will be updated accordingly.the registerTheThe	advised the Accounting Officer to ensure that all Land is duly recorded in the entity Land register.I	
+10.2	Encumbrance on public land I noted through land inspection, document review and inquiries with management that 13 pieces of land measuring 434.5 hectares valued at approximately UGX.1.732bn sampled out of the 8,406.9 hectares of land owned by the entity had encumbrances in the form of caveats, court injunctions and encroachment. Appendix IV refers.hinder management’s ability to utilize the land and pose a risk of loss of land.Accounting Officer explained that management has applied for cancellation of illegal leases to the various land bodies, which issued them. It was further explained that management is also in discussion with the MoWT regarding the requirement to obtain the appropriate documentation to occupy URC land.EncumbrancesThe	toadvised the Accounting Officer resolve all forms of encumbrances to ensure uninterrupted utilization of for service delivery.landI	
+10.3	Titling and transfer I noted that out of the 281 pieces of land measuring approximately 8,406.94 hectares the entity held, 6 pieces of land measuring approximately 802.9 hectares (4.1%) did not have land titles. Appendix V.of Land titles may result into encroachment, disputes and loss of public land. The Accounting Officer explained that the process of obtaining a title for Nalukolongo Land was hindered by lack of records for the compensation and subsequent acquisition.Lack	advised the Accounting Officer to expedite the process of acquiring land titles for all the pieces of land that are not under dispute.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10.4 Irregular transfer of titles
+
+Paragraph 16.13.11 of the Treasury Instructions, 2017 state I advised the Accounting that a government entity shall be considered to have control Officer to expedite the over land if it has title. process of titling of the land onto which the I observed that titles on one (1) piece of land measuring workshop is comprised. approximately 12.24 hectares (0.15%) worth UGX.55.76Bn in Nalukolongo were irregularly subdivided and transferred to several private ownerships. Appendix VI refers.
+
+This has brought about loss of possession of sections of the land, created several legal disputes, court cases and increase in legal costs.
+
+The Accounting Officer explained that this is to be considered in the on-going process of obtaining records for compensation.
+
+Emphasis of Matter
+
+Without qualifying my opinion, I would like to draw the readers’ attention to the following matter(s), which have been disclosed in Notes of the financial statements of the Corporation;
+
+11.0 Non- remittance of NSSF Contribution
+
+Note 25 of the Statement of Financial Position indicate statutory obligations of UGX.4Bn as at the beginning of the financial year and UGX.4.28Bn as at the end of the year. Included in the figure are outstanding contributions to NSSF of UGX.2.9Bn. The Corporation last submitted NSSF returns for the period ending 31 st March, 2020 on the 24 th March, 2020 that was eventually paid on the 8 th December, 2020. Since then, management has not made any return or payment to NSSF resulting into accumulated NSSF contributions to a tune of UGX.2.9Bn by 30 th June 2022.
+
+The failure to make monthly NSSF contributions will result into penalties and fines under section 44 of the NSSF Act. In addition, non-remittance or delayed remittance of NSSF contributions denies employees’ earnings in annual interest revenues provided by NSSF.
+
+The Accounting Officer explained that the matter is attributed to the Corporation income being lower than the ever-increasing operational costs that arise from poor state of assets, escalation in prices and other unforeseen circumstances.
+
+
+
+
+
+
+
+
+
+
+
+I reviewed the utilisation of funds allocated for the purchase of locomotives and the implementation of the said contract and observed the following; i. UGX.41,323,768,935 was fully paid for the purchase of wagons. ii. A total of UGX.941,540,000 was diverted to activities which are not related to the purchase of locomotives. Details are in table below. iii. UGX.62,039,325 were spent as additional costs for modifications of railway turning points. iv. The remaining amount was spent on other activities related to the implementation of the project.
+
+Table 4: Diversion of funds meant for purchase of locomotives
+
+Date	Description	Amount(UGX)	
+16.12.2021	Hared Petroleum- Loco Fuel	373,620,000.00	
+16.12.2021	Mwamu & Co. Advocate-4th &5th Instalment	200,000,000.00	
+02.02.2022	Hared Petroleum- Loco Fuel May Invoice	367,920,000.00	
+Total		941,540,000.00	
+
+
+
+
+Diversion of funds meant for the project affects the achievement of the objectives of the project.
+
+The Accounting Officer explained that the funds were received for locomotives and the additional costs were on the Railway Track.
+
+I advised the Accounting Officer to desist from diverting GOU specific project funds.
+
+13.0
+
+Accrued Rental Arrears for Kisumu URC House KSHS 1,8660,153
+
+A review of rental documents from Kenya rented Houses revealed that URC House LRV, Kisumu, 12/252-Tom Mboya Street that was rented by an Individual had accumulated rental arrears of KSH.1,860,153 (equivalent to UGX.59,152,865). The arrears were accumulated for over 12 years from August 2009 to December 2021. Details are in the table below.
+
+Accumulated Arrears from URC house LRV, Kisumu, 12/252-Tom Mboya Street
+
+Year of occupation	Outstanding months	RPM	AMOUNT KSH	
+Aug 2009-Dec 2009	5	15,000	75,000.00	
+Jan 2010-Dec 2010	12	15,000	180,000.00	
+Jan 2011-Dec 2011	12	15,000	180,000.00	
+Jan 2012-Dec 2012	12	15,000	180,000.00	
+Jan 2013-Dec 2013	12	15,000	180,000.00	
+Aug 2014-Dec 2014	12	15,000	180,000.00	
+Jan 2015-Dec 2015	12	15,000	180,000.00	
+Jan 2016-Dec 2016	12	15,000	180,000.00	
+Jan 2017-Dec 2017	12	15,000	180,000.00	
+Jan 20118-Dec 2018	12	15,000	180,000.00	
+Jan 2019-Dec 2019	12	15,000	180,000.00	
+Jan 2020-Dec 2020	12	15,000	180,000.00	
+Jan 2021-Feb 2021	2	15,000	30,000.00	
+Total rent expected for the period			2,085,000	
+Total rent paid			224,847.71	
+Total Outstanding			1,860,152.71	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the absence of rental receipts, the likelihood that the tenant was paying but the revenue was not being declared to the Corporation cannot be ruled out. Leaving a tenant to occupy the house without paying rent for over 12 years is a serious breach of contract, which is an indication of lapses in management of URC rental properties.
+
+The Accounting Officer explained that the defaulting tenant who was initially paying rent to RVR created all excuses such as having paid rent in advance to RVR, and having invested in renovations of the house with aim to dodge paying rent to URC. The defaulter as well took advantage of distance between the Landlord (URC) to elude the landlord and instead sublet the house to another party. On 4 th March 2021, the legal department was instructed to engage a legal company to recover rent arrears as well as evict the defaulter from the Corporation house.
+
+I advised Accounting Officer to take necessary steps, which may include court, to recover the outstanding amounts in order to avoid loss of public revenue.
+
+14.0
+
+Outstanding Compensation from UNRA for Land for Flyover Project - UGX.28.16Bn
+
+URC was supposed to be compensated by UNRA for takeover of part of the station and railway land reserves for an amount of UGX.34.56Bn. During the audit, I observed that only UGX.6.4Bn was paid to URC resulting into a balance of UGX.28.16Bn. However, I established that the same piece of land is being contested in courts of law by third parties that the land did not belong to URC.
+
+The amount of UGX.28.16Bn has been disclosed in note 30 of the financial statements as a contingent asset in line with the Financial Reporting Framework. There is a risk of loss of anticipated revenue from the disposal of the said land.
+
+The Accounting Officer explained that management is keenly following up this compensation.
+
+I advised the Accounting Officer to ensure that the legal case is carefully followed up with the legal ownership documents to avoid loss of Government money.
+
+Other matter I consider it necessary to communicate the following matter(s) other than those presented or disclosed in the financial statements;
+
+
+
+
+
+
+
+
+
+
+
+Changes in freight tariffs
+
+Route	Type of trariff	Old Tariff (USD)	New Tariff (USD)	Variance(USD)	
+Imports					
+Malaba-Kampala	Per ton	27.6	19.6	8	
+Malaba – Jinja	Per ton	26	8	18	
+Malaba – Tororo	Per ton	22.8	5	17.8	
+Malaba – Kampala	Per ton (steel)	28.4	24	4.4	
+Kisumu/Mwanza- Portbell/Jinja	Per ton (Oil)	19.7	18	1.7	
+Kisumu/Mwanza- Portbell /Jinja	Per ton (Conventional Cargo)	19.7	12.5	7.2	
+Malaba-MukonoKampala/	Per(container)TEU	940	445	495	
+Exports					
+Kampala- Malaba	Per TEU(container)	360	280	80	
+
+
+
+
+It should be noted that fuel cost contributes to approximately 54% of the Corporation’s operating expenses as per the financial statements and during the financial year under review, the fuel pump prices (diesel) rose from UGX.3,800 in July 2021 to over UGX.6,000 per liter by end of June 2022. Despite the sharp increases in diesel prices, the Corporation instead revised its tariffs downwards to levels that did not seem commercially viable.
+
+This contributed to the reported loss of UGX.32.2bn despite the Corporation having made significant increase in the volume of cargo transported (212,164 tones in FY 2020/2021 to 219,272 tones in FY 2021/2022).
+
+The Accounting Officer explained that the freight rate review was mainly due to competitor analysis looking at road transport. As per the international transport standards rail rates are supposed to be at least USD 5 cents per tonne-kilometre (TKM) lower than road given the relatively longer transit times on rail. Furthermore, the grain business had taken a shift from moving bagged wheat to break bulk, which required specialized form of wagons/containers that the Corporation did not have, and at that time, the Corporation had lost this business.
+
+
+
+
+
+
+
+
+
+
+
+was verified leaving a balance of UGX.1.58Bn as unverified due to lack of supporting documentation. I however observed that contrary to the PPP Act 2015 Mango tree Co was not competitively sourced. It is not clear how they were awarded to rehabilitate the vessel. During this audit year, I followed up and established that, although the Marine Vessel (MV) Pamba operated during the year, there were no arrangements by URC in respect to monitoring of revenue collected by the operator of the vessel and the revenue sharing terms, which would allow both parties to mutually benefit as required in the agreement. I could not ascertain the amount of revenues so far collected and how much has been recovered by the private Service provider
+
+There is a risk of Government losing the anticipated revenue.
+
+The Accounting Officer explained that engagements with the Ministry of Works and Transport will continue to ensure that a revenue sharing agreement is established.
+
+The Accounting Officer should establish a verifiable monitoring mechanism of the operations of (MV) Pamba to keep track of the revenue performance. In addition, the Accounting Officer is advised to engage the line Ministry and ensure that a revenue sharing agreement is established.
+
+17.0 Financial analysis and assessment of the Corporation’s performance
+
+Financial analysis is a useful tool to draw attention to a number of managerial issues. It provides clues to investigate those issues in detail. I carried out financial analysis of Financial Information and the following were observed for the attention of those charged with governance in order to improve the Corporation’s performance and ensure sustainability of services. The table below refers:
+
+Ratio analysis of the Corporation’s performance
+
+YEAR	2022	2021	Implications and Remarks	
+Netfor the yearLoss	UGX.32.222 Bn	UGX 37.783Bn	The Corporation has incurred significant Losses for the two years. In both years the loss is largely attributed to poor performance of its main (freight and other cargo& passenger related revenue) income. The main revenue reduced from UGX 17.974Bn last year (2020/21) to 13.398Bn in the current year (2021/22) However, there is a slight reduction of the loss from last year by 14.5%. This is also partly explained by the increase in GOU funding, reduction of staff costs and maintenance cost for civil engineering, Machinery, equipment and furniture.	
+Operating Margin	-114%	-122.3%	This shows Profit (loss) from Operations / Total Operating Revenue. The Corporation’s ability to cover its operating expenses is still very poor as exhibited over the two years despite a slight improvement of 7.5% from last year. The improvement is attributed to a reduction in the total expenses by 11.6% from 68.1Bn last year to 60.21Bn this year.	
+Return on Assets (ROA)	-0.85%	-1.03%	This shows Profit (loss) from Operations /Total Assets. This shows how well an entity is utilizing its assets to generate revenue. ROA above 5% is	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	acceptable. The financial year ending 2022, the Corporation operated below the recommended level.	
+rrent RatioLiquidity/Cu	2.78 times	times2.67	theyMeasures ability to meet short-term liabilities when fall due. Current assets were adequate to cover current liabilities in the year 2022. The higher the ratio the better and ideal ranges from 1.5:1 to 2:1. This is healthy for URC.	
+Debt ratio	3.07%	2.07%	Total liabilities/Total Assets. Acceptable ratio should be 50% or lower. The Corporation’s gearing level is way below 50%, which is healthy for URC.	
+Interest cover	-187.42	N/A	This shows Profit (loss) from Operations / interest expense. In the year under audit, I was unable to compute interest cover since the interest expense on GOU equipment loan was recognised in the financial statements.	
+
+
+
+
+The Corporation has continuously made losses for the previous two years and the ratios computed are an indication that URC still needs to make significant improvements in Operating efficiency, profitability and its ability to sustain provision of services.
+
+I advised Accounting Officer to ensure that strategies are devised to improve the revenue generating potential of the Corporation, while putting in place cost cutting mechanisms.
+
+Other Information
+
+The Directors are responsible for the other information. The other information comprises the statement of responsibilities of the Board of Directors and the commentaries by the Head of Accounts and the Managing Director (Accounting Officer) and other supplementary information. The other information does not include the financial statements and my auditors' report thereon. My opinion on the financial statements does not cover the other information, and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information; I am required to report that fact. I have nothing to report in this regard.
+
+
+
+
+
+
+
+
+
+
+
+In preparing the financial statements, the Directors are responsible for assessing the Corporation's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the Accounting Officer has a realistic alternative to the contrary.
+
+The Accounting Officer is responsible for overseeing the Corporation's financial reporting process.
+
+Auditor's Responsibilities for the audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes my opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISSAIs will always detect a material misstatement, when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain professional scepticism throughout the audit. I also;
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Corporation's internal control.
+
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+
+- Conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Corporation's ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor's report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor's report. However, future events or conditions may cause the Corporation to cease to continue as a going concern.
+
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+
+
+
+
+
+
+
+
+
+
+I also provide the Accounting Officer with a statement that I have complied with relevant ethical requirements regarding independence and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Accounting Officer, I determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor's report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, I determine that a matter should not be communicated in my report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Reporting Responsibilities
+
+In accordance with Section 19 (1) of the National Audit Act (NAA) 2008, I report to you, based on my work described on the audit of Financial Statements, that; except for the matter raised in compliance with legislation section below, and whose effect has been considered in forming my opinion on financial statements, the activities, financial transactions and information reflected in the financial statements that have come to my notice during the audit, are in all material respects, in compliance with the authorities which govern them.
+
+Report on the Audit of Compliance with Legislation
+
+In accordance with Section 19 of the NAA 2008, I have a responsibility to report material findings on the compliance of the Corporation with specific matters in key legislations. I performed procedures primarily to identify findings but not to gather evidence to express assurance.
+
+The material findings in respect of the compliance criteria for the applicable subject matters are as follows;
+
+18.0 Management of Information Technology (IT) Investments in Government
+
+The Government of Uganda (GOU) is making large investments in Information Technology (IT) systems because of the tremendous benefits that IT can bring to its operations and services. One of the key programs of NDPIII 2020/21-2024/25 is D i g i tal Transformation, in which Government of Uganda aims to increase Information, Communication Technology (ICT) penetration and use of digital services for enhancing social and economic development.
+
+
+
+
+
+
+
+
+
+
+
+A review of ICT activities implemented revealed the following;
+
+No	Observation	Recommendation	
+18.1	ofThe ICT Systems Development Lifecycle (SDLC) requires a systematic approach which includes; initiation, planning and execution. In addition, I made my assessment basing on PS/ST and NITA-U guidance on ICT developments, which aim to promote rationalization and avoid further development of isolated IT systems in MDAs and LGs. During the audit of Uganda Railways Corporation, I observed the following;Procurement/Development Use Software/Licenses (IT Systems) and Equipmentandi. A total of sixty eight (68) IT equipment procured worth UGX. 0.52Bn and two IT systems worth UGX.0.19Bn were not cleared by NITA-U. Refer to Appendix VII (a-i) & VII (a- ii). ii. I noted that the URC has three (3) systems which were not integrated or not automatically sharing information with other systems. Appendix VII (b) refers.may to duplication of acquisition, procurement of non-compatible solutions and equipment; and general deviation from Government’s efforts to rationalize resources for better service delivery.leadAccounting Officer explained that NITA-U has been engaged to review the systems of the Corporation.Non-complianceThe	I advised the Accounting Officer to enhance controls and improve compliance with the policies and guidelines.	
+18.2	Disposal and Decommissioning of IT Assets15.11.1 of the TIs, 2017, PPDA Act, 2003 (as amended) and PPDA Regulations, 2014 together with the PFMA, 2015 require MDAs and LGs to efficiently and transparently dispose assets as recommended. However, I observed that the board of survey report for disposal recommended 51 IT equipment valued at UGX.5mn. However, management had not implemented the recommendation at the time of audit.disposal of the IT equipment may result into further obsolescence resulting into failure to fetch the expected revenue from the disposal.Accounting Officer explained that the disposal process is ongoing.ParagraphDelayedThe	I advised the Accounting Officer to fast track the process of disposal.	
+18.3	governance entails leadership, structures, and processes that enable an organization to make decisions to ensure that its IT sustains and extends its strategies and objectives. However, a review of the ICT governance structure of the entity revealed that; i. There were no specific structures that steer and oversee IT implementation. ii. The Corporation has an approved IT staff structure in place that was adopted from Rift Valley Railways however there isICT GovernanceIT	advised the Accounting Officer to institute governance policies, structures to effectively manage ICT investments in consultation with other stakeholders.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+need to review the existing structure to align it with the current IT needs of the corporation. iii. There was no approved IT risk management framework/policy at the Corporation, and no risk register. iv. There was no business continuity plan, contrary to Section 4.6 of the National Information Security Policy 2014.of IT governance structures hampers formulation of appropriate IT policies, strategies and real time upgrade of IT interventions. In addition, it may lead to misalignment of IT investments with the overall URC strategic objectives.Accounting Officer promised to implement the policies and structures that govern IT.AbsenceThe		
+
+
+
+
+19.0 Management of Public Land
+
+In addition to the findings presented in section 10 of this report, I report to you compliance audit findings in respect to management of public land. The findings are as follow;
+
+No	Finding	Recommendation	
+20.1	Register of Leased Land Guideline 8.4.4 of the GoU Asset Management Framework and Guidelines, 2020 requires a schedule of land or any other asset disposed through a lease arrangement to be maintained following the prescribed format.noted that whereas the URC, District land boards, KCCA and ULC leased out pieces of land measuring approximately 49.32 hectares during the period under review, 7 pieces of land measuring approximately 45.32 hectares were not traceable to the lease register. Appendix VIII (a) refers. Failure to have an updated leased land register affects the entity’s ability to properly manage the public land, which may result into fraud.Accounting Officer pledged to update the land register and as well seek legal redress on the leases made illegally by the ULC, KCCA and District Land Boards.IThe	advised the Accounting Officer to seek legal redress for all the illegal leases made on the Corporation land. I further advise the Accounting Officer to put in place an updated leased land register.I	
+20.2	Irregularities in Management of Leased Land Regulation 6 of the Land Regulations, 2004 requires a lease offer made by a board or the commission to communicate the offer stating the terms and conditions of the offer conditioned upon payment of fees and other charges, in full or by instalment.review of all of lease agreement files held by the URC revealed the following;  No leases had expired at the time of carrying out this Audit. Appendix VIII (b) refers.  All pieces of land had been developed as per conditions of the lease agreement. Appendix VIIIA	advised the Accounting Officer to strengthen internal controls surrounding lease revenue management.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	(b) refers.  Out of the lease rentals of UGX.132.6Mn expected in the period under review, the entity only received UGX.107Mn (81%) by 30 th June, 2022 with a balance of UGX.25.5Mn still outstanding. Appendix VIII (b) refers.in collection of lease rentals affects financing and implementation of planned activities hence affecting service delivery.Accounting Officer indicated that the amount was eventually collected.DelaysThe		
+20.3	Irregular allocation of Land by District Land Boards(DLB), KCCA and ULC Regulation 23 (1) of the Land Regulations, 2004 on procedure in connection with allocation of land by the board requires a person to apply to the board to be allocated land in the District which is not owned by any person or authority. In addition, Regulation 23 (2) of the Land Regulations, 2004 requires the commission to advertise in a newspaper with wide circulation to draw the attention of persons likely to be affected by the application, invite any person to comment on or object to the application and thereafter determine whether the applicant should be allocated the land for which the application is made.the application by giving noticenoted that during the period under review the District Land Boards (DLB) across the country, KCCA and ULC allocated/leased seven (7) pieces of land measuring approximately 45.312 hectares that were not under their jurisdiction. Appendix VIII (c) refers. The said pieces of land were leased without advertising or seeking for consent from URC. Irregular allocation of land may lead to Litigation and Land conflict.Accounting Officer explained that a program for continuously engaging KCCA, District Land Boards and ULC on URC land matters was initiated. URC has written to the registrar of titles for cancellation of illegal titles issued.IThe	advised the Accounting Officer to seek legal redress concerning the land that has been given away by the District land boards.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A review of the performance of the contracts revealed the following;
+
+a) Contract Termination
+
+I observed that the contractor terminated the contract due to delays in payment by the Government of Uganda. Prior to the notice of termination dated 24 th May 2022, all the works had been stopped following the contractor’s notice of suspension of works due to delayed payment. By the time of contract termination, the outstanding un-paid amount was totalling to EUR.635,889.09 in respect to the government portion. Government is likely to be sued for breach of contract, which may result into loss of public funds due to litigation costs.
+
+The Accounting Officer explained that URC certified IPC No.4 which was submitted to the Contracting Authority, the National Authorising Officer (NAO), to process payment in good time and NAO approved the payment of IPC 4 and forwarded it to the EU to pay its component which they paid while the GOU Component was forwarded to MoWT for payment and this had not been fully paid by the time of reporting. URC and NAO wrote reminders to MoWT to effect the payment.
+
+I advised the Accounting Officer to engage the concerned stakeholders to ensure that the outstanding payment to the contractor is paid to avoid possible ligation costs.
+
+b) Un-Recovered Advance Payment - EUR.8,854,839.68
+
+Article 46.8-a (pre-financing) requires that repayment of pre-financing shall take the form of deductions based on monthly claims. The flat rate pre-financing (maximum of 10%) shall be repaid by means of deductions from instalment and, if necessary, the balance due to the contractor. This repayment shall begin with the first instalment and be completed; at the very latest by the time 80% of the amount of the Contract has been paid.
+
+However, a review of payment certificates and Supervising Consultant reports established that, although the Contracting Authority made 30% advance payment to the contractor amounting to EUR.11,801,326.80, by the time of termination of the contract, only EUR.2,946,487.12 had been recovered with the balance EUR.8,854,839.68 not yet recovered. There is a risk of loss of public funds of EUR.8,218,950.59 since the outstanding un- paid certificates amounted to only EUR.635,889.09.
+
+
+
+
+
+
+
+
+
+
+
+price. In addition, regulation 55 (6) of PPDA, 2014 requires a contract amendment to be approved by the contracts committee. However, management paid the contractor an additional amount of UGX 29,535,900, resulting into a variation of 203% of the original contract sum, without Contracts Committee approval.
+
+The contract variation was irregular since it was not approved by the Contract Committee and exceeded the 15% limit. Unauthorised contract variations may result into misappropriation of funds.
+
+The Accounting Officer explained that this was a one-off emergency situation caused by the fact that UPDF personnel had been deployed yet there were not enough toilets in the premises. At Nalukolongo, the existing toilets were within the workshop and these were not accessible during the night. Management first hired mobile toilets and then immediately embarked on building toilets.
+
+I advised the Accounting Officer to always ensure that variations of contracts are authorised and processed in line with the procurement regulations.
+
+21.0 Payroll Management 21.1 Inequalities in Staff Salaries
+
+Regulation 3.1.5 (Salaries) of URC Human Resource Manual states that the employees’ salaries shall be in an equitable and timely manner. However, analysis of staff payroll established that staff with the same salary scales was earning different gross amounts contrary to the requirements of the manual. In addition some staff with low scales were earning higher than those staff in higher position.
+
+Inequalities in salaries demotivate staff.
+
+The Accounting Officer explained that management is in the process of harmonisation of staff salary through review of salary notches within salary grade and harmonization will be complete within the next 60 days.
+
+I advised the Accounting Officer to speed up the salary review process and ensure that staff salaries are in line with the requirements of the manual.
+
+22.0 Management of Tenancy Agreements 22.1 Lack of tenancy agreements
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer did not respond to this matter.
+
+I advised the Accounting Officer to ensure that all tenants have valid tenancy agreements to avoid uncollectible debts in the future.
+
+22.1.1 Expired tenancy agreements
+
+Paragraph 5.1.15 of the URC accounting Policies and Procedures Manual 2022 provides that the corporation shall raise invoices for all amounts arising from transactions with its customers. The basis for recognition of debtors and raising of invoices shall be the terms in the tenancy agreements, URC tariff or any other official rates documented and relevant to the transaction.
+
+However, I observed that several tenants were occupying the Corporation’s premises with no valid tenancy agreements. The total outstanding arrears in relation to tenants with expired tenancy agreement stood at UGX.618,256,896.16 as at 30/06/2022.
+
+Without valid tenancy agreements, there is a possibility of losing the outstanding claims against the tenants.
+
+The Accounting Officer explained that the listed tenants had tenancy agreements, which expired before clearing rent arrears. It was further explained that, tenancy renewal has been delayed for a while because management undertook valuation of its rentable properties to ensure that it charges rent, which is not far below the prevailing market rates.
+
+I advised the Accounting Officer to expedite the renewals with the enhanced tenancy agreements and ensure the tenants sign all. Meanwhile I urged management to effect recovery of all outstanding revenue.
+
+22.1.2 Failure to implement the tenancy agreement payment terms
+
+Paragraph 5.1.15 of the URC Accounting Policies and Procedures Manual 2022 provides that the corporation shall raise invoices for all amounts arising from transactions with its customers. The basis for recognition of debtor and raising of invoices shall be the terms in agreements, URC tariff or any other official rates documented and relevant to the transaction.
+
+
+
+
+
+
+
+
+
+
+
+I advised the Accounting Officer to enforce the payment terms of the contracts to ensure that outstanding revenue is correctly and accurately collected as per the terms of the tenancy agreement.
+
+22.2 Delayed disposal of scrapped rail material- Tororo Station
+
+During the dismantling of the Tororo- Gulu main line, a considerable number of railway materials ranging from anti-vandalism wires and bolts to sleepers and rails were removed and condemned as unserviceable/ usable for the line being rehabilitated.
+
+About 21,993 unusable sleepers that had been collected from the dismantled line along the Tororo Gulu line were collected at Tororo station waiting for disposal.
+
+It was observed during inspection that the sleepers had not yet been disposed of nor included in the disposal plan for the year under review despite having been piled at the station for more than a year by the time of audit. Images below show the pile of these scrapped sleepers.
+
+Image		Remark	
+	The pile of 21,993 of scrapped sleepers piled at the Tororo Station where it has been for more than a year.	
+
+
+
+
+Delayed disposal of the scrapped sleepers poses a risk of them being stolen hence causing loss of public assets.
+
+The Accounting Officer explained that Secondary assessment for these recovered materials shall be undertaken by URC to identify those sleepers are still serviceable for use on railway sidings and yards while the unserviceable ones will be boarded off.
+
+
+
+
+
+
+
+
+
+
+
+APPENDICES APPENDIX I: Extent of Implementation of Outputs and Activities
+
+Fully Implemented Out-puts					Partially Implemented Out-puts							Out-puts not Implemented at all					
+S/ no	Output	Total output expen diture (UGX 'Bn')	Tot al No acti viti es	Num ber of fully imple ment ed activi ties	S/ no	Out-put	Total Out- put expen diture (UGX 'Bn')	Tota l No acti vitie s	Num ber of fully impl eme nted activ ities	No of parti ally impl eme nted activ ities	No of activiti es that were not implem ented	S/ no	Out-Put	Total Out- put expend iture (UGX 'Bn')	Total No activiti es	Activiti es not Implem ented	
+1	Maintenance Of Electrical Installations	0.31	2	2	1	Maintenance of Wagons	0.41	3	0	2	1	1	Maintenance of Locomotives And Wagons	0	1	1	
+2	Support Trains Operations	0.06	1	1	2	Maintenance of Locomotives	1.19	3	0	2	1	2	Maintenance of Breakdown & Mechanical Handling Cranes	3.02	1	1	
+	Totals	0.37	3	3	3	Maintenance of Machinery, Plants & Equipment	0.02	1	0	1	0	3	Ports activities	0	1	1	
+					4	Maintenance of Marine Vessels And Port Facilities	0.17	4	3	0	1	4	Yards and Terminal Activities	0	1	1	
+					5	Maintenance of Locomotives	36.50	3	1	0	2	5	Commuter Operations	0	1	1	
+					6	Track Infrastructure Maintenance	1.02	12	1	3	8	6	Management And Control of Cargo Tracking System	0	1	1	
+					7	Administrative	0.15	1	0	1	0	7	Work Force Management	0	2	2	
+					8	Extension And Provision of Network Services	0.05	2	1	0	1	8	Procurement of Supporting Tools of Trade	0	2	2	
+					9	Repair Maintenance of IT Hardware	0.03	3	0	2	1	9	Upcountry Station Audits	0	1	1	
+
+
+
+
+27
+
+
+
+
+
+
+
+
+
+
+
+					10	ICT Equipment	0.08	1	0	1	0	10	Information And Communication Systems Audit	0	1	1	
+					11	Management And Control	0	2	0	2	0	11	Administration Of Audit Work	0	1	1	
+					12	Re-Tooling /Equipping of Staff	0	4	0	1	3	12	Land Management	0	1	1	
+					13	Employee Welfare and Engagement	0	1	0	1	0	13	Track Infrastructure Development	0	7	7	
+					14	Recruitment of Competent Candidates	0	1	0	1	0	14	Property Redevelopment	0	3	3	
+					15	Compensation And Benefits	0	1	0	1	0	15	Telecom Infrastructure Maintenance	0	1	1	
+						Totals	39.62	42	6	18	18	16	Systems And Applications	0	1	1	
+												17	Expansion of CCTV Cameras	0	1	1	
+												18	Power(ICT) Management	0	1	1	
+												19	Procurement Of Assets	0	4	4	
+												20	Telecommunication Equipment & Maintenance	0	1	1	
+													Totals	3.02	33	33	
+
+
+
+
+Appendix II: Delivery of Services
+
+No.	Output	
+1	Rehabilitation of the Namanve – Tororo Line On 11/11/2021 a contract was signed between URC and M/s China Road and Bridge Corporation (CBRC) at a contract sum of UGX.184,067,631,879 (equivalent to USD 51,857,341) to Rehabilitate the Railway line from Namanve to Tororo, over a stretch of 246 Kms. The scope of works among other thing was to; replace irreparable sleepers and rails with new one, Refurbishing of the worn out sleepers and rails, realignment of the permanent way, removal and re-installation of the line, ballast stones, anti-vandal wires and packing of the ballast stones along the whole line. On inspection of the works done so far, the following was observed:a) The majority of the line was undressed and laid back along the stretch however the sleepers are not packed and made firm on the	
+
+
+
+
+28
+
+
+
+
+
+
+
+
+
+
+
+	c) On some sections of the network such as the stretch from Mukono to Lugazi, the rails are not fastened by the bolts and anti-vandal wires and the network is not steady on the ground. This is still an active line and trains have been having challenges navigating through this section of the line while loaded. Through interaction with the responsible staff, it was noted that during the financial year under review there were cases where trains tipped and derailed on several sections of the railway line causing among others; delays in delivery of cargo; loss of confidence among the existing and potential clients of the rail.is a risk that this may cause a rise in the premium payments for insurance of these trains due to the rise in the level of risk.d) Some of the new rails laid along the network waiting to be installed were seen rusting just a few months after they were delivered to the sites. Several materials including sleepers and rails on the accident areas had to immediately be replaced because they were damaged beyond repair. The new rail materials that are being laid in some of the sections may not be of a durable and dependable quality. It is not clear who is meeting the cost of replacement of these sleepers since they are broken due to accidents. Details are shown in the table below: Audit remark Imagepermanent way. b) There are no ballast stones on the sections worked on the main line.New rails that had just been delivered not more than 2 months from the time of inspection but had begun to rust even before installation.re-installed but Section of main line at Jinja station without replacing the ballast stones.in progressThereWork										
+Image											
+											
+											
+											
+Section of main line at Jinja station without replacing the ballast stones.Work in progress											
+
+
+
+
+29
+
+
+
+
+
+
+
+
+
+
+
+A section of the main line Jinja and Busembatia that was re- installed but there were no ballast stones parked and no fastening wires fixed. Some of the rails were suspended in space yet this is an active line.
+
+Another section between Busembatia and Tororo where the line was re- installed but there were no ballast stones packed and no fastening wires fixed.
+
+2
+
+Construction of the Sleeper making Factory at Kawolo Station
+
+URC contracted Imathia at a total sum of EUR.19,840,000 for the construction of a concrete sleeper making factory. On inspection of the works done so far, the following issues were observed: i. The progress of works was approximately 55%; only 2 sleeper making moulds out of 120 have been delivered on sight; and the batching plant was delivered on site waiting assembly and installations.
+
+ii. A brick perimeter wall has been built around the factory. However, a stretch of about 30 meters from the factory fence to the URC station land mark posts was left outside this enclosure. Some of the residential structures built on near this land by the community were quite beyond the mark posts demarcating the boundaries of the station reserve land. Pictures in table below show details.
+
+Image Remark
+
+The sleeper making factory at about 55% completion
+
+30
+
+
+
+
+
+
+
+
+
+
+
+					The perimeter wall around the factory at about 90% completion		
+		The batching plant on site awaiting assembly				
+The two sleeper making moulds so far delivered on site.					
+				
+
+
+
+
+Appendix III: Completeness of the Land register
+
+S/n	Land Description	Plot & Block No	Land Area (hectares)	Location	Date of Acquisition	Cost (000)	(Recorded in Land Register) Yes/No	Remarks/Reason	
+1	Mutundwe Vacant land	Block 264 Plot 872	0.40	Mutundwe	1992	39,690	No	The land is not in the current Land and fixed Assets register. Management indicated that this land had been offered for sale during the PU disposals so in effect it was removed from the assets, but the winning bidders failed to meet their contractual obligations and the land were never sold.	
+2	Ndeeba blocks residences)(3 of	Block76311Plot	0.11	Ndeeba	1992	10,780	No	The land is not in the current Land and fixed Assets register. Management indicated that this	
+
+
+
+
+31
+
+
+
+
+
+
+
+
+
+
+
+	land had been offered for sale during the PU disposals so in effect it was removed from the assets, but the winning bidders failed to meet their contractual obligations and the land were never sold.	
+3	Lungujja (Double storey residential block,)	Block 24Plot 332	0.2	Lungujja	1992	29,694	No	The land is not in the current Land and fixed Assets register. Management indicated that this land had been offered for sale during the PU disposals so in effect it was removed from the assets, but the winning bidders failed to meet their contractual obligations and the land were never sold.	
+4	Mutundwe future Station (	Block 604, plot 1	9.42	Mutundwe	1992	2,327,500	No	The land is not in the current Land and fixed Assets register. Management indicated that this land had been offered for sale during the PU disposals so in effect it was removed from the assets, but the winning bidders failed to meet their contractual obligations and the land were never sold.	
+5	Kabowa Kibuga – Kyadondo (3 blocks of residential buildings)	Block 11, Plot 917	0.25	Kabowa	1992	24,500	no	The land is not in the current Land and fixed Assets register. Management indicated that this land had been offered for sale during the PU disposals so in effect it was removed from the assets, but the winning bidders failed to meet their contractual obligations and the land were	
+
+
+
+
+32
+
+
+
+
+
+
+
+
+
+
+
+	never sold.	
+6	Kibuga – Kyadondo (2 blocks of residential buildings	Block 11, plot 544	0.42	Kabowa	1992	41,160	No	The land is not in the current Land and fixed Assets register. Management indicated that this land had been offered for sale during the PU disposals so in effect it was removed from the assets, but the winning bidders failed to meet their contractual obligations and the land were never sold.	
+	Total		10.8			2,473,324			
+
+
+
+
+Appendix IV: Encumbered Land
+
+S/ n	Descriptio n	Location	Land Area (hectares)	Current Activity	Size utilized	Size not utilized (hectares)	Size encumbered (hectares)	Remarks/Reason	
+1	Nalukolongo Workshop and stationfuture	Nalukolon go	17	URC workshop	7.8	0	9.2	NalukolongoApproximately 15 acres of land within the Locomotive workshop chain link has been fenced off or is under claim by several individuals, companies, individuals, and institutions.	
+2	Plot Namanve Nakawaat -	Nakawa- Namanve	27.5	Railway line and Namanve station	not ascertained	not ascertained	Couldn’t be determined	URC was sued by Roscoe Nsubuga and Others over ownership of Plots 403, 1280, 701, 172, Block 232 Kyadondo They constructed a school on the landin Kireka.	
+3	Kampala Head Quarters and Kampala station reserve	Kampala (Nasser Road, Entebbe Road)	42.3	Houses the headquarters and kampala station reserve	40	2.3	1.24	Ministry of Works and transport has taken up land approx. 1.24 ha near the URC headquarters building and is constructing permanent one stop offices for transport licensing without transfer on lease of land from URC	
+
+
+
+
+33
+
+
+
+
+
+
+
+
+
+
+
+4	Plots 403, 1280, 701, 172, Block 232 Kyadondo in Kireka, Kireka railway Reserve	Kireka	14	Kireka railway reserve	not ascertained	not ascertained	not ascertained	ROSCOE NSUBUGA AND OTHERS developed and enclosed a school, several permanent commercial and residential buildings	
+5	Namanve station reserve	Namanve station	11.2	Namanve station reserve	0	11.2	11.2	The land at Namanve station is heavily encroached upon. A claim over the entire Railway station and its reserves was laid Mr Kantinti Edward on the basis of Microfilms and Final Certificates (FC’s) for land comprised in Mailo Land MRV 148 Folio 19 Block 236 at Bweyogerere obtained from the Department of Surveys and Mappings in Entebbe.	
+6	FRV 212 FOLIO 20 PLOT 102 – 126 KYABAZING A railway reserve land in Jinja DistrictWAY	Jinja district	43.9	railway reserve	36.4	0	7.5	Encroached on by BIRUS PROPERTY SERVICES LTD, LRV JJA 38 FOLIO 8 PLOT 5 – 25 REPUBLIC WAY JINJA and BIMPINGU FISH FARM LTD LRV 4460 FOLIO 13 PLOT 1 – 3 REPUBLIC WAY, a. LRV JJA 215 Folio 25, Plot 20 Nyanza Road, Jinja. b. LRV 4427 Folio 1, Plot 6 Tobacco Road, Jinja – Amore Investments Limited c. LRV 4428 Folio 7, Plot 8A Tobacco Road, Jinja – Amore Investments Limited curved out illegally by Jinja district land board, One kanji extended his land into the diamond visibility section by about 0.7 ha.	
+
+
+
+
+34
+
+
+
+
+
+
+
+
+
+
+
+7	Jinja Old Railway Station and Pier	Jinja old station	43	Piers and docks plus railway police houses and tenancy houses	30	13	9.5	leaseholdThe 58 developers. Jinja District Land Board, Jinja Municipal Council, and the Office of the Town Clerk. Through a false claim by a one Zziwa Julius and Mbazira Richard who claimed part of the Jinja Station Reserve registered under FRV 212 Folio 20 as their ancestral land under customary land ownership. ii. Plot 16 Nyanza Road – Saramugo Investments Limited illegal creation of a interest comprised under Plot 16 Nyanza Road by DLB. Mosque on Track Formation for Jinja Pier Line by a group of Muslims	
+8	Mbale Railway Station and Railway Reserve	Mbale District	14.2	station land	8	6.2	4.5	Mbale water tank and Maluku land has the heaviest encroachment with parts of the land unlawfully leased out to individuals and companies by Mbale District Land Board. And there are market constructions on about 1.43 ha and several permanent structures on about 3 ha	
+9	Gulu railway station and reserve	Gulu district	14.5	Gulu station and its reserve	10.5	4	1.08	Uganda Railways Corporation is the registered proprietor of the above mentioned land comprised LRV 727 FOLIO 19, PLOT 19-25, ATWAL ROAD, known as “UPPER QUARTERS AND RAILWAYS CLUB” with both developed and undeveloped land in Layibi Division. This land was unlawfully issued out by Gulu district land board and four plots mutated out	
+10	Railway reserve Kampala –	Kampala- Portbell	54	Railway line reserve	28.2	25.8	25.8	Uganda Corporation property comprised in FRV 211 Folio 22 and in Private Mailo Block 202 plotRailways	
+
+
+
+
+35
+
+
+
+
+
+
+
+
+
+
+
+	Portbell							out by Uganda1 measuring 63.80 acres named the Kampala Portbell line was illegally leased Land Commission to Susan Joy Amot Otim &Ben Otim & 15 (fifteen) others at Namuwongo now the centre of a litigation battle (NAKAWA) H.C.C.S 312/2014 SUSAN JOY AMOT OTIM & 14 ORS VS. KCCA, URC, RVR & ULC. Evictions of encroachers on this reserve was first halted by a court order but later all orders were evacuated. Uganda Land Commission has also leased out vast areas of the corporation’s Portbell Railway station reserve comprised in FRV 217 FOLIO 15 PLOTS 43-55, 45-53 Sports Road, Kome Close at Port Bell in Luzira. the land is about approx. 15 acres (given to SIMBA PROPERTIES LTD,NATIONAL HOUSING and DAWSON ESTATES LTD By ULC)	
+11	Freehold Register Block Plot Wakiso39, 1	Nalukolon go from Mile 60/8 to Mile 61/10	37.2	Future station	0	37.2	3.26	Kampala City the predecessors of Kampala Capital City Authority erroneously parcelled out and leased out portions of the conceded railway reserve on the Kampala –Kasese lineCouncil	
+12	Kyengera M62/5 To Mawokota Boundaries	Kyengera	81.3	RAILWAY RESERVE LAND	68.4	12.867	12.867	Land is the railway reserve of the Kampala - Kasese Railway Line from Mile 62/5+90 to the Busiro County Boundary including Mutundwe Station. A substantial portion of the said land measuring 12.867 hectares (31.79 acres) was unlawfully parcelled out to create Plot 2013, Block 342-	
+
+
+
+
+36
+
+
+
+
+
+
+
+
+
+
+
+	344 Busiro under FRV 902 Folio 6 and a certificate of title issued in the names of Sekiwadde Rebecca and Baliruno John of P. O. Box 5841 Kampala.	
+13	Lira station reserve	Lira City	34.4	station itsLira and reserve	24.5	5.5	4.452	A URC officer who was by then acting on behalf of the Corporation Secretary forged the signature of the then Managing Director to transfer the title to one Ocen Joseph on 17 th January 2018. The said land was subdivided into plots 41-63, 52-62, 42-50 and the titles were being processed.	
+	Total		434.5				80.159		
+
+
+
+
+Appendix V: Lack of Land titles
+
+S/n	Land Description	Plot & Block No	Location	Date ofAcquisition	DateTransferof	Time taken to transfer title ( years)	Name Owner per title)of (as	Cost /Value as per Asset register (‘000)	Remarks/Reason	
+1.	Nalukolongo	various 1	Nalukolongo	1992	1992	30	Official Mailo 2	55,763,745	The owners demand	
+
+
+
+
+1 Kibuga Block 16 Plots 1076, 1077 and 1078 situate at Nalukolongo in the names of Owesaza of Buvuma’ 1 Kibuga Block 16 Plots 547, 548 and 549 situate at Nalukolongo in the names of late Ham Mukasa 1 Kibuga Block 16 Plots 595, 379, 485, 1098 and FRV KCCA 58 Folio 22, 23, 24 and 25 Plots 1147, 1146, 1145 and 1144 respectively situate at Nalukolongo.in the names of JB Sebalamu 1 Kibuga Block 16 Plot 1096 situate at Nalukolongo in the names of Grapes Ltd 1 Kibuga Block 16 Plot 596 and 412 plus FRV KCCA 59 Folio 1, 2, 3 and 4 Plots 1143, 1142, 1141 and 1140 respectively situate at Nalukolongo. In the names of Freedom Mart Limited 1 Kibuga Block 16 Plot 141 and 1137 situate at Nalukolongo in the names of the registered trustees of church of uganda 1 Kibuga Block 16 Plot 350,351, 79, 384 and 386 situate at Nalukolongo in the names of Rubaga Archdiocese 1 Kibuga Block 16 Plot 548 situate at Nalukolongo in the names of Jeninah Ntabgoba 1 Kibuga Block 16 Plot 1095 and 1097 situate at Nalukolongo in the names of Ssalongo Lutaaya Kibandwa 1 Kibuga Block 16 Plot 378 situate at Nalukolongo in the names of Sekamatte Tom / Raphael Ssali 1 Kibuga Block 16 Plot 549 AND 540 situate at Nalukolongo in the names of Muchunguzi Meyers 1 Kibuga Block 16 Plot 1076, 1077 and 1078 situate at Nalukolongo Family of the late Prof. Kakande, Kunobwa Emmanuel and Nakibirango Bernadette
+
+37
+
+
+
+
+
+
+
+
+
+
+
+	Workshop								compensation before they make transfers which URC claims was done during the early 1970s but there is no evidence to that effect,	
+2.	Gulu to Pakwach	Untitled	Gulu- Pakwach mail line and reserve land	1992	1992	30	untitled			
+3.	Mutundwe Hill	Untitled	Mutundwe	1992	1992	30	undisclosed	75,000		
+4.	Luyanzi-hill-Lugazi	Untitled	Lugazi	1992	1992	30	Untitled	60,000		
+5.	Magwa-Jinja	Untitled	Jinja	1992	1992	30	Un disclosed	150,000		
+6.	Kanyatete-Hima	Untitled	Kasese	1992	1992	30	Untitled	40,650		
+
+
+
+
+2 As above 38
+
+
+
+
+
+
+
+
+
+
+
+Appendix VI: Irregular Transfer of Land
+
+S/n	Land Description	Plot & Block No	Land(hectares)Area	Location	DateAcquisitionof	DateTransferof	Name of Owner (as per title)	Cost	Remarks/Reason	
+1.	Nalukolongo Workshop	Untitled	12.24	Nalukolongo	1992	Not transferred	Multiple titles in several names of owners 3	55 bn	The owners demand compensation before they make transfers which URC claims was done during the early 1970s but there is no evidence to that effect,	
+
+
+
+
+Appendix VII (a-i) – IT Systems not cleared by NITA-U
+
+IT systems
+
+S/N Name of IT System Purpose of the System Number of Date of purchase Users
+
+1 Electronic ticketing System Train Passenger ticketing open 22/2/2019 2 Budgeting tool URC budgeting open 2019/20
+
+Cost of the System User Department
+
+149,053,776 Operations 42,731,926 All
+
+191,785,702
+
+3 Kibuga Block 16 Plots 1076, 1077 and 1078 situate at Nalukolongo in the names of Owesaza of Buvuma’ 3 Kibuga Block 16 Plots 547, 548 and 549 situate at Nalukolongo in the names of late Ham Mukasa 3 Kibuga Block 16 Plots 595, 379, 485, 1098 and FRV KCCA 58 Folio 22, 23, 24 and 25 Plots 1147, 1146, 1145 and 1144 respectively situate at Nalukolongo.in the names of JB Sebalamu 3 Kibuga Block 16 Plot 1096 situate at Nalukolongo in the names of Grapes Ltd 3 Kibuga Block 16 Plot 596 and 412 plus FRV KCCA 59 Folio 1, 2, 3 and 4 Plots 1143, 1142, 1141 and 1140 respectively situate at Nalukolongo. In the names of Freedom Mart Limited 3 Kibuga Block 16 Plot 141 and 1137 situate at Nalukolongo in the names of the registered trustees of church of uganda 3 Kibuga Block 16 Plot 350,351, 79, 384 and 386 situate at Nalukolongo in the names of Rubaga Archdiocese 3 Kibuga Block 16 Plot 548 situate at Nalukolongo in the names of Jeninah Ntabgoba 3 Kibuga Block 16 Plot 1095 and 1097 situate at Nalukolongo in the names of Ssalongo Lutaaya Kibandwa 3 Kibuga Block 16 Plot 378 situate at Nalukolongo in the names of Sekamatte Tom / Raphael Ssali 3 Kibuga Block 16 Plot 549 AND 540 situate at Nalukolongo in the names of Muchunguzi Meyers 3 Kibuga Block 16 Plot 1076, 1077 and 1078 situate at Nalukolongo Family of the late Prof. Kakande, Kunobwa Emmanuel and Nakibirango Bernadette
+
+39
+
+
+
+
+
+
+
+
+
+
+
+Appendix VII (a-ii) IT equipment not cleared by NITA-U
+
+S/N	IT Equipment Name	Engravement No.	Date of purchase	Cost (UGX)	
+1	HP 800 G4 TWR- Desk Top	URC/IT/EIT0/2038	26/07/2019	4,750,000	
+2	HP 800 G4 TWR- Desk Top	URC/ITE/IT0/2039	26/07/2019	4,750,000	
+3	HP 800 G4 TWR- Desk Top	URC/ITE/IT0/2040	26/07/2019	4,750,000	
+4	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2041	26/07/2019	4,750,000	
+5	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2042	26/07/2019	4,750,000	
+6	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2043	26/07/2019	4,750,000	
+7	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2044	26/07/2019	4,750,000	
+8	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2045	26/07/2019	4,750,000	
+9	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2046	26/07/2019	4,750,000	
+10	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2047	26/07/2019	4,750,000	
+11	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2048	26/07/2019	4,750,000	
+12	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2049	26/07/2019	4,750,000	
+13	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2050	26/07/2019	4,750,000	
+14	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2051	26/07/2019	4,750,000	
+15	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2052	26/07/2019	4,750,000	
+16	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2053	26/07/2019	4,750,000	
+17	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2054	26/07/2019	4,750,000	
+18	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2055	26/07/2019	4,750,000	
+19	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2056	26/07/2019	4,750,000	
+20	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2057	26/07/2019	4,750,000	
+21	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2058	26/07/2019	4,750,000	
+22	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2059	26/07/2019	4,750,000	
+23	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2060	26/07/2019	4,750,000	
+24	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2061	26/07/2019	4,750,000	
+25	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2062	26/07/2019	4,750,000	
+26	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2063	26/07/2019	4,750,000	
+27	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2064	26/07/2019	4,750,000	
+28	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2065	26/07/2019	4,750,000	
+29	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2066	26/07/2019	4,750,000	
+30	HP 800 G4 TWR- Desk Top	URC/ITE/ITO/2067	26/07/2019	4,750,000	
+
+
+
+
+40
+
+
+
+
+
+
+
+
+
+
+
+31	HP Probook - Laptop	URC/ITE/ITO/4004	26/07/2019	4,780,000	
+32	HP Probook - Laptop	URC/ITE/ITO/4005	26/07/2019	4,780,000	
+33	HP Probook - Laptop	URC/ITE/ITO/4006	26/07/2019	4,780,000	
+34	HP Probook - Laptop	URC/ITE/ITO/4007	26/07/2019	4,780,000	
+35	HP Probook - Laptop	URC/ITE/ITO/4008	26/07/2019	4,780,000	
+36	HP Probook - Laptop	URC/ITE/ITO/4009	26/07/2019	4,780,000	
+37	HP Probook - Laptop	URC/ITE/ITO/4010	26/07/2019	4,780,000	
+38	HP Probook - Laptop	URC/ITE/ITO/4011	26/07/2019	4,780,000	
+39	HP Probook - Laptop	URC/ITE/ITO/4012	26/07/2019	4,780,000	
+40	HP Probook - Laptop	URC/ITE/ITO/4013	26/07/2019	4,780,000	
+41	HP Probook - Laptop	URC/ITE/ITO/4014	26/07/2019	4,780,000	
+42	HP Probook - Laptop	URC/ITE/ITO/4015	26/07/2019	4,780,000	
+43	IPAD PRO 11 INCH	URC/ITE/ITO/4018	26/07/2019	5,793,750	
+44	IPAD PRO 11 INCH	URC/ITE/ITO/4019	26/07/2019	5,793,750	
+45	IPAD PRO 11 INCH	URC/ITE/ITO/4020	26/07/2019	5,793,750	
+46	IPAD PRO 11 INCH	URC/ITE/ITO/4021	26/07/2019	5,793,750	
+47	IPAD PRO 11 INCH	URC/ITE/ITO/4022	26/07/2019	5,793,750	
+48	IPAD PRO 11 INCH	URC/ITE/ITO/4023	26/07/2019	5,793,750	
+49	IPAD PRO 11 INCH	URC/ITE/ITO/4024	26/07/2019	5,793,750	
+50	IPAD PRO 11 INCH	URC/ITE/ITO/4025	26/07/2019	5,793,750	
+51	IPAD PRO 11 INCH	URC/ITE/ITO/4026	26/07/2019	5,793,750	
+52	IPAD PRO 11 INCH	URC/ITE/ITO/4027	26/07/2019	5,793,750	
+53	HP Laptop	URC/ITE/ITO/4031	15/10/2021	3,932,203	
+54	HP Probook 450G8 17	URC/ITE/ITO/4030	15/10/2021	4,702,880	
+55	Dell Desktop- H849WC3	URC/ITE/ITO/2068	15/10/2021	5,117,840	
+56	Dell Desktop- G349WC3	URC/ITE/ITO/2069	15/10/2021	5,117,840	
+57	Lenovo Intel Core Laptop	URC/ITE/ITO/4032	25/10/2021	4,991,525	
+58	Projector X 51	ITEIT14003	16/3/2022	2,700,000	
+59	LAPTOP	URC/ITE/ITO/4033	2/3/2022	4,067,796	
+60	DELL POWEREDGE R840 SERVER	URC/ITE/ITO/8004	2018	35,253,750	
+61	DELL POWER EDGE R840 SERVER	URC/ITE/ITO/8005	2018	35,253,750	
+62	DELL POWER EDGE R840 SERVER	URC/ITE/ITO/8006	2018	35,253,750	
+63	DELL POWER EDGE R840 SERVER	URC/ITE/ITO/8007	2018	35,253,750	
+64	DELL POWER 65EDGE R840 SERVER	URC/ITE/ITO/8008	2018	35,253,750	
+
+
+
+
+41
+
+
+
+
+
+
+
+
+
+
+
+65	DELL POWER EDGE R840 SERVER	URC/ITE/ITO/8009	2018	35,253,750	
+66	Cisco Routers ISR 4331 3GE	URC/ITE/ITO/3002	30/12/20	6,995,078	
+67	Cisco Routers ISR 4331 3GE	URC/ITE/ITO/3003	30/12/20	6,995,078	
+68	Cisco Routers ISR 4331 3GE	URC/ITE/ITO/3004	30/12/20	6,995,078	
+				520,935,318	
+
+
+
+
+Appendix VII (b) – IT Systems not integrated/without interfaces Appendix XII (a); Land leases that are not in URC Lease register
+
+S/N	Name of IT System	Purpose of the System	Number of Users	User Department	
+1	Electronic Ticketing system	Train Passenger ticketing	Open	Operations	
+2	Sun system	Accounting and finance	6	Finance, procurement	
+3	Budgeting tool	Budgeting	Open	Finance	
+
+
+
+
+SN	Description	Location	Land Area (hectares)	Disposed Land Area (hectares)	Allocated by	Remarks	
+1	FRV 219 FOLIO 4, (KAMPALA RAILWAY STATION RESERVE)	KAMPALA RAILWAY STATION RESERVE)	42.3	0.861	ULC	Not on the URC lease register because it was allocated by ULC	
+2	FRV 211 FOLIO 22 AND IN PRIVATE MAILO BLOCK 202 PLOT 1 Port Bell - Bugolobi, Kibuli	Port bell line railway reserve	54	25.8	ULC	Not on the URC lease register because it was allocated by ULC	
+3	FRV 219 FOLIO 4, (KAMPALA RAILWAY STATION RESERVE)	KAMPALA RAILWAY STATION RESERVE)	42.3	0.311	landKampala District Board	Not on the URC lease register because it was allocated by Kampala District land board	
+4	JINJA OLD RAILWAY STATION AND PIER	Jinja Station	43	9.5	Jinja District land Board	Not on the URC lease register because it was allocated by Jinja District land board	
+5	FRV 239 FOLIO 25 MBALE and FRV 214 FOLIO 24 MBALE RAILWAY STATION	Mbale station	14.2	4.5	Mbale District land board	Not on the URC lease register because it was allocated by Mbale District land board	
+6	LRV 727 FOLIO 19, PLOT 19-25, ATWAL ROAD	Gulu station reserve	14.5	1.08	Gulu district land board	Not on the URC lease register because it was allocated by Gulu District land board	
+7	FRV BLOCK 39, PLOT 1, LAND AT NALUKOLONGO	Nalukolongo	37.3	3.26	Kampala City Council the	Not on the URC lease register because it was allocated by KCC	
+
+
+
+
+42
+
+
+
+
+
+
+
+
+
+
+
+	predecessor of		
+	Total		247.6	45.312			
+
+
+
+
+Appendix VIII (b); Irregularities in Management of leased land
+
+S/n	Description	Locatio n	Plot & Block No	Land Area (hectares)	Current Activity	Approved Use	User/Les see	Lease Expiry Date	Expecte d revenue	Actual revenue	Uncollec ted lease rentals	Rem arks/ Reas on	
+1	Part of Jinja old station	Jinja District	Plot 1-3 Nyanza close	3	Leased out	Station land and reserve	Sky fat tannery company	31 st /12/ 2023	75,600,0 00	50,112,00 0	25,488,0 00	COVI D 19 effect s	
+2	Port bell railway reserve	Port bell line	Plot 1,2 &3 First Luzira close	0.603	Leased out	Station reserve	STABEX Internatio nal LTD	17 th /05/ 2070	32,500,0 00	32,500,00 0	0		
+3	Plot 1 seventh street industrial area	Industri al area	Plot 1 seventh street industrial area		Leased out	Kempton trading company	Railway line reserve	31 st /05/ 2070	24,500,0 00	24,500,00 0	0		
+	TOTAL								132,600 000	107,112, 000	25,488, 000		
+
+
+
+
+Appendix VIII (c): Irregular allocation of Land by District Land Board (DLB), KCCA and ULC
+
+SN	Description	Location	Land Area (hectares)	Disposed Land Area (hectares)	Allocated by	Remarks	
+1	FOLIO 4, RAILWAYFRV 219 (KAMPALA STATION RESERVE)	KAMPALA RAILWAY STATION RESERVE)	42.3	0.861	ULC	Irregularly allocated by ULC to Dembe Investments Ltd- LRV 4464 Folio 1 Plot 27 Nsambya	
+2	FRV 211 FOLIO 22 AND IN PRIVATE MAILO BLOCK 202 PLOT 1	Portrailway reservebell line	54	25.8	ULC	Land subdivided and leased out to various individuals as below;  LRV 3836 Folio 4 Plot 2 Namuwongo Road 8th Close	
+
+
+
+
+43
+
+
+
+
+
+
+
+
+
+
+
+	Port Bell - Bugolobi, Kibuli					Mbabazi Harriet. Turyashemerewa.Dindayal.Ben Otim and Suzan Joy Amot Otim.  LRV4437 Folio 25 Plot 3 Namuwongo Third Close LRV 2270 Folio 17 Plot 3B NAM 6th Close Bernard  LRV 3231 Folio 17 Plot 59 Namuwongo Road Singh LRV 3155 Folio Plot 101 Namuwongo Road Namuwongo Nteziyaremye Godfrey.  LRV 3373 Folio 19 Plot 2 Main Access Road Formerly LRV 3570 Folio 1 Plot 23A Namuwongo Road LRV Folio Plot 3 Namuwongo Fifth Close IsmailTools and fasteners. Dattatraya Joshi Vasant.Shaban Juma.  LRV 3314 Folio …Plot 2 Namuwongo 3rd Close Kamulegeya Lawrence and Nakafeero Namuddu Teopista.  LRV 3856 Folio 17 Plot 109 A Namuwongo Road LRV 2755 Folio 1 Plot 3 Namuwongo Road Muramuzi LRV Folio Plot Deo Maniraguha Ntatamashakiro  LRV 2519 Folio 6 Plot Namuwongo Road KandoloMarjorie Kalema Bartholomew.Muhamad.  LRV 3956 Folio 7 Plot 109 A Namuwongo Road Charles Mackyabire Simba Properties Limited.  LRV 37475 Folio 7 Plot1 First Luzira Close.  LRV 3825 Folio 1 Plots 2 and 3 First Luzira Close Dawson Estates Ltd Plot 8 and 8A Kome Close.	
+3	FOLIO 4, RAILWAYFRV 219 (KAMPALA STATION RESERVE)	KAMPALA RAILWAY STATION RESERVE)	42.3	0.311	Kampala District land Board	Land leased out to H&K Investments Limited on LRV 2963 Folio 3, Plot 28-32 Entebbe Road for	
+4	JINJA OLD RAILWAY STATION AND PIER	Jinja Station	43	9.5	Jinja District land Board	The land board subdivided the land and leased it out to several developers including infamous 58 developers.the	
+
+
+
+
+44
+
+
+
+
+
+
+
+
+
+
+
+5	FRV 239 FOLIO 25 MBALE and FRV 214 FOLIO 24 MBALE RAILWAY STATION	Mbale station	14.2	4.5	Mbale District land board	The land board issued out land comprised in Bugwere Road, Water Tank area and Station Yard Close, Mbale Township.	
+6	LRV 727 FOLIO 19, PLOT 19-25, ATWAL ROAD	Gulureservestation	14.5	1.08	Gulu district land board	The land board irregularly allocated land to various individuals on lease;  LRV 4367 Folio 10 Plot 53 - Olal Andrew Cohen LRV HQT203 Folio 17 Plot55 - Rubangakene Hannington  & Alworo Prossy  LRV 3941 Folio 1 Plot 57 - Lapai Nicholas Odongo  LRV HQT 247 Folio 24 Plot 59 - Opoka David	
+7	FRV BLOCK 39, PLOT 1, LAND AT NALUKOLONGO	Nalukolongo	37.3	3.26	Kampala City Council the predecessor of	Illegal leases were created by KCCA and these included;        Lease to Hancooks multipurpose ltd on plot 16 Lease to Songdoh firms (u) Ltd on plot 5 Lease to Kiwa Industries / WK properties on plot 7-9 Lease to MG Industries Ltd on plot 11, 13A, & 13B Leases to Road Master cycles (U) Ltd on plot 18, 20, 22, & 24 Lease to Crown Brand Tea (U) Ltd /Ntake Bakery on plot 26 Lease to Bugirinya United Steel Co Ltd Ntake Bakery on plot 28A Lease to United Chemical Products Ltd on plot 30 Lease to Mulowoza & Co. ltd on plot 15 Lease to Produce Marketing Board	
+	Total		247.6	45.312			
+
+
+
+
+45
+
+
+
+
+
+
+
+
+
+
+

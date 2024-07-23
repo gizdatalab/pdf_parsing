@@ -1,0 +1,3 @@
+,Cost Per Square Meter of Road (F) (UGX),Lowest Cost Per Square Meter of Road Among Municipalities (Fm) (UGX),Score (15*Fm/F),Proportion of the Project Unit Cost to the Lowest (1+(F-Fm)/Fm)
+0,Earth Works Excl.,Earth Works Excl.,Earth Works Excl.,Earth Works Excl.
+1,"538,827","493,290",13.73,1.09

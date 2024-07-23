@@ -1,0 +1,339 @@
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF NATIONAL BUILDING REVIEW
+
+BOARD (NBRB) FOR THE FINANCIAL YEAR ENDED 30 TH JUNE 2022
+
+OFFICE OF THE AUDITOR GENERAL
+
+UGANDA
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Table of Contents - ii
+List of Acronyms - iii
+Opinion - 1
+Basis for Opinion - 1
+Key Audit Matter - 1
+  1.0 Implementation of the Approved Budget - 1
+  2.0 Understaffing - 4
+Other Information - 4
+Management Responsibilities for the Financial Statements - 4
+Auditor’s Responsibilities for the audit of the Financial Statements - 5
+Other Reporting Responsibilities - 6
+Report on the Audit of Compliance with Legislation - 6
+  3.0 Management of Information Technology (IT) Investments in Government - 6
+Appendix I: Implementation of outputs and activities - 8
+
+
+
+
+
+
+
+
+
+
+
+List of Acronyms
+
+Acronym	Meaning	
+BC/DR	Business Continuity/Disaster Recovery Plan	
+BCs	Building Committees	
+BEC	Budget Execution Circular	
+BIMS	Buildings Information Management System	
+Bn	Billion	
+GoU	Government of Uganda	
+HR	Human Resource	
+ICT	Information & Communication Technology	
+IFMS	Integrated Financial Management Information System	
+INTOSAI	International Organization of Supreme Audit Institutions	
+ISSAIs	International Standards of Supreme Audit Institutions	
+MDAs	Ministries, Departments and Agencies	
+MoFPED	Ministry of Finance, Planning and Economic Development	
+MoWT	Ministry of Works and Transport	
+NAA	National Audit Act	
+NDP	National Development Plan	
+NITA-U	National Information Technology Authority of Uganda	
+NTR	Non-Tax Revenue	
+OAG	Office of the Auditor General	
+PBS	Program Budgeting System	
+PDU	Procurement & Disposal Unit	
+PFMA	Public Finance Management Act	
+PPDA	Public Procurement & Disposal of Public Assets	
+PS/ST	Permanent Secretary / Secretary to the Treasury	
+PWDs	Persons With Disabilities	
+TI	Treasury Instructions	
+UCF	Uganda Consolidated Fund	
+UGX	Uganda Shilling	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE AUDIT OF THE FINANCIAL STATEMENTS OF NATIONAL BUILDING
+
+REVIEW BOARD FOR THE FINANCIAL YEAR ENDED 30 TH JUNE, 2022
+
+THE RT. HON. SPEAKER OF PARLIAMENT
+
+Opinion I have audited the accompanying financial statements of the National Building Review Board (NBRB) which comprise the Statement of Financial Position as at 30 th June, 2022, the Statement of Financial Performance, Statement of Changes in Equity and Statement of Cash Flows together with other accompanying statements for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, the financial statements of the National Building Review Board for the financial year ended 30 th June, 2021 are prepared, in all material respects, in accordance with Section 51 of the Public Finance Management Act, 2015 and the Financial Reporting Guide, 2018.
+
+Basis for Opinion
+
+I conducted my audit in accordance with International Standards of Supreme Audit Institutions (ISSAIs). My responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements Section of my report. I am independent of National Building Review Board in accordance with the Constitution of the Republic of Uganda 1995 (as amended), the National Audit Act, 2008, the International Organization of Supreme Audit Institutions (INTOSAI) Code of Ethics, the International Ethics Standards Board for Accountants Code of Ethics for Professional Accountants (Parts A and B) (IESBA Code), and other independence requirements applicable to performing audits of Financial Statements in Uganda. I have fulfilled my other ethical responsibilities in accordance with the IESBA Code, and in accordance with other ethical requirements applicable to performing audits in Uganda.
+
+I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my opinion.
+
+Key Audit Matter
+
+Key Audit Matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were addressed in the context of my audit of the financial statements as a whole, and in forming my opinion thereon, and I do not provide a separate opinion on these matters. I have determined the matters described below to be key audit matters communicated in my report.
+
+1.0
+
+Implementation of the Approved Budget
+
+Paragraph 2 of schedule 5 of the PFMA requires Accounting Officers to prepare an appropriation account showing the services for which the money expended were voted, the sums actually expended on each service and the state of each vote compared with the amount appropriated for that vote by Parliament.
+
+Over the years, I have observed improvements in the performance regarding implementation of the budget but entities still face a number of challenges including COVID-19, which continue to affect implementation of activities, service delivery and
+
+
+
+
+
+
+
+
+
+
+
+credibility of the budget. It is against this background that budget performance was considered a key audit area during the office-wide planning. I reviewed documents such as work plans, performance reports, conducted interviews and physical inspection in arriving at my findings.
+
+NBRB is mandated under Section 9 of the Building Control Act to monitor building development; ensure that the design and construction of buildings and utilities to which the public is to have access cater for PWDs; oversee, inspect and monitor the operations of Building Committees; prepare and submit to the Minister, reports relating to any matter under this Act, as the Minister may require; hear and determine appeals from persons who may be dissatisfied with the decisions of a Building Committee; determine the fees to be charged by urban and District building committees for approval of plans, issue of building and occupation permits; and perform any other function conferred on it by [the] Act.
+
+The entity had an approved budget of UGX.9.428Bn out of which UGX.8.259Bn was warranted. The entity's key deliverables for the financial year under review were;
+
+Table 1: Key deliverables for NBRB for the year-
+
+No	Details	Budget (UGX)	Cumulative % share of the total approved budget	
+1	NBRB development and sustainability	5,783,770,000	58	
+2	Research and development	2,152,000,000	80	
+3	Compliance with building development regulatory framework	1,417,150,000	94	
+	Total Key deliverables	9,352,920,000	94	
+
+
+
+
+I reviewed the implementation of the approved 2021/2022 budget by the entity and noted the following.
+
+No	Observation	Recommendation	
+1.1	Revenue Performance Performance of GoU receipts According to the approved budget, the entity was supposed to receive UGX.9.428Bn out of which UGX.8.259Bn was warranted, resulting into a shortfall of UGX.1.169Bn. The shortfall represents 12% of the approved budget.funds that were not warranted were meant for construction of a waiting area for clients and recruitment of field monitoring staff.The Accounting Officer did not provide a response on this matter.The	advised the Accounting Officer to always liaise with MoFPED and MoWT to ensure that all GOU approved funds are released.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.2	Under absorption of funds I noted that NBRB received UGX.8,259,132,368 during the year and an opening balance of UGX.467,590,856. This implies that it had a total of UGX.8,726,723,224 available during the financial year under review.of the total of UGX.8.727Bn that was available during the financial year, only UGX.5.819Bn was spent by the entity resulting into an unspent balance of UGX.2.907Bn representing an absorption level of 67%. The unspent funds remained on the bank account as at 30 th June, 2022 and were carried forward to the following financial year.Under implementation of planned activities.absorption of funds leads to non-The Accounting Officer explained that the under absorption of funds was due to delays of deliveries by suppliers and the contractor for the National Building Research Centre (NBRC) due to global supply chain challenges.Out	advised the Accounting Officer to ensure that the outstanding activities are rolled over to the next period and implemented as planned.I	
+1.3	Implementation of outputs and activities I assessed the implementation of a sample of three (3) outputs that were fully quantified with a total of eighteen (18) activities with an approved budget of UGX.5.8115Bn and noted that;Two (2) outputs with fifteen (15) activities worth UGX.5.782Bn were partially implemented. Out of the fully implemented eleven (11) activities; One (1) activity was partially implemented, while three (3) activities were not implemented.fifteen (15) activities, the entityOne (1) output with three (3) activities worth 0.0295Bn was not implemented at all.Non-implementation of planned activities implies that the expected outputs were not attained. Details in Appendix I.The Accounting Officer explained that the non- implementation of planned activities was due to under release of recurrent non-wage funds.	advised the Accounting Officer to always liaise with MoFPED and MoWT to ensure that all GOU approved are released.fundsI	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other matter I consider it necessary to communicate the following matter other than those presented or disclosed in the financial statements.
+
+2.0 Understaffing
+
+NBRB has an approved staff ceiling of 101 positions. Out of the approved staffing level of 101, only 29 positions were filled (28%) leaving a staffing gap of 72 positions (72%).
+
+Inadequate staffing results into heavy workloads on existing staff and affects the Board’s performance which in turn affects the overall service delivery objective.
+
+The Accounting Officer explained that the understaffing was mainly due to a limited approved structure from Ministry of Public Service that initially approved only 49 positions and a limited wage bill. During the year, management liaised with Ministry of Public service to approve an adequate staff structure of 101 positions and wage bill of 21 extra staff was acquired. The recruitment is in the final stages (oral interviews) and new staffs are expected in January 2023, this will put the staffing levels at 50%.
+
+I advised the Accounting Officer to continue liaising with Ministry of Finance, Planning and economic development to ensure that a sufficient wage bill is secured to recruit all the key staff.
+
+Other Information
+
+The Accounting Officer of NBRB is responsible for the other information. The other information comprises the statement of responsibilities of the Accounting Officer and the commentaries by the Head of Accounts and the Accounting Officer, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information; I am required to report that fact. I have nothing to report in this regard.
+
+Management Responsibilities for the Financial Statements
+
+Under Article 164 of the Constitution of the Republic of Uganda, 1995 (as amended) and Section 45 of the Public Finance Management Act, 2015, the Accounting Officer is accountable to Parliament for the funds and resources of the Board.
+
+The Accounting Officer is also responsible for the preparation of financial statements in accordance with the requirements of Public Finance and Management Act, 2015 and for such internal control as management determines necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+
+
+
+
+
+
+
+
+
+
+
+In preparing the financial statements, the Accounting Officer is responsible for assessing the Board’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the Accounting Officer has a realistic alternative to the contrary.
+
+The Accounting Officer is responsible for overseeing the Board’s financial reporting process.
+
+Auditor’s Responsibilities for the audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes my opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISSAIs will always detect a material misstatement, when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain professional scepticism throughout the audit. I also:-
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+- Obtain an understanding of internal controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the internal controls in the Board.
+
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+
+- Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Board’s ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Board to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+
+
+
+
+
+
+
+
+
+
+I communicate with the Accounting Officer regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that I identify during my audit.
+
+I also provide the Accounting Officer with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Accounting Officer, I determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, I determine that a matter should not be communicated in my report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Reporting Responsibilities
+
+In accordance with Section 19 (1) of the National Audit Act, 2008, I report to you, based on my work described on the audit of Financial Statements, that; except for the matters raised in compliance with legislation section below, and whose effect has been considered in forming my opinion on financial statements, the activities, financial transactions and information reflected in the financial statements that have come to my notice during the audit, are in all material respects, in compliance with the authorities which govern them.
+
+Report on the Audit of Compliance with Legislation
+
+In accordance with Section 19 of the NAA 2008, I have a responsibility to report material findings on the compliance of the Board with specific matters in key legislations. I performed procedures primarily to identify findings but not to gather evidence to express assurance.
+
+The material findings in respect of the compliance criteria for the applicable subject matters are as follows;
+
+3.0
+
+Management of Information Technology (IT) Investments in Government
+
+The Government of Uganda (GOU) is making large investments in Information Technology (IT) systems because of the tremendous benefits that IT can bring to its operations and services. One of the key programmes of NDP.III 2020/21-2024/25 is D i g i tal Transformation, in which Government of Uganda aims to increase Information, Communication Technology (ICT) penetration and use of digital services for enhancing social and economic development.
+
+As a result of national prioritisation of IT, the Auditor General undertook a thematic audit covering three financial years’ expenditure (2019/20 to 2021/22) to scrutinise the management of IT Investments across Government. The overall objective was to assess whether the IT investments in Government are strategically aligned, managed appropriately and focused on achieving the NDP.III objective. The procedures undertaken covered: planning and budgeting; procurement, utilization, maintenance and disposal of IT systems; governance, and financial reporting.
+
+
+
+
+
+
+
+
+
+
+
+For the current year 2021/2022, the entity budgeted for UGX.870,000,000 for acquisition and implementation of IT systems and equipment and it was fully received.
+
+A review of IT activities implemented revealed the following:
+
+SN	Observations	Recommendation	
+3.1	IT Governance 1. IT governance entails leadership, structures, and processes that enable an organization to make decisions to ensure that its strategies and objectives. However, a review of the IT governance structure of the entity revealed that; despite the fact that the Board rolled out the Building Industry Management System (BIMS) countrywide,its IT sustains and extendsi. There were no specific structures that steer and oversee IT implementation. ii. There was no approved IT risk management framework/policy at the entity, and risk register iii. There was no business continuity plan, contrary to Section 4.6 of the National Information Security Policy 2014.of IT governance structures hampers formulation of appropriate IT policies, strategies and real time upgrade of IT interventions. In addition, it may lead to misalignment of IT investments with the overall entity strategic objectives.The absence of the business continuity and disaster recovery plan meant that NBRB was not prepared for potential risks.The Accounting Officer explained that the recruitment of the IT manager and other IT officers are in the final stages (oral interview stage). The IT Manager will provide strategic direction to the IT department including formation of the relevant IT steering and governance structures and developing an IT Risk management framework.Absence	advised the Accounting Officer to expedite the institution of governance policies and structures to effectively manage IT investments.I	
+
+
+
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+Kampala
+
+27 th December, 2022
+
+
+
+
+
+
+
+
+
+
+
+Appendix I: Implementation of outputs and activities
+
+Fully Implemented Out-puts					Partially Implemented Out-puts							Out-puts not Implemented at all					
+Project	Output	Total output expenditure (UGX '000')	Total No activit ies	Number of fully implemented activities	Project	Out-put	Total Out-put expenditure (UGX '000')	Total No activities	Number of fully implemen ted activities	No of partially implemen ted activities	No of activities that were not implemente d	Project	Out-put	Total Out- put expenditure (UGX '000')	Total No activit ies	Activitie s not Implem ented	
+					NBRB	Compliance with building development regulatory framework	1,033,016,835	4	3	1	0	NBRB	Research and develop ment	29,547,000	3	3	
+					NBRB	NBRB Development and sustainability	4,749,246,849	11	8	0	3						
+						Totals	5,782,263,684	15	11	01	3			29,547,000	3	3	
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

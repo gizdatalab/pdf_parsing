@@ -1,0 +1,4 @@
+,In-situ Test Results,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,Element Tested,No. of Points Tested,Age (days),Moisture Condition,Average Value of Concrete Strength (Mpa),Specification (Mpa),Remarks
+1,Kerb stones,3 Points,"""14-56""",dry,34.3,30.0,Passed
+2,Walkway Slab,3 Points, , ,31.0,30.0,Passed

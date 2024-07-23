@@ -1,0 +1,8 @@
+,Item No.,Description,Unit,Rate,Audit Quantity,Certified Quantity,Difference (Audit- Certified),Overpayment
+0,4(b),Rafters,M,"5,000",125.8,130.0,4.2,"21,000"
+1,6(c),Floor finish,M 2,"8,000",108.7,142.0,33.3,"266,400"
+2,8(d),Ceiling mortar casting,M 2,"11,000",117.2,205.0,87.8,"965,800"
+3,8(e),Ceiling plaster finish,M 2,"12,000",117.2,205.0,87.8,"1,053,600"
+4,4(e),Gauge 28 roofing sheets (toilet),M 2,"20,000",6.8,19.2,12.4,"248,000"
+5,6(e),Rough Cast finish (toilet),M 2,"9,000",14.9,16.8,1.9,"17,100"
+6,5(f),Internal metallic door frame,No.,"210,000",0.0,8.0,8.0,"1,680,000"

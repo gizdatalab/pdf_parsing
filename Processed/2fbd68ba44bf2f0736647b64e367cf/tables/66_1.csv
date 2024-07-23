@@ -1,0 +1,16 @@
+,No.,Items,Location Chainage,Unit,Drawings/ Specification s,Field checks/ measurements (averaged where necessary),Conformity
+0,10) TIMOTHY OKWERA ROAD (0.42KM), , , , , , 
+1,1,Kerb-Kerb road total width,0+040,m,11.55,11.5,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+2, , ,0+070,m,11.55,11.5,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+3, , ,0+082,m,11.55,11.0,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+4, , ,0+148,m,11.55,11.0,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+5,2,Asphalt concrete total width,0+040,m,11.0,11.0,Ok
+6, , ,0+070,m,11.0,11.0,Ok
+7, , ,0+082,m,11.0,11.0,Ok
+8, , ,0+148,m,11.0,11.0,Ok
+9,3,Parking Lane,0+070,m,2.4,2.4,Ok
+10, , ,0+138,m,2.4,2.4,Ok
+11, , ,0+228,m,2.4,2.4,Ok
+12,4,Greening Island,0+070,m,2.4,2.4,Ok
+13, , ,0+138,m,2.4,2.4,Ok
+14, , ,0+228,m,2.4,2.4,Ok

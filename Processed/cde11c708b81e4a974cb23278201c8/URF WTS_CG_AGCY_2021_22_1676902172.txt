@@ -1,0 +1,554 @@
+OFFICE OF THE AUDITOR GENERAL
+OFFICE OF THE AUDITOR GENERAL
+UGANDA
+
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA ROAD FUND (URF)
+
+FOR THE FINANCIAL YEAR ENDED 30 TH JUNE 2022
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+Table of Contents - ii
+List of Acronyms - iii
+Opinion - 1
+Basis for Opinion - 1
+  1.0 Material uncertainty in relation to URF going concern - 1
+Key Audit Matter - 2
+  2.0 Implementation of the Approved Budget - 2
+  3.0 Delivery of services from implemented activities- - 4
+  4.0 Management of Public Land - 5
+  4.1 Lack of a land title for URF Tower - 6
+Other matter - 6
+  5.0 Failure by Designated Agencies to Submit Accountabilities - 6
+Other Information - 7
+Management Responsibilities for the Financial Statements - 7
+Auditor’s Responsibilities for the Audit of the Financial Statements - 7
+Other Reporting Responsibilities - 8
+Report on the Audit of Compliance with Legislation - 9
+  6.0 Management of Information Technology (IT) Investments in Government - 9
+  7.0 Compliance with the MoU between URF and PPDA - 10
+  8.0 Contracts Signed Above the Market Estimates - 11
+Apendices: - 12
+Appendix I: Extent of Implementation of Outputs and Activities- - 12
+Appendix II: Mischarges - 12
+Appendix III: IT Systems not cleared by NITA-U and MoFPED - 14
+Appendix IV: Hardware Equipment Not disposed of - 14
+
+
+
+
+
+
+
+
+
+
+
+List of Acronyms
+
+Acronym	Meaning	
+URF	Uganda Road Fund	
+DUCAR	District, Urban and Community Access Roads	
+AIA	Appropriation in Aid	
+BEC	Budget Execution Circular	
+GoU	Government of Uganda	
+HR	Human Resource	
+ICT	Information & Communication Technology	
+INTOSAI	International Organization of Supreme Audit Institutions	
+ISSAIs	International Standards of Supreme Audit Institutions	
+IT	Information Technology	
+MDAs	Ministries, Departments and Agencies	
+Mn	Million	
+MoFPED	Ministry of Finance, Planning and Economic Development	
+MoPS	Ministry of Public Service	
+MoWT	Ministry of Works and Transport	
+NAA	National Audit Act	
+NITA-U	National Information Technology Authority – Uganda	
+NTR	Non-Tax Revenue	
+OAG	Office of the Auditor General	
+PBS	Program Budgeting System	
+PDU	Procurement & Disposal Unit	
+PFM	Public Finance Management	
+PFMA	Public Finance Management Act	
+PFMR	Public Finance Management Regulations	
+PPDA	Public Procurement & Disposal of Public Assets	
+PS/ST	Permanent Secretary / Secretary to the Treasury	
+TI	Treasury Instructions	
+UCF	Uganda Consolidated Fund	
+UGX	Uganda Shilling	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE AUDIT OF THE FINANCIAL STATEMENTS OF UGANDA ROAD FUND (URF)
+
+FOR THE YEAR ENDED 30 TH JUNE, 2022
+
+THE RT. HON. SPEAKER OF PARLIAMENT
+
+Opinion
+
+I have audited the accompanying financial statements of Uganda Road Fund (URF) for the financial year ended 30 th June 2022, which comprise the statement of Financial Position as at 30 th June 2022, the Statement of Financial Performance, Statement of Changes in Equity and Statement of Cash Flows together with other accompanying statements for the financial year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, the financial statements of Uganda Road Fund (URF) for the financial year ended 30 th June 2022 are prepared, in all material respects, in accordance with Section 51 of the Public Finance Management Act, 2015 as amended and the Financial Reporting Guide, 2018.
+
+Basis for Opinion
+
+I conducted my audit in accordance with the International Standards of Supreme Audit Institutions (ISSAIs). My responsibilities under those standards are further described in the Auditor's Responsibilities for the Audit of the Financial Statements section of my report. I am independent of the Fund in accordance with the Constitution of the Republic of Uganda 1995 (as amended), the National Audit Act, 2008, the International Organization of Supreme Audit Institutions (INTOSAI) Code of Ethics, the International Ethics Standards Board for Accountants Code of Ethics for Professional Accountants (Parts A and B) (IESBA Code), and other independence requirements applicable to performing audits of Financial Statements in Uganda. I have fulfilled my other ethical responsibilities in accordance with the IESBA Code, and in accordance with other ethical requirements applicable to performing audits in Uganda. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my opinion. 1.0
+
+Material uncertainty in relation to URF going concern
+
+The Cabinet on 22 nd February, 2021 under minute no. 43 (CT 2021) took a decision to merge, mainstream and rationalize Government Agencies, commissions, Authorities and public expenditure for efficient and effective service delivery. The exercise commenced in 2021 for a period of two years (2021/22 and 2022/23) and MoPS was directed to implement changes to the affected MDAs by 1 st July, 2022. In a letter to all Accounting Officers, REF: MSD/135/165/01 Vol.12 dated 24 th November, 2022 guided under item 10 that the Ministry of Public Service (MoPS) should: i. Work closely with the Attorney General to prepare a cabinet paper on the legal reviews and amendment for URF. ii. Work closely with Ministry of Works and Transport (WoWT) to develop modalities of transferring assets and liabilities from URF and iii. Harmonize pay for the mainstreamed staff in line with the salary structure of MoWT. Under the circumstances, there is material uncertainty that may cast significant doubt that the Fund shall remain a Going Concern in the foreseeable future. My opinion is not modified in respect of this matter.
+
+
+
+
+
+
+
+
+
+
+
+Key Audit Matter
+
+Key audit matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were addressed in the context of my audit of the financial statements as a whole and in forming my opinion thereon, and I do not provide a separate opinion on these matters. I have determined the matters described below to be key audit matters communicated in my report.
+
+2.0
+
+Implementation of the Approved Budget
+
+Paragraph 2 of schedule 5 of the PFMA requires Accounting Officers to prepare an appropriation account showing the services for which the money expended were voted, the sums actually expended on each service and the state of each vote compared with the amount appropriated for that vote by Parliament. Over the years, I have observed improvements in the performance regarding implementation of the budget but entities still face a number of challenges including Covid-19, which continue to affect implementation of activities, service delivery and credibility of the budget. It is against this background that budget performance was considered a key audit area during the office-wide planning. I reviewed documents such as work plans, performance reports, conducted interviews and physical inspection in arriving at my findings.
+
+Uganda Road Fund (URF) is mandated under Section 6 of the Uganda Road Fund Act, 2008 to finance the routine and periodic maintenance of public roads in Uganda.
+
+The entity had a revised approved budget of UGX.509.4Bn out of which UGX.387.9Bn was warranted. The entity’s deliverables for the financial year under review were:
+
+Table 1: Deliverables for URF for the year
+
+No	Output	Details	Budge t (UGX) “000”	Cumulative % share of the total approved budget	
+1	045251	National Roads Maintenance	307.9	60.45	
+2	045252	District, Urban and Community Access Roads Maintenance (DUCAR)	178.1	95.41	
+3	045272	Government Buildings and Administrative Infrastructure	12.3	97.82	
+4	045201	Road Fund Secretariat Services	8.5	99.49	
+5	045278	Purchase of Office and Residential Furniture and Fittings	1.4	99.76	
+6	045276	Purchase of Office andincluding SoftwareIT Equipment,	1.2	100	
+		Total	509.4	100	
+
+
+
+
+No	Observation	Recommendation	
+1.1	Revenue Performance Performance of GoU receipts According to the revised approved budget as per the BIG report,	advised theAccounting OfficerI	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	the entity was supposed to receive UGX.509.4Bn out of which UGX.387.9Bn was warranted, in a shortfall of UGX.121.5Bn. The shortfall represents 24% of the revised approved budget.resultingfunds that were not warranted were meant for the implementation of the following activities which were never implemented.Out-put Activity No045251: National Roads Maintenance045252: DistrIT, Urban and Community Access Roads Maintenance (DUCAR)Road FundGovernment and045272: Building Administrative Infrastructure 045201: Secretariat services 045278: of Office and Residential Furniture and Fittings 045276: Purchase of Office and IT Equipment, including software TotalPurchaseTransfers to UNRA for maintenance of national roads. Transfers for maintenance of KCCA roads, DistrITs roads, Town councils roads, Community Access roads, municipal council roads and 10 new city roads Completion building.of URFOperational activities of URF Procurement of Assorted furniture and fittings Procurement assorted IT equipmentofBudget Amount UGX “Bn” 69.947.81.5 1.3 0.6 0.4 121.5Accounting Officer explained that during the year under review, URF received UGX.387.9Bn against a budget of UGX.509.4Bn. This was caused by a shortfall in cash limit warrants issued by MoFPED. The Fund liaised this with MoFPED regarding the outstanding monies but no response to that effect was received.1 23 4 56TheThe						to liaise with MoFPED to ensure that GOU funds are released as planned.	
+No								
+1								
+2								
+3								
+4								
+5								
+6								
+								
+Accounting Officer explained that during the year under review, URF received UGX.387.9Bn against a budget of UGX.509.4Bn. This was caused by a shortfall in cash limit warrants issued by MoFPED. The Fund liaised this with MoFPED regarding the outstanding monies but no response to that effect was received.The								
+1.2	Implementation of outputs and activities:- I assessed the implementation of a sample of four (4) outputs that had been fully quantified with a total of forty seven (47) activities worth UGX.386.2Bn and noted that;  One (1) output with one (1) activity and expenditure worth UGX.10.8Bn was fully implemented. Three (3) outputs with forty six (46) activities worth UGX.375.4Bn were partially implemented. Out of the forty six (46) activities, the entity fully implemented nineteen (19) activities; twenty two (22) activities were partially implemented, while five (5) activities remained unimplemented.						advised the Accounting Officer to always ensure that activities and outputs are implemented as planned.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	further observed that the entity had a budget shortfall of 24% which affected implementation of planned activities. Details in Appendix I.of planned activities implies that the expected services to the beneficiary communities were not attained. For example, the Fund implemented the technical and financial reviews in 38 out of 45 Designated Agencies.Accounting Officer explained that during the financial year, releases from Treasury were short of the amounts budgeted and therefore the targets were not met.I Non-implementationThe		
+1.3	Diversion/Mischarges Regulation 16(1) of the Public Finance and Management Regulations, 2016, requires an Accounting Officer to request the Minister for approval to vary, within a vote, the amount of money allocated to the vote. Paragraph 11.4.1 (stage 4) of the Treasury Instructions 2017 requires that in reviewing payment requests, an Accounting Officer shall have a primary responsibility of ensuring that there is no mischarge and diversion of funds through wrong coding of transactions.noted that funds to the tune of UGX.0.96Bn were irregularly diverted from the activities on which they were budgeted and spent on other activities without seeking and obtaining the necessary approvals. Details of cases where this was observed are attached as Appendix II.of funds is not only contrary to the Public Finance and Management Act, 2015 (as amended) but it negates the purpose of budgeting and negatively affects the delivery of services in the Local governments where funds for activities have been diverted from.Accounting Officer explained that following the revision of the chart of Accounts and the nature of the budgeting process where activity budgeting has been adopted under programmes, some of the highlighted diversions and mischarges need to be reviewed in line with the activity and programme of the Fund which would have been detrimentally affected.I DiversionThe	advised management to desist from diverting funds and always ensure that funds are spent only on activities for which they were budgeted and released.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In addition, I assessed if the works/services were delivered at reasonable costs. Below is a summary of my observations.
+
+Table 2: Summary of delivery of services from the constructed URF building
+
+No	Activity details	Total expenditure (UGX) “Bn”	Summary of findings	Conclusion regarding service delivery- (Time, Quality, Quantity, Cost, Functionality)	
+1	Completion of the URF office building	10.8	i. At the time of inspection the building had been completed and occupied. ii. Level 6 of the building which houses a conference facility was not in use at the time of audit because it was not furnished. iii. Mezzanine floor houses a gym and day care facility. However, the day care centre was not in use at the time of audit because it was not furnished. iv. Ground Floor houses a training room but it was not in use at the time of audit because it was not furnished.	The anticipated services from the level 6, mezzanine floor and Ground floor were not being achieved due to their non- functionality.	
+
+
+
+
+The Accounting Officer promised to budget for Ground Floor, mezzanine and level 6 furnishing in the subsequent financial year if the budget ceiling allows.
+
+I advised the Accounting Officer to prioritize availability of funds for furnishing level 6, the day care centre and Ground floor in the Fund’s next budget to ensure full utilisation of the building.
+
+4.0
+
+Management of Public Land
+
+Section 45 of the Public Finance and Management Act (PFMA), 2015 (as amended) requires the Accounting Officers to be responsible for the management of the land under their custody. Public land management is the process by which public land resources are put to proper utilization. Paragraph 16.13.11 of the Treasury Instruction, 2017 requires that for a government entity to be considered to have control over land only when it has the title.
+
+
+
+
+
+
+
+
+
+
+
+measurement criteria, loss of entity control due to encroachment and encumbrances, and lack of land titles, among others. These have negatively affected the quality of financial statements, and hampered service delivery and fulfilment of entity mandates.
+
+Documents, such as; laws and regulations, approved strategic plans, policy statements, budgets, financial statements, assets register, court case files and correspondences, land titles and lease files were reviewed. In addition, I interacted with entity management and discussed issues affecting public land management.
+
+Furthermore, I physically inspected some of the land owned by the entity. From the procedures undertaken, I noted the following;
+
+4.1
+
+Lack of a land title for URF Tower
+
+The URF and PPDA jointly built the PPDA- URF Towers on plot 39 Nakasero Road under a joint Development Agreement signed by the two institutions on 31 st December 2013 and amended in 2016. The two institutions agreed to, among others; jointly own the land which was originally solely owned by PPDA. The project was constructed at a total revised cost of UGX.54.1Bn and by the end of the year under review a total of UGX.52.6Bn had been paid to the contractor with URF having contributed UGX.31.1Bn representing 59.2% of the amount paid. I however noted that the land title had not been transferred into joint ownership.
+
+Lack of a land title may result into disputes in future.
+
+The Accounting Officer explained that the joint Board meeting of PPDA/ URF held on 23 rd September, 2022 approved the fast tracking of the condominium title and this process shall be completed by the end of December 2022.
+
+I advised the Accounting Officer to fast track the processing of the condominium titles for the building.
+
+Other matter
+
+I consider it necessary to communicate the following matter other than those presented or disclosed in the financial statements;
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer explained that the Board has directed that non-compliant agencies’ funds should be withheld going forward and the Accounting Officers forwarded to the Ministry of Local Government for action.
+
+I advise the Accounting Officer to ensure that management actions regarding timely accountabilities are effected. In future additional funds should not be disbursed to Agencies which haven’t submitted accountability.
+
+Other Information
+
+The Accounting Officer of Uganda Road Fund is responsible for the other information. The other information comprises the statement of responsibilities of the Accounting Officer and the commentaries by the Head of Accounts and the Accounting Officer, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information; I am required to report that fact. I have nothing to report in this regard.
+
+Management Responsibilities for the Financial Statements
+
+Under Article 164 of the Constitution of the Republic of Uganda, 1995 (as amended) and Section 45 of the Public Finance Management Act, 2015, the Accounting Officer is accountable to Parliament for the funds and resources of the Fund.
+
+The Accounting Officer is also responsible for the preparation of financial statements in accordance with the requirements of the Public Finance Management Act, 2015 and for such internal control as management determines necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+
+In preparing the financial statements, the Accounting Officer is responsible for assessing the Fund’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the Accounting Officer has a realistic alternative to the contrary.
+
+
+
+
+
+
+
+
+
+
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain professional scepticism throughout the audit. I also;
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Fund’s internal control.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+- Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Fund’s ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Fund to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+I communicate with the Accounting Officer regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that I identify during my audit.
+
+I also provide the Accounting Officer with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+
+
+
+
+
+
+
+
+
+
+Report on the Audit of Compliance with Legislation
+
+In accordance with Section 13 of the NAA 2008, I have a responsibility to report material findings on the compliance of the Institute with specific matters in key legislations. I performed procedures primarily to identify findings but not to gather evidence to express assurance.
+
+The material findings in respect of the compliance criteria for the applicable subject matters are as follows;
+
+6.0
+
+Management of Information Technology (IT) Investments in Government
+
+The Government of Uganda (GOU) is making large investments in Information Technology (IT) systems because of the tremendous benefits that IT can bring to its operations and services. One of the key programmes of NDP.III 2020/21-2024/25 is D i g i tal Transformation, in which Government of Uganda, aims to increase Information, Communication Technology (ICT) penetration and use of digital services for enhancing social and economic development.
+
+As a result of national prioritisation of ICT, the Auditor General undertook a thematic audit covering three financial years’ expenditure (2019/20 to 2021/22) to scrutinise the management of IT Investments across Government. The overall objective was to assess whether the IT investments in Government are strategically aligned, managed appropriately and focused on achieving the NDP.III objective. The procedures undertaken covered: planning and budgeting; procurement, utilization, maintenance and disposal of IT systems; governance, and financial reporting.
+
+For the current year 2021/2022, the entity budgeted for UGX.1.58Bn for acquisition and implementation of IT systems and equipment and received UGX.0.98Bn.
+
+A review of ICT activities implemented revealed the following;
+
+No	Observation	Recommendation	
+6.1	Procurement/Development and Use of Software/Licenses (IT Systems) and EquipmentThe IT Systems Development Lifecycle (SDLC) requires a systematic approach which includes; initiation, planning and execution. In addition, I made my assessment basing on PS/ST and NITA-U guidance on IT developments which aim to promote rationalisation and avoid further development of isolated IT systems in MDAs and LGs. During the audit of Uganda Road Fund, I observed that a total of five (5) IT systems/equipment procured worth UGX.0.64Bn were not cleared by NITA-U. Refer to Appendix III.Non-compliance may to duplication of acquisition, procurement of non-compatible solutions and equipment; and general deviation to rationalize resources for better service delivery.from Government’s effortsleadThe Accounting Officer explained that he had taken note of the guidance but the standard specifications as issued by NITA (U) were used for the procurement of IT equipment. He further appreciated that for the procurement of IT software, specific clearances are required from NITA (U).	advised the Accounting Officer to enhance controls and improve compliance with the Policies and Guidelines.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+6.2	Disposal and Decommissioning of IT AssetsParagraph 15.11.1 of the TIs, 2017, PPDA Act, 2003 (as amended) and PPDA Regulations, 2014 together with the PFMA, 2015 require MDAs and LGs to efficiently and transparently dispose assets as recommended. However, I noted;192 IT hardware equipment valued at UGX.0.11Bn had exceeded their useful lives and were due for disposal. However, they were not disposed by the end of the financial year under review . Details in Appendix IV.The Accounting Officer explained that there was delayed valuation by the Chief Government Valuer for subsequent disposal processes to commence but had been completed and items were due for disposal which would be concluded by June 2023.	I advised the Accounting Officer to fast track the disposal of the IT hardware recommended for disposal.	
+6.3	IT Governance IT governance entails leadership, structures, and processes that enable an organization to make decisions to ensure that its IT sustains and extends its strategies and objectives. However, a review of the IT governance structure of the entity revealed that;i. There was no specific structure that steers and oversees IT implementation. ii. The entity did not have an approved IT staff structure in place despite IT prioritisation in NDP III. iii. There was no approved IT risk management framework/policy at the entity. iv. There was no business continuity plan, contrary to Section 4.6 of the National Information Security Policy 2014.Absence of IT governance structures hampers formulation of appropriate IT policies, strategies and real time upgrade of IT interventions. In addition, it may lead to misalignment of IT investments with the overall entity strategic objectives.Accounting Officer explained that URF had a lean structure and the restructuring process was put on hold in line with guidance from the Ministry of Public Service on the structural reviews. He however pledged to improve the existing guidelines.The	advised the Accounting Officer to institute governance policies, structures to effectively manage IT investments in consultation with other stakeholders.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URF/SUPLS/21-22/00024 for furnishing of the Cafeteria at a cost of UGX.0.13Bn indicated that Clause 3 was implemented by URF alone.
+
+This resulted into URF meeting the above costs alone and not claiming and/or disclosing any expectation for refund of half of the costs amounting to UGX.0.14Bn by PPDA in the financial statements.
+
+The Accounting Officer explained that by the time of completion of the project, the share of project costs was supposed to be in a ratio of 50:50 and that URF was incurring and meeting its proportion of the costs.
+
+I advised the Accounting Officer to liaise with PPDA and reconcile each entity’s contribution to the construction of the Towers and recognize the outstanding receivable or payable in the Statement of Financial Position if any and start sharing the recurrent costs for the shared facilities as agreed in the MOU.
+
+8.0
+
+Contracts Signed Above the Market Estimates
+
+Regulation 5 (3) of the PPDA (rules & methods) Regulations, 2014 requires the Accounting Officer to re-assess the market price where the price of the best evaluated bidder is higher than the market price established at the commencement of the procurement to ascertain that the market price is still valid. In addition, regulation 7 (1) (b) of the PPDA (Contracts) regulations, 2014 requires a PDE not to issue a contract document, purchase order, or other communication in any form, conveying acceptance of a bid that binds a procuring and disposing entity to a contract with a provider, until the accounting officer confirms that the contract price is not higher than the market price established prior to the commencement of the procurement process.
+
+However, a review of the procurement records revealed that contracts totalling to UGX.0.32Bn entered into were over and above the total market estimated value of UGX.0.26Bn, resulting into a variance of UGX.0.06Bn. There was no evidence that the Accounting Officer reconfirmed whether the market price was still valid.
+
+Entering into contracts at prices above the market estimates results into budget overruns and over committing of Government.
+
+The Accounting Officer explained that the procurements were time barred as staff needed services urgently. He committed, in future, to undertake market re- assessments to accordingly examine price validity.
+
+
+
+
+
+
+
+
+
+
+
+APENDICES: Appendix I: Extent of Implementation of Outputs and Activities-
+
+Fully Implemented Out-puts					Partially Implemented Out-Puts							Out-puts not Impleme nted at all	
+Out-put	Total Out- put expenditure	Total No activities	Number of fully implemen ted activities	No.	Out-put	Total Out- put expenditure	Total No activities	Number of fully implemen ted activities	No of partially implemen ted activities	No of activities that were not implemented	No.	
+		UGX ‘000”					UGX ‘000”						
+1	Output 1 045272 Government Building and Administrative infrastructure	10,799,952	1		1	045201 Road fund secretariat services	7,089,635	10	4	5	1	N/A	
+	N/A	N/A	N/A	N/A	N/A	045251 National Road Maintenance	238,038,252	19	7	9	3	N/A	
+	N/A	N/A	N/A	N/A	N/A	045252 District, Urban and community access Road Maintenance	130,278,188	17	8	8	1	N/A	
+	Totals	10,799,952	1	1		Totals	375,406,075	46	19	22	5		
+
+
+
+
+N o .
+
+Appendix II: Mischarges
+
+NumberInvoice	Payme nt Date	Description	Account charged	Correct account to charge	Distribution Amount	Remarks	
+7219	44726	Construction PPDA/URF Office building, IPC NO:31	LG Conditional grants (capital)	Non- –residential building	519,140,800	It was to avoid the payment of interest on delayed payments	
+5483	44671	Assorted Gym Equipment	LG Conditional grants (capital)	Machinery and Equipment	144,129,152	No justification	
+7680	44736	Consultancy Services for Evaluation	LG Conditional grants	Consultancy long		No justification	
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+	of Board Performance	(capital)	term	8,283,898		
+5933	44718	Consultancy services for the TSUs - Lot 2,Inv No 5	LG Conditional grants (capital)	Consultancy long term	28,689,309	It was budgeted for under LG Conditional grants (capital)	
+7679	44736	30% supply of MV under instruction No.2	LG Conditional grants (capital)	transport equipment (motor Vehicles)	43,126,780	No justification	
+7678	44736	Supply of brand new Motorcycle	LG Conditional grants (capital)	transport equipment (motor Vehicles)	10,980,000	No justification	
+5489	44671	Recruitment Consultancy -20% Approval of Shortlist	LG Conditional grants (capital)	Consultancy long term	7,780,000	No justification	
+5497	44671	Printing of RUSS Report for 2021	LG Conditional grants (capital)	Printing	7,164,000	It was budgeted for under LG Conditional grants (capital)	
+7219	44726	Construction PPDA/URF Office building, IPC NO:31	LG Conditional grants (capital)	Non-residential building	93,445,344	No justification	
+7680	44736	Consultancy Services for Evaluation of Board Performance	LG Conditional grants (capital)	Consultancy long term	1,491,102	It was to avoid the payment of interest on delayed payments	
+7221	44726	Printing M & E Reports ,Q1 FY 21/22	LG Conditional grants (capital)	Printing	990,900	It was budgeted for under LG Conditional grants (capital)	
+7231	44726	Printing M& E Report ,FY 2019/20 & FY 21/22	LG Conditional grants (capital)	Printing	8,031,356	It was budgeted for under LG Conditional grants (capital)	
+3764	44559	Loading of Fuel Card-operations	LG Conditional grants (capital)	Fuel and lubrications	50,000,000	It was budgeted for under LG Conditional grants (capital)	
+5497	44671	Printing of RUSS Report for 2021	LG Conditional grants (capital)	Printing	39,800,000	It was budgeted for under LG Conditional grants (capital)	
+TOTAL					963,052,641		
+
+
+
+
+13
+
+
+
+
+
+
+
+
+
+
+
+Appendix III: IT Systems not cleared by NITA-U and MoFPED
+
+S/N	Name of IT System	Purpose of the System	Number of Users	Date of purchase	Cost of the System	
+1	Integrated Building Management system	Controls, Alarms, fire suppression system, water, electricity and ACs	All staff	September, 2021	233,645,700	
+2	Access control system	Access to sections of the building	All staff	September, 2021	60,489,210	
+3	CCTV system	Controls the camera system	All staff	September, 2021	65,597,338	
+4	Public address & evacuation system	Voice alarm amplifier	All staff	September, 2021	66,653,153	
+5	Fire Alarm system	Fire alarm control	All staff	September, 2021	213,148,924	
+	Total				639,534,325	
+
+
+
+
+Appendix IV: Hardware Equipment Not disposed of
+
+Category	date of purchase	Cost	number of items	No. of yrs in use	
+CPU	23/11/2018	3,342,000	5	4	
+CPU	1/7/2010	-	3	12	
+Desk top	1/7/2010	-	11	12	
+Monitor	23/11/2018	-	5	4	
+Printer	1/7/2010	-	2	12	
+CPU	1/7/2010	-	29	12	
+CPU	30/12/2016	2,975,877	15	6	
+Desk top	1/7/2010	1,715,000	18	12	
+Desk top	1/7/2010	-	11	12	
+IPAD (space gray)	17/11/2017	3,100,000	9	5	
+Monitor	1/7/2010	-	19	12	
+
+
+
+
+14
+
+
+
+
+
+
+
+
+
+
+
+Monitor	30/12/2016	-	12	6	
+Monitor	30/12/2016	2,975,877	2	6	
+Laptop	1/7/2010	1,800,000	6	12	
+Laptop	30/12/2016	3,586,374	5	6	
+Printer	18/9/2014	4,972,554	1	8	
+Printer	1/7/2010	-	3	12	
+Printer	1/7/2010	300,000	1	12	
+Printer	1/7/2010	200,000	2	12	
+Printer	1/7/2010	1,300,000	1	12	
+Printer	1/7/2010	540,000	1	12	
+Printer	12/5/2014	2,700,000	1	8	
+Printer	18/9/2014	4,972,554	1	8	
+Printer	1/6/2017	2,184,006	1	5	
+Printer	25/8/2015	21,170,000	1	7	
+Server	20/5/2017	51,684,000	1	5	
+UPS	1/7/2010	1,140,000	6	12	
+Back up battery	5/5/2015	1,380,600	20	7	
+Total		112,038,842	192		
+
+
+
+
+15
+
+
+
+
+
+
+
+
+
+
+

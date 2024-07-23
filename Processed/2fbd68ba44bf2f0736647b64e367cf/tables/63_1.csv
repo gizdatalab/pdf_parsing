@@ -1,0 +1,8 @@
+,No.,Items,Location Chainage,Unit,Drawings/ Specification s,Field checks/ measurements (averaged where necessary),Conformity
+0,6) HUSSAN MITCHEL ROAD (0.54KM), , , , , , 
+1,1,Kerb-Kerb road width,0+080,m,9.55,9.54,Ok
+2, , ,0+160,m,9.55,9.76,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+3, , ,0+240,m,9.55,9.56,OK
+4, , ,0+320,m,9.55,9.56,OK
+5, , ,0+440,m,9.55,9.6,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+6,2,Asphalt Concrete,0+010;RHS;C,mm,50.0,70.0,Ok

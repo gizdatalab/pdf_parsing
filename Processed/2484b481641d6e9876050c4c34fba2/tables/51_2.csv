@@ -1,0 +1,7 @@
+,Item No.,Item Description,Location,Unit,Measured Qty,Certified Qty,Difference (Certified- Audit),Rate,Amount of Overpayment,Remarks
+0,12) GOLF COURSE ROAD (0.45KM), , , , , , , , , 
+1,23.01(a),Precast concrete Class 30 barrier kerb,ref. ANNEX 3.1.5(b)(iii)_12(a),m,841.6,835.56,-6.04,"51,200",0,Quantities should be checked to resolve underpayme nt
+2,23.17(b),Precast Cover slabs without up stand beam,ref. ANNEX 3.1.5(b)(iii)_12(b),No.,555.0,553.0,-2.0,"126,700",0,Quantities should be checked to resolve underpayme nt
+3,23.17(c ),Cover slabs with Up stand beam,ref. ANNEX 3.1.5(b)(iii)_12(b),No.,277.0,281.0,4.0,"158,350","633,400",Quantities should be checked to resolve overpayment
+4,42.01(a),Asphalt concrete (A/C),ref. ANNEX 3.1.5(b)(iii)_12(d),m3,190.69,189.0,-1.69,"896,800",0,Ok
+5,TOTAL, , , , , , , ,"633,400", 

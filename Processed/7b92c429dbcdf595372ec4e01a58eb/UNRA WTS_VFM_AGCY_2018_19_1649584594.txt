@@ -1,0 +1,1354 @@
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA NATIONAL ROADS AUTHORITY FOR THE FINANCIAL YEAR ENDED 30 TH JUNE 2019
+
+OFFICE OF THE AUDITOR GENERAL UGANDA
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ACRONYM
+
+FY	Financial year	
+IFRS	International financial reporting standards	
+IAS	International accounting standard	
+IT	Information Technology	
+UNRA	Uganda National Roads Authority	
+MOU	Memorandum of Understanding	
+UGX	Uganda Shillings	
+IPCs	Interim Payment Certificates	
+MTEF	Medium Term Expenditure Framework	
+PAYE	Pay as You Earn	
+ADB	African Development Bank	
+PAPs	Project Affected Persons	
+VAT	Value Added Tax	
+WHT	Withholding tax	
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+Formatted: Font: 11 pt, Bold
+
+TABLE OF CONTENTS
+
+LIST OF ACRONYM ...................................................................................................... ii REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS..................... 7 OF UGANDA NATIONAL ROADS AUTHORITY ............................................................... 7 FOR THE FINANCIAL YEAR ENDED 30 th . JUNE, 2019 ................................................. 7 Opinion ....................................................................................................................... 7 Basis for Qualified Opinion .......................................................................................... 7 1.0 Mischarge of Expenditure –UGX. 341,241,512,345 ........................................... 7 Key Audit Matter ......................................................................................................... 8 2.0 Implementation of the approved budget .......................................................... 8
+
+Emphasis of Matter ...................................................................................................10
+
+3.0 Domestic arrears – UGX 472,844,113,257 ......................................................10 4.0 Contingent Liabilities arising out of court cases for compensation – UGX 300,492,527,264 .......................................................................................................12 5.0 Receivables - UGX 566,847,145,236 ...............................................................12 6.0 Nugatory Expenditure - Interest on delayed payments to contractors - UGX. 8,099,940,759 and USD 880,448.97 .........................................................................13 Other Information .....................................................................................................14 Management Responsibilities for the Financial Statements .....................................14
+
+Other Reporting Responsibilities ..............................................................................16
+
+Report on the Audit of Compliance with Legislation .................................................16 7.0 Engineering Audit of a selected sample of Road Development, Bridge, Rehabilitation and maintenance Projects implemented during the year ..................16 7.1 Key Audit Findings ...........................................................................................18 7.1.1 Inadequate designs and planning ................................................................18 7.1.2 Underestimation of quantities ......................................................................18
+
+7.1.3
+
+Inclusion of unnecessary items in contracts leading to increase in contract amounts by UGX 6,710,431,291 (VAT exclusive) ......................................................19
+
+7.1.4
+
+Delayed handover of the sites to the contractor ..........................................20 7.1.5 Gaps in contract administration ...................................................................20
+
+7.1.6
+
+Avoidable interest on advance payment ......................................................21
+
+7.1.7
+
+Delayed payments to the contractors ..........................................................21
+
+7.1.8
+
+Improper choice of contract methodology ...................................................22 3
+
+
+
+
+
+
+
+
+
+
+
+7.1.9
+
+Increase in project costs due to payments in foreign currencies by UGX 10,077,226,818.122 ..................................................................................................22 7.1.10 Overpayments on excess quantities ..........................................................23 7.1.11 Site inspections .........................................................................................23
+
+7.1.12
+
+Meeting environment, health and safety requirements ............................25
+
+7.1.13
+
+Tracking of advance payment ...................................................................25 7.1.14 Supervision of works .................................................................................25
+
+7.1.15
+
+Functionality of the roads and bridges ......................................................26
+
+7.1.16
+
+Summaries of Key Findings per Project .....................................................26 8.0 Delays in effecting payments for certified works ...........................................26
+
+9.0 Performance Management ..............................................................................27 10.0 Land Compensation ......................................................................................28
+
+Public legal notification and gazette of land for public use ............................................. 28 Failure to set a cut-off date on Kampala Northern bypass project phase 2 ............... 29 Delays in payment for valued land and properties .............................................................. 29 Payment of PAPs (at non-reviewed rates ) ............................................................................ 30 Delays in transfer of titles to Government ............................................................................. 31 11.0 Delays in delivery of supplies - UGX 24,018,395,488 ...................................31
+
+Opinion ............................................................................................................................. 7 Basis for Qualified Opinion .................................................................................................. 7 1.0 Mischarge of Expenditure –UGX. 341,241,512,345 ...................................................... 7 Key Audit Matter ................................................................................................................ 8 2.0 Implementation of the approved budget .................................................................... 9 Emphasis of Matter ...........................................................................................................12 3.0 Domestic arrears – UGX 472,844,113,257 .................................................................12 4.0 Contingent Liabilities arising out of court cases for compensation – UGX 300,492,527,264 13 5.0 Receivables - UGX 566,847,145,236..........................................................................14
+
+4
+
+Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font
+
+
+
+
+
+
+
+
+
+
+
+Formatted
+
+...
+
+Formatted
+
+...
+
+Formatted
+
+...
+
+Formatted
+
+...
+
+Formatted ... 6.0 Nugatory Expenditure - Interest on delayed payments to contractors - UGX. 8,099,940,759 and USD 880,448.97 ...................................................................................15 Formatted ...
+
+Formatted
+
+... Other Information .............................................................................................................16 Formatted ...
+
+Management Responsibilities for the Financial Statements ....................................................16 Formatted ...
+
+Other Reporting Responsibilities .........................................................................................18 Formatted ...
+
+Formatted
+
+... Report on the Audit of Compliance with Legislation ..............................................................18 Formatted ...
+
+7.0 Engineering Audit of a selected sample of Road Development, Bridge, Rehabilitation and
+
+Formatted ...
+
+maintenance Projects implemented during the year .............................................................18 Formatted ...
+
+7.1 Key Audit Findings ...................................................................................................20 Formatted ...
+
+Formatted
+
+... 7.1.1 Inadequate designs and planning ..........................................................................20 Formatted ...
+
+7.1.2 Underestimation of quantities ...............................................................................21 Formatted ...
+
+Formatted ... 7.1.3 Inclusion of unnecessary items in contracts leading to increase in contract amounts by UGX 6,710,431,291 (VAT exclusive) ....................................................................................21 Formatted ...
+
+Formatted
+
+... 7.1.4 Delayed handover of the sites to the contractor ......................................................22 Formatted ...
+
+7.1.5 Gaps in contract administration .............................................................................22 Formatted ...
+
+7.1.6 Avoidable interest on advance payment .................................................................23 Formatted ...
+
+Formatted
+
+... 7.1.7 Delayed payments to the contractors .....................................................................23 Formatted ...
+
+7.1.8 Improper choice of contract methodology ..............................................................24 Formatted ...
+
+Formatted ... 7.1.9 Increase in project costs due to payments in foreign currencies by UGX 10,077,226,818.122 ..........................................................................................................24 Formatted ...
+
+Formatted
+
+... 7.1.10 Overpayments on excess quantities ....................................................................25 Formatted ...
+
+7.1.11 Site inspections ................................................................................................25 Formatted ...
+
+7.1.12 Meeting environment, health and safety requirements .........................................27 Formatted ...
+
+Formatted
+
+... 7.1.13 Tracking of advance payment ............................................................................27 Formatted ...
+
+7.1.14 Supervision of works .........................................................................................27 Formatted ...
+
+7.1.15 Functionality of the roads and bridges ................................................................28 Formatted ...
+
+Formatted
+
+... 7.1.16 Summaries of Key Findings per Project ...............................................................28 Formatted ...
+
+8.0 Delays in effecting payments for certified works .......................................................28 Formatted ...
+
+9.0 Performance Management .......................................................................................29 Formatted ...
+
+Formatted
+
+... 10.0 Land Compensation .............................................................................................30 Formatted ...
+
+Public legal notification and gazette of land for public use ............................................................ 30 Formatted ...
+
+5 Formatted ...
+
+Formatted
+
+...
+
+Formatted
+
+...
+
+Formatted
+
+...
+
+Formatted
+
+...
+
+
+
+
+
+
+
+
+
+
+
+Failure to set a cut-off date on Kampala Northern bypass project phase 2 ................................ 31 Delays in payment for valued land and properties .......................................................................... 31 Payment of PAPs (at non-reviewed rates ) ....................................................................................... 32 Delays in transfer of titles to Government ........................................................................................ 34 11.0 Delays in delivery of supplies - UGX 24,018,395,488 ...............................................34
+
+APPENDICES: ............................................................................................................31
+
+Appendix I: Implementation of Planned activities .................................................................31 Appendix II: Summary of key findings for each of the projects undertaken under the Engineering Audit for the FY 2018/2019 ..............................................................................35
+
+6
+
+Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font Formatted: Default Paragraph Font
+
+Formatted: Default Paragraph Font Formatted: Default Paragraph Font
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA NATIONAL ROADS AUTHORITY
+
+FOR THE FINANCIAL YEAR ENDED 30 th . JUNE, 2019
+
+THE RT. HON. SPEAKER OF PARLIAMENT Opinion
+
+I have audited the accompanying financial statements of Uganda National Roads Authority for the year ending 30 th June 2019. These financial statements comprise the Statement of Financial Position as at 30 th June 2019, the Statement of Financial Performance, Statement of Changes in Equity and Statement of Cash Flows for the period then ended, accompanying schedules and a summary of significant accounting policies and other explanatory notes.
+
+In my opinion, except for the possible effect of the matters described in the Basis for Qualified Opinion section of my report, the financial statements of Uganda National Roads Authority for the year ended 30 th June 2019 are prepared, in all material respects, in accordance with section 51 of the Public Finance Management, 2015 and the Financial Reporting Guide, 2018.
+
+Basis for Qualified Opinion
+
+1 .0 Mischarge of Expenditure –UGX. 341,241,512,345
+
+Expenditure totalling to UGX 341,241,512,345 was diverted without authority from planned activities to finance other activities. In some instances, the expenditure was charged on budget lines that had no relation to the planned outputs. Mischarge of expenditure is an indication of Management override of the established budgetary and commitment control procedures. The practice undermines the budgetary process and the intensions of the appropriating authority as funds are not utilized for the intended purpose. In addition, the accuracy and completeness of the financial statements is compromised, since the figures reported therein do not reflect the actual amounts and outputs for which the funds are expended.
+
+Management explained that out of UGX. 341 billion, UGX. 285.8 billion (84% of the mischarged funds) was conditional to GOU contributing counterpart funding of Critical Oil Roads upon signing of the financing agreement with EXIM Bank China but had not been signed by year-end. UNRA did not receive sufficient funds for the ongoing projects and funds were utilized to settle certificates of these projects to avoid interest charges estimated at UGX. 26.26 billion. This was because of a small MTEF that had been allocated for ongoing works, which resulted in accumulation of debt. Other Projects that did not absorb the allocated funds of UGX. 90 billion due to delayed procurement, also had the funds utilized to pay accumulated certificates of projects that were underfunded because of small allocated MTEF.
+
+7
+
+
+
+
+
+
+
+
+
+
+
+I conducted my audit in accordance with International Standards of Supreme Audit Institutions (ISSAIs). My responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of my report. I am independent of the Uganda National Roads Authority in accordance with the Constitution of the Republic of Uganda (1995) as amended, the National Audit Act, 2008, the International Organization of Supreme Audit Institutions (INTOSAI) Code of Ethics, the International Ethics Standards Board for Accountants Code of Ethics for Professional Accountants (Parts A and B) (IESBA Code), and other independence requirements applicable to performing audits of Financial Statements in Uganda. I have fulfilled my other ethical responsibilities in accordance with the IESBA Code, and in accordance with other ethical requirements applicable to performing audits in Uganda.
+
+I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my qualified opinion.
+
+Key Audit Matter
+
+A Key audit matter is that matter which, in my professional judgment, was of most significance in my audit of the financial statements of the current period. This matter was addressed in the context of my audit of the financial statements as a whole, and in forming my opinion thereon, and I do not provide a separate opinion on this matter. In addition to the matters described in the Basis for Qualified for Opinion section of my report, I have determined the matter described below to be a key audit matter communicated in my report.
+
+2.0 Implementation of the approved budget
+
+Section 45 of the Public Finance and Management Act, 2015, requires the Accounting Officer to control the regularity and proper use of the money appropriated to the vote.
+
+According to Section 45 (3) of the same Act, the Accounting Officer shall enter into an annual performance contract with the Secretary to Treasury which shall bind the Accounting Officer to deliver on the activities in the work plan for the vote for the financial year. Work plans are based on outputs to be achieved for the financial year, and during implementation, effort is required to achieve the agreed objectives/targets for the entity within the available resources.
+
+It has been observed over the years that planned and budgeted for activities of a number of Government entities are not implemented thereby affecting service delivery.
+
+In the overall office wide planning, I assessed risks like inadequate release of funds and failure to undertake budget monitoring and supervision that are likely to be the causes of failure to implement entity planned activities. The focus was put on the planned outputs of the entities which greatly impact on the wellbeing of communities.
+
+Consequently, I developed procedures in order to address the performance of the approved budget of the entity, which included: 8
+
+
+
+
+
+
+
+
+
+
+
+- Ascertaining the amount received by the entity and the source of the funding
+- Inquiring from management of off-budget financing received and ascertaining the basis for the off-budget financing, if any.
+- Comparing the approved budget against the actual receipts
+- Comparing the planned vote function outputs against the actuals and determining the variances
+- Reviewing utilisation of the funds.
+
+Based on the procedures performed, I observed that the Uganda National Roads Authority has a constitutional mandate to manage, maintain and develop the national roads network; to advise the Government on policy matters concerning roads generally, and to assist in the co-ordination and implementation of the policies governing road development and maintenance.
+
+In order to achieve this mandate, the Authority planned to implement and achieve a number of both recurrent and development outputs under various programmes. The key findings on the implementation of the entity budget are summarized in Table 1 below, and details are given in Appendix 1 to this report.
+
+No	Observations	Recommendations	
+1.1	Revenue Performance Section 15(1) of the Public Finance and Management Act (PFMA) 2015 states that after approval of the annual budget by Parliament, the Secretary to Treasury shall issue the annual cash flow plan of Government, based on the procurement plans, work plans and recruitment plans approved by Parliament. Section 15(2) of the PFMA states that the annual cash flow plan issued under subsection (1) shall be the basis for release of funds by the Accountant General to the Accounting Officers. Further, Section 15 (3) requires that an Accounting Officer shall commit the budget of a vote, based on the annual cash flow plan issued under this section.review of the entity’ revenue performance revealed the had anwasentity approved budget of UGX.3,130,413,876,297 during the year. However, UGX.2,573,803,381,350(82.2%) warranted resulting in a budget shortfall of UGX.556,610,494,947.  Out of the release of UGX.2,573,803,381,350, the Authority spent UGX.2,190,804,309,190 (85.12%) leaving unspent balances of UGX.382,999,072,160, of which to UGX4,158,417,124 was returned to the Consolidated Fund while the external financing component remained on the respective UNRA project accounts.the GoU component amountingfollowing:  TheA	toI advised the Accounting Officer liaise with relevant authorities and ensure that the budgeted funds are fully released, to enable the implementation of planned activities.alsothatI advised the Accounting officer to ensure funds are released to those projects whose financing agreements have been agreed and are ready for implementation..	
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+	The budget shortfall of UGX.556,610,494,947 affected implementation of activities.The Accounting Officer explained that the low absorption was due to appropriation of funds for some projects before financing agreements were approved and signed.		
+1.2	Implementation of planned activities In order to achieve its mandate, the entity planned to implement and achieve a number of both recurrent and development activities and outputs under various programmes and projects.review of the implemented activities revealed that UNRA planned to implement a total of fifty six (56) outputs during the year. Of these, the audit team sampled eighteen (18) outputs representing 32% of the total outputs. It was established that of the sampled outputs, only 2 outputs were achieved and 14 outputs partially achieved while 2 were not implemented at all. Refer to Appendix 1 for details.of planned activities affects the achievement of the UNRA objectives.Management explained that MoFPED allocated MTEF to UNRA before the financing agreements, subsequently affecting streamlined release of funds for implementation of activities.finalizingANon-implementation	I advised the Accounting Officer to liaise with the relevant authorities to streamline funding modalities so that all planned are implemented.activitiesthe	
+
+
+
+
+Emphasis of Matter
+
+Without qualifying my opinion, I draw attention to the following matters disclosed in the financial statements that, in my judgement, are of such importance and fundamental to users’ understanding of the financial statements.
+
+3.0
+
+Domestic arrears – UGX 472,844,113,257
+
+Section 21(2) of the Public Finance management Act, 2015 states that a vote shall not take any credit from any local company or body unless it has no un paid domestic arrears from a debt in the previous financial year; and it has capacity to pay the expenditure from the approved estimates as appropriated by Parliament for that financial year.
+
+Further paragraph 10.10.17 of the Treasury Accounting Instructions 2017 states that “An Accounting Officer will ensure that no payments due in any financial year remain unpaid at the end of that year. Towards the close of each financial year the Head of Finance and Accounts function will take steps to obtain bills from any persons to whom
+
+10
+
+
+
+
+
+
+
+
+
+
+
+money may be due, and submit payment vouchers for them to the appropriate Accounting Officer for payment”.
+
+A trend analysis of the domestic arrears showed a movement of arrears from UGX 224,723,792,116 in the previous year to UGX 472,844,113,257 in the year under review, an increase of 110.4%. The bulk of these arrears comprised of unpaid certificates to contractors.. Table 2 below shows the trend analysis of the domestic arrears for the past
+
+three years:
+
+Table 2: Trend of arrears
+
+No Year End Amount (UX) % increase/(decrease)				
+1	30 th June 2017	288,712,880,023		
+2	30 th June 2018	224,723,792,116	(22.2%)	
+3	30th June 2019	472,844,113,257	110.4%	
+
+
+
+
+The UNRA approved budget under the item code 321605 for the year 2018/19 had no budget allocation for domestic arrears. However, the Authority effected payments totalling to UGX 224,451,530,072 in respect of domestic arrears during the year under review. It was further observed that whereas the cash flow statement showed cash out flow of UGX 224,451,530,072 in respect of domestic arrears, the statement of appropriation shows a nil balance and the statement of reconciliation between total expenditure as per appropriation accounts and per statement of financial performance reflected domestic arrears paid during the year of UGX 127,511,410,017. These inconsistencies render the disclosures in the financial statements in respect of arrears misleading.
+
+I noted that the accumulation of was result of challenges in adhering to the commitment control system as a result of UNRA taking on more projects than the available funding. Accrued domestic arrears if not financed have the effect of adversely hampering delivery of planned outputs in the subsequent year as they are supposed to be prioritized in the annual budget.
+
+The Accounting Officer explained that the domestic arrears arose due to the fact that the infrastructure contracts are multiyear- contracts that cover more than a 3 year period and the budget is appropriated on annual basis. The funds released are not proportionate to the ongoing commitments leading to domestic arears. To mitigate this, a supplementary funding was requested but not granted in the financial year.
+
+I advised the Accounting Officer to ensure that sufficient budget provisions are made to enable settlement of the outstanding domestic arrears. Where funds allow, reallocations should be sought early to facilitate settlement of arrears on the right budget lines. In addition, for new projects, UNRA should always assess her capacity to take on and manage such projects.
+
+11
+
+
+
+
+
+
+
+
+
+
+
+4.0 Contingent Liabilities arising out of court cases for compensation – UGX
+
+300,492,527,264
+
+Paragraph 19.3.2 (g) Treasury Instructions 2017 states that a complete set of Financial Statements shall be accompanied by a summary of contingent liabilities. I noted, through the analysis of the contingent liabilities disclosed in the financial statements that whereas there was a decrease in contingent liabilities of UGX 129,521,195,012 from UGX 430,013,722,276 reported in the previous year 2017/2018 to UGX 300,492,527,264 reported in 2018/2019, this amount is still substantial. The bulk of contingent liabilities relate to legal proceedings.
+
+Contingent liabilities present a risk of probable loss of funds in the event that UNRA loses the cases.
+
+The Accounting Officer explained that Management ensures that all court cases are resolved in a manner that minimises the loss of public funds. The quantum of land acquisition cases includes the principal amount approved by CGV.
+
+I advised the Accounting officer to ensure that as part of risk management, UNRA prioritize the identification and management of legal related risks, and continue with the current efforts of improving the management of the current law suits brought against the Authority to minimize threats of loss of public funds.
+
+5.0
+
+Receivables - UGX 566,847,145,236
+
+By the close of the financial year, receivables due to UNRA as reported in the statement of Financial Position amounted to UGX 566,847,145,236. These receivables comprised of advances to contractors, letters of credit and other receivables. The Table 3 below refers:
+
+T able 3: UNRA receivables as at 30 th June 2019:
+
+Particulars	30 June 2019 (UGX)	30 June 2018 (UGX)	
+Construction Advances	518,063,941,495	414,712,475,445	
+Outstanding Letters of Credit	47,076,369,327	35,658,029,613	
+Other Account Receivables	1,706,834,414	1,917,696,198	
+Total	566,847,145,236	452,288,201,256	
+
+
+
+
+As reflected in the table above, the bulk of these receivables comprised of advances to contractors, which totalled to UGX 518,063,941,495 at year end. These construction advances increased by UGX 103,351,466,050 from the previous year balance of UGX 414,712,475,445.
+
+The Accounting officer explained that out of UGX 414,712,475,445 brought forward, UNRA recovered GX 202,466,163,297 (49%) in the financial year. Management ensures that the advances recovery terms are favourable for good cash flow management and advance recovery starts with the 1 st certificate for GOU funding. The increase in advances was due to award of new contracts during the year under review. The 12
+
+
+
+
+
+
+
+
+
+
+
+Accounting Officer further explained that the other account receivables of UGX 1,621,192,512 relate to consumable services that include prepayment of rent, electricity and water.
+
+I advised the Accounting Officer to continue exercising adequate control over advances to contractors to mitigate the risk of loss of funds.
+
+6.0
+
+Nugatory Expenditure - Interest on delayed payments to contractors - UGX. 8,099,940,759 and USD 880,448.97
+
+I observed that UNRA made payments amounting to UGX 8,099,940,759 and USD 880,448.97 that arose out of penalties for the court cases and interest on delayed payments of advances and IPCs invoices from various contractors. Table 4 below refers.
+
+Table 4 – Nugatory expenditure
+
+S/No	Project /Description /Purpose	Amount (UGX)	Amount (USD)	
+1	CRN.3 Interest Claim Hima Katunguru Road	113,383,631		
+2	Crn.3 Interest Claim Hima Katunguru Roads	65,176,333		
+3	China R/Way No.3 Interest Claim for Advance	42,752,606		
+4	CR/Way N.3 Interest for IPC 3 Hima Katunguru Road	29,940,467		
+5	CRN.3 Interest Claim Hima Katunguru Road	20,409,054		
+6	CRN.3 INTEREST Claim HIMA KATUNGURU Roads	11,731,740		
+7	China Communication's Interest IPC (IPCs 17 - 22) Kampala Entebbe Expressway	200,547,648		
+8	CRNO.5 Interest on IPCs -Bulima Kabwoya Road	184,800,764		
+9	Civil suit, Dott Vs UNRA, Interest and damages	3,280,916,469		
+10	Interest certificate- Lot 1 Alla and Enyau bridges	39,063,465		
+11	Interest certificate- Lot 1 Alla and Enyau bridges	217,019,250		
+12	Civil Suit No. 019 Of 2018	260,900,594		
+13	IPC 16B Interest on Advance -Bulima Kabwoya Road	1,051,533,713		
+1	Bumbobi-Lwakhakha	178,504,035	172,534.16	
+2	Kyenjojo-FortPortal	245,530,973	16,435.74	
+1	Soroti-Katakwi-Akisim	407,287,185	64,255.07	
+2	Musiita-Lumino-Majanji	1,750,442,832.39	627,224	
+	Total	8,099,940,759.39	880,448.97	
+
+
+
+
+Funds that were budgeted and allocated for planned activities were diverted towards payments of these fines and court penalties. The expenses on interest and penalties are considered nugatory.
+
+13
+
+
+
+
+
+
+
+
+
+
+
+The Accounting officer explained that the Authority has been experiencing inadequate funding leading to its inability to settle certificates of approved works within the contractual period. Contractors invoke the clause in the contract and claim interest on unpaid Certificates.
+
+I advised the Accounting officer to strengthen the risk management function to facilitate early identification and mitigation of risks of loss associated with management of contracted works.
+
+Other Information
+
+The Accounting Officer is responsible for the other information. The other information comprises the statement of responsibilities of the Accounting Officer and the commentaries by the Head of Accounts and the Accounting Officer, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information, I am required to report that fact. I have nothing to report in this regard.
+
+Management Responsibilities for the Financial Statements
+
+The Accounting officer is responsible for the preparation and fair presentation of these financial statements in accordance with Section 51 of the Public Finance Management Act, 2015, and the Financial Reporting Guide, 2018 and for such internal control as management determines is necessary to enable the preparation of financial statements that are free from material misstatements, whether due to fraud or error.
+
+In preparing the financial statements, the Accounting Officer is responsible for assessing UNRA’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the entity’s management either intend to liquidate the entity or to cease operations, or have no realistic alternative but to do so.
+
+The Accounting Officer is responsible for overseeing the Authority’s financial reporting process.
+
+14
+
+
+
+
+
+
+
+
+
+
+
+Auditor General’s Responsibilities for the audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes my opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISSAIs will always detect a material misstatement, when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain professional scepticism throughout the audit. I also:
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Authority’s internal control.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+
+- Conclude on the appropriateness of Accounting Officer’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Authority’s ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Authority to cease to continue as a going concern.
+
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+I communicate with the Accounting Officer regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that I identify during my audit.
+
+15
+
+
+
+
+
+
+
+
+
+
+
+I also provide the Accounting Officer with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Accounting Officer, I determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, I determine that a matter should not be communicated in my report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Reporting Responsibilities
+
+In accordance with Section 19 (1) of the National Audit Act, 2008, I report to you, based on my work described on the audit of Financial Statements, that; except for the matters raised in compliance with legislation section below, and whose effect has been considered in forming my opinion on the financial statements, the activities, financial transactions and information reflected in the financial statements that have come to my notice during the audit, are in all material respects, in compliance with the authorities which govern them.
+
+R eport on the Audit of Compliance with Legislation
+
+The material findings in respect of the compliance criteria for the applicable subject matters are as follows;
+
+7.0 Engineering Audit of a selected sample of Road Development, Bridge, Rehabilitation and maintenance Projects implemented during the year
+
+For the financial year 2018/19, a total of 74 projects (Development and rehabilitation projects) of total contract sum UGX. 24,611,235,821,987 were being implemented by Uganda National Roads Authority.
+
+A sample of thirteen (13) Projects was selected for the engineering audit. These included (11) development and rehabilitation projects worth UGX 1,358,928,735,218.8 and Euro 106,480,753.07 as shown in table 5 below:
+
+16
+
+
+
+
+
+
+
+
+
+
+
+Table 5: Development and Rehabilitation Projects
+
+S/no	Contract roadname/Contractor	Contractor	Contract Price (UGX)	Euro	
+1	Soroti - Katakwi - Akisim road	CCCC	304,000,000,000		
+2	BumbobiLwakhakha road-	China StateEngineering Ltd	140,724,000,000		
+3	Nakalama - Tirinyi - Mbale road	Dott Services	135,370,000,000		
+4	Musita - Lumino / Busia - Majanji road	Railway BureauChina 18th (Group) Co. Ltd	206,784,423,053		
+5	Kampala Northern bypass - Phase 2	M/s Mota Engil Engeharia E Construcao	0	106,480,753.07	
+6	Ishaka - Katunguru road	M/s Mota Engil Engeharia E Construcao Africa, S.A	103,852,641,242		
+7	Kyenjojo - Fort Portal road/ China Wu Yi Co ltd		71,435,766,901		
+8	Hoima - Butiaba - Wanseko road	Chongqing International Construction Corporation	337,440,000,000		
+9	Kabong bridge	Terrain Services	13,321,891,188.00		
+10	Lopei bridge	Terrain Services	12,468,2.82,364		
+11	Waiga Ruzairwe Nsongi Mpondwe bridgebridge, bridge, bridge,	Armpass	46,000,000,000		
+	TOTAL		1,358,928,735,218.8	106,480,753.07	
+
+
+
+
+The sample also included two maintenance projects are shown in tables 6 and 7:
+
+Table 6: Jinja Station
+
+S/N	Project name	Contractor	Contract Price(UGX)	
+1	Mechanized Maintenance of Selected Unpaved Roads under Framework Contracts for 3 Years Totaling to 487.2Km. Call off order 3: Kaitabawala-Kisozi-Busota (58.2Km).	Rock trust contractors (U) Limited	33,860,159,881	
+	Total		33,860,159,881	
+
+
+
+
+17
+
+
+
+
+
+
+
+
+
+
+
+Table 7: Hoima station
+
+S/N	Contract name	Contractor	Contract Price (UGX)	
+1	Bukomero-Dwaniro-Kyankwanzi (68.2Km), Kabwoya-Kituti Kiziranfumbi-Kabaale Buseruka-Tonya (29.5Km)(42Km), (25.7Km)	Lusa Construction & Engineering Co. Ltd	3,987,851,201	
+	Total		3,987,851,201	
+
+
+
+
+Below is a summary of key findings and observations resulting from the engineering audit. The summary of the findings on each individual project is attached as appendix (ii). I have also issued a separate consolidated technical report containing the detailed results of the Engineering audit. The detailed report forms an integral part of this report.
+
+7.1 Key Audit Findings 7 .1.1 Inadequate designs and planning
+
+It was observed that the majority of projects audited were initiated without sufficient planning. The designs of the sampled projects were inadequate and resulted in multiple variations in time and cost for all projects and escalation of quantities on others. Design reviews also took longer time to compensate for the inadequacies.
+
+In addition, several omissions in completed designs were noted on the sampled projects which, if not addressed, will compromise the safety during use and reduce the design life of the facilities. For Bumbobi-Lwakhakha project, the design left out checks on serviceability requirements of the box culverts; while Waiga and Waaki Bridges along Hoima-Butiaba-wanseko, the design initially had inadequate openings for the design flow rates. For Ishaka-Katunguru and Kyenjojo-Fort Portal rehabilitation projects, pavement evaluations and feasibility studies were done after the Contractor had commenced. The design and build bridges were also initiated without concept designs.
+
+The Accounting Officer explained that an in-house design team has been constituted to review designs submitted by consultants and also undertake their own design.
+
+I have advised the Accounting Officer to enhance the in house design capacity to minimize the design gaps that consequently lead to reduced service life of the infrastructure and endanger safety of users.
+
+7 .1.2 Underestimation of quantities
+
+It was noted that for various sampled projects, the quantities for execution were underestimated both during initial design and even after design review in some instances. This was more pronounced on all sampled development projects and rehabilitation projects where design reviews were undertaken as the following projects show.
+
+18
+
+
+
+
+
+
+
+
+
+
+
+- Hoima-Butiaba-Wanseko contract amount rose by USD 12,095,257.87 for increase in quantities (over 800% for excavating in soft material, 138% for rock excavation, 338% for excavation in swamps and 1300% for top soiling among others)
+- Soroti-Katakwi-Akisim had several quantities rose by over 1000% (for example removal of trees of girth between 1-2m, common excavation to spoil for earthworks, excavations to spoil for structures, rock fill for structures and new box culverts) even though the contract sum was not exceeded.
+- Musiita-Lumino-Majanji had quantities rise by over 200% for stone pitching, vehicular kerbs, removal of top soil and 1200mm diameter pipe culverts among others even though the contract sum was not exceeded.
+- Bumbobi-Lwakhakha had several quantities rise by over 200% (for example excavation in soft material for drainage, concrete kerbs, fill using rock among others), though the contract sum was not exceeded.
+
+The Accounting Officer attributed these adjustments to limited time for designs by consultants and lack of an in-house design team to undertake the checks which led to underestimation of quantities.
+
+I have advised the Accounting Officer to ensure that a comprehensive and adequate estimation of quantities is carried out before works are tendered out.
+
+7 .1.3 Inclusion of unnecessary items in contracts leading to increase in contract amounts by UGX 6,710,431,291 (VAT exclusive)
+
+The contracts assessed had inclusions of unnecessary items which raised their subsequent contract amounts. This was mostly encountered on design and build bridge projects where items that could not possibly be needed were used to contribute to the contract sums. These additions increased the contract prices by over UGX 6,710,431,291 (VAT exclusive) on three projects as shown in Table 8 below;
+
+T able 8: Unnecessary items in BOQs
+
+SN	Project name	Unnecessary items	Cost (UGX)	
+1	Lopei bridge	specialContingency, relocation services, tests Engineer, excess materialof by	1,255,802,100	
+2	Lopei Bridge	Guardrails (higher rate)	779,200,000	
+2	Kaabong bridge	Contingency	1,077,123,580	
+3	Mpondwe,Ruzairwe and Mpanga 6Nsongi,	Contingency	3,373,105,611	
+4	Mpondwe,Ruzairwe and Mpanga 6Nsongi,	Seismic restraints	225,200,000	
+Total			6,710,431,291	
+
+
+
+
+19
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer expressed the need for the contingency in the contracts to mitigate against the employers risks. However, including contingency sums in design and build contracts as a safeguard for employer’s risks is improper as the remedy for such risks is already provided under the contract.
+
+I advised the Accounting Officer to avoid including items that are not relevant for the procurement. This can be achieved through undertaking due diligence on the procurement (bid preparation) and contracting process.
+
+7.1.4 Delayed handover of the sites to the contractor
+
+Several sites were not handed over to the Contractor in time which led to failure to deliver on project milestones as contractually agreed at contract signing. Generally, the Contractors failed to handover 30% of completed continuous project lengths at the agreed time (60% of project time). Of the four development projects audited which had this sectional completion requirement, none was able to fulfil it in time due to unavailability of land over a continuous section. It was also observed that delayed hand over of sites resulted into extension of time leading to additional time-related costs for example Bumbobi-Lwakhakha where the time related costs have exceeded the initial budget by over UGX 500M.
+
+The Accounting Officer attributed the failure to handover of sites to the Contractor to delays in PAPs compensations and land wrangles.
+
+I have advised the Accounting Officer to ensure that sites are handed over in time. Where this is not possible, management should consider reviewing some of the contractual requirements that are not possible to achieve due to the prevailing local circumstances.
+
+7 .1.5 Gaps in contract administration
+
+Several gaps were noted in the contract administration of the various contracts which presented risks of delays in conflict resolution and financial loss for the period not covered by the guarantees among others. For instance, Soroti-Katakwi-Akisim project experienced a delay in the appointment of the Disputes Arbitration Board while the Bumbobi-Lwakhaka project had conflicting requirements regarding payments to the Nominated service provider (with the special specifications different from the payment plan in use). There was a delay in submission of relevant insurance policies for Butiaba- Butiaba-Wanseko contract while the renewal for the expired performance guarantee for Kaitabawala-Kisozi-Busota (58.2Km) did not cover the entire project period including the DLP.
+
+The Accounting Officer indicated that the DAB was appointed and that the Nominated Service Provider conflicting requirements would be corrected in future contracts. The expired guarantees were under renewal and some had been renewed albeit lately done.
+
+20
+
+
+
+
+
+
+
+
+
+
+
+I advised the Accounting Officer to correct the deficiencies as soon as practicable and inconsistencies in contract administration are corrected timely.
+
+7 .1.6 Avoidable interest on advance payment
+
+Several project contracts had provisions for advance payments to Contractors which were also categorized as ( “interest free loans”) to assist them with cash flow support and mobilization. The same contracts allow the contractor to charge interest for delayed payment of the advance payment by the client (UNRA). In my opinion, this contractual requirement is unfair to the client given that it is meant to support the Contractor. The two projects shown in Table 9 had an interest claim of UGX 424,035,008 and USD 188,969.9 certified.
+
+T able 9: Avoidable interest on advance payments
+
+SN	Project	Interest (UGX)	Interest (USD)	
+1	Bumbobi-Lwakhakha	178,504,035	172,534.16	
+2	Kyenjojo-FortPortal	245,530,973	16,435.74	
+Total		424,035,008	188,969.9	
+
+
+
+
+The Accounting Officer explained that the general conditions of contract being used and a previous judgement provided for such payments in case of any delays on advance payment.
+
+I advised the Accounting officer to consider other forms of compensating the Contractor for the delay in payment of the advance payment such as extending the commencement date among others.
+
+7.1.7 Delayed payments to the contractors
+
+It was observed that the contractors’ payments were delayed in all cases resulting in interest claims on the delayed payments. For the two projects shown in table 10 following, a total of UGX 2,157,730,017.39 and USD 691,479.07 had been claimed and will be paid as interest on delayed payments.
+
+T able 10: Delayed payments to contractors
+
+SN	Project	Interest (UGX)	Interest (USD)	
+1	Soroti-Katakwi-Akisim	407,287,185	64,255.07	
+2	Musiita-Lumino-Majanji	1,750,442,832.39	627,224	
+Total		2,157,730,017.39	691,479.07	
+
+
+
+
+The Accounting officer indicated that they are limited by the quarterly appropriations by MoFPED which are not sufficient to cover all the domestic debt.
+
+21
+
+
+
+
+
+
+
+
+
+
+
+I advised the Accounting Officer to seek remedies for this cumulative interest by either seeking more funding from MoFPED or having contractual clauses that minimize the effect of the delay in payment such as extended grace period beyond the expected date of payment upon which the charging interest commences.
+
+7.1.8 Improper choice of contract methodology
+
+The use of lump-sum contracts is recommended for contracts for which the scope of works is not expected to undergo significant changes during implementation. Four projects selected for audit used design and build lump-sum contracts two of which had significant changes in the scope of works after contracting. These two contracts required another form of contracting such as admeasurement given the variations in scope; for example Lopei initially was intended to have a steel bridge but later revised to a series of box culverts while Kaabong was intended to include construction of berms, river training, protection works, construction of 10 lines of relief culverts, construction of approach roads only.
+
+The Accounting Officer indicated that the change in scope was necessitated by a desire to encourage the Contractor to innovate and promises of value engineering.
+
+I advised the Accounting Officer to use the most appropriate form of contracts as required under the PPDA (2014) regulations.
+
+7.1.9 Increase in project costs due to payments in foreign currencies by UGX 10,077,226,818.122
+
+Most of the contracts audited allowed the contracted amounts to be split into local and foreign currencies at the time of payment. The proportion and rate of conversion are agreed and fixed at contracting.
+
+It was observed that the fluctuation of the Ugandan shilling against the foreign currencies resulted in an increase of the project cost by over UGX 10 billion on only four projects (Table 11 below), an increment considered significant given the resource constraints experienced by UNRA. Of the four projects, three were GOU funded while one was donor funded. Such increase in project costs impact on overall project implementation as it is sometimes not budgeted for.
+
+T able 11: Increase in Project costs due to payments in foreign currencies
+
+SN	Project name	Net increase due to FX	
+1	Bumbobi - Lwakhakha road	1,554,429,739.13	
+2	Kyenjojo-FortPortal	8,270,932,974.582	
+3	Lopei Bridge	157,278,932.41	
+4	Kaabong bridge	94,585,172	
+Total		10,077,226,818.122	
+
+
+
+
+22
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer explained that not much can be changed regarding the additional cost to be incurred from the forex fluctuations especially those that are donor funded.
+
+I advised the Accounting Officer to explore remedies that can hedge against the foreign currencies to minimize the unplanned rising project costs encountered due to the fluctuating Ugandan currency. In addition, where possible, UNRA should insist on entering contracts that are exclusively denominated in local currency.
+
+7.1.10 Overpayments on excess quantities
+
+Several overpayments were noted on 4 projects resulting from certification of more quantities than had been executed by the Contractors. This led to an overpayment of UGX 144,809,402.26 as summarized in Table 12 below:
+
+T able 12: Overpayments on excess quantities
+
+SN	Project name	Overpayment	
+1	Musiita-Lumino-Majanji	44,353,281	
+2	Bumbobi - Lwakhakha road	3,072,021.26	
+3	Kaabong bridge	8,521,500	
+4	Waiga bridge, Ruzairwe bridge, Nsongi bridge, Mpondwe bridge	88,862,600	
+Total		144,809,402.26	
+
+
+
+
+The Accounting Officer indicated that the amounts would be recovered from the next interim certificates.
+
+I advised the Accounting Officer to proceed with the recovery of the amounts. In addition, since the amounts were obtained from a few selected items during the audit inspection, it’s important UNRA checks and confirms that all other paid items reflect the actual quantities executed.
+
+7.1.11 Site inspections
+
+The sites were inspected between 28 th October 2019 and 30 th November 2019 and were found at different levels of progress. Mostly, the Contractors were active on site on the development and rehabilitation projects. The Contractors working on Kaabong, Lopei and Ruzairwe bridge locations had demobilized. They however had outstanding snags to be rectified as detailed in the report and summarized in table 13.
+
+23
+
+
+
+
+
+
+
+
+
+
+
+Table 13: Outstanding defects
+
+S/no	Contract road name	Defects noted	
+1	Soroti - Katakwi - Akisim road	Stripping at various sections, scouring of embankment, no rounding on terminal end of walkways, eroded and silted stone pitching works, spot honey combs at box and culvert wing walls, full flow for culverts, vandalism of reflectors and hazard signs, missing bolts on guard rails and omission anti- theft protection on bolts and nuts on some guard rails.	
+2	Bumbobi - Lwakhakha road	Damage to the road, bleeding, stripping, cracks in box culverts, honey combing in box culverts, different levels between invert of access culverts and side drains, siltation of culverts, and damage at stone pitched sections	
+3	Hoima - Butiaba - Wanseko road	Dirty and untidy surface and surrounding waiting to receive apron concrete, Honeycombs on the box culvert wall	
+4	Musita - Lumino / Busia - Majanji road	Bleeding, eroded access edge, scouring and failed stone pitching works, silted channels, eroded embankment, uneven spacing of U cover drains, honey combs on culvert walls, blocked culverts, irregular alignment of guard rails and poor overlap of road marking	
+5	Kyenjojo - Fort Portal road	Vandalism of reflector plates on guard rails, Honey combing at the bottom of concrete lined drains, vegetation overgrowth on some sections of stone pitched sections, heavy siltation at some locations for temporary access by residents	
+6	Ishakaroad- Katunguru	Spot locations of silting in the stone pitched drains and culverts, Erosion of slopes at some locations, Vegetation growth at some stone pitching and culvert locations, Damaged stone pitching works in some sections.	
+7	Lopei bridge	Camber loss on the road surface, spot pot holes, missing bolts, rusting of some bolts, The lower end of the embankment that is lower than the flood level	
+8	Kaabong bridge	Failed gabion/protection works- U/S of Kapedo side, Cracks in stone pitching mortar, Eroded approach Embankment on Kapedo side, Pothole on the approach slab area	
+9	Waiga bridge, Ruzairwe bridge, Nsongi bridge, Mpondwe bridge	Ruzairwe; Guardrail end details not as per drawing, Rusted guardrail posts and bolts, Missing hazard sign plate on Pacwa side, Hazard sign installed in wrong location; Mpondwe; Hairline cracks on walkway slab, Short and inadequate gabion works on both downstream of Uganda and DR Congo side: Nsongi; Hairline cracks on walkway slab, Eroded banks at mitre drain location;	
+10	Kaitabawala-Kisozi- Busota (58.2Km).	Slippery sections, damaged sections, deep potholes, need for culverts at some low locations	
+11	Bukomero-Dwaniro- Kyankwanzi (68.2Km), Kabwoya-Kituti (42Km), Kiziranfumbi-Kabaale (25.7Km) Tonya (29.5Km)Buseruka-	Buseruka-Tonya: Erodedovergrowth in side drainsroad sections, vegetation	
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer indicated that some of the defects observed had been rectified while the rest were on schedule for rectification by the Contractors after the audit inspections. The snag lists for outstanding defects to be corrected were prepared.
+
+I advised the Accounting officer to ensure that all the noticed defects and any more are duly remedied.
+
+7.1.12 Meeting environment, health and safety requirements
+
+The adoption of health and safety safeguards was assessed on all the projects. The development and rehabilitation projects had dedicated staff for the activities both under the Contractors and Supervisors. However, there was general laxity in PPE enforcement on active sites for stone pitching works. The asphalt works in Ishaka-Katunguru and Hoima-Butiaba-Wanseko roads were carried out by workers negligent of their duty to stop inhaling the dangerous compounds.
+
+The Accounting Officer indicated that the PPEs are provided to the staff but the workers do not use them all the time.
+
+I advised the Accounting Officer to ensure a strict enforcement of the PPE requirements while instituting penalties for non-compliance.
+
+7.1.13 Tracking of advance payment
+
+It was observed that of the 13 selected projects, it was only in one project (Kyenjojo- Fort Portal) that management of UNRA tracked the advance payment (UGX 10,715,363,951) for assurance that it was used as intended to support mobilization and cash flow support to the contractor. The weaknesses in monitoring contractors’ advance payments presents a risk in that the contractor may not use the payment for intended purpose hence delaying project implementation.
+
+I advised the Accounting Officer to exercise more control over the advance payments by ensuring that they are all tracked and in use on project related activities.
+
+7.1.14 Supervision of works
+
+The quality of supervision was measured in terms of availability of the personnel at site, quality assurance measures in place, cost control, time control and quality of progress reports. Generally there was compliance by all supervision teams. However, for Musiita- Lumino-Majanji, teams at the precast yard were working without reference to drawings yet the approved drawings are in the camp site; and reports were submitted late without any punitive actions. For Bumbobi-Lwakhakha, arithmetic errors were made in paying for kerbs. For Soroti-Akisim, Audit noted that whereas construction drawings for different works are prepared and approved by the Engineer for use, some sections for stone pitching works were being worked on without approved drawings on site. The maintenance projects had no concrete mix designs while the progress reports were not detailed enough to inform on key project aspects.
+
+25
+
+
+
+
+
+
+
+
+
+
+
+I advised the Accounting Officer to pursue the recommended options for improvement such as ensuring construction drawings are followed and accessible by workers, ensure presence of safety personnel on active sites and improve quality of progress reports.
+
+7.1.15 Functionality of the roads and bridges
+
+The roads and bridges audited were functioning as intended for the completed sections. However, the Lopei swamp crossing had a design gap limitation that could curtail its usefulness in a flood event and rampart vandalism on most road furniture.
+
+For Lopei, the Accounting officer indicated that extra works needed to avoid its damage in case of an extreme flood event would be initiated. In the case of vandalism on road furniture, the sensitization of stakeholders and use of enforcement were being implemented to minimize the losses.
+
+I advised the Accounting Officer to expedite the necessary works to make Lopei crossing functional in any extreme weather event and address the vandalism on road furniture through innovation.
+
+7.1.16 Summaries of Key Findings per Project
+
+The summary of key findings for each of the projects audited for FY 2018/19 is provided in Appendix II.
+
+8.0
+
+Delays in effecting payments for certified works
+
+Section 21(2) of the Public Finance Management Act, 2015 provides that a vote shall not take any credit from any local company or body unless it has capacity to pay the expenditure from the approved estimates as appropriated by Parliament for that financial year. PPDA particular conditions of contract on delayed payment, under sub- clause 14.8 stipulate that the payment of IPCs should be made within 56 days after the Engineer receives the IPC.
+
+A review of a sample of IPCs showed that payments for IPCs from UNRA contractors were being made after 56 days, with some stretching to over 6 months.
+
+Delayed payments not only attract interest but also incapacitate contractors resulting in delays in project implementation. This can also lead to litigation and attendant costs.
+
+The Accounting Officer explained that the delay to pay arose due to insufficient funding. Management always ensures that all outstanding bills are settled immediately funds are available. The budget appropriated to the Authority was not sufficient to settle all the bills for the year. The Accounting Officer also explained that requests were made for supplementary funding but this was not granted.
+
+I advised the Accounting Officer to ensure that contractors’ certificates are paid in time as per contractual obligations.
+
+26
+
+
+
+
+
+
+
+
+
+
+
+9.0 Performance Management
+
+9.1
+
+Completion of performance appraisals
+
+Section 14.4(a) of the UNRA Human Resource Manual requires performance appraisals to be carried out annually but constituted into bi-annual appraisals every financial year (July to December; January to June). These performance results should be submitted to the Board and also disseminated to staff by August of the following financial year.
+
+Records show that as of 30 th June 2019, out of the 1348 staff, 1,332 staff were due for performance appraisals. The difference comprised of staff who were exempted or still on probation. It was noted that 118 out of the 1,332 staff did not participate in the appraisal process. Table 14 below shows the results of the appraisals.
+
+T able 14: Employee performance results for managers and below for FY
+
+2018/19
+
+	Level of Performance	Number of staff	Percentage	
+1	Outstanding	0	-	
+2	Exceeded Expectations	13	1%	
+3	Met expectations	1200	90%	
+4	Needs Improvement	1	0.1%	
+5	Unsatisfactory	0	-	
+6	Incomplete/ did not fill appraisals	118	13%	
+	Total	1,332		
+
+
+
+
+The performance of the 118 staff of the Authority was not evaluated for the year. With no appraisal undertaken, Management may not get to know the development needs of staff and their individual contribution to the performance of the organization.
+
+The Accounting Officer explained that in order to improve compliance in the next cycle, the ERP/HCM performance module is being rolled out to all staff. It will then be easy to track, monitor and report on all staff appraisals in a timely manner.
+
+I advised that the Human Resource Department should plan adequately and engage other departments, follow up staff and have them appraised annually as required by the Human Resource Manual.
+
+9.2 Monitoring Staff Attendance
+
+Section 3.7 of the UNRA Human resource manual requires employees to be in attendance and punctual at work at all times. Employees are expected to work on all scheduled work days and to report to work at start time and not leave before the designated time.
+
+Through interviews and observations, I noted that UNRA does not have an automated clock in system to record daily staff attendance. A register is placed on every floor for 27
+
+
+
+
+
+
+
+
+
+
+
+staff to sign in as they report to work in the morning and out as they leave. I also noted that this register is only at the headquarters and not in the stations.
+
+I also noted that the attendance register is not monitored or checked by the Human Resource department. Instead the department relies on information from heads of departments/ supervisors for cases of absence from duty.
+
+The current system is not effective in monitoring absenteeism at the workplace.
+
+The Accounting Officer explained that the idea had been brought forward but not implemented due to lack of funds.
+
+I advised the Accounting Officer to further streamline the system. I advised that consideration should be given to introducing an electronic clocking system to eliminate human interference and facilitate production of timely and accurate information.
+
+10.0 Land Compensation
+
+Acquisition of land for the right of way for the national road network is one of the key activities of UNRA. I reviewed land compensation activities on a sample of roads. The observations are in Table 15 below;
+
+Table 15 land compensations:
+
+No	Observations	Recommendations	
+10.1	Public legal notification and gazette of land for public use Section 5 of the Land Acquisition Act Cap 226, 1965 requires that after the publication of a declaration in respect of any land, the assessment officer shall cause a notice to be published in the gazette and exhibited at convenient places on or near the land. A copy of the published notice is also served on the registered proprietor of the land. The notice shall indicate a day when all persons having an interest in the land should appear personally or by agent before the assessment officer.noted that among the sampled projects, Uganda National Roads Authority did not submit a request to the Ministry of Lands, Housing and Urban Development (MLHUD) to declare Government interest in the land identified for the Hoima-Wanseko road project as required by the law.may undertake transactions on the land such as selling the land and securing titles. This breeds land grievances and litigation.IPAPs	toI advised the Accounting Officer liaise with MLHUD to ensure that public notices of gazette of the land earmarked for planned are obtained and issued in time.projects	
+
+
+
+
+28
+
+
+
+
+
+
+
+
+
+
+
+	Management explained that the delay was due to the proposed changes at the points 0+00Km and 42+500Km along the road alignment. This has since been resolved and the road project has been submitted for gazetting with Ministry Justice and Constitutional Affairs.		
+10.2	The guidelines for compensation assessment under the Land Acquisition Act provide that a cut-off date shall be the designated date of completion of the census and developments inventory for project affected persons. Persons occupying the project area after the cut-off date shall not be eligible for compensation or resettlement assistance and similar, fixed developments made after the cut-off date shall not be compensated.established that UNRA did not set a cut- off date for the compensations of PAPs on the Kampala Northern bypass project phase 2 contrary to the provisions of the guidelines. PAPs and the overall compensation costs have kept on escalating considerably due to the changes in the designs of the project, and additional valuations of properties in the supplementary compensations.Management explained that the cut-off date principle would not apply for the KNBP 2, given that the designs of the project have kept on changing since the time of project inception, creating re-alignments, and acquiring supplementary land.IFailure to set a cut-off date on Kampala Northern bypass project phase 2	I advised the Accounting Officer to work with the contractor and establish a final alignment of the project and establish a cut-off date for the project to avoid over escalation of compensation costs.	
+10.3	Delays in payment for valued land and propertiesThe guidelines for assessment of compensation under the Land Acquisition Act 2007, section on the Compulsory Land Acquisition Process, Procedure No. 11 requires that with consideration to arbitration, compensation and resettlement, the period from the approval of the valuation report to payment of compensation awards shall not exceed 6 months (180 days).I noted that UNRA approved approximately 2,389.15 acres of land and properties along the alignments of sampled road projects (Jinja - Kampala_ Express way, Hoima-Wanseko, Busega-Mpigi, Kampala Northern Bypass project 2 and Soroti- Akisim road) which were valued at UGX 403.99bn. However, less than 50% of this land had been fully compensated and acquired by	to engageI advised the Accounting Officer the relevant authorities to advocate for the provision adequate resources needed for timely compensation of PAPs.the	
+
+
+
+
+29
+
+
+
+
+
+
+
+
+
+
+
+	the close of the financial year under review even though the approval of the awards by CGV had been made more than six months ago.The delayed payment of PAPs presents a risk of UNRA acquiring the Right of Way at very costly prices due to escalation of the awards. The Land Acquisition guidelines require that if the compensation award has not been paid within one year from the project cut-off date, the valuation report shall be reviewed annually at 15%.Management indicated that the delays in compensations are a result of inadequate releases of funds from the Ministry of Finance. Secondly a number of PAPs were missing vital documentation and took long to obtain them such as; letters of administration, death certificates among others, without which payments could not be effected. Management further explained that UNRA will continue to engage MoFPED for adequate resources.		
+10.4	Payment of PAPs (at non-reviewed rates ) Guideline No. 5, Principle No. 5 of the Guidelines for compensation assessment under the Land Acquisition Act 2007, requires that if the compensation award has not been paid within one year from the project cut-off date, the valuation report shall be reviewed annually at 15%.From the review of the various CGV approved reports and a sample of PAPs payment details, I noted that some PAPs along the sampled road projects (Jinja - Kampala Express way, Hoima-Wanseko, Busega - Mpigi, Kampala Northern Bypass project 2 and Soroti- Akisim) had been awarded compensations as early as 11 th November 2015 and paid in financial year 2018/19 more than two years from the time of award. The valuation report however, was not reviewed as stipulated the compensations made during the year were based on old valuations.in the guidelines. As suchPayment of PAPs at values that are more than a year old denies PAPs the fair value of their properties resulting in grievances, rejection of compensation and refusal to handover land by the PAPs. This impacts on project implementation.the unpreparedness of the PAPs for example when they may not have operational bank accounts, letters ofManagement attributed the delays to	I advised the Accounting officer to settle awards to the PAPs within the stipulated timelines.	
+
+
+
+
+30
+
+
+
+
+
+
+
+
+
+
+
+	administration and other vital documents for them to qualify for payments. For those that would qualify for the 15% revision, there is inadequate funding to meet this cost given the annual budget allocations to the compensation exercise.		
+10.5	Delays in transfer of titles to Government Section 7(1-2) of the Land Acquisition Act Cap 226, 1965, requires that where a declaration has been published in respect of any land, the assessment officer shall take possession of the land as soon as he or she has made his or her award under section 6 of this Act. The land shall immediately, by operation of the Land Acquisition Act be vested in the Uganda Land Commission free from all encumbrances.completed compensationsI established that for the sampled projects (Jinja - Kampala Express Way, Hoima-Wanseko, Kampala Northern Bypass project 2 and Soroti- Akisim road) UNRA had for approximately 1,181.719 acres of land. However, by the close of the financial year, less than 30% of the compensated land had been the compensation was completed. Management attributed this to the lengthy process of mutation at the Lands Office, as well as delays in obtaining requisite documentations such as identification and proof of ownership from PAPs.transferred to Government afterFailure to transfer titles to Government exposes UNRA to possible loss of land through encroachments and future claims by third parties.Management explained that they have worked with Ministry of Lands Housing and Urban Development (MLHUD) to establish a Sub – Ministerial Zonal Office (MZO) at UNRA and this was commissioned on 7 th August 2019. Staff from MLHUD including; one (1) Senior Staff Surveyor, four (4) staff surveyors and four (4) staff cartographers have been seconded and now stationed at UNRA to fast track the subdivision and titling process. The MLHUD staff at UNRA have obtained licences to plot and process deed plans at fourMZOs namely; Kabale, Mpigi, Tororo, and Moroto.	in orderI advised the Accounting Officer to follow up the matter with the Ministry of Lands to expedite the transfers of the land titles. Additionally, the UNRA responsible staff should ensure that the requisite documentation for processing of titles is obtained for the PAPs.	
+
+
+
+
+11.0 Delays in delivery of supplies - UGX 24,018,395,488
+
+Regulation 53(1) b of the PPDA (Contracts) Regulations, 2014, requires contract managers to make certain that the provider performs the contract in accordance with 31
+
+
+
+
+
+
+
+
+
+
+
+the terms and conditions specified in the contract. This includes ensuring that contracts are completed on time.
+
+UNRA entered into contracts with several providers for supply of road equipment during the financial year under review amounting to UGX 24,018,395,488. According to the special conditions of the contracts and the schedule of deliveries, these supplies were to be delivered on average within 4 ½ months with expected dates of deliveries ranging from 3/11/2019 and 3/12/2019.
+
+Review of the contract management files and the payment schedules revealed that most of these supplies were delayed and not delivered within the agreed timelines. Management indicated that these delays were mainly occasioned by the lengthy processes of opening up and amending letters of credit with Bank of Uganda.
+
+Delays in delivery of supplies affect the implementation of planned activities and the delivery of services to the intended beneficiaries.
+
+The Accounting Officer explained that delays are caused by insufficient quarterly releases to open the required Letters of Credit.
+
+I advised the Accounting Officer to use methods of procurement and payments that minimize delays in contract execution.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+KAMPALA 27 th December 2019.
+
+32
+
+
+
+
+
+
+
+
+
+
+
+Appendix I – Implementation of planned activities
+
+Program/ Project	Planned output	Amount (UGX) Billion	Output Delivery	Audit Remarks	
+1040 Design Kapchorwa-Suam road 77km	15km- equivalents constructed	Budget:132.88 Release:93.77 Spent:57.55	Partially Achieved	to delaysOutput was partially achieved at the end of the quarter. This was due in acquisition of right of way attributed to land disputes, which affected the progress of works.	
+1281 Tirinyi- Pallisa- Kumi/Kamonkoli Road	40km- equivalents constructed	Budget:122.1 Release:70.12 Spent: 65.01	Not Achieved	This output was not achieved due to the long procurement process. The procurement was still ongoing for Consultancy Services for Design Review Construction Supervision of Upgrading of Tirinyi- Paliisa-Kumi/Pallisa-Kamonkoli Road. There were delays noted n acquisition of land and procurement of consultants.andfunds were diverted to other projects.The	
+1322 Upgrading of Muyembe- Nakapiripirit (92 km)	20km equivalent constructed	Budget:84.29 Release: 47.67 Spent:4.59	Not Achieved	This output was not completed. This was because the procurement for the civil works contract was still ongoing. There also delays in finalizing of the loan re-negotiations for Muyembe Nakapiripirit Road Project. This has delayed signing of the works contract. However, an IDB Mission in June 2019 indicated that Muyembe Nakapiripirit would soon be cleared.funds were funds spent were a diversion to other projects.The	
+1319 Kampala Flyover	5% of works completed	Budget: 0 Release: 1.238 Spent:0.9	Not Achieved	The output was not completed. This was due to delays in compensations of project affected persons.funds were funds spent were a diversion to other projects.The	
+1176 Wanseko (83Km)Hoima- Road	24.25km equivalents constructed-	Budget: 115.5 Release: 89.2 Spent:81.48	Not Achieved	The output was not completed. The project was scheduled when it was not implementation. However funds were released even when the project preparations had not been finalized.ready for	
+
+
+
+
+33
+
+
+
+
+
+
+
+
+
+
+
+	funds were diverted and spenton other projects.The	
+1490ButalanguLuwero-	16 km- equivalents constructed	Budget:45 Release:0.09 Spent:0.09	Not Achieved	The output was not completed. This was due to the delays in non- procurement of contractor for civil works. This was attributed to guidance first procure the design review and supervision before procuring the civil works contractor.from BADEAconsultanttofunds were diverted and spent on other projects.The	
+1056Corridor ProjectTransport	223 km of roads to be worked on during the year	Budget: 392.9 Release:354 Spent:353.49	Not Achieved	This output was not achieved. This was caused by UNRA’s request to haul procurement of a consultant for the works. I also noted that out of UGX 354.07Bn cumulative release for FY 2018/19, UGX 353.49Bn was spent on other activities leaving UGX 0.58Bn unspent by close of the FY.	
+1403 Soroti- Katakwi-Moroto- Lokitonyala road	60km- equivalents constructed	Budget:140 Release:140 Spent: 140	Partially Achieved	The Soroti-Katakwi-Akisim (100Km) was partially achieved by the end of quarter four.	
+1276 Mubende- Kakumiro-Kagadi Road	32 km- equivalents constructed	Budget:74 Release: 73.6 Spent: 73.6	Achieved	35km road works was achieved. The over performance against target is due to early acquisition of the (which was acquired in the previous financial years). This also explains the current arrears under the project.right of way	
+1277 Kampala Northern Bypass Phase 2	7km- equivalents constructed	Budget: 103.23 Release:84.27 Spent: 83.23	Not Achieved	The output was not implemented. This was due to delayed Access to Site owing to design improvements, disputed compensation amounts by PAPs, and family disputes over land ownership. There has also been increase in scope of works due to Design improvements. 100% of the budget was, however, absorbed despite the under achievement of km- equivalents attained. This was due to payment of arrears related to FY 2017/18.	
+
+
+
+
+34
+
+
+
+
+
+
+
+
+
+
+
+1275 Olwiyo Gulu Kitgum Road	15 km - equivalents constructed and Payment of Retention	Budget:45.83 Release:45.55 Spent:45.55	Achieved	The project output was completed. The Defects Liability Period ended on 17 th March 2019.	
+1506 Land acquisition	1000 Hectares of land and properties therein acquired.	Budget: 249.66 Budget:270.17 Budget:269.53	Not Achieved	The output was not achieved. The biggest percentage of the funds was spent on activities not related to the planned output. For example;  Payment of salaries and NSSF for contract and temporary staff ;  Travel inland, venue hire and motor vehicle maintenance;  Facilitation for identification, verification and disclosure activities along National Roads during the process of acquiring the right of way;  Facilitation for pre-disclosure engagements and identification, verification and disclosure activities.	
+1510retooling ProjectUNRA	1 Technical assistance to staff 2) Automation of the Balanced scorecard 3) Cascading and aligning the tier 1 and 2 scorecard 4) Gender and Equity policy 5) Unit cost estimation.	Budget:70.4 Release:59.4 Spent:60.45	Not Achieved	a) Technical assistance to staff was provided. Automation of the Balanced scorecard b) Cascading and aligning the tier 1 and 2 scorecard c) Gender and Equity policy d) Unit cost estimation. The funds were diverted and spent on other Projects.	
+0267 Improvement of ferry services	a)Procurement of Bukungu- Kagwala- Kaberamaido (BKK) Ferry. b)Construction of Sigulu Ferry. c)Rehabilitation of Old Bukakata Ferry	Budget: 16.5 Release:14.85 Spent:14.76	Not Achieved	a)Procurement of Bukungu- Kagwala- Kaberamaido (BKK) Ferry was not achieved. b) Construction of Sigulu Ferry not achieved c)Rehabilitation of Old Bukakata Ferry he output was not achieved.were spent on machinery and equipment that were not related to the output in question.Funds	
+
+
+
+
+35
+
+
+
+
+
+
+
+
+
+
+
+The output was partially completed as indicated in the details below:
+
+Mpondwe Bridge: There was delayed formal response by DRC government regarding giving a go- ahead to start works on DRC side.
+
+Multi Cell Box Culvert at
+
+Ajeleik: After excavation to the required design depth, soil strata not coinciding with the MoWT
+
+1320 27 Percent of Budget:32.5 Construction of Partially Bridge works Release:28.98 66 selected Achieved completed Spent:29.32 bridges
+
+Source: OAG Reviews of performance reports and physical inspections
+
+design report was encountered. This led to re-assessment of foundation options. Aji and Ora Bridges: There was a delay by the Contractor to submit an acceptable Draft Detailed Design Report. Enyau Bridge: Delay by the Contractor to submit an acceptable Draft Detailed Design Report. Delays in acquiring Right of Way for the re-aligned bridge and approach roads.
+
+However it was difficult to attach a cost per bridge as it had not been provided for in the workplan.
+
+Appendix II - Summary of key findings for each of the projects undertaken under the Engineering Audit for the FY 2018/19
+
+S/No	Road Project	Summary of findings per project.	
+1	SorotiAkisim road- Katakwi -	i. Underestimation of quantities in the Bill of Quantities. ii. Redundant Laboratory Equipment	
+
+
+
+
+36
+
+
+
+
+
+
+
+
+
+
+
+	iii. Disputes Board (DB) not appointed iv. Delayed Payments to 407,287,185 and USD 64,255.07)the Contractor (interest Ugxv. Signs of stripping are evident at several sections-Km 53+000,58+900 vi. Eroded stone pitching mortar (Km 0+160 to 0+500) vii. Failed stone pitching e.g Km 15+335 viii. Blocked chutes e.g Km 18+650 ix. Spot Honey combs in box and pipe culvert wing walls x. Box Culverts flowing full board before construction completion xi. Vandalism of hazard sign reflectors by peeling xii. Broken and vandalized reflectors on the guardrails xiii. Missing bolts xiv. Anti- vandalism missing on some bolts (not spot welded) xv. Access roads between Km 47+500 and 78+000 have notxvi. Non -use of appropriate PPEs by some workers xvii. Poor stockpiling of the cut material from the road especiallyconstructed.around Km 92+000 xviii. Non- restoration of exhausted borrow areas. xix. spacing of shear/anchor bars on top of T beam for the bridge at Komolo was not in line with the drawings xx. Working without drawings xxi. Dry bonding of stone pitching works	
+2	Bumbobi - Lwakhakha road	timei. The designs and subsequent design reviews were inadequate in that several items were abnormally underestimated. ii. Review of the box culvert design indicated omissions for checks on serviceability requirements iii. Increase in time related costs by over 500M due to extensions ofiv. Avoidable Interest on delayed advance payment of UGX 178,504,035 and USD 172,534.16 v. Increase in project cost by UGX 1,554,429,739.13 (and rising) due payments in foreign currency vi. Incorrect administration of 18.02A (nominate service provider) vii. There was an observed damage to the road at Ch 0+000 manifested in developing ruts viii. Bleeding was observed at Nabumali round about and over a 300m stretch starting at Km 7+065 ix. Surface cracks and honey combing were observed in box culvertx. Differential levels were noted between side drains and accessxi. Surface cracks were noted across stone pitched sections xii. An overpayment of UGX 3M was found on kerbing at Km 4locations culverts(Round about)	
+3	Musita - LuminoBusia - Majanji road/	i. Underestimation of quantities in the Bill of Quantities ii. Irregular mode of cost control	
+
+
+
+
+37
+
+
+
+
+
+
+
+
+
+
+
+	iii. Delayed Submission of Performance security iv. Delayed Payments to the Contractor 1,750,442,832.39 and USD 627,224)(interest Ugxv. Delayed handover of sections of land to the contractor vi. Bleeding road sections due to access application of bitumen (km 76+00) vii. Eroded access road edge (Km 36+666) viii. Lack of protection works at all culvert points ix. Erosion of road embankments x. Siltation and debris at inlet and outlet of culverts xi. Scouring of stone pitching works xii. Failed stone pitching works xiii. Blocked channels due to lack of access culverts. xiv. Wider and uneven spacing of U drain cover slabs (km 35+900 LHS): xv. Cracks in the lined drain (km 19+119.5) Majanji town. xvi. Incomplete and silted channel at km 19+473 RHS Majanji town xvii. Irregularities in alignment of guard rails xviii. Poor overlap of road marking xix. Inadequate use of PPEs by steel fixers and bitumen crews. xx. None use of dispensers for condoms xxi. Non- restoration of exhausted borrow areas. xxii. Overpayment of UGX. 44,353,281.	
+4	HoimaWanseko road- Butiaba -	i. Underestimation of quantities leading to an increase in value ofii.works by 8% equivalent to USD 12,095,257.87 Inadequacies in Bridge hydraulic Design leading to redesign of the whole structure iii. Delayed submission and Renewal of relevant insurance policies. iv. Delay in submission of baseline work programme v. Honeycombs on bridge and box culvert structures vi. Several work activities on-going with good workmanship exhibited vii. Lack of compliance to use PPE by workers viii. Sample items were measured and compared certified payments in IPC. An overpayment of USD 6387 was observed ix. Delayed payments of contractor’s IPCs which impacts on his cash flows and work progress x. Key personnel of the project were deployed xi. Progress reports and minutes of meetings were prepared.	
+5	Kyenjojo - Fort Portal road	i. Start of project without designs/inadequate planning ii. Avoidable payment of interest on advance payment of UGX 245,530,973, USD 16,435.74 at contract document preparation Increase in project cost by UGX 8,270,932,974.582 (and increasing) due to payments in USDiii.iv. Delayed payment of certificates v. The project team tracked advanced payment and its use for mobilisation	
+
+
+
+
+38
+
+
+
+
+
+
+
+
+
+
+
+	vi. vegetation overgrowth and heavy siltation was apparent at some locations vii. Adherence to safety requirements needs to be strictly enforced	
+6	Ishakaroad- Katunguru	vii. viii.i.ii. iii. iv. v.vi.ix. x.xi.Inadequate planning: The feasibility study and the pavement evaluation were done after award of the works contract Delayed Issuance of Final Designs Slow progress of works Delay in updating of work programme Delayed mobilization of contractor’s equipment and Engineer’s laboratory equipment Spot locations of silting in the stone pitched drains and culverts. Erosion of slopes/fills in some sections at km 21+235 Vegetation growth at some stone pitching and culvert locations. Damaged stone pitching works in some sections. No enforcement of use of PPE (nose masks) for labour force doing the asphalt concrete. Delayed payments of contractor’s certificates	
+7	Lopei bridge	i. ii.iii. iv. v.vi.Improper choice of contract methodology Overestimation of the contract price by UGX 1,255,802,100 (VAT exclusive). It was observed that the contract amount was overpriced with items and overestimation of other needed Omissions in embankment Design. The embankment as in place does not protect the lower end (toward Moroto) Increased project cost by UGX 157,278,932.41 due to payments in foreign currency Different rates for a similar item in the same group leading to a contract rise of UGX 779,200,000 Absence of a new technical proposal and method statement The erosion protection works outstanding. Bolts on some posts were missing.inclusion of unnecessarylike stone pitching were	
+8	Kaabong bridge	i. The initial assessment was inadequate and the appropriate intervention required a re-scoping of the whole works ii. There was no engineer’s estimate and work schedule preparediii.iv.v.prior to tender Lack of Concept/Scheme designs. These designs are a basis for engineer’s cost estimates which confirms the alignment of project cost and budget Lack of review of contract document. As a result employer’s requirement differs from contractor’ bid. Increase in project cost by over UGX 94,585,172 due to payment in foreign currency vi. Unjustified 10% contingency Inclusion in Contract. UGX 1,077,123,580 contingency has led to unnecessary increase in contract sum.	
+
+
+
+
+39
+
+
+
+
+
+
+
+
+
+
+
+	Failed gabion/protection works – Upstream of Kapedo sidevii. Expiry and Non-renewal of Performance Guarantee. viii. Delays in Final detailed design submission ix. x. Cracks in stone pitching mortar xi. Erosion of approach embankment xii. Siltation of the deck xiii. Pothole on the approach slab area resulting from loss of wearing course material xiv. Hazard sign paint peeled off xv. Gabion length, stone pitched area, approach road length were constructed as per drawings xvi. Guardrail installed length less by 19.5m than required xvii. Delayed payments of contractors IPCs xviii. Key personnel of the project were deployed xix. Progress reports and minutes of meetings were prepared.	
+9	Waiga Ruzairwe Nsongi Mpondwe bridgebridge, bridge, bridge,	i. Unjustified 10% contingency Inclusion in Contract. UGX 3,373,105,611 contingency has led to unnecessary increase in contract sum Lack of some details in Construction Drawings for example bearing layout details, seismic restraint details Lack of key personnel on construction siteii.iii. Ruzairwe BridgeLogs/debris blocking channel flowiv. Guardrail end units not constructed as per drawings v. Rusted bolts and guardrail posts vi. vii. Missing hazard sign plate viii. Hazard sign placed in wrong location ix. Properly done river training works x. Overpayment on proprietary seismic restraints and installation for Ruzairwe bridge to UGX 56,300,000 Mpondwe bridge xi. Hairline cracks on the raised kerb xii. Extremely short gabion protection works upstream Nsongi bridge xiii. Hairline cracks on the raised kerb xiv. Eroded river banks xv. Neatly completed structure and well trained river Mpanga 6 bridge xvi. Lack of compliance to use of PPE by workers xvii. Overpayment on bridge bearings for Mpanga 6 Bridge to UGX 32,562,600	
+10	Mechanized Maintenance of Selected Unpaved Roads under Framework Contracts for 3 Years Totaling to 487.2Km. Call off	i. Absence of Progress/Status reports ii. Un updated work program iii. Expired Performance Security iv. Slippery section of the road with no sign of gravel (still earth) v. Damaged section (large potholes) need repair vi. Grown grass on the shoulders of the road. vii. Inadequate road drainage (Section of the road flooding/water	
+
+
+
+
+40
+
+
+
+
+
+
+
+
+
+
+
+	order 3: Kaitabawala- Kisozi-Busota (58.2Km).	logged, Low land needs culvert installation) viii. Project sign boards were not bearing information on HIV/AIDS. ix. Absence of mix designs and Test results for concrete and concrete products (culverts) x. Status reports not detailed enough xi. Absence of snag list at substantial completion xii. Delayed execution of site instructions	
+11	Bukomero-Dwaniro- Kyankwanzi (68.2Km), Kabwoya-Kituti (42Km), Kiziranfumbi- Kabaale (25.7Km) Buseruka-Tonya (29.5Km)	i. Isolated locations on the Buseruka Toonya are low-lying and require embankment construction to eliminate ponding ii. The frequency of updating work programs is unrealistic	
+
+
+
+
+41
+
+
+
+
+
+
+
+
+
+
+

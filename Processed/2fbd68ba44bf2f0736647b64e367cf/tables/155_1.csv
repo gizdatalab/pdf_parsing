@@ -1,0 +1,7 @@
+,Bill Item,Unit,Contract Rate (F) UGX,Lowest rate among municipalities (F m ) UGX,Score (2*F m /F),Percentage of Contractor’s Rate to the Lowest (1+(F- Fm)/Fm)%
+0,Roofing Sheets (gauge 28),m 2,"5,500 1","20,000 2",2.0,100%
+1,Internal Plaster,m 2,"9,500","5,000",1.05,190%
+2,230mm walling,m 2,"32,000","10,000",0.63,320%
+3,Roofing Timber 100×50mm,m,"6,500","4,000",1.23,163%
+4,Reinforced Concrete,m 3,"360,000","200,000",1.11,180%
+5,Total Score, , , ,6.02,Average = 191%

@@ -1,0 +1,17 @@
+,No.,Items,Location Chainage,Unit,Drawings/ Specifications,Field checks/ measurements (averaged where necessary),Conformity
+0,11) LASTO PKETCH ROAD (0.50KM), , , , , , 
+1,1,Kerb-Kerb road width,0+080,m,9.55,9.6,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+2, , ,0+160,m,9.55,9.55,Ok
+3, , ,0+240,m,9.55,9.55,Ok
+4, , ,0+320,m,9.55,9.6,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+5, , ,0+400,m,9.55,9.53,Ok
+6,2,Asphalt Concrete Width,0+080,m,9.0,9.1,Ok
+7, , ,0+160,m,9.0,9.05,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+8, , ,0+240,m,9.0,9.05,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+9, , ,0+320,m,9.0,9.1,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+10, , ,0+400,m,9.0,9.04,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+11,3,Asphalt Concrete Thickness,0+010;LHS;SH,mm,50.0,50.0,Ok
+12, , ,0+120;LHS;CLE,mm,50.0,65.0,Ok
+13, , ,0+230;RHS;CW,mm,50.0,55.0,Ok
+14, , ,0+340;LHS;CW,mm,50.0,55.0,Ok
+15, , ,0+450;RHS;CLE,mm,50.0,60.0,Ok

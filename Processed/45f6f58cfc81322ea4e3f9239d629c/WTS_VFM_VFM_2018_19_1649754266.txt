@@ -1,0 +1,1315 @@
+T HE R E P U B L I C O F UG AN D A OFFICE OF THE AUDITOR GENERAL www.oag.go.ug | E-mail: info@oag.go.ug
+
+KAMPALA
+
+UGANDA Entebbe Airport
+
+KENYA
+
+KALANGALA DISTRICT
+
+MWANZA
+
+ELECTRICITY FERRY WATER ROADS
+
+TANZANIA
+
+A VALUE FOR MONEY AUDIT REPORT ON THE IMPLEMENTATION OF KALANGALA INFRASTRUCTURE SERVICES PROJECT (KIS)
+
+A REPORT BY THE AUDITOR GENERAL
+
+D E C E M B E R, 2 0 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE REPUBLIC OF UGANDA
+
+Value For Money Audit Report on the Implementation of
+
+Kalangala Infrastructure Services Project (KIS)
+
+A Report by the Auditor General
+
+December, 2019
+
+
+
+
+
+
+
+
+
+
+
+AUDITOR GENERAL’S MESSAGE
+
+24 th December 2019
+
+The Rt. Hon. Speaker of Parliament Parliament of Uganda Kampala.
+
+VALUE FOR MONEY AUDIT REPORT ON THE IMPLEMENTATION OF KALANGALA INFRASTRUCTURE SERVICES PROJECT (KIS)
+
+In accordance with Article 163(3) of the Constitution, I hereby submit my report on the audit undertaken on the Implementation of Kalangala Infrastructure Services Project (KIS) under Ministry of Works and Transport.
+
+My office intends to carry out a follow-up at an appropriate time regarding actions taken in relation to the recommendations in this report.
+
+I would like to thank my staff who undertook this audit and the staff of the Ministry of Works and Transport (MoWT) for the assistance offered to my staff during the period of the audit.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+LIST OF TABLES - II
+ABBREVIATIONS - III
+EXECUTIVE SUMMARY - IV
+CHAPTER ONE - 1
+INTRODUCTION - 2
+  1.1 Background to the audit - 2
+  1.2 Motivation - 2
+  1.3 Description of the Audit Area - 2
+  1.4 Audit Objectives - 3
+  1.5 Audit Scope - 4
+  1.5 Audit Scope - 4
+CHAPTER TWO - 5
+DATA COLLECTION METHODS - 6
+CHAPTER THREE: - 7
+SYSTEMS AND PROCESS DESCRIPTION - 8
+  3.1 Roles and Responsibilities of Key Players - 8
+  3.2 Process Description - 8
+CHAPTER FOUR - 11
+FINDINGS AND RECOMMENDATIONS - 12
+  4.1 Project Planning, development and Procurement - 12
+  4.2 Delivery of expected outputs under KIS - 15
+  4.3 Monitoring and supervision - 20
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) I | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+LIST OF TABLES
+
+Table 1: Showing KIS funding and sources - 4
+Table 2: Showing capital investments by KIS against support payments from GoU as at 2016 - 13
+Table 3: Showing comparative total repayment amounts using other funding sources - 13
+Table 4: Total development costs - 15
+Table 5: Ferry services support payments based on the two options - 16
+Table 6: Performance of KIS under the water component - 17
+Table 7: Showing CPI’s used by KIS and Actual core CPI’s from UBOS - 21
+Table 8: Rate per trip used vs actual based on UBOS Core CPI - 21
+Table 9: Undetected ferry costs by GoU from KIS payments - 22
+Table 10: Showing excess ferry services support payments due to wrong base rate application - 22
+LIST OF FIGURES
+Figure 1: Power connections by KIS target vs actual - 18
+
+II
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+ABBREVIATIONS
+
+GoU	Government of Uganda	
+IDC	Industrial Development Company	
+IA	Implementation Agreement	
+IAA	Implementation Agreement as Amended	
+InfraCo	Infrastructure Management Company	
+KIP	Kalangala Infrastructure Services Project	
+KIS	Kalangala Infrastructure Services Limited	
+KTC	Kalangala Town Council	
+MoFPED	Ministry of Finance Planning and Economic Development	
+MWE	Ministry of Water and Environment	
+MoWT	Ministry of Works and Transport	
+UDC	Uganda Development Company	
+UGX	Uganda Shillings	
+UNRA	Uganda National Roads Authority	
+
+
+
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS)
+
+III
+
+| A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+EXECUTIVE SUMMARY
+
+The Government of Uganda (GoU) entered a In 2018, a decision was taken to transfer Memorandum of Understanding with InfraCo the disbursements and management of the Limited (“InfraCo”) in September 2005 to develop, expand and maintain key infrastructure services on Bugala Island in Lake Victoria for the benefit of BIDCO Oil Company, Kalangala district residents, and businesses. This was in fulfilment of the MoU signed between GoU and BIDCO in April 2003 where, Government agreed among other things to develop, maintain and operate infrastructure on Bugala Island that would facilitate the
+
+Programme to Ministry of Works and Transport (MoWT). There was however no clear budget lines for the KIS support payments.
+
+The objective of this audit was to evaluate the implementation and performance of Kalangala Infrastructure Services Project (KIS) in the delivery of expected outputs.
+
+smooth implementation and operation of the KEY FINDINGS BIDCO Project. InfraCo formed a local company, Kalangala Infrastructure Services Limited (KIS) as an integrated multi sectoral utility limited liability company registered in Uganda to be the implementing agency/vehicle for the Kalangala Infrastructure Services Project (KISP).
+
+It was observed at the time of audit that KIS had put in place the planned infrastructure;
+
+- The road from Luuku – Kalangala – Mulabana (65.6 km) was upgraded from Class “C” to Class “B” Gravel Standards.
+- The ferry landing sites at Bukakata and Luuku In January 2009, upon approval of the were reconstructed. Development Plan submitted by KIS, GoU signed an Implementation Agreement (IA) with Kalangala Infrastructure Services Limited (KIS). KIS was designed as a PPP to achieve the economies of
+
+- Two ferries with a capacity of two hundred and six (206) passengers each had been constructed and were operational.
+- A 1.6 MW hybrid solar/diesel power generating scale necessary to attain project finance, operate plant was constructed at Bukuzindu with efficiently and serve the island residents’ with improved access to safe water, safer transportation
+
+transmission and distribution lines serving the major settlements on Bugala Island. and more reliable renewable solar powered • KIS had rehabilitated and expanded the electricity. The implementation of the project was to last for 15 years with the total project investment estimated at USD 49.56 million 1 .
+
+Kalangala Town water supply system and constructed four small piped water systems in Kagulube, Murole, Kasekulo and Mulabana.
+
+In 2011, an amendment was made to the These infrastructure services have greatly Implementation Agreement (IA) through which GoU acquired 45.7% ordinary shares valued at US$6.5 million, InfraCo retained 54.3% valued at US$7.7 million and Industrial Development Company (IDC) worth of US$7.5 million of preferential shares. GoU was required to pay in advance annual and quarterly support payments to KIS for ferry and road services respectively. The support payments were disbursed through UNRA for years 2012 to 2017.
+
+1 Kalangala Infrastructure Services LTD, Project profile.
+
+facilitated the implementation of the Oil Palm Project by BIDCO, improved the connectivity between Kalangala District and mainland via Bukakata, and generally improved the quality of life in the District.
+
+However, the audit identified gaps that need to be addressed to ensure smooth implementation of this and similar projects as further discussed below;
+
+IV
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+i) Project planning and development
+
+road development costs upon completion of the GoU did not undertake its own independent road construction works. assessment of the infrastructure services gaps on Bugala Island so as to evaluate the best possible service delivery options as a basis for the investment decision. The government investment decision was based on the Research Market Analysis report and a Development plan presented by InfraCo which was also not subjected to an independent feasibility assessment to verify the assumptions and/ or analyses presented.
+
+KIS was directly sourced by MoFPED without any consideration of any other alternative provider to compare the costs and benefits to establish the best option as required by the procurement regulations.
+
+In addition, with the road support payments spread over 13 years, projections show that GoU will spend a total of UGX120.25Bn which is considered costly given that KIS is not responsible for maintaining the road. With proper planning, evaluation and negotiations, government could have explored better cost effective delivery options.
+
+Ferry Component
+
+At the time of audit (October 2018) KIS had not paid to GOU annual license and ferry operating fees amounting to USD 275,000. The Agreement however did not provide for penalties for delayed payment of annual ferry operating fees. In addition, it was established that following the Ministry of Finance Planning and Economic amendment of the Implementation Agreement, Development (MoFPED) could not therefore ferry service support payments were adjusted confirm that the infrastructure investment option chosen for Kalangala was the most economical, efficient and effective for both GoU and the citizens of the island.
+
+from the ferry traffic (passengers and vehicles) based payments to per trip payment terms. Through interviews, KIS indicated that it was less cumbersome to monitor number of trips compared to monitoring passengers and vehicles. ii) Delivery of expected outputs under KIS However on further analysis of relevant The construction phase of the project commenced in 2011 with the ferry component and concluded in June 2016 upon final completion of the road works.
+
+Road Component
+
+The road construction works that were expected to be executed within a period of twelve (12) months were completed after three years in March 2016 resulting in a two years delay.
+
+documentation, it was noted that a passenger manifest is prepared for each trip which could have been used to compute the traffic based payment. An evaluation of both options reveals that the per trip option is more costly which resulted in GoU paying UGX 16.3 billion more in the first six years of the ferry operations.
+
+The IAA provided that in the event of KIS failing The implementation agreement and its to provide a ferry service as a result of GoU’s amendment however did not provide for remedies / penalties for delayed completion of the road construction works. The analysis of records revealed that during the construction phase of the project, GoU had paid UGX 40.85Bn in form of road support payments against a total of UGX 40.16Bn reported to have been incurred by KIS as actual
+
+default in payments, KIS would be deemed to have operated a ferry service. It was observed that GoU had spent a total of UGX 871 million in respect of deemed trips arising from 308 none performed trips for the year 2017.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) V | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Water Component
+
+There was no evidence that the various agencies The water performance agreement signed had nominated representatives to constitute the between GOU and KIS did not specify the required water system designs, capacity, target population, and timelines to be met by KIS. The annual plans and performance reports for the water components showed that KIS had constructed five of the eight agreed water systems on Bugala Island which were operational with installed capacity of 21,500 cubic meters of water production per month.
+
+From a review of the performance reports, it was observed that actual monthly average consumption was at only 4,750 cubic meters (22%), serving approximately 8,720 inhabitants representing 16% of the Island’s population.
+
+Power Component
+
+It was observed that the company had constructed a power plant with a capacity of 1.6MW (per hour) which was operational in Bukuzindu, Kalangala district. At the time of the visit in September 2018, the extended grid length stood at approximately 140 Kms with 67 transformers installed. The power performance reports for KIS revealed that the company had attained the customer connection target set at three thousand (3000) customers by year 4 (2018) as set out in the power license agreement.
+
+Through interviews and document review, it was observed that KIS faces a challenge of low utilization as the maximum load attained during the period under review was 0.4 MW per hour putting average utilization capacity below 25% of installed capacity.
+
+iii) Monitoring and Supervision
+
+It was noted that the oversight committee had not been operationalized as required under the Implementation Agreement.
+
+oversight committee. Whereas, Mott MacDonald was appointed by KIS as an independent monitor for ferry operations on behalf of GoU, and installed GPS monitoring devices, none of the government agencies was keenly monitoring the ferry service level operations. There was no mechanism in place for Mott MacDonald to independently certify the passenger and vehicle traffic levels achieved by the ferries.
+
+Due to weaknesses in monitoring and supervision, it was established that GOU had made erroneous payments to KIS amounting to UGX 13.039 billion as a result of application of wrong base factors and UGX 564 million due to application of wrong CPIs.
+
+In addition, GoU did not recover UGX 686.7 million resulting from a decrease in the cost of operating ferry services as provided for by the IAA.
+
+VI
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+KEY RECOMMENDATIONS
+
+- MoFPED should ensure that for any future investment project of this nature, feasibility studies are properly undertaken to establish the possible alternatives and related costs to inform their decisions.
+
+- Government of Uganda through MoFPED should ensure that for any future project of the kind, a competitive procurement process is conducted to obtain the best possible alternative.
+
+- GoU should ensure that, deliverables for such projects are clearly defined and remedies or penalties for non-performance specified.
+
+- MoFPED and MoWT should consider renegotiating the road support payments with a view to reducing the final obligation.
+
+- MoWT should ensure that outstanding annual operating ferry fees are recovered as and when they fall due.
+
+- MOWT should ensure that the agreed annual ferry service support payments are paid in time to avoid penalties (deemed trips).
+
+- The water and power service delivery options should be reviewed to improve on their economical reach and utilization.
+
+- MOFPED and MOWT should ensure that the oversight committee is fully operationalized as set out in the implementation agreement.
+
+- MoWT should make arrangements to review the computations for the support payments with a view of recovering excess payments.
+
+OVERALL CONCLUSION
+
+The infrastructure services developed by KIS have greatly facilitated the implementation of the Oil Palm Project, improved the connectivity between Kalangala District and mainland via Bukakata, led to significant developments and generally improved the quality of life in the District.
+
+However, the omissions made during planning and procurement and existing gaps in the Implementation Agreement (IA), 2009 and the Implementation Agreement as Amended (IAA), 2011 posed implementation challenges to KIS. The KIS services are being offered at unrealistic costs to GoU.
+
+To ensure proper implementation of the project, it is important that the Government through the MoFPED invokes the re-negotiation clause such that KIS services are offered at reasonable costs.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS)
+
+VII
+
+| A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+VIII
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS)
+
+| A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+01
+
+s E e c i v r e S
+
+N e r u t c u r t s O a r f n I
+
+a l a g n a l a
+
+R K
+
+f o
+
+n o i t a E t l n a e r m e e n l e p G T m r I o e t i h d t u P n A o e t h r t o p y b e R t A
+
+r t o i p d u e A R y A H e | n o ) M S I r K o ( F t C e c e u j l o a r V P
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER ONE
+
+INTRODUCTION 1.2 MOTIVATION
+
+1.1 BACKGROUND TO THE AUDIT
+
+Bugala Island is the largest of the 84 islands in Kalangala district that make up the Ssese The Government of Uganda (GoU) entered a archipelago in Lake Victoria, covering 275sq Memorandum of Understanding with InfraCo km with a total population of 54,293 persons 3 . Limited (“InfraCo”) in September 2005 to develop, expand and maintain key infrastructure services on Bugala Island in Lake Victoria for the benefit of BIDCO Oil Company, Kalangala district residents, and businesses. This was in fulfilment of the MoU signed between GoU and BIDCO in April 2003 where, Government agreed among other things to develop, maintain and operate infrastructure on Bugala Island that would facilitate the smooth implementation and operation of the BIDCO Project. InfraCo formed a local firm by the names of Kalangala Infrastructure Services Limited (KIS) as an integrated multi sectoral utility limited liability company registered in Uganda to be the implementing agency/vehicle for the Kalangala Infrastructure Services Project (KISP).
+
+KIS is jointly owned by GoU through UDC (45.7%) and InfraCo (54.3%) of ordinary shares. In addition, the Industrial Development Company (IDC) also holds preferential share in KIS. In January 2009, upon approval of the Development Plan submitted by KIS, GoU signed an Implementation Agreement with Kalangala Infrastructure Services Limited (KIS).
+
+KIS was designed to achieve the economies of scale necessary to attain project finance, operate efficiently and serve the island residents’ with improved access to safe water, safer transportation and more reliable renewable solar powered electricity. The implementation of the project was to last for 15
+
+The Islands main economic activities include; fishing, agriculture (oil palm growing, & timber), and tourism as the location and climate makes it attractive for the holiday makers. With the Islands faced with basic infrastructure challenges such as; poor road surfacing; unsafe and unreliable ferry links; and limited access to power and safe water, the Government of Uganda entered into an implementing agreement with KIS to avert the situation. KIS was to develop, expand and maintain key infrastructure services to and on Bugala Island for the benefit of its population, institutions and businesses.
+
+The project in its ninth year of implementation has completed expansion and rehabilitation of the 65.6 Km main Island road; constructed power generating plant and transmission lines; rehabilitated the Kalangala town council water supply system; constructed and is operating two ferries linking Kalangala to the main land via Bukakata.
+
+Owing to public concerns that the project has not been implemented in accordance with the Implementation Agreement, and reports of unrealistic support payments as well as gaps in the oversight and monitoring of the contract, the office of the Auditor General decided to undertake a value for money audit of the project.
+
+The objective of the audit was to assess the performance of the project, identify challenges years with the total project investment estimated and suggest recommendations to improve at USD 49.56 million 2 . performance.
+
+2 Kalangala Infrastructure Services LTD, Project profile. 3 UBOS, National population and housing census, 2014 2
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+1.3
+
+DESCRIPTION OF THE AUDIT AREA
+
+The Kalangala Infrastructure Services Project (KISP) is managed as a Public Private Partnership (PPP) between the GoU and Kalangala Infrastructure Services Limited (KIS) established by an Implementation Agreement (IA) signed by the two parties on 16 th January 2009 and later amended through the IAA in 2011. KIS is categorized into two sub projects namely; Kalangala Infrastructure Services (KIS) for (road, ferry and water components) and Kalangala Renewables (KR) for the power component. The project aimed at providing public infrastructure services and utilities to the residents of Bugala Island, Kalangala district in a manner that is economically and commercially viable using private capital 4 .
+
+KIS is a limited liability company registered in Uganda and is the implementing agency for Kalangala Infrastructure project under a Public Private Partnership (PPP) arrangement whose total cost is estimated at US $49.56 million. GoU’s participation in this project was through UDCs’ acquisition of 46% of the ordinary shares in KIS valued at USD6.5 million. The other shareholders of KIS are Infrastructure Management Company (InfraCo) with 54% of ordinary shares valued at USD7.7 million and the Industrial Development Company (IDC) with USD7.5 million worth of preferential shares.
+
+The components were integrated into a commercial enterprise to achieve the desired economies of scope and scale. GoU was to be represented through an independent expert/monitor to supervise the project and an Oversight Committee with members drawn from MoFPED, MoWT, MWE, MEMD and Kalangala DLG to provide the oversight role during project implementation.
+
+Mandate
+
+Kalangala Infrastructure Services Limited (KIS) operations are mandated by the Implementation Agreement signed with GoU in 2009, and as amended 2011.
+
+Objectives of KIS 5 The project objectives as reflected in the infrastructure components provided by KIS included the following;
+
+- To expand and rehabilitate the 65.6km main Island road and upgrade it to class ‘B’ gravel road.
+- To provide two new ferries to operate between Bukakata and Luuku linking Kalangala to the main land and to rehabilitate and reconstruct the ferry landing sites at Bukakata and Luuku.
+- To construct a hybrid power generating plant at Bukuzindu to generate 1.6 MW for Kalangala inhabitants. Construct both transmission and distribution lines through Bugala Islands to serve all major settlement areas.
+- To rehabilitate and expand the Kalangala Town Council water supply system and construct water transmission and distribution supply network for 5 major fish landing sites.
+
+4 Industrialization Sub-sector Monitoring report, October 2014, Page 50. 5 Industrialization Sub-sector Monitoring report, October 2014, Page 50.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 3 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Funding
+
+Kalangala Infrastructure Services Project was funded through the following sources as shown in Table 1 below;
+
+Table 1: Showing KIS funding and sources
+
+Source	Equity (USD)	Loan (USD)	Total (USD)	UGX Equivalent (1USD =UGX 2,595)	
+UDC	6,500,000	-	6,500,000	16,867,500,000	
+InfraCo	14,108,116	-	14,108,116	36,610,561,020	
+IDC	7,500,000	-	7,500,000	19,495,125,000	
+Nedbank	-	5,000,000	5,000,000	12,975,000,000	
+EAIF	-	7,000,000	7,000,000	18,165,000,000	
+Total	28,108,116	12,000,000	40,108,116	104,113,186,020	
+
+
+
+
+Source: OAG analysis of KIS audited financial statements.
+
+1.4 AUDIT OBJECTIVE
+
+To evaluate the implementation and performance of Kalangala Infrastructure Services Project (KISP) in the delivery of expected outputs.
+
+1.4.1 Audit Questions
+
+The following questions were addressed through the audit:
+
+- Was the planning and procurement for KIS undertaken in a manner that ensured the selection of the most cost effective investment option?
+- To what extent has KIS delivered on the expected outputs?
+- Are the monitoring arrangements effective in ensuring delivery of the expected outputs by KIS?
+
+1.5 AUDIT SCOPE
+
+The audit focused on the implementation of Kalangala Infrastructure Services Project (KIS) by Kalangala Infrastructure Services Ltd in Kalangala district under the Ministry of Works and Transport covering the period from inception (2005) to date (2018). All the four components including ferry, road, water and power were assessed. The audit team also interacted with officials at Uganda National Roads Authority (UNRA), Ministry of Water and Environment (MWE), Ministry of Finance Planning and Economic Development (MoFPED), Kalangala Infrastructure Services Ltd (KIS), and Uganda Development Corporation (UDC) to ascertain their roles in the implementation of KIS and determine any challenges faced. Field visits to Kalangala Island were undertaken to assess project implementation, and engage the local stakeholders on project’s performance.
+
+4
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+02
+
+O s e c i v r e S
+
+W e r u t c u r t s a
+
+T r
+
+f n I
+
+a l a g n a l a
+
+R K
+
+f o
+
+n o i t a E t l n a e r m e e n l e p G T m r I o e t i h d t u P n A o e t h r t o p y b e R t A
+
+r t o i p d u e A R y A H e | n o ) M S I r K o ( F t C e c e u j l o a r V P
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWO
+
+AUDIT METHODOLOGY
+
+The audit was conducted in accordance with the International Organization of Supreme Audit Institutions (INTOSAI) Performance Auditing Standards and the Performance Auditing guidelines prescribed in the Office of the Auditor General (OAG) Value for Money (VFM) audit manual. The standards require that the audit be planned in a manner which ensures that an audit of high quality is carried out in an economic, efficient and effective way and in a timely manner.
+
+2.1. DATA COLLECTION METHODS
+
+The audit team reviewed documents, carried out interviews and physical inspections to address the audit objective. The various methods of data collection and analysis used to address each audit question are detailed below;
+
+AQ1: Was the planning and procurement for KIS undertaken in a manner that ensured the
+
+selection of the most cost effective investment option? The audit team reviewed the planning and procurement documents relating to KIS, interviewed officials from MoFPED, MoWT, and management of KIS to assess how well the planning and procurement process for the provision of infrastructure services to Kalangala Island were done.
+
+AQ2: To what extent has KIS delivered on the expected outputs?
+
+The audit team reviewed implementation and progress reports, interviewed officers from KIS, MoWT, MWE, Kalangala DLG, and residents of Bugala Island to assess whether the terms of the Implementation Agreement (as amended) were adhered to, and whether the set targets were realised.
+
+Field inspections to Bugala Island were also undertaken to assess the physical performance of the project components relating to the road, ferry, water, and power services.
+
+AQ3: Are the monitoring arrangements effective in ensuring delivery of the expected outputs by KIS?
+
+The audit team interviewed officers from MoFPED, MoWT and MWE to establish the mechanisms put in place to monitor KIS activities during construction and operationalisation.
+
+Monitoring and review reports were also reviewed to assess the effectiveness of the supervision mechanisms in place especially for road and ferry services where GoU makes quarterly and annual support payments respectively.
+
+6
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+03
+
+E
+
+E s
+
+e c i v
+
+R r
+
+e S e r u t c
+
+H u
+
+r t s a r f n
+
+T I
+
+a l a g n a l a K f
+
+R o
+
+n o i t a t E e a
+
+n l m r e e n l e p G T m r I o e t i h d t u n A P o e t h r t o p y b e R t r A t o i p d u e A R y A e H n | o ) M S I r K o ( F t C e c e u j l o a r V P
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THREE
+
+SYSTEMS AND PROCESS DESCRIPTION vi. The Transport Licensing Board,
+
+3.1 ROLES AND RESPONSIBILITIES OF
+
+vii. The Ministry of Justice, and viii. Kalangala Infrastructure Services Limited KEY PLAYERS (KIS)
+
+3.1.1 Kalangala Infrastructure Services
+
+Limited (KIS)
+
+The functions of the Oversight Committee are provided In implementing the Project, Kalangala for under paragraph 4.2 of the Implementation Infrastructure Services Limited (KIS) was engaged to design, develop, construct, finance, insure, own, operate and maintain the project in accordance with the applicable Laws of Uganda and the terms of the Agreement. KIS is also required to report to the Oversight Committee on the status of the Project.
+
+3.1.2 Ministry of Finance
+
+The MoFPED represented the GoU in signing the agreement with KIS and paragraph 12.1(i) of the agreement provided that the Ministry has full power and authority to execute and deliver the agreement with KIS on behalf of GoU.
+
+3.1.3. Over-sight Committee
+
+Paragraph 4.1 of the Implementation Agreement provided that the parties shall establish an Over-
+
+Agreement to include;
+
+- Coordinating communications between the Parties with respect to the interface and coordination required under the Implementation Agreement,
+- Providing policy guidance on issues relating to the implementation and operation of the Project,
+- Resolving disputes and grievances between the parties.
+
+3.2 PROCESS DESCRIPTION
+
+KIS being a Public Private Partnership had to be implemented in accordance with PPPs’ best practices.
+
+3.2.1 Planning This comprises of project inception and feasibility studies;
+
+sight Committee comprising of a representative •
+
+Project Inception
+
+from the following; i. The Ministry of Works and Transport (MoWT), represented by the offices of the Engineer in Chief and the Chief Mechanical Engineer, ii. The Ministry of Water and Environment (MWE), represented by the Directorate of Water Development,
+
+GoU through MoFPED was required to comply with the prescribed procedures in identifying a project that addresses the identified needs in line with the objectives of the NDP. This process requires that a project team is appointed to identify the service need or gap, screen the possible service delivery options and propose the best option in addressing iii. The Ministry of Agriculture, Animal the service need. Industry and Fisheries (MAAIF) represented by the Vegetable Oil Development Project, iv. The Ministry of Energy and Mineral
+
+The team then conducts a preliminary cost benefit analysis of the proposed option there by establishing the strategic objectives, projected cost, rationale for Development (MEMD) represented by the the proposed option, projected outcomes and how Electricity Regulatory Authority (ERA),
+
+the project should be managed. v. Kalangala District, represented by the A self-capacity internal assessment of the District Engineer and the Chief Administrative Officer (CAO),
+
+Contracting Agency (CA) is undertaken and in case any gaps are identified, service of a Transaction Advisor (TA) is secured.
+
+8
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+- Project Feasibility study A feasibility study is undertaken to assess whether the project is feasible as a Public-
+
+as amended (2011). KIS with support from GoU was to mobilize the required resources through both equity and external borrowing, undertake Private Partnership. The team tasked with construction work, manage and operationalize the project identifies and defines the function which the private party is to perform on behalf of government. An assessment of the option of performing the function through the private party is done to project the impact in terms of costs and benefits to GoU. The assessment also establishes
+
+delivery of infrastructure services under the ferry, road, water, and power components of the project as stated in the Implementation agreement. KIS was allowed to subcontract some of the construction works where deemed necessary upon approval by GoU. GoU on the other hand and evaluates the projected full costs of the through the responsible agencies was to supervise Project when performed through a private party against established GoU mechanisms. The team then assesses the expected inputs and outputs for the project and the comparative benefits and challenges of each option. This assessment helps determine the type of PPP option, assess the capacity of the private party in delivering the project and then file a feasibility report for consideration and approval of the proposed investment option. Bid documents are prepared to commence the procurement.
+
+3.2.2 Procurement Government is expected to invite interested parties to submit proposals for provision of services in accordance with the PPDA Act, 2003. The proposals submitted are then screened for those that meet
+
+the operations of KIS while ensuring that the road and ferry service support payments are duly paid and on time.
+
+3.2.4 Support Payments
+
+GoU is expected to pay KIS a subsidy (Ferry Service Support Payments) to enable the company to provide transportation services to passengers, vehicles, and cargo on the ferry routes free of charge. The Ferry Service Support Payments are paid as a lump sum in advance prior to the start of each year. The payments are calculated by multiplying the minimum number of ferry Trips for the year with the unit rate per trip. The rate per Trip is derived by adjusting the base rate with adjustment factors that include the movement in fuel price, CPI, UGX/USD exchange rate, and the the minimum qualifications. The Contracting LIBOR rate. Agency with the help of the Transaction Advisor verifies the financial and economic stand of the bidders, their ability to secure credit and their technical and professional capability to deliver the project. The CA then engages the best evaluated private party through negotiations for contracting terms that are favorable for both parties into an Implementation Agreement.
+
+3.2.3 Project Implementation
+
+Implementation of the project is expected to be done in line with the terms and conditions as spelt out in the Implementation Agreement signed between KIS and MoFPED in January 2009, and
+
+Road support payments are made on a quarterly basis over thirteen years based on the claim schedule submitted by KIS. The schedule is generated using a financing module that inputs the total road costs, interest on borrowed funds, and return on investment on equity and may be adjusted for changes in the 6-month LIBOR rate.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 9 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+3.2.5 Monitoring and Evaluation
+
+The Implementation Agreement provided for creation of an Oversight Committee within 60 days following the project commencement. This committee was to review progress of project implementation and also provide policy guidance to KIS. In addition, the respective government agencies for water (MWE), Power (ERA), ferry and road (MoWT/ UNRA), were required to issue KIS with respective implementation licenses. These agencies were required to monitor and ensure that the terms and conditions in the licenses are observed by KIS during project implementation. The agencies were also required to continuously monitor and track the project’s performance to ensure quality delivery of infrastructure services and meeting the project objectives.
+
+In addition, the IA required contracting an independent monitor for purposes of supervising and reporting to GoU the performance of KIS in terms of service delivery levels. MoWT/UNRA were to use the independent monitors assessment reports in addition to their own verification processes to confirm the support payment claims by KIS before effecting the payments.
+
+10
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+04
+
+R s
+
+e c i v r e U S e r u t c u r O t s a r f n I
+
+a F l a g n a l a
+
+R K
+
+f o
+
+n o i t a E t l n a e r m e e n l e p G T m r I o e t i h d t u P n A o e t h r t o p y b e R t A
+
+r t o i p d u e A R y A H e | n o ) M S I r K o ( F t C e c e u j l o a r V P
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOUR
+
+FINDINGS, CONCLUSIONS AND
+
+4.1 PROJECT PLANNING, DEVELOPMENT
+
+RECOMMENDATIONS AND PROCUREMENT
+
+Government of Uganda signed an Implementation
+
+The Implementation Agreement recognizes the KIS concession as a PPP. For any development Agreement with Kalangala Infrastructure project of this nature, it would be good practice Services Limited (KIS) in January 2009 for the provision of key infrastructure services to Bugala Island in Kalangala District. During the audit we observed that KIS completed the rehabilitation and upgrade of the road from Luuku – Kalangala
+
+- Mulabana (65.6 km) from class “C” to Class “B” Gravel Standards in 2016, and rehabilitated and reconstructed the ferry landing sites at Bukakata and Luuku. The project also constructed the two (2) ferries which are operational with carrying capacity of (206) passengers each on the Bukakata – Luuku route making a combined total of (16) crossings per day.
+
+The project has also completed the construction of a 1.6 MW hybrid (solar and diesel) power generating plant, transmission and distribution lines through Bugala Island to serve the major settlements. The project rehabilitated and expanded Kalangala Town water supply system, and constructed small piped water systems in Kagulube, Murole, Kasekulo and Mulabana.
+
+The above infrastructure services developed by KIS have greatly facilitated the implementation of the Oil Palm Project by BIDCO, improved the connectivity between Kalangala District and mainland via Bukakata, led to significant developments and generally improved the quality of life in the District.
+
+In spite of these developments, it was established through the audit that there are gaps in the implementation of the project which need to be addressed to ensure effective delivery of the expected outputs.
+
+for government to appoint a team to undertake project inception and a feasibility study.
+
+4.1.1 Project planning and development
+
+During the feasibility study, GOU was expected to assess the infrastructure services gaps on Bugala Island, screen the possible service delivery options, conduct a preliminary Cost Benefit Analysis and assess the proposed intervention options. The assessment would establish the projected full costs of the project whether performed through a private party or established GoU mechanisms and compared the benefits and challenges associated with either option.
+
+Through interviews with officials from MoFPED, MoWT and KIS, the audit team established that in the Implementation Agreement signed with BIDCO in April 2003, GoU committed to providing key infrastructure services to Bugala Island. BIDCO through its subsidiary Oil Palm Uganda Limited (OPUL) introduced InfraCo to MoFPED which then entered into a MoU with GOU to develop the project for delivery of infrastructure services to Bugala Island. KIS, a company established by InfraCo to be used as a vehicle for the implementation of the project generated the Research Market Analysis report, and a Development plan for infrastructure services Project which formed the basis for the government investment decision.
+
+It was noted that MoFPED did not undertake an independent preliminary assessment of the possible service delivery options and associated costs to come up with the most cost effective investment option for the infrastructure gaps that had been identified.
+
+12
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+There was no evidence that the ministry validated the assumptions and or analyses presented by the company in their Development Plan and Research and Market analysis presented to it for consideration.
+
+Through interviews with the agencies responsible for road and ferry services (MoWT), water (MWE), and power (MEMD)) it was noted that the gaps in project inception and feasibility studies for provision of Kalangala infrastructure services were caused by the failure by MoFPED to consult widely at the inception stage of the Project.
+
+As a consequence, MoFPED could not confirm that the infrastructure investment option chosen for Kalangala was the most cost effective for both GoU and the residents of the island. For instance a review of support payments made during the construction phase (from September, 2012 to June, 2016) for both ferry and road against the total capital costs for the same components indicated the possibility that GoU would have fully financed these activities as analyzed in Table 2 below.
+
+Table 2: Showing capital investments by KIS against support payments from GoU as at 2016
+
+Component	Capital Investment by KIS (UGX)	GoU Support payment during construction phase (UGX)	Variance (UGX)	
+Road/Ferry landings	40,162,218,593	40,853,493,884	691,275,291	
+Ferry	19,803,408,564	40,863,933,092	21,060,524,528	
+Total	59,965,627,157	81,717,426,976	21,751,799,819	
+
+
+
+
+Source: OAG comparative analysis of comparative funding options
+
+As shown in the table 2 above, GoU had incurred UGX 81.72 billion in support payments compared to the development cost of UGX 59.96 billion incurred by KIS in putting up the infrastructure. Overall GOU had spent a total of UGX 21.75 billion more than it would have required to directly finance the infrastructure. A proper evaluation of the financing options would have guided GoU on the most cost effective option.
+
+Using the road component costs, the audit team further made a comparative analysis using other probable alternative sources of funding available to GoU as set out in table 3 below;
+
+Table 3: Showing comparative total repayment amounts using other funding sources
+
+Funding Source	Reported Road Investment cost (KIS financial reports) (UGX)	Interest rate	Probable Total Repayment amount (13 years) (UGX)	%age of the Initial Investment	
+KIS Option	40,162,218,593	Based on Current repayment schedule	120,250,820,255	299%	
+World Bank – IDI option	40,162,218,593	Max 1%	42,879,420,024	106.7%	
+World Bank IBRD Option	40,162,218,593	2%	45,709,059,919	113.8%	
+ADB	40,162,218,593	3.3%	49,554,029,614	123.4%	
+BOU T/Bill Rate 2011	40,162,218,593	13.2%	84,545,256,005	210.5%	
+
+
+
+
+Source: OAG comparative analysis of comparative funding options
+
+The table above shows that there were other comparatively fair possible alternatives that could have been explored by Government of Uganda assuming the Project met the funding requirements and conditionalities.
+
+6 Road and landing site reconciliation statements provided by KIS. 7 ibd. Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 13 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Management Response This concept was derived from a need identified by BIDCO to support the oil palm Project and improve the livelihoods of the people of Kalangala District. Under the project design, KIS was to provide financing and recover from sale of services to the public except for the road where a grant would be applied to ensure that it is not expensive (less than 26 Billion).
+
+Project planning was overtaken by the design of the project as the investor confirmed that he would recover his investment at a controllable rate direct from the public and with no recourse to GoU resources. From inception, the project was a generally a private venture with deep charitable overturns and promised affordability of all services using grants from output based subsidies.
+
+Therefore, the project was not subjected to feasibility study since the investor would shoulder any losses that could occur. The project was conceptualized as a Private investment Venture.
+
+Recommendation
+
+MoFPED should ensure that for any future investment project of this nature, feasibility studies are properly undertaken to establish the possible alternatives and related costs to inform their investment decisions.
+
+Wide consultations should also be undertaken throughout the development process of similar Projects.
+
+4.1.2 Securing services of KIS
+
+Government was expected to invite interested parties to submit proposals for provision of infrastructure services on Kalangala Island in accordance with the PPDA Act, 2003. Section
+
+The MoFPED should have undertaken the procurement process to identify the most economical private party with a sound technical, financial and professional capacity to deliver the project. The best evaluated party should then have been engaged through negotiations for contracting terms that are favorable for both parties.
+
+Through a review of project documents, it was noted that KIS was directly sourced by MoFPED. There was no consideration of any other alternative provider to compare the costs and benefits to establish the best option.
+
+According to MoFPED, direct sourcing of KIS was the best option as they considered the island a high risk investment area that would not attract any other investor.
+
+The use of the direct sourcing option to secure the services of KIS deprived government the option of evaluating other probable alternatives. The principle reason of optimal allocation of risks between parties privy to the contract was therefore not attained as all the borrowings for KIS were guaranteed by Government of Uganda.
+
+Management Response The direct sourcing of KIS was due to the terms of the MoU and Project Development Plan (PDP) whereby the investor would secure the financing and recoup by selling the services to the public on a cost recovery basis for a given period.
+
+The KIS alternative was preferred because it offered very attractive terms including grants to make the services affordable. This is what was depicted in the background documents that formed the basis for approvals without competition.
+
+88 of the PPDA Act, 2003 requires that any Recommendation agency undertaking any form of procurement not addressed by the Act should write to the Authority seeking guidance on how to handle the procurement.
+
+Government of Uganda through MoFPED should ensure that for any future project of the kind, a competitive procurement process is conducted to obtain the best possible alternative.
+
+14
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+4.2
+
+DELIVERY OF EXPECTED OUTPUTS UNDER KIS
+
+The construction phase of the project commenced in 2011 with the ferry component and was concluded in June 2016 upon final completion of the road works. According to the KIS audited financial statements (2012- 2016), the total development costs incurred for the four components amounted to UGX 138,579,161,500 8 as detailed in Table 4 below;
+
+Table 4: Total development costs
+
+Component	Amount (UGX)	
+Power	42,188,131,683	
+Road/Ferry landings	40,162,218,593	
+Water	8,286,385,004	
+Ferry	19,803,408,564	
+Remittance to InfraCo	2,595,000,000	
+Development expenditure by 2012	22,790,177,706	
+Financing fees/costs	2,753,839,950	
+Total	138,579,161,500	
+
+
+
+
+Source: OAG extracts from KIS audited financial statements (2012-2016). A detailed implementation assessment of the four project components is discussed below.
+
+4.2.1 Road Component
+
+The Implementation Agreement required KIS to upgrade the 65.6km Kalangala main island road from class “C” to class “B” gravel. Accordingly KIS signed a contract for road works with Spencon Services Limited in April 2012 at a contract price of UGX 19,758,945,590. This was expected to be completed in a period of twelve (12 months i.e. by March 2013) as per the IA. The GoU committed to make road support payments over 13 year period as per the provisions of the IA&IAA.
+
+Through a review of road supervision reports, inspections and interviews conducted with stakeholders in Kalangala, the audit team observed that KIS upgraded the 65.6 km main island road from Luuku - Kalangala
+
+- Mulabana to Class “B” Gravel standards. The field inspections done by the audit team in September 2018, found the road in a fairly motorable state with some maintenance works done by UNRA. The final contract price for the road was UGX 26.03 billion upon securing a variation. The road construction that was scheduled to take one year under the Implementation Agreement was completed after three years in March 2016 resulting in a two years delay. The implementation agreement however did not provide for remedies/penalties for delayed completion of road construction works.
+
+The terms agreed upon for the road costs in the IA as amended put the final capital cost of expanding, rehabilitating and upgrading the 65.6km main island murram road to class “B” gravel at 35.6 Billion. This translates into a unit cost of UGX 540 million 9 per kilometre. With the road support payments in the IAA spread over 13 years, the final road total cost is projected at UGX 120.25Bn which translates into a unit cost UGX 1.8 billion 10 per kilometre for the Murram road.
+
+8 Capital costs extracted from KIS audited financial statements (2012-2016). 9 Cost per km based on the total capital costs for the road component of UGX 40,162,218,593. 10 Cost per km based on the total repayments per the road support payment schedule updated in 2016, amounting to UGX 120,250,820,255.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 15 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Through document review, it was observed that UNRA had assessed the cost of similar road works at 80 Million per kilometre. A related assessment by MoWT dated January 2019 puts the cost at 200 Million per kilometre. The above analysis shows that the cost of upgrading a 65.6km road was high compared to similar road works.
+
+As shown in Table 2, by the time road construction was completed in March, 2016; GoU had paid UGX 40,853,493,884 in form of road support payments against UGX 40,162,218,593 incurred by KIS as actual road costs. In addition, there was no clear budget line for the KIS road support payments under the Ministry of works as it is budgeted under output 040505 – operational and maintenance of MV Kalangala ship and other delegated ferries. The option of delivering the road infrastructure through a normal procurement of a contractor to undertake the road works could have been more cost effective.
+
+4.2.2 Ferry Component
+
+The Implementation Agreement required KIS to build and operate two (2) ferries between Bukakata and Luuku landing sites linking Bugala Island to the main land. The agreement also required KIS to pay annual license and operating fees of USD 1,000 and USD 25,000 respectively per vessel. Government had to pay a subsidy (Ferry service support payment) to KIS to provide transportation services for passengers, vehicles and cargo at no cost to users. The support payment was to be paid in lump sum and in advance prior to each year of operation.
+
+Through field inspections, review of progress reports and interviews with KIS management, the audit team established that KIS reconstructed the two landing sites and was operating two passenger service ferries. The first ferry (MV Pearl) started operations in August 2012 and the second (MV Ssese) in October 2015. Each ferry has a carrying capacity of 206 passengers and operates a daily schedule of four round trips (eight crossings). The IA however did not specify the capacity of the vessels and the timelines in which the ferries were to be delivered.
+
+Through the review of the Implementation Agreement as Amended, the audit team established that ferry service support payments were later adjusted from the ferry traffic (passengers and vehicles) based payments to per trip payments. An analysis of both options revealed that the per trip option was more costly to GoU as analysed in the table 5 below;
+
+Table 5: Ferry services support payments based on the two options
+
+Year	Actual payments based on IAA (per trip option) (UGX)	Amounts based on original terms in IA (Traffic volumes) (UGX)	Variance (UGX)	
+2012	2,059,873,728	940,965,000	1,118,908,728	
+2013	6,751,528,926	5,792,695,765	958,833,161	
+2014	8,331,317,400	6,435,402,700	1,895,914,700	
+2015	9,690,495,038	9,027,077,684	663,417,354	
+2016	14,030,718,000	8,255,887,065	5,774,830,935	
+2017	14,277,874,000	8,347,829,816	5,930,044,184	
+Total	55,141,807,092	38,799,858,030	16,341,949,062	
+
+
+
+
+Source: OAG analysis of actual ferry service support payments and computations based on terms in IA.
+
+The change in the method of computation of ferry service support payments from ferry traffic to per trip based resulted in GoU paying UGX16.3 billion more in the first 6 years of the ferry operations.
+
+16
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+In addition, through analysis of KIS audited financial statements and interviews with MoWT and UNRA officials it was established that by the time of audit (October 2018) KIS had not paid annual ferry operating fees amounting to USD 275,000.
+
+Similarly the GoU had not made timely support payments for the ferry service within the mandatory 30 days as set out in the IA for all the six years reviewed. The Agreement however did not specify the penalties to KIS for delayed payment of annual ferry operating fees.
+
+The delay for payment of the annual ferry operation fees was attributed to lack of ownership by any government agency in ensuring that due fees are collected. In addition, the Government’s failure to pay ferry service support payments on time resulted in a payment of UGX 871 million for 308 non performed trips but claimed as “Deemed trips 11 ” by KIS in 2017. The IAA provided that in the event of KIS failing to provide a ferry service as a result of GoU’s default in payments, KIS would be deemed to have offered the ferry service.
+
+4.2.3 Water component
+
+The performance contract between KIS Ltd and MWE of August 2009 required the company to rehabilitate and expand Kalangala Town Council Water Supply System. The contract also required KIS Ltd to construct, own and operate bulk water systems in Kagulube, Murole, Kasekulo, Mulabana, Bwendero, Bugoma, and Kibanga-Mabuga on Bugala Island.
+
+The agreement did not specify the required water system design specifications, quality parameters, capacity, target population, and timelines to be met by KIS. The annual plans and performance reports for the water component showed that KIS had constructed five of the agreed eight water systems on Bugala Island and these are operational. Table 6 below shows KIS performance under the water component.
+
+Table 6: Ferry services support payments based on the two options
+
+No	Water System	Status	Design Capacity (m3)/Month	Average consumption (m3)/Month	Estimated Population Served (Persons)	
+1	Kalangala Town Council water system	Complete	12,000	3,500	4,850	
+2	Kagulube water system	Complete	5,000	300	1,480	
+3	Murole Water System	Complete	2,500	450	1,090	
+4	Kasekulo Water System	Complete	1,000	350	750	
+5	Mulabana Water System	Complete	1,000	150	550	
+6	Bwendero Water System	Design Stage	-	-	-	
+7	Bugoma Water System	Not started	-	-	-	
+8	Kibanga-Mabuga Water	Not Started	-	-	-	
+Total			21,500	4,750	8,720	
+
+
+
+
+Source: OAG analysis of KIS water department reports.
+
+11 Trips KIS was unable to operate due to delay in ferry service support payments by GoU. Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 17 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+The table above shows that, KIS had so far completed five water systems with installed capacity of 21,500 cubic meters of water production per month but on average, only 4,750 cubic meters (22%) are consumed. The current total population served by KIS is approximately 8,720 people representing only 16% 12 of the Island’s population.
+
+According to KIS, the slow progress in construction and expansion the water systems was attributed to the component not being economically viable for the private operator. For instance, according to the financial statements, during the year 2017 KIS incurred total operational expenditures of UGX 856 million to generate water but only realized aggregated sales revenues of UGX 169 million under the water component.
+
+This has resulted in KIS targeting only populated areas such as trading centres and landing sites which has left the other remote and isolated settlements unattended to. The audit team also observed that the assets previously owned by KTC water supply system were not valued prior to handing them over to KIS Ltd yet the agreement provides that at the end of the engagement period, all the project assets shall be a property of the company.
+
+4.2.4 Power Component
+
+In January 2009, ERA granted KIS Ltd a license to design, construct, own and operate electricity generating facilities in Kalangala District for 25 years. The company was required to construct a hybrid power generating plant with an installed capacity of 1.6 MW per hour (i.e. Diesel 1MW and solar 0.6 MW), construct transmission lines to serve all major settlement areas on Bugala Islands and connect 3,000 customers by the fourth year of operation. The license did not specify the grid length to be constructed.
+
+Through document review, field inspections and interviews with KIS Ltd management team, the audit team noted that the company had constructed a power plant with a capacity of 1.6MW (per hour) which was operational in Bukuzindu, Kalangala district. Whereas the license did not specify the grid length of transmission lines to be constructed, the extended grid length stood at approximately 140 Kms with 67 transformers installed and operating at the time of audit field inspections. The power performance reports for KIS revealed that the company had attained the customer connection numbers of (3,000) as set in the power license agreement by the fourth year of operation as shown in the Figure 1 below:
+
+Figure 1: Power connections by KIS target vs actual
+
+Source: OAG analysis of KIS customer connection statistics
+
+12 8,720 people served *100/54,293 (Island’s total population).
+
+18
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Through interviews with the KIS Ltd power management team, it was observed that, the maximum load attained during the period under
+
+The passenger levels are also impacted by the bad state of Masaka-Bukakata road.
+
+review was 0.4 MW per hour putting average KIS has surpassed its targeted customer utilization capacity below 25% of installed capacity. The company was in the final stages of connecting Oil Palm Uganda limited to the grid which could potentially raise the demand to 40%. Interviews with users revealed that power supply was largely stable with very minimal or no outages in the areas visited.
+
+The low capacity utilization levels are a result of most (99%) of the users utilizing power for only lighting. The performance report for August 2018 showed that only 28 of the 3,129 connections were using power for commercial purposes.
+
+connections numbers for utilities but has not realized unit consumption expectations due to improved efficiency of electrical gadgets and appliances (both domestic and commercial – bulbs, refrigerators, TVs, motors etc.) and the slow growth in industries.
+
+The issue on non-payment of operating fees was brought to the attention of KIS and consequently the Ministry recovered USD 100,000 from the quarter 1 certificate and the balance of USD 175,000 was to be recovered in the Quarter 2.
+
+The delays in support payments were a The unutilized (idle) capacity (deemed power) consequence of UNRA halting the payments resulted in KIS power operating expenses of pending guidance from Attorney General. In (UGX 6.71 Bn) for the calendar year 2017 which was higher than the revenues generated of (UGX 1.03Bn). This implies that much as the intended connection targets were met, KIS Ltd still faces a challenge of making the power component economically viable.
+
+Management Response The unit cost of UGX 1.8bn per Kilometer (based on total payments of 120Bn over 13 years) assumes that the road payment was done upfront disregarding the 13 year financing cost/Time Value For Money.
+
+Management takes note of the observation. For future projects, clarity will be provided and deliverables in terms of quality, specifications and functionality will be adhered to. This project’s outputs were in terms of a road upgraded and a number of ferry trips upon which the payments are based.
+
+The per trip passenger averages are affected by the hazardous cargo trips that do not take passengers due to safety concerns and the random medical emergency crossings. KIS operates 2 trips per day (Monday to Saturday) dedicated to hazardous cargo.
+
+other cases the delays are occasioned by delayed releases from MoFPED.
+
+Audit Comment Information provided by the ministry and KIS in June 2019 indicated that operating fees of US$ 275,000 had been fully recovered (through deductions at source by the MoWT) from support payments due to KIS. However, the ministry did not provide URA receipts as evidence that it was delivered to the authority and was silent on recovery of the operational fees for the current operating year 2019.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 19 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+
+Through interviews and analysis of claims for
+
+- GoU should ensure that for similar support payments, the audit observed that there future projects, clarity is provided on expected deliverables in terms of quality and quantity specifications, timelines, and functionality.
+
+- GoU should ensure that any future projects signed include provisions for breach of contract for either parties.
+
+- Ministry of Finance Planning and Economic Development should consider renegotiating the road support payments with a view to reducing the projected 13-year obligation.
+
+were weaknesses in the monitoring arrangements put in place for the project as further discussed below.
+
+- The oversight committee had not been constituted as KIS and the responsible GoU agencies had not nominated their representatives to the committee.
+- An independent expert (Mott MacDonald) was appointed by KIS as required by the IAA and regularly reports to KIS. The records available showed that the independent expert installed the GPS monitoring devices and regularly submitted periodic reports relating to ferry operations
+- MoWT should always ensure that (Number of trips, passenger and vehicle data). outstanding annual operating ferry fees are However, there was no evidence that the recovered as and when they fall due.
+
+independent expert was verifying claims for support payments as envisaged under the IAA.
+
+- MoWT should liaise with MoFPED to ensure The contract between KIS and Mott MacDonald that the agreed annual ferry service support lacked clarity in respect to the role of the payments are paid in time to avoid deemed trips payments.
+
+- GoU should review the water and power service delivery options to improve on the economical reach and utilization.
+
+4.3 MONITORING AND SUPERVISION
+
+As part of the monitoring arrangements, the Implementation Agreement provided for the creation of an Oversight Committee (OC) to oversee project implementation. The component licenses also provide that the
+
+independent expert in verification of information provided by the company relating to the support payments.
+
+As a result of the above weaknesses, the existing monitoring arrangements could not detect erroneous payments amounting to UGX 14.29 billion made by GoU to KIS through MoFPED, MoWT and UNRA as detailed below;
+
+4.3.1 Excess payment due to application of wrong CPIs
+
+Through analysis of support payments and corresponding claims, the audit team established respective government issuing agencies should that KIS applied wrong CPIs as one of the monitor KIS Ltd operations and ensure adherence to terms laid out in the licenses. In addition, the IAA required KIS Ltd to appoint an independent expert with the approval of GoU. The independent expert was to monitor and certify the number of trips made by each ferry on the regulated routes in any Ferry Service year and to verify the information provided by the company in relation to the claim for payment.
+
+components of the adjustment factor which went undetected through the payment approval process. This resulted in an overpayment of UGX 564,382,537 as presented in Tables 7 and 8 below.
+
+20
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Table 7: Showing CPI’s used by KIS and Actual core CPI’s from UBOS
+
+Year	CPI’s Used By KIS		Core CPI’s (Source: UBOS)		
+	Base	CPI	Base	CPI	
+2012	149	194	149	189	
+2013	149	198	149	194	
+2014	149	214	149	208	
+2015	149	218	149	212	
+2016	149	226	149	226	
+2017	103	159	106	158	
+2018	103	164	106	164	
+
+
+
+
+Source: OAG analysis of CPIs as reflected in the ferry support payments and UBOS CPI’s.
+
+Using the CPI’s in the table above as obtained from UBOS, the audit team recomputed the per trip rates and compared them with the ones used by KIS as shown in table 8.
+
+Table 8: Rate per trip used vs actual based on UBOS Core CPI
+
+Year	Rate used/Trip (UGX)	Adjusted rate (UGX)	Excess per Trip (UGX)	No trips	Value (UGX)	
+2012	1,950,638	1,931,418	19,220	1,056	20,296,479	
+2013	2,022,627	2,006,858	15,769	3,338	52,636,915	
+2014	1,983,647	1,963,296	20,351	4,200	85,474,443	
+2015	2,044,342	2,025,727	18,615	4,900	91,213,500	
+2016	2,698,215	2,700,869	(2,654)	5,200	(13,800,800)	
+2017	2,745,745	2,712,132	33,613	5,200	174,787,600	
+2018	2,842,141	2,812,569	29,572	5,200	153,774,400	
+Total					564,382,537	
+
+
+
+
+Source: OAG analysis of actual ferry service support payments and computations based on terms in IA.
+
+4.3.2. Support payments not subjected to half year review Deductions
+
+Ferry service support payments are paid as a lamp sum in advance prior to the start of each year that the ferry service in being operated. At mid-year a review is undertaken and if it is determined that there is a decrease in the cost of providing the ferry service, GoU is entitled to deduct such amount from the subsequent Ferry Support Payment for the following Ferry Service Year. If on the other hand there is an increase in the cost of providing the ferry service, KIS is entitled to request for additional payment.
+
+From the review and analysis of support payments records provided by KIS for the period (2012- 2018), it was established that KIS had made additional half-year payment requests in respect of increased cost of providing ferry services which were subsequently paid. On the other hand, for the instances where there was a decrease in the cost of providing ferry service, GoU did not offset such amounts from the subsequent ferry service support payments. As a result a total of UGX 686 million remained un recovered. Details are shown in Table 9 below.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 21 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Table 9: Undetected ferry costs by GoU FROM KIS payments
+
+	Year	Amount billed and paid (UGX)	Half year review Amount (UGX)	Variance (Amount not recovered - UGX)	
+1	2013	6,751,528,926	6,541,256,792	210,272,134	
+2	2014	8,331,316,681	8,274,542,953	56,773,728	
+3	2016	14,030,718,000	13,611,015,600	419,702,400	
+	Total			686,748,262	
+
+
+
+
+Source: OAG analysis of ferry support payments.
+
+4.3.3 Excess payment due to inappropriate application of base factors
+
+Annex 1 of the IAA provided for an initial base capacity tariff of UGX 1,650,000 for years (1 – 4) and UGX 1,900,000 for years (5-13). Upon application of a new base tariff of UGX 1,900,000 for the years (5-13), it was expected that the corresponding parameters for fuel, CPI, exchange rate and LIBOR rate had to be adjusted to correspond with the new base year.
+
+It was observed that following the revision of the new base tariff rate in 2016 to UGX 1,900,000, KIS did not adjust the corresponding parameters and instead continued to apply parameters corresponding with the March 2011 base year in the computation of Ferry support payments for the years (2016- 2018). This resulted in excess ferry service support payments of UGX 13 Billion to KIS as shown in Table 10 below;
+
+Table 10: Showing excess ferry services support payments due to wrong base rate application
+
+Year	Trips “A”	Per Trip Rate Used “B” (UGX)	OAG Recomputed rate per trip using adjusted base factors at application of new base rate “C” (UGX)	Variance “D=B-C” (UGX)	Total Excess Paid “E=(D*A)” (UGX)	
+2016	5,200	2,698,215	1,900,000	798,215	4,150,718,000	
+2017	5,200	2,828,724	1,946,048	882,676	4,589,915,200	
+2018	5,200	2,846,807	2,020,059	826,748	4,299,089,600	
+Total					13,039,722,800	
+
+
+
+
+Source: OAG analysis of ferry service support payments.
+
+Management Response
+
+- MoWT did not establish an oversight committee at the time of takeover in 2017 as it deemed the committee to have been in place since the agreement was signed in 2009. However, efforts through correspondences by MoWT to access prior oversight committee arrangements between UNRA and MoFPED yielded no results.
+
+- An oversight committee, as outlined in the agreement will be formed after the review process is completed and cabinet has pronounced itself on the matter. In the interim, MoWT has put in place an adhoc project monitoring unit to monitor the project performance.
+
+- An inter-ministerial committee comprising MoWT, MoFPED, MoJCA, and UNRA was constituted to review the agreement and advice on the way forward. The draft report was submitted to management for discussion, review and submission to cabinet for further guidance.
+
+- Management has instituted the process to recover the excess payments to KIS through the quarterly certificates submitted for processing.
+
+22
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+
+- GoU should ensure that the oversight committee is constituted and operationalized.
+
+- GoU should review the IA to establish proper monitoring framework with defined responsibility centres to monitor respective components of the project and keep track of KIS operations especially support payments.
+
+- MoWT should make arrangements to review the computations for the support payments with the view of recovering excess payments.
+
+- The process of appointing the independent expert should be reviewed to enhance his independence and duty of care owed to GoU as provided for by the IAA.
+
+Value For Money Audit Report on the Implementation of Kalangala Infrastructure Services Project (KIS) 23 | A Report by the Auditor General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audit House, Plot 2c Apollo Kaggwa Road, P.O. Box 7083 Kampala,
+
+Tel: 041-7-336000, Fax: +256-41-435674, Email: info@oag.go.ug, Website: www.oag.go.ug
+
+
+
+
+
+
+
+
+
+
+

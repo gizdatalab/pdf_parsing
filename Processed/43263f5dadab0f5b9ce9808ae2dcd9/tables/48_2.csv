@@ -1,0 +1,5 @@
+,Bill Item Description,Unit,Quantity in Engineer's Estimate Qe,Final Implemented Quantity Qf,Absolute % Diff. between Qf and Qe (F),Maximu m allowabl e percent age differen ce (Fm),Max. Score of Municipality (Max. Score for all 5 items is 10),Scores of this Project S=2*(Fm/F)
+0,600mm culverts,m,105.00,109.20,4.00%,25%,2.0,2.0
+1,Concrete Class 25 for drains,m 3,343.90,63.60,81.51%,25%,2.0,0.61
+2,Prime Coat,ltr,"6,048.00","5,995.10",0.87%,25%,2.0,2.0
+3,First Seal Coat (chippings and Bitumen),m 2,"6,048.00","4,995.90",17.40%,25%,2.0,2.0

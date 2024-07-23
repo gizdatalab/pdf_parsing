@@ -1,0 +1,7 @@
+,Bill Item Description,Unit,Quantity in Engineer' s Estimate Qe,Final Implemente d Quantity Qf,Absolut e % Diff. between Qf and Qe (F),Maximum allowable percentag e difference (Fm),Max. Score of Municipalit y (Max. Score for all 5 items is 10),Scores of this Project S=2*(Fm/F )
+0,Precast Concrete Class 30 Barrier Kerb,m,"47,936.81","16,662.38",65.24%,25%,2.0,0.77
+1,Asphalt Concrete Surfacing,m 3,"7,517.12","4,363.12",41.96%,25%,2.0,1.19
+2,Clearing & Grubbing,ha,13.32,6.70,49.70%,25%,2.0,1.01
+3,"White Lines, Broken or Unbroken",m,"14,253.04","24,696.20",73.27%,25%,2.0,0.68
+4,CRR for Road Base,m 3,"15,454.28","14,600.53",5.52%,25%,2.0,2.0
+5,TOTAL SCORE:, , , , , ,10.0,5.65

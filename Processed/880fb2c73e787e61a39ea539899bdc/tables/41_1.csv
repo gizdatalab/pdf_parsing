@@ -1,0 +1,15 @@
+,SN,NAME OF EQUIPMENT,QUANTITY,USE/PURPOSE,EXISTANCE,CONDITION,REMARKS
+0, ,C/s sets (caesarean sets),5.0,For C-Section operations,0.0, ,Needed
+1, ,Oxygen cylinders (large size),3.0,For administration of Oxygen,2.0,Good,More needed
+2, ,Hernia sets,4.0,For operation and management of Hernia,0.0, ,Needed
+3, ,D&C sets,3.0,Used for dilatation and curettage,3.0,Good, 
+4, ,MVA,3.0,For manual volume aspiration,3.0,Good, 
+5, ,Ambu bag, , , , , 
+6, ,1. Neonatal,2.0,Used to provide positive pressure ventilation,2.0,Good, 
+7, ,2. Adult,2.0,Used to provide positive pressure ventilation,2.0,Good, 
+8, ,Penguin sucker,2.0,Helps in clearing the babies airway,0.0, ,Needed
+9, ,Nasal oxygen prongs,10.0,Used to deliver supplementary oxygen,10.0,Good, 
+10, ,Laparotomy set,2.0,Surgical incision into the abdomen for evacuation or preparation for surgery,0.0, ,Needed
+11, ,Pulse oximeter,2.0,Non-invasive method for monitoring oxygen levels,1.0,Good,More needed
+12, ,Suction machine, , , , , 
+13, ,1. Manual,1.0,Extraction of mucus and other fluids,1.0,Good, 

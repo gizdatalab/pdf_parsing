@@ -1,0 +1,12 @@
+,S.N o,Emplo yee No,Employe e Name,Assumptio n/ Appointm ent date,Month Expected to Access Salary Payroll (4 weeks from the date of assumptio n),Month Salary payroll was accessed,Monthly Net Salary (UGX),Estimated variance in days (Assumpti on/ Appointm ent Access) Vs,Audit remarks on Access,Month first paid on IFMS,Amount Paid for the first time (UGX) (Whether net monthly pay or arrears),Estima ted Varian ce in days (Acces s Vs Payme nt),Audit Rema rks on Paym ent,Manageme nt Response
+0,1,107714 2,Niwagira Penlope,16/12/2020,31/01/2021,30/06/2021,"2,821,277",150,Delayed access,30/06/2 021,"2,821,277",0,In time,Mismatch in names
+1,2,107715 2,Nabuufu Juliet,16/12/2020,31/01/2021,30/04/2021,"757,106",89,Delayed access,30/04/2 021,"757,106",0,In time,Delay to get TIN
+2,3,700258,Atiku Ratib Abas,10/08/2020,30/09/2020,30/11/2020,"1,653,670",61,Delayed access,30/11/2 020,"1,653,670",0,In time,Delay to present transfer letter
+3,4,108110 4,Kisitu Emmanuel,17/02/2021,31/03/2021,30/04/2021,"517,803",30,Delayed access,30/04/2 021,"517,803",0,In time,Delay to report
+4,5,108009 0,Nakachwa Ritah,15/2/2021,31/03/2021,30/04/2021,"672,436",30,Delayed access,30/04/2 021,"672,436",0,In time,There was no position on system
+5,6,108006 7,Naluwooza Jackline,15/2/2021,31/03/2021,30/04/2021,"428,455",30,Delayed access,30/04/2 021,"428,455",0,In time,There was no position on system
+6,7,108006 6,Ainomugis ha Julius,15/2/2021,31/03/2021,30/04/2021,"308,254",30,Delayed access,30/04/2 021,"308,254",0,In time,There was no position on system
+7,8,108006 4,Ainamaani Norman Abaasa,15/2/2021,31/03/2021,30/04/2021,"209,859",30,Delayed access,30/04/2 021,"209,859",0,In time,There was no position on system
+8,9,108006 5,Nambi Doreen,15/2/2021,31/03/2021,30/04/2021,"357,256",30,Delayed access,30/04/2 021,"357,256",0,In time,There was no position on system
+9,10,108006 3,Cenika Phillip,15/2/2021,31/03/2021,30/04/2021,"187,660",30,Delayed access,30/04/2 021,"187,660",0,In time,There was no position on system
+10,11,107710 4,Ogwete Ambrose,16/12/2020,31/01/2021,28/02/2021,"442,782",28,Delayed access,28/02/2 021,"442,782",0,In time,Delay to get TIN

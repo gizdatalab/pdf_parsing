@@ -1,0 +1,6 @@
+,Item No.,Item Description,Location,Uni t,Measur ed Qty,Certifie d Qty,Difference (Certified- Audit),Rate,Amount of Overpayme nt,Remarks
+0,6) HUSSAN MITCHEL ROAD (0.54KM), , , , , , , , , 
+1,23.01(a),Precast concrete Class 30 barrier kerb,ref. ANNEX 3.1.5(b)(iii)_6(a),m,990.0,954.16,-35.84,"51,200",0,Quantities should be checked to resolve underpayment
+2,23.17(b),Precast Cover slabs without up stand beam,ref. ANNEX 3.1.5(b)(iii)_6(b),No.,440.0,440.0,0.0,"126,700",0,Ok
+3,23.17(c ),Cover slabs with Up stand beam,ref. ANNEX 3.1.5(b)(iii)_6(b),No.,228.0,230.0,2.0,"158,350","316,700",Quantities should be checked to resolve overpayment
+4,TOTAL, , , , , , , ,"316,700", 

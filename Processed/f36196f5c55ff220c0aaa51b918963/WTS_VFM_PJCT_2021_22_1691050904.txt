@@ -1,0 +1,474 @@
+OFFICE OF THE AUDITOR GENERAL
+THE REPUBLIC OF UGANDA
+OFFICE OF THE AUDITOR GENERAL
+UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF MUYEMBE – NAKAPIRIPIRIT ROAD PROJECT (IDB LOAN 1029) IMPLEMENTED BY UGANDA NATIONAL ROADS AUTHORITY
+
+FOR THE YEAR ENDED 30 TH JUNE, 2022
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Table of Contents - ii
+List of Acronyms - iii
+Opinion - 1
+Basis for Opinion - 1
+Key Audit Matters - 1
+  1.0 Project Performance and Implementation of Approved Budget - 1
+Other Matter - 4
+  2.0 Delays in Implementation of the Project - 4
+  3.0 Implementation of Quantified Outputs - 5
+  4.0 Design Review - 5
+Other Information - 6
+Management Responsibilities for the Financial Statements - 6
+Auditor General’s Responsibilities for the audit of the Financial Statements - 7
+Other Regulatory and Reporting Requirements - 8
+  5.0 Internal Controls - 8
+Report of the Auditor General on Statement of Receipts and Expenditure for Muyembe –
+Nakapiripirit Road Project for the year ended 30 th June, 2022 - 9
+Opinion - 9
+Project Management’s responsibility for the Statement of Receipts and Expenditure - 9
+Auditor’s responsibility - 9
+Report of the Auditor General on the Special Account of Muyembe –Nakapiripirit Road
+Project for the year ended 30 th June, 2022 - 10
+Opinion - 10
+Project Management’s responsibility for the Special Account - 10
+Auditor’s Responsibility - 10
+Report of the Auditor General on the Internal Controls of Muyembe –Nakapiripirit Road
+Project for the year ended 30 th June, 2022 - 11
+Opinion - 11
+Management Responsibility - 11
+Auditor’s Responsibility - 11
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ACRONYMS
+
+Acronym	Meaning	
+IsDB	Islamic Development Bank	
+GoU	Government of Uganda	
+IESBA	International Ethics Standards Board for Accountants	
+ISAIs	International Standards on Auditing	
+IPC	Interim Payment Certificate	
+MoFPED	Ministry of Finance, Planning and Economic Development	
+NAA	National Audit Act	
+OAG	Office of the Auditor General	
+PAPs	Project Affected Persons	
+UGX	Uganda Shilling	
+UNRA	Uganda National Roads Authority	
+USD	United States Dollars	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF MUYEMBE – NAKAPIRIPIRIT
+
+ROAD PROJECT FOR THE YEAR ENDED 30 TH JUNE, 2022
+
+THE RT. HON. SPEAKER OF PARLIAMENT
+
+Opinion
+
+I have audited the accompanying Project financial statements of Muyembe-Nakapiripirit Road Project (UG Loan No 1029) implemented by Uganda National Roads Authority (UNRA) for the year ended 30 th June 2022 set out on pages 21 to 43. These financial statements comprise the Project Statement of Funds Receipts and Expenditure, the Statement of Fund Balance and Statement of Cash Flows for the year then ended 30 th June 2022 and Notes to the financial statements, including a summary of significant accounting policies and other explanatory notes.
+
+In my opinion, the financial statements present fairly in all material respects, the financial position of the Muyembe-Nakapiripirit Road Project as at 30 th June 2022 and its funds receipts and expenditure for the year ended 30 th June 2022 in accordance with the cash basis of accounting described under the Note Section 6.6 (a) to the Financial Statements and the terms and conditions of the Islamic Development Bank Project’s Financing Agreement No. UGA-1029
+
+Basis for Opinion
+
+I conducted my audit in accordance with International Standards on Auditing (ISAs). My responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of my report. I am independent of UNRA Project Management (Muyembe- Nakapiripirit Road Project) in accordance with the Constitution of the Republic of Uganda (1995) as amended, the National Audit Act 2008, the International Ethics Standards Board for Accountants’ Code of Ethics for Professional Accountants (IESBA Code) together with the ethical requirements that are relevant to my audit of the financial statements in Uganda, and I have fulfilled my other ethical responsibilities in accordance with these requirements
+
+I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my opinion.
+
+Key Audit Matters
+
+Key audit matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were addressed in the context of my audit of the financial statements as a whole, and in forming my opinion thereon, and I do not provide a separate opinion on these matters.
+
+I have determined the matters described below as the key audit matters to be communicated in my report:
+
+1.0
+
+PROJECT PERFORMANCE AND IMPLEMENTATION OF APPROVED BUDGET
+
+The Muyembe- Nakapiripirit Road Project is a Government of Uganda (GoU) Project funded with a loan from the Islamic Development Bank (IsDB), for which the Loan Agreement was signed on 2 nd October 2019. The Project specific objectives are to upgrade 92km existing earthen/gravel road between Muyembe and Nakapiripirit towns to asphaltic paved road standard and
+
+
+
+
+
+
+
+
+
+
+
+improve 25km secondary road links to (i) reduce travel time, operational cost and economic losses; (ii) increase comfort, safety and reliability during travel; (iii) meet current and future transport demands and help accelerate economic activities by improving access of people to social amenities, market places, business and employment opportunities resulting from improved internal and sub-regional connectivity and economic growth. The number of road accidents, fatalities, and travel time are expected to reduce by 50% in the year 2025.
+
+I considered Project performance and implementation of approved budget as a key audit matter because it impacts on service delivery and achievement of the National Development Plan III (Budget strategy). I evaluated the overall and annual financial and physical implementation progress of the Project development objective for the respective Project components in relation to time efficiency, project work plan, budget performance (Project funds absorption), analyzed the Project disbursements made and checked for compliance with the terms of the Loan Agreement. Based on the procedures performed, I observed the following;
+
+No	Observation							Recommendations	
+1.1	Revenue Performance Section 21(1) of the Public Finance Management Act entrusts the Accounting Officer with the responsibility of planning and managing the entity activities as indicated in the policy statement of the vote based on the annual cash flow plan issued by the Secretary to the Treasury during budget execution. Budget estimates are based on outputs to be achieved for the financial year and during implementation effort should be made to achieve the agreed objectives or targets of the entity within the availed resourcesIsDB Funding and GOU Receipts I reviewed the approved work plan and budget for the year 2021/22 together with the actual receipts in the financial statements and noted that out of the budgeted IsDB Disbursements of UGX.76,007,654,596 for the year 2021/22, only UGX.33,221,214,579 (44%) was realized leading to a shortfall of UGX.42,786,440,017 (56%). In regard to GOU receipts, the Project budgeted to receive UGX.632,879,565 out of which UGX.569,879,565 was received, resulting in a shortfall of UGX.63,000,000. This is contrary to Section 21(1) of Management Act.the Public FinanceThe performance of each revenue source is summarized in the table below: Details Budget in UGX AActual in UGX BDifference in UGX C=B-APercen tage perfor mance (%)76,007,654,596 33,221,214,579 (42,786,440,017) 44% 632,879,565 569,879,565 (63,000,000) 90%76,640,534,161 33,791,094,144 (42,849,440,017) 44%ReceiptsFunding from IsDBFunding from GOUTotal receipts							I advised the Accounting Officer to liaise with the Contractor with the aim of getting solutions for the slow progress of the Project.	
+									
+									
+									
+									
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Underutilization of available funding affects the timely achievement of project objectives. Management explained the shortfalls were due to slow progress of works. The Contractor was not able to generate enough value of Interim Payment Certificates to utilize the funds as planned in the MTEF for the foreign funding component. The Contractor has already provided a fully resourced work plan which UNRA management shall ensure that the Contractor follows to improve disbursements going forward.				
+1.2 Absorption of Funds Section 21(1) of the Public Finance Management Act, 2015 entrusts the Accounting Officer with the responsibility of planning and managing the entity’s activities as indicated in the policy statement of the vote based on the annual cash flow plan issued by the Secretary to Treasury during budget execution. Budget estimates are based on outputs to be achieved for the financial year and during implementation effort should be made to achieve the agreed objectives or targets of the entity within the availed resources.a total fundingI noted that for a project that started operations in March 2020 with IsDB to UGX.405,675,600,000, only UGX.39,952,222,918 had been spent by 30 th June 2022, leaving an unspent balance of UGX.365,723,377,082. This represents approximately 9.9% absorption rate which is very low considering the fact that the Project time elapsed stood at 67.2% as at 30 th June 2022.amountingFY 2021/2022 position Budgeted (as per the Financial Statements) Actual expenditure (as per the Financial Statements) Un-utilized amount Percentage absorbedUGX 76,007,654,59633,221,214,57942,786,440,017 44%Cumulative position Total expected IsDB funding (as per the financing agreement) Expenditure to 30 June 2022 Un-utilised amount as at 30 June 2022 (UGX) Percentage of expenditure Percentage of Project time elapsed as at 30 th June 2022405,675,600,000 39,952,222,918 365,723,377,0829.9% 67.2%Low absorption of the IsDB funds could lead to the Agreement period expiring before the project is completed. Management attributed the low absorption of project funds to the slow progress by the Contractor. The Contractor has however already provided a fully resourced work plan which which management shall ensure that the Contractor follows to improve disbursements going forward. The Contractor is about to commence pavement layers which are high value			in placeI advised the Accounting Officer to put the necessary measures to ensure that planned activities related to the Project are executed in time so as to achieve the planned absorption of funds.	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+works and these will boost disbursement since the current works (majorly earthworks) are low value yet still high capital intensive. Absorption also reduced further following the recalling of the Advance.
+
+Other Matter
+
+In addition to the matter raised above, I consider it necessary to communicate the following matters other than those presented or disclosed in the Financial Statements.
+
+2.0
+
+DELAYS IN IMPLEMENTATION OF THE PROJECT
+
+According to the Framework and Agency Agreements with the Republic of Uganda, the project was declared effective 2 nd October 2019 and was expected to end in thirty-six (36) months. The project closure date is now planned as August 5 th , 2023 as per the approved extension.
+
+I noted that cumulative physical progress as at 30th June 2022 was at 1.38% against 4.31% planned while the Cumulative physical progress at the time of audit was 12.07% against planned 17.37% based on revision No.5 of the Program of Works as per the Resolution of the stakeholder’s meeting of 27 th February 2022, representing a slippage of 5.30%. The Contractor was behind schedule for the total works.
+
+I further noted that the overall scope of the road project is behind schedule in regard to the expected outputs as per the financing agreement even when a design review was done and some outputs were revised.
+
+See Table below for progress of work on the overall scope of the road project as at 30th June 2022:
+
+Output details	Expected	Expected (After design review)	Status as at 30th June 2022	Percentage Achieved as at 30th June 2022	
+Length of Road	92km	92km	11.1km	12.07%	
+Weighing stations	2	2	0	0%	
+No. of pipe culverts	100	153	24	15.67%	
+No. of bridges	5	1	0	0%	
+No. of box culverts	14	40	5	12.5%	
+Intersections	2	5	0	0%	
+Guard rails	15,415m	20,656m	0	0%	
+
+
+
+
+Delays in implementation of the Project could lead to failure to achieve project delivery objectives in time.
+
+Management explained that Performance evaluation of the Project is done monthly to identify gaps and challenges which are discussed with both the Consultant and Contractor during evaluation meetings and recommendations made. In addition, there are monthly site inspection and progress meetings which document these challenges and their associated recommendations.
+
+I advised the Accounting Officer to ensure that the project management team conducts a performance evaluation of the project to address all challenges and gaps relating to project execution in order to attain delivery of project objectives before the revised completion date of 5th August 2023.
+
+
+
+
+
+
+
+
+
+
+
+3.0
+
+IMPLEMENTATION OF QUANTIFIED OUTPUTS
+
+Section 13 (15, b) of the PFMA 2015 states that a policy statement submitted by a vote shall contain the annual and three months’ work plans, outputs, targets and performance indicators of the work plans. Regulation 11 (3) of PFMR 2016 requires that a vote prepares a work plan that indicates the outputs of the vote for the financial year; the indicators to be used to gauge the performance of the outputs and funds allocated to each activity.
+
+I assessed the implementation of the three (3) outputs that were fully quantified and noted the following; i. Monitoring and capacity building support was the only activity that was fully implemented (100%) ii. Construction of 20Km equivalent, only 11.1Kms were constructed out of the planned 20Kms representing only 55.5% implementation status. iii. Land acquisition of 2Km equivalent, only 0.5Kms were acquired out of the planned 2Kms representing only 25% implementation status.
+
+Below is a table showing level of implementation of fully Quantified outputs:
+
+S/No	Planned Project Activities for F/Y 2021/22	Budgeted /Planned Outputs	Actual Output - Nos	Status in %age	Unit of measure (UOM)	
+1.0	and buildingMonitoring capacity support	12	12	100 %	Numberprogress reportsof monthly	
+2.0	20Kmconstructedequivalents	20	11.1	55.5 %	Kilometers constructed	
+3.0	Land(Compensation)acquired	2	0.5	25%	Kilometers acquired	
+
+
+
+
+Failure to realize planned outputs implies that the expected services to the beneficiary communities may not be realized within the expected period. Management explained that performance evaluation of the Project is done monthly to identify gaps and challenges which are discussed with both the Consultant and Contractor during evaluation meetings and recommendations made. In addition, there are monthly site inspection and progress meetings which document these challenges and their associated recommendations. I advised the Accounting Officer to conduct a performance evaluation of the project and address all challenges and gaps relating to project execution in order to attain delivery of project objectives.
+
+4.0 DESIGN REVIEW
+
+Section 4.1 of the Contract Agreement for Civil Works for the upgrading of Muyembe-Nakapiripirit Road (92km) to paved (Bituminous) standard and secondary link roads (25km) states that the Contractor shall design (to the extent specified in the Contract) execute and complete works in accordance with the Contract and with the Engineer’s instructions, and shall remedy any defects in the works. Section 14.1 further states that unless otherwise stated in the Particular Conditions-the Contract price shall be agreed or determined under sub-clause 12.3 [Evaluation] and be subject to adjustments in accordance with the contract.
+
+I noted that there was a design review which changed the original scope of work as seen below;
+
+
+
+
+
+
+
+
+
+
+
+Output details	Scope as per the Finance Agreement	Scope After Design review	Change after Design review	Remarks	
+Length of Road	92km	92km	-	No change	
+Weighing stations	2	2	-	No change	
+No. of pipe culverts	100	153	53	Increase	
+No. of bridges	5	1	(4)	Decrease	
+No. of box culverts	14	40	26	Increase	
+Intersections	2	5	3	Increase	
+Guard rails	15,415m	20,656m	5,241m	Increase	
+
+
+
+
+Since the review was still under review by UNRA for approval, the impact on the Contractor’s price could not be ascertained during the time of audit.
+
+Change in the original design could lead to an upward revision of the Contract price by the Contractor more so if the changes after the review lead to extra work and an increase in the BOQs.
+
+Management explained that this process is ongoing, UNRA and the Consultant are undertaking review of the design to ensure it is optimized. Upon completion of this process, the financial implication will be confirmed.
+
+I advised the Accounting Officer to ensure that the new design is comprehensively reviewed and its impact on the Contractor’s price assessed, in case it leads to an upward increase in the Contractor’s price, then an action plan to secure the extra funds should be drawn.
+
+Other Information
+
+The Accounting Officer is responsible for the other information. The other information comprises the Management report, statement of responsibilities of Accounting Officer for the Financial Statements, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information; I am required to report that fact.
+
+I have nothing to report in this regard.
+
+Management Responsibilities for the Financial Statements
+
+Under Article 164 of the Constitution of the Republic of Uganda, 1995 (as amended) and Section 45 of the PFMA, 2015, the Accounting Officer is accountable to Parliament for the funds and resources of UNRA The Accounting Officer is also responsible for the preparation and fair presentation of these financial statements in accordance with the accounting policies described in notes to the Financial Statements and the Islamic Development Bank Financing Agreement. This
+
+
+
+
+
+
+
+
+
+
+
+responsibility includes; designing, implementing and maintaining internal controls relevant to the preparation and fair presentation of financial statements that are free from material misstatement whether due to fraud or error; selecting and applying appropriate accounting policies; and making accounting estimates that are reasonable in the circumstances.
+
+In preparing the financial statements, the Accounting Officer is responsible for assessing Project’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the entity’s management either intend to liquidate the Authority or to cease operations, or have no realistic alternative but to do so. The Accounting Officer is responsible for overseeing the Authority’s financial reporting process.
+
+Auditor General’s Responsibilities for the audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes my opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs will always detect a material misstatement, when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISAs, I exercise professional judgement and maintain professional skepticism throughout the audit. I also:
+
+ Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.  Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Project’s internal control.  Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.  Conclude on the appropriateness of Managements use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Project’s ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Project to cease to continue as a going concern.  Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.  I communicate with the Accounting Officer regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that I identify during my audit.
+
+
+
+
+
+
+
+
+
+
+
+I also provide the Accounting Officer with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Accounting Officer, I determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, I determine that a matter should not be communicated in my report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Regulatory and Reporting Requirements
+
+I consider it necessary to communicate the following matters other than those presented or disclosed in the financial statements:
+
+5.0 INTERNAL CONTROLS
+
+As part of my audit scope and in accordance with International Standards on Auditing, I considered internal controls relevant to UNRA in the preparation and fair presentation of Muyembe- Nakapiripirit Road Project financial statements for the year ended 30 th June 2022, in order to design audit procedures that are appropriate. Other than the matters referred to in the report, the Internal Control structure for Muyembe- Nakapiripirit Road Project, was found to be appropriate.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+Kampala
+
+31 st March, 2023
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON STATEMENT OF RECEIPTS AND EXPENDITURE FOR MUYEMBE – NAKAPIRIPIRIT ROAD PROJECT FOR THE YEAR
+
+ENDED 30 TH JUNE, 2022
+
+Opinion
+
+I have audited the Statement of Receipts and Expenditure (SRE) for Muyembe- Nakapiripirit Road Project for the year ended 30 th June, 2022. The Statement of Receipts and Expenditure comprise all the funds received and expensed by the project for the year ended 30 th June 2022.
+
+In my opinion, the expenditures reimbursed on the basis of Statement of Receipts and Expenditures are eligible to Bank financing and Generally Accepted Accounting Principles, and the expenditures have been properly reflected on the Periodic Financial Statements of Muyembe- Nakapiripirit Road Project Road Project for the year ended 30 th June, 2022.
+
+Project Management’s responsibility for the Statement of Receipts and Expenditure
+
+UNRA is responsible for the preparation and fair presentation of the Statement of Receipts and Expenditure in accordance with the requirements of IDB and the project agreement. This responsibility includes designing, implementing and maintaining internal controls relevant to the preparation and fair presentation of financial statements that are free from material misstatements, whether due to fraud and error; selecting and applying appropriate accounting policies and making accounting estimates that are reasonable in the circumstances.
+
+Auditor’s responsibility
+
+My responsibility is to express an opinion on the Statement of Receipts and Expenditures based on my audit. I conducted my audit in accordance with International Standards on Auditing (ISAs) and the requirements of IDB. The standards require that I comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether the Statements of Expenditure are free from material misstatements.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+Kampala
+
+31 st March, 2023
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE SPECIAL ACCOUNT OF MUYEMBE – NAKAPIRIPIRIT ROAD PROJECT FOR THE YEAR ENDED 30TH JUNE, 2022
+
+Opinion
+
+I have audited the Special Account (SA) for Muyembe- Nakapiripirit Road Project for the year ended 30 th June, 2022 UG 0092. The Special Account comprises of the funds received from IDB and GOU, transfers to operational bank accounts and other direct payments to suppliers for the year ended 30 th June 2022.
+
+In my opinion, for the period ended 30th June 2022, Project Management has kept the Special Account (SA) in accordance with the terms of the financing agreement and in line with Generally Accepted Accounting Principles.
+
+Project Management’s responsibility for the Special Account
+
+UNRA is responsible for maintaining the operations on the special account held in the Central Bank, in accordance with the requirements of IDB and the Project Agreement. This responsibility includes designing, implementing and maintaining internal controls to ensure that only eligible expenditure is made from this account, preparation of reconciliation statements relevant to the preparation and fair presentation of financial statements that are free from material misstatements whether due to fraud and error; selecting and applying appropriate accounting policies and making accounting estimates that are reasonable in the circumstances.
+
+Auditor’s Responsibility
+
+My responsibility is to express an opinion on these financial statements based on my audit. I conducted my audit in accordance with International Standards on Auditing ISAs and the requirements of IDB. The standards require that I comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether the financial statements are free from material misstatements.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+Kampala
+
+31 st March, 2023
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE INTERNAL CONTROLS OF MUYEMBE –NAKAPIRIPIRIT ROAD PROJECT FOR THE YEAR ENDED 30TH JUNE, 2022
+
+Opinion
+
+I have audited the financial statements of Muyembe- Nakapiripirit Road Project for the year ended 30 th June, 2022 and reviewed the internal control procedures relevant to generation of accounting information presented in the financial statements, and those relevant to control over project finances and the safeguard of its assets. I obtained all the information and explanation I considered necessary for the audit.
+
+In my opinion, Project Management maintained an adequate internal control system for the preparation of reliable financial statements, control over finances and safeguard of the projects assets during the year ended 30 th June 2022.
+
+Management Responsibility
+
+Management is responsible for establishing and maintaining an internal control structure. In fulfilling this responsibility, estimates and judgment are required to assess the expected benefits and related costs of internal control structure policies and procedures.
+
+Auditor’s Responsibility
+
+My examination was made in accordance with ISAs and accordingly included such tests of the accounting records, verification of assets and liabilities and such other auditing procedures I considered necessary in the circumstances.
+
+For the purpose of this report, I have classified the significant internal control structure policies and procedures in the following categories: -
+
+- Control over preparation of withdrawal applications for funds from the project account
+- Bank and cash purchases and payments,
+- Monitoring, evaluation and reporting.
+
+For all the internal control structure categories listed above, I obtained an understanding of the design of the relevant policies and procedures and whether they have been placed in operation and I assessed control risk.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+Kampala
+
+31 st March, 2023
+
+
+
+
+
+
+
+
+
+
+

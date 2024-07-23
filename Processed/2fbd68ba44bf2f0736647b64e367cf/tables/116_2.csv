@@ -1,0 +1,11 @@
+,Items,Chainage,Unit,Drawings/ Specifications,Field checks/ measurements,Conformity,Unnamed: 6
+0,Road width,0+020,m,8.5,8.7,Ok; Junction, 
+1, ,0+040,m,8.5,8.5,Ok, 
+2, ,0+080,m,8.5,8.6,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec, 
+3, ,0+120,m,8.5,8.4,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec, 
+4, ,0+180,m,8.5,8.5,Ok, 
+5, ,0+220,m,8.5,8.5,Ok, 
+6, ,0+260,m,8.5,8.5,Ok, 
+7,Excavation for U-drain (Excluding allowance for gravel bedding),0+040- 0+200RHS,m,0.7 Width,0.5 Width,Non-Conforming, 
+8, , ,m,0.6 Depth,0.4 Depth,Non-Conforming, 
+9,Modified gravel base thickness,0+050 LHS,mm,150,136,Average thickness = 110.7mm,Non-Conforming

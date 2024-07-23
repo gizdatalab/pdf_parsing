@@ -1,0 +1,212 @@
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA NATIONAL AIRLINES COMPANY LIMITED
+
+FOR THE YEAR ENDED 30 TH JUNE 2020
+
+OFFICE OF THE AUDITOR GENERAL UGANDA
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+LIST OF ACRONYMS - 2
+Opinion - 3
+Key Audit Matter - 3
+1 Implementation of the Approved Budget - 3
+Emphasis of Matter - 5
+2 Share Application funds - 5
+Other Information - 5
+Directors’ Responsibilities for the Financial Statements - 5
+Auditor General’s Responsibilities for the audit of the Financial Statements - 6
+Other Reporting Responsibilities - 7
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ACRONYMS
+
+Acronym	Meaning	
+BOD	Board of Directors	
+FY	Financial year	
+IFRS	International Financial Reporting Standards	
+IAS	International Accounting Standards	
+ISSAI	International standards of Supreme Audit Institutions	
+IT	Information Technology	
+ITB	Instruction to Bidders	
+PPDA	Public Procurement and Disposal of Public Assets Authority	
+PS/ST	Permanent Secretary/Secretary to Treasury	
+UNACL	Uganda National Airlines Company Limited	
+UGX	Uganda Shillings	
+USD	United States Dollars	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE AUDIT OF FINANCIAL STATEMENTS OF UGANDA NATIONAL AIRLINES COMPANY LIMITED FOR THE YEAR
+
+ENDED 30 TH JUNE, 2020
+
+THE RT. HON. SPEAKER OF PARLIAMENT Opinion
+
+I have audited the accompanying financial statements of Uganda National Airlines Company Limited which comprise the statement of Financial Position as at 30 th June 2020, and the Statement of Comprehensive Income, Statement of Changes in Equity and Statement of Cash Flows together with other accompanying statements for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, the financial statements present fairly, in all material respects, the financial position of Uganda National Airlines Company Limited as at 30 th June 2020 and its financial performance and cash flows for the period then ended, in accordance with the International Financial Reporting Standards (IFRS) and the requirements of the Companies Act, 2012 of Uganda.
+
+Basis for Opinion I conducted my audit in accordance with International Standards of Supreme Audit Institutions (ISSAIs). My responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of my report. I am independent of Uganda National Airlines Company Limited in accordance with the Constitution of the Republic of Uganda (1995) as amended, the National Audit Act, 2008, the International Organization of Supreme Audit Institutions (INTOSAI) Code of Ethics, the International Ethics Standards Board for Accountants (IESBA) Code of Ethics for Professional Accountants (Parts A and B), and other independence requirements applicable to performing audits of Financial Statements in Uganda. I have fulfilled my other ethical responsibilities in accordance with the IESBA Code, and in accordance with other ethical requirements applicable to performing audits in Uganda. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my opinion.
+
+Key Audit Matter Key audit matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were addressed in the context of my audit of the financial statements as a whole, and in forming my opinion thereon, and I do not provide a separate opinion on these matters. I have determined the matter described below to be a key audit matter communicated in my report.
+
+1. Implementation of the Approved Budget
+
+Every year, Government plans and allocates funds to Public Sector entities for implementation of activities that would enable the country to attain sustainable development. I observed that Government entities have challenges in implementing planned and budgeted for outputs/activities, which affects service delivery. As a result, the implementation of the approved budget was considered a key audit matter during the office-wide planning. I assessed risks such as inadequate revenue performance, failure to implement planned outputs, failure to undertake budget monitoring and supervision among others which were likely to result in poor performance of the budget.
+
+
+
+
+
+
+
+
+
+
+
+Overall, the establishment of the National Airline Company was aimed at improving air transport connectivity to and from Uganda in order to enhance the Country’s competitiveness for faster economic transformation.
+
+To achieve this mandate, the UNACL planned to implement a number of both recurrent and development deliverables under various departments. For the year under review, the Company budget and work plans were prepared, presented to the Board, deliberated on and approved by the Minister of Works and Transport. A review of the company budgets revealed that UNACL had an approved budget of USD 10,678,829 and USD 9,985,495 was realized.
+
+From the procedures undertaken, the following were noted:
+
+No	Observation	Recommend ation	
+1.1	Company planned and actual revenue performance for 2019/2020to the National Airline approved Annual Budget for 2019/2020, the Company was to generate revenue amounting to US$10,678,829 from its combined operations for the year under review. The company only realized US$ 9,985,495 (93.5%) of the project revenue of US$10,678,829. The realized amount all comprised of revenue from charter services and interest income on fixed deposits.company realized a shortfall of US$693,334 in terms of its budgeted revenue.explained that the Business Plan is a guiding document of the company’s business at a strategic level and further explained that the revenue performance was affected by the outbreak of the COVID-19 Pandemic and also intense competition. The overall average fare was USD.89 per passenger as compared to the average budget fare of USD.106. In the year 2019/2020, the Board of Directors approved the first Budget which was revised in March 2020 after the Covid-19 pandemic and closure of the Airspace.AccordingTheManagement	advised Management to undertake revenue assessments based on the current circumstances and make realistic revenue budgets.I	
+1.2	Implementation of the Business Plan According to the National Airline Business and Implementation Plan, the objective of the Plan was to present a fully detailed case and final review of the viability of establishing a national airline with a hub at Entebbe International Airport. The Plan therefore comprised a detailed assessment of the proposed operation model based on feasible and optimal capital, business and management options.it was difficult to assess the extent to which the plan had been achieved two years down the establishment and launch of the airline. The plan was not annualized and the timelines within which these activities were to be achieved were not specified which made it difficult for the team to evaluate the progress of the business plan.explained that the plan is being implemented progressively with the first of the two A330-800 aircraft planned to be received in December 2020 which will allow the start of long-haul routes in 2021. Needless to say that the impact of Covid19 will mean a revision of implementation timelines, and these processes are already underway with Board and Shareholder consultations.However,Management	I await the revised business implementatio n plan with clear goals, annualized targets performance indicators facilitate monitoring and evaluation and my future reviews.andto	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emphasis of Matter Without qualifying my opinion, I draw attention to the following matter presented in the financial statements that, in my judgement, is of such importance and fundamental to users’ understanding of the financial statements:
+
+2. Share Application funds
+
+The company’s financial statements reflected a total of UGX 817,259,433,000 as Equity funds due to shareholders as of 30 th June 2020. This amount was comprised of: 1) Share Capital – UGX 200,000,000; 2) Share Application Funds – UGX 934,840,887,000, and; 3) Retained Earnings (Losses) of UGX 117,781,454,000.
+
+A review of the equity composition revealed that whereas the Government had invested a total of UGX 935,040,887,000 and reflected it as an investment in the Treasury records at Ministry of Finance, Planning and Economic Development, only an amount of UGX200,000,000 was shown as Share Capital in the books of Uganda Airlines, the rest of the amount (UGX 934,840,887,000) was shown as Share Application Funds. The processes for recognition of the Government investment in the company have not been undertaken to enable appropriate treatment and reporting in the company’s books of account.
+
+Management explained that the amount has not been converted into share capital, but Government was in the process of engaging Uganda Registration Services Bureau to finalize the conversion of the amount into Share Capital.
+
+I advised the Accounting Officer to continue engagements with the relevant authorities such as Uganda Registration Services Bureau and finalize the processes of share capital registration, to ensure that the Government investment in the company is appropriately recognized as Share Capital.
+
+Other Information
+
+The Directors are responsible for the other information. The other information comprises the statement of responsibilities of the Board of Directors and the commentaries by the Head of Accounts and the Chief Executive Officer, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information; I am required to report that fact. I have nothing to report in this regard.
+
+Directors’ Responsibilities for the Financial Statements
+
+The Directors are responsible for the preparation and fair presentation of these financial statements in accordance with the International Financial Reporting Standards and the requirements of the Uganda Companies Act and for such internal control as Management determines is necessary to enable the preparation of financial statements that are free from material misstatements, whether due to fraud or error.
+
+
+
+
+
+
+
+
+
+
+
+In preparing the financial statements, the Directors are responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the Company’s management either intend to liquidate the Company or to cease operations, or have no realistic alternative but to do so.
+
+Auditor General’s Responsibilities for the audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes my opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISSAIs will always detect a material misstatement, when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain professional scepticism throughout the audit. I also:-
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control.
+
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+
+- Conclude on the appropriateness of Directors’ use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company’s ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+I communicate with the Directors regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that I identify during my audit.
+
+
+
+
+
+
+
+
+
+
+
+I also provide the Directors with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Directors, I determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, I determine that a matter should not be communicated in my report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Reporting Responsibilities As required by the Companies Act, 2012, I report to you, based on my audit, that:
+
+- I have obtained all the information and explanations which to the best of my knowledge and belief were necessary for the purpose of my audit;
+
+- In my opinion, proper books of account have been kept by the Company, so far as appears from my examination of those books; and
+
+- The Company's statement of financial position and statement of financial performance are in agreement with the books of account.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+KAMPALA
+
+28 th December, 2020
+
+
+
+
+
+
+
+
+
+
+

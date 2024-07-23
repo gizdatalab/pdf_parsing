@@ -9,7 +9,9 @@ from ast import literal_eval
 from io import StringIO
 import logging
 from typing import Callable, Dict, List, Optional, Text, Tuple, Union
-server_config='./defaultConfig.json'
+import glob
+import numpy as np
+server_config='../axaserver/defaultConfig.json'
 
 def get_config(configfile_path:str)->object:
     """
@@ -57,12 +59,13 @@ def check_input_file(file_path:str)->bool:
                     tesseract-ocr (eng). Suggest to use the useOCR module instead""")
         return True
     else:
-        logging.error(f"filetype not supported, should be of {supported_filetype}") 
+        logging.error(f"{file_path} filetype not supported, should be of {supported_filetype}") 
         return False
 
 
-def send_doc(url="http://localhost:3001", file_path :str ="", 
-            server_config=server_config, 
+def send_doc(url="http://localhost:3001", 
+            file_path :str ="", 
+            server_config:str=server_config, 
             authfile:str = "")->dict:
 
     """
@@ -111,6 +114,112 @@ def send_doc(url="http://localhost:3001", file_path :str ="",
             logging.error(e)
 
 
+def send_documents_batch(batch: str,
+            url="http://localhost:3001", 
+            server_config:str=server_config, 
+            authfile:str = "",
+           ) -> list:
+        """
+        Send all the files inside a folder
+
+        Params
+        -------------
+        url: either the localhost or huggingface hosted server acceptible right now
+        folder: filder to be sent to server
+        server_config:filepath to configs for the axaserver to be sued for this 
+                      batch of files
+        authfile: private server on huggingface need auth-token
+
+        """
+        if url != "http://localhost:3001":
+            configs = get_config(configfile_path= authfile)
+            try:
+                url = configs.get("axaserver","api")
+                token = configs.get("axaserver","token")
+                headers = {
+                            "Authorization": f"Bearer {token}"}
+            except Exception as e:
+                logging.warning(e)
+                return
+        else:
+            headers = None
+
+        responses = []
+        # files = glob.glob(folder + "*")
+        # if len(files)  == 0:
+        #     logging.error("folder {} is empty".format(folder))
+        #     return
+            
+        # filemask = [check_input_file(file) for file in files]
+        # files = list(np.array(files)[filemask])
+
+        for file in batch:
+            packet = {
+                'file': (file, open(file, 'rb'), 'application/pdf'),
+                'config': (server_config, open(server_config, 'rb'), 'application/json'),
+            }
+            r = post(url + '/api/v1/document', headers=headers, files=packet)
+            responses.append({
+            'filename': os.path.basename(file),
+            'config': server_config,
+            'status_code': r.status_code,
+            'server_response': r.text})
+        return responses
+
+
+def send_documents_folder(folder: str,
+            url="http://localhost:3001", 
+            server_config:str=server_config, 
+            authfile:str = "",
+           ) -> list:
+        """
+        Send all the files inside a folder
+
+        Params
+        -------------
+        url: either the localhost or huggingface hosted server acceptible right now
+        folder: filder to be sent to server
+        server_config:filepath to configs for the axaserver to be sued for this 
+                      batch of files
+        authfile: private server on huggingface need auth-token
+
+        """
+        if url != "http://localhost:3001":
+            configs = get_config(configfile_path= authfile)
+            try:
+                url = configs.get("axaserver","api")
+                token = configs.get("axaserver","token")
+                headers = {
+                            "Authorization": f"Bearer {token}"}
+            except Exception as e:
+                logging.warning(e)
+                return
+        else:
+            headers = None
+
+        responses = []
+        files = glob.glob(folder+"*")
+        if len(files)  == 0:
+            logging.error("folder {} is empty".format(folder))
+            return
+            
+        filemask = [check_input_file(file) for file in files]
+        files = list(np.array(files)[filemask])
+
+        for file in files:
+            packet = {
+                'file': (file, open(file, 'rb'), 'application/pdf'),
+                'config': (server_config, open(server_config, 'rb'), 'application/json'),
+            }
+            r = post(url + '/api/v1/document', headers=headers, files=packet)
+            responses.append({
+            'filename': os.path.basename(file),
+            'config': server_config,
+            'status_code': r.status_code,
+            'server_response': r.text})
+        return responses
+
+
 def get_status(url: str = "http://localhost:3001",
                request_id: str = "", authfile:str = "")->dict:
     """Get the status of a particular request using its ID
@@ -136,10 +245,14 @@ def get_status(url: str = "http://localhost:3001",
 
     r = get('{}/api/v1/queue/{}'.format(url, request_id), headers=headers)
 
-    return {
-        'request_id': request_id,
-        'server_response': json.loads(
-            r.text)}
+    return r
+    # if r.text == "":
+    #     logging.error(r)
+    # else:
+    #     return {
+    #         'request_id': request_id,
+    #         'server_response': json.loads(
+    #             r.text)}
 
 
 def get_json(url: str = "http://localhost:3001",
@@ -166,6 +279,36 @@ def get_json(url: str = "http://localhost:3001",
         raise Exception('No request ID provided')
     
     r = get('{}/api/v1/json/{}'.format(url, request_id), headers=headers)
+    if r.text != "":
+        return r.json()
+    else:
+        return {'request_id': request_id, 'server_response': r.json()}
+
+
+def get_simplejson(url: str = "http://localhost:3001",
+               request_id: str = "", authfile:str = "")->dict:
+    """Get the status of a particular request using its ID
+
+    - request_id: The ID of the request to be queried with the server
+    - server: The server address where the query is to be made
+
+    """
+    if url != "http://localhost:3001":
+        configs = get_config(configfile_path= authfile)
+        try:
+            url = configs.get("axaserver","api")
+            token = configs.get("axaserver","token")
+            headers = {
+                        "Authorization": f"Bearer {token}"}
+        except Exception as e:
+            logging.warning(e) 
+    else:
+        headers = None
+    
+    if request_id == "":
+        raise Exception('No request ID provided')
+    
+    r = get('{}/api/v1/simple-json/{}'.format(url, request_id), headers=headers)
     if r.text != "":
         return r.json()
     else:
@@ -313,15 +456,46 @@ def get_table(url: str = "http://localhost:3001",
         return r.text
 
 
-def get_document(url: str = "http://localhost:3001",
-               request_id: str = "", authfile:str = ""):
-    r_json = get_json(url = url, request_id=request_id,authfile=authfile)
-    pages = {}
-    file_output = ParsrOutputInterpreter(r_json)
-    for i in range(0,file_output.page_count):
-        text_data = file_output.get_sorted_text(page_number=i, text_elements=[""])
+def download_files(request_id, folder_location, filename):
+    if get_status(request_id=request_id).status_code == 201:
+        if not os.path.exists(folder_location + f"{request_id}/"):
+            os.makedirs(folder_location + f"{request_id}/")
+            new_path = folder_location + f"{request_id}/"
 
+            r_markdown = get_markdown(request_id=request_id)
+            with open(new_path + f'{filename}.md', 'w') as file:
+                file.write(r_markdown)
+            
+            r_text = get_text(request_id=request_id)
+            with open(new_path+f'{filename}.txt', 'w') as file:
+                file.write(r_text)
+            
+            r_json = get_json(request_id=request_id)
+            with open(new_path + f'{filename}.json', 'w') as file:
+                json.dump(r_json, file)  
 
+            r_simplejson = get_simplejson(request_id=request_id)
+            with open(new_path+f'{filename}.simple.json', 'w') as file:
+                json.dump(r_simplejson, file)
+
+            tables_list = get_tables_list(request_id=request_id)
+            os.makedirs(folder_location + f"{request_id}/tables/")
+            new_path_table = folder_location + f"{request_id}/tables/"
+            for val in tables_list:
+                df = get_table(request_id=request_id, page=val[0], table=val[1])
+                df.to_csv(new_path_table+f"{val[0]}_{val[1]}.csv")
+
+            return new_path
+        
+        else: logging.warning("folder already exists")
+
+# def get_processedfiles(url: str = "http://localhost:3001",
+#                request_id: str = "", authfile:str = ""):
+#     r_json = get_json(url = url, request_id=request_id,authfile=authfile)
+#     pages = {}
+#     file_output = ParsrOutputInterpreter(r_json)
+#     for i in range(0,file_output.page_count):
+#         text_data = file_output.get_sorted_text(page_number=i, text_elements=[""])
 
 
 class ParsrOutputInterpreter(object):
@@ -427,17 +601,21 @@ class ParsrOutputInterpreter(object):
         return result
 
 
-    def get_text_elements(self, page_number: int = None, text_elements:list = ["paragraph"]) -> dict:
+    def get_text_elements(self, page_number: int = None, 
+                          text_elements:list = ["paragraph"]) -> dict:
         """Get the entire text from a particular page.
 
         Params
         ------------
-        page_number: page from which tetx elements need to be extracted
+        page_number: page from which text elements need to be extracted
         text_elements: list of text_elments which need to be extracted
 
 
         Return
         ---------------
+        text_list: dictionary with key=element type (only first order), and value = list 
+                    of those element types.
+
 
 
         """
@@ -470,14 +648,6 @@ class ParsrOutputInterpreter(object):
             text_list.append((text_obj["type"], final_text))
         return text_list
 
-def main():
-    # print(send_doc(file_path="../documents/Fortportal Regional Referral Hospital Report FY20202021.pdf",
-    #                server_config="../axaserver/defaultConfig.json"
-    #                ))
-    print(get_table(request_id="0516f18d876bfe2a64a6c9c0eb09be", page=10, table=1))
-
-if __name__=="__main__":
-    main()
     
     
 

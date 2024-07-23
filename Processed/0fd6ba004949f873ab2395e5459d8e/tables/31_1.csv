@@ -1,0 +1,9 @@
+,Unnamed: 0,Unnamed: 1,Approved Budget (Billions) “A”,Release (Billions) “B”,Variance:,Unnamed: 5,Amount Spent (Billions),Amount not Absorbed (Billions)
+0, , , , ,Amount not Released (Billions) “C”,Proportion D=(C/A*)100, , 
+1,MOW,GOU,250.547,243.648,6.899,2.8%,243.3,0.348
+2, ,External Financing,236.564,76.884,159.68,67.5%,76.884,0.0
+3, ,Totals (UGX),487.111,320.532,166.579,34.2%,320.184,0.348
+4, , , , , , , , 
+5,UNRA,GOU,"1,932","1,926",6,0.31%,"1,922",3.125
+6, ,External Financing,"1,929",608,"1,321",68.5%,458,149.975
+7, ,Totals (UGX),"3,861","2,534","1,327",34.4%,"2,381",153.1

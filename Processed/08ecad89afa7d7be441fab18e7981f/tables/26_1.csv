@@ -1,0 +1,13 @@
+,SN.,Name,Supplier No.,Employee No.,IPPS payroll register Amount,Interface files/IFMS Amount,Variance,Remarks
+0, ,Non Payment, , , , , , 
+1,1.0,JAMES OTTO,274093.0,159608.0,"928,480", ,"928,480",On IPPS but not paid on IFMS
+2,2.0,SIMON ONEKALIT,329130.0,159709.0,"3,668,592", ,"3,668,592",On IPPS but not paid on IFMS
+3,3.0,JOSEPH KOMAKECH, ,871238.0,"5,181,410", ,"5,181,410",On IPPS but not paid on IFMS
+4,4.0,JAKARIA THOMAS ODONGO, ,885783.0,"8,386,032", ,"8,386,032",On IPPS but not paid on IFMS
+5,5.0,JUSTIN OBUNYA, ,914707.0,"2,631,744", ,"2,631,744",On IPPS but not paid on IFMS
+6,6.0,JACINTO OKEMA, ,998191.0,"306,531", ,"306,531",On IPPS but not paid on IFMS
+7,7.0,ESTATE OF THE LATE OYAT SATURNINO OYWELO GEORGE, ,999379.0,"1,756,160", ,"1,756,160",On IPPS but not paid on IFMS
+8,8.0,TARCISIA ABU ABODO, ,1019420.0,"1,051,548", ,"1,051,548",IFMS On IPPS but not paid on
+9,9.0,GEORGE OTTORACH, ,1040492.0,"63,296", ,"63,296",IFMS On IPPS but not paid on
+10,10.0,ESTATE OF ONEKALIT SIMON MAX OJOK BILLY BOB, ,1045615.0,"5,197,172", ,"5,197,172",IFMS On IPPS but not paid on
+11,11.0,ALEXANDER, ,1048767.0,"7,738,290", ,"7,738,290",On IPPS but not paid on

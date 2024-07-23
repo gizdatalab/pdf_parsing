@@ -1,0 +1,15 @@
+,S/N,Month (for which salary is paid),Salary payment date,Required payment date,PAYE payment date,Variance (In days),Remarks
+0,1.0,July,8/3/2020,9/15/2020,9/7/2020,0.0,In time
+1,2.0,August,8/26/2020,9/15/2020,9/30/2020,15.0,Delayed
+2,3.0,September,9/21/2020,10/15/2020,10/29/2020,14.0,Delayed
+3,4.0,October,10/26/2020,11/15/2020,11/16/2020,1.0,Delayed
+4,5.0,November,11/26/2020,12/15/2020,12/18/2020,3.0,Delayed
+5,6.0,December,12/16/2020,1/15/2021,2/15/2021,31.0,Delayed
+6,7.0,January,1/28/2021,2/15/2021,3/3/2021,16.0,Delayed
+7,8.0,February,2/25/2021,3/15/2021,3/25/2021,10.0,Delayed
+8,9.0,March,3/25/2021,4/15/2021,4/14/2021,0.0,In time
+9,10.0,April,4/22/2021,5/15/2021,5/3/2021,0.0,In time
+10,11.0,May,5/25/2021,6/15/2021,6/15/2021,0.0,In time
+11,12.0,June,6/22/2021,7/15/2021,6/29/2021,0.0,In time
+12, ,Total, , , ,90.0, 
+13, ,Average, , , ,7.5, 

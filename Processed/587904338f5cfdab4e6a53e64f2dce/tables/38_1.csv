@@ -1,0 +1,11 @@
+,Invoice Number,Invoice Date,Supplier,Description,Amount,Budget and expendi ture Code charged,Discription of the budget and expenditure item,Correct Budget and expendit ure Code,Right Discription of the item for the budget and expenditure
+0,WKS-37- 20,12/08/2020,DESOFT CONSULTS AND,Rehabilitaton of ssemaundo and kitobo solar water sys,"47,457,626",312104.0,Other Structures,228001.0,Maintenance - Civil
+1,PL-2-14- 2021,14/06/2021,CONIT ENTERPRISES LTD,renovation of houses at kalangala HCIV,"24,988,392",312104.0,Other Structures,228001.0,Maintenance - Civil
+2,PL-3-19- 2021,18/06/2021,CONIT ENTERPRISES LTD,renovation of staff houses at HCIV,"10,941,072",312104.0,Other Structures,228001.0,Maintenance - Civil
+3,sfg-04- 01-2021,13/01/2021,Mmacks Investme nts Ltd,construction of seed school at Bufumira,"252,996,913",312102.0,Residential Buildings,312101.0,Non-residential buildings
+4,SFG-02- 6-2021(L),16/06/2021,LUMU EDWARD 849861,FACILITATION FOR EVALUATION PROCESS FOR THE CONSTRUCTION OF A SEED SCHOOL IN MULABANA(DRIVER),"2,200,000",312102.0,Residential Buildings,281504.0,"Supervision & Appraisal of capital works Monitoring,"
+5,SFG-1- 10-20,07/10/2020,ANDIKAS CONTRACTORS LTD,CONSTRUCTION WORKS( KAL515/WRKS/20-21/00004 ) FOR THE RENOVATION AT JAANA PRIMARY SCHOOL,"14,771,289",312101.0,Non-Residential Buildings,228001.0,Maintenance - Civil
+6,H-01-14,28/10/2020,Magumba Eriya,Town running fuel for 2 qrt,"2,125,000",227004.0,"Fuel, Lubricants and Oils",227001.0,Travel inland
+7,ADM-12,16/09/2020,ZAWEDDE LOVINCER 748887,To carry out data capture for newly recruited staff,"1,106,000",227004.0,"Fuel, Lubricants and Oils",227001.0,Travel inland
+8,AUD-02,17/12/2020,WERE CHARLES 849853,AUDIT INSECTION,"1,000,000",227004.0,"Fuel, Lubricants and Oils",227001.0,Travel inland
+9, ,Total, , ,"357,586,292", , , , 

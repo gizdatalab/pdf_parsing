@@ -1,0 +1,7 @@
+,Bill Item,Unit,Eng. Est. Rate (F) UGX,Lowest rate among municipalities (F m ) UGX,Score (1*F m /F),Percentage of Engineer’s Rate to the Lowest (1+(F- F m )/F m )%
+0,Roofing Sheets (gauge 28),m 2,"38,500","18,500",0.48,208%
+1,Internal Plaster,m 2,"10,000","5,000",0.5,200%
+2,230mm walling,m 2,"32,000","20,000",0.63,160%
+3,Roofing Timber 100×50mm,m,"8,000","3,000",0.38,267%
+4,Reinforced Concrete,m 3,"400,000","110,000",0.28,364%
+5,Total Score, , , ,2.27,Average = 240%

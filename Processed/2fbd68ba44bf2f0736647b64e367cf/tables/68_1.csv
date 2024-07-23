@@ -1,0 +1,12 @@
+,No.,Items,Location Chainage,Unit,Drawings/ Specifications,Field checks/ measurements (averaged where necessary),Conformity
+0,12) GOLF COURSE ROAD (0.45KM), , , , , , 
+1,1,Kerb-Kerb road width,0+060,m,9.55,9.56,Ok
+2, , ,0+160,m,9.55,9.55,Ok
+3, , ,0+240,m,9.55,9.54,Ok
+4, , ,0+340,m,9.55,9.57,Ok
+5, , ,0+380,m,9.55,9.5,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+6,2,Asphalt Concrete Width,0+060,m,9.0,9.1,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+7, , ,0+160,m,9.0,9.1,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+8, , ,0+240,m,9.0,9.1,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+9, , ,0+340,m,9.0,9.05,Ok
+10, , ,0+380,m,9.0,9.1,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec

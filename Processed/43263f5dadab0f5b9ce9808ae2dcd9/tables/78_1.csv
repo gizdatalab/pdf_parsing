@@ -1,0 +1,7 @@
+,Bill Item Description,Uni t,Quantit y in Enginee r's Estimat e Qe,Final Implemen ted Quantity Qf,Absolu te % Diff. betwe en Qf and Qe (F),Maximu m allowabl e percenta ge differenc e (Fm),Max. Score of Municipal ity (Max. Score for all 5 items is 10),Scores of this Project S=2*(Fm /F)
+0,Roofing Sheets (gauge 28),m 2,178.0,177.39,0.34%,25%,2,2.0
+1,Internal Plaster,m 2,461.0,461.0,0.00%,25%,2,2.0
+2,230mm walling,m 2,99.0,99.0,0.00%,25%,2,2.0
+3,Roofing Timber 100×50mm,m,235.0,235.0,0.00%,25%,2,2.0
+4,Reinforced Concrete,m 3,4.3,2.98,30.80%,25%,2,1.62
+5,TOTAL SCORE:, , , , , ,10,9.62

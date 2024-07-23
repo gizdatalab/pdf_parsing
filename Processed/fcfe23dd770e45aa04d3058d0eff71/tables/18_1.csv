@@ -1,0 +1,11 @@
+,SN,Funding source,Modality,CURR,Amount,Amount (UGX),Disbursed in 2019/20 (UGX),Disbursed in 2020/21 (UGX)
+0,1.0,"IMF Budget Support Loan (BoU, UDB &MOFPED)",BOU,SDR,"249,725,331","1,311,057,985,758","1,311,057,985,758",-
+1, , ,UDB,SDR,"88,138,352","462,726,347,915","462,726,347,915",-
+2, , ,Budget Support,SDR,"23,136,317","121,465,666,328","121,465,666,328",-
+3,2.0,World Bank (Treasury),Budget Support,SDR,"218,700,000","1,148,175,000,000",-,"1,148,175,000,000"
+4,3.0,EU Grant(Treasury),Budget Support,EUR,"4,000,000","17,200,000,000",-,"17,200,000,000"
+5,4.0,Stanbic Bank Ltd Loan(Treasury),Budget Support,EUR,"300,000,000","1,290,000,000,000","1,075,000,000,000","215,000,000,000"
+6,5.0,TDB (PTA Bank) Loan (Treasury),Budget Support,EUR,"300,000,000","1,290,000,000,000","1,290,000,000,000",-
+7,6.0,World Bank (MOH-URMCHIP),Project Support,USD,"15,000,000","55,725,000,000","37,150,000,000","18,575,000,000"
+8,7.0,Islamic Development Bank (NMS),Project Support,USD,"13,790,000","51,229,850,000",-,"51,229,850,000"
+9, ,TOTAL, , , ,"5,747,579,850,001","4,297,400,000,000","1,450,179,850,000"

@@ -1,0 +1,4 @@
+,Employee Number,Supplier Number,Employee Name,IPPS Net Pay,IFMS Net pay,Over Payment,Management Response,Verification Remarks
+0,861926.0,745089,Nakayima Stella,"6,071,652","6,581,123","- 509,471","Nakayima Stella, Enrolled Midwife whose monthly net salary was UGX 509,471. In the month of May 2021 the ifms system paid her UGX 1,018,942/= as a result of failure of ifms network.",Double Payment salary for the Month May 2021
+1,955949.0,745084,Nabulime Proscovia,"9,044,595","9,800,378","- 755,783","A recovery code is going to be inserted to recover UGX 509,471 starting December 2021",Double Payment salary for the Month May 2021
+2, ,Total, , , ,"-1,265,254", , 

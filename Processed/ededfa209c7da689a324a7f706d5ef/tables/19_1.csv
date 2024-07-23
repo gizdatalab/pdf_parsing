@@ -1,0 +1,11 @@
+,Route,Type of trariff,Old Tariff (USD),New Tariff (USD),Variance(USD)
+0,Imports, , , , 
+1,Malaba-Kampala,Per ton,27.6,19.6,8.0
+2,Malaba – Jinja,Per ton,26.0,8.0,18.0
+3,Malaba – Tororo,Per ton,22.8,5.0,17.8
+4,Malaba – Kampala,Per ton (steel),28.4,24.0,4.4
+5,Kisumu/Mwanza- Portbell/Jinja,Per ton (Oil),19.7,18.0,1.7
+6,Kisumu/Mwanza- Portbell /Jinja,Per ton (Conventional Cargo),19.7,12.5,7.2
+7,Malaba- Mukono Kampala/,Per (container) TEU,940.0,445.0,495.0
+8,Exports, , , , 
+9,Kampala- Malaba,Per TEU (container),360.0,280.0,80.0

@@ -1,0 +1,10 @@
+,Item No.,Description,Unit,Rate,Audit Quantity,Certified Quantity,Difference (Certified- Audit),Overpayment,Remarks
+0,6(c ),Floor finish,SM,"12,000",113.5,142.0,28.5,"342,000", 
+1,8(d),Ceiling mortar casting,SM,"2,000",120.6,205.0,84.4,"168,800", 
+2,8(e ),Ceiling plaster finish,SM,"1,000",120.6,205.0,84.4,"84,400", 
+3,4(g),Gauge 28 roofing sheets,SM,"17,000",175.8,178.0,2.2,"37,400", 
+4,6(d),External plaster,SM,"8,000",114.2,78.0,(36.2), ,Underpayment
+5,6(e ),Rough Cast finish,SM,"8,000",71.5,52.0,(19.5), ,Underpayment
+6,5(f),Internal metallic door frame,No.,"500,000",0.0,8.0,8,"4,000,000", 
+7,5(i),Internal doors 900x2100mm,No.,"400,000",6.0,8.0,2,"800,000", 
+8,Total, , , , , , ,"5,432,600", 

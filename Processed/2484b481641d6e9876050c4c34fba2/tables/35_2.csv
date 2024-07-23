@@ -1,0 +1,7 @@
+,Bill Item,Unit,Eng. Est. Rate (F) (UGX),Lowest rate across municipalities (Fm) UGX,Score (1*Fm/F),Percentage of Eng. Est. rate to lowest rate (1+(F- Fm)/Fm)%
+0,Precast concrete Class 30 kerbs,M,"55,914","54,285",0.97,103%
+1,Asphalt Concrete for Surfacing,M 3,"659,200","659,200",1.0,100%
+2,Clearing and Grubbing,Ha,"9,840,996","9,554,365",0.97,103%
+3,"White lines, broken or unbroken",M,"8,999","8,737",0.97,103%
+4,CRR for Road Base,M 3,"153,585","117,040",0.76,131%
+5,Total, , , ,4.67,Average = 108%

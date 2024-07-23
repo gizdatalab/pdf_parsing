@@ -1,0 +1,10 @@
+,Items,Chainage,Unit,Drawings/ Specifications,Field checks/ measurements,Conformity
+0,Road width,0+010,m,8.5,9.8,Ok; Junction
+1, ,0+020,m,8.5,8.5,Ok
+2, ,0+080,m,8.5,8.3,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+3, ,0+120,m,8.5,8.3,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+4, ,0+180,m,8.5,8.35,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+5, ,0+220,m,8.5,8.4,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+6, ,0+260,m,8.5,8.3,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+7,Excavation for U-drain (Excluding allowance for gravel bedding),0+040- 0+240RHS,m,0.7 Width,0.5 Average Width,Non-Conforming
+8, , ,m,0.6 Depth,0.4 Average Depth,Non-Conforming

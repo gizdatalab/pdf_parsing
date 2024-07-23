@@ -1,0 +1,5 @@
+,Item No.,Description,Unit,Audit quantity,Certified quantity,Difference (Certified – Audit),Rate,Amount of Overpayment,Remarks
+0,41.01(a),Prime coat; MC 30- cutback bitumen,Ltr,"2,541.0","2,193",-348.0,"5,500",-,Considering 1L/m 2 ; Under paid
+1,41.03,Aggregate for blinding,M 3,8.9,30,21.0,"35,000","738,500",Considering 0.0035m 3 /m 2
+2,42.01(a),First seal coat,M 2,"2,457.0","2,631",174.0,"25,000","4,350,000","Rate changed from 22,000"
+3,Total, , , , , , ,"5,088,500", 

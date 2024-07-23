@@ -1,0 +1,7 @@
+,Bill Item,Unit,Eng. Est. Rate (F) UGX,Lowest rate among municipalities (F m ) UGX,Score (1*F m /F),Percentage of Eng. Est. rate to lowest rate (1+(F- F m )/F m )%
+0,600mm culverts,M,"213,333","213,333",1.0,100%
+1,Concrete for drains,CM,"550,000","550,000",1.0,100%
+2,Prime Coat,Ltr,"5,500","5,200",0.95,106%
+3,First Seal Coat,M 2,"25,000","25,000",1.0,100%
+4,Gravel for Sub- base,M 3,"15,000","15,000",1.0,100%
+5,Total Score, , , ,4.95,Average = 101%

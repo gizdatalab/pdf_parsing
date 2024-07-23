@@ -1,0 +1,1125 @@
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA CIVIL AVIATION AUTHORITY
+
+FOR THE YEAR ENDED 30 TH JUNE 2020
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+LIST OF ACRONYM - 2
+Opinion - 3
+Basis for Qualified Opinion - 3
+  1.0 Government rental debtors – UGX.93,398,362,595 - 3
+  2.0 Long outstanding uncollected funds – UGX.38,000,000,000 - 4
+  3.0 Overstatement of trade payables – UGX.711,161,871 - 4
+  4.0 Unexplained revenue from Aircraft licenses - UGX 234,731,751 - 4
+  5.0 Unaccounted for funds – UGX 693,994,495 - 4
+Key Audit Matters - 5
+  6.0 Implementation of the approved budget - 5
+Emphasis of Matter - 10
+  7.0 Debtors’ Policy - 10
+Other Matter - 11
+  8.0 Contract Management of the advertising space - 11
+9.0 Delayed revision of Financing Agreement for Exim Bank loan on Upgrading and
+Expansion of the Entebbe International Airport Phase I Project - 12
+  10.0 Idle Capital Investment - UGX 4,716,479,582 - 13
+Other information - 14
+Responsibilities of Directors for the Financial Statements - 14
+Auditor’s Responsibilities for the Audit of the Financial Statements - 14
+Other Reporting Responsibilities - 15
+Report on Compliance with Legislation - 16
+  11.0 Management of Government Vehicles (Fleet Management) - 16
+  12.0 Collections and withdrawals from the Sales Collection Accounts – UGX.23,326,232,404 - 19
+  13.0 Lack of concessions contracts for fuel throughput revenue - 20
+  14.0 Unplanned procurements - 21
+  15.0 Unjustified direct procurements - UGX 3,037,247,829 - 22
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ACRONYM
+
+Acronym	Meaning	
+Bn	Billion	
+EIA	Entebbe International Airport	
+FPPM	Financial Policies and Procedure Manual	
+FY	Financial Year	
+GoU	Government of Uganda	
+HOD	Head of Department	
+ICAO	International Civil Aviation Organisation	
+INTOSAI	International Organization of Supreme Audit Institutions	
+ISO	Internal Security Organisation	
+MoFPED	Ministry of Finance Planning and Economic Development	
+MoWT	Ministry of Works and Transport	
+NDP	National Development Plan	
+NTR	Non Tax Revenue	
+PPDA	Public Procurement and Disposal Authority	
+UCAA	Uganda Civil Aviation Authority	
+UGX	Uganda shillings	
+UIPE	Uganda Institute of Professional Engineers	
+UN	United Nations	
+USD	United States Dollars	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA CIVIL AVIATION AUTHORITY (UCAA)
+
+FOR THE YEAR ENDED 30 TH JUNE, 2020
+
+THE RT. HON. SPEAKER OF PARLIAMENT
+
+Opinion
+
+I have audited the accompanying financial statements of Uganda Civil Aviation Authority (the Authority) and its subsidiary, Entebbe Cold Stores Limited (collectively referred to as the Group), which comprise the consolidated statement of financial position as at 30 June 2020, and the consolidated statement of comprehensive income, changes in equity and cash flows for the year then ended, and the statement of financial position of the Authority standing alone as at 30 June 2020, together with other accompanying statements for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, except for the possible effect of the matters described in the Basis for Qualified Opinion section of my report, the accompanying financial statements give a true and fair view of the state of the financial affairs of Uganda Civil Aviation Authority (the Authority) and its subsidiary (together the Group) as at 30 June 2020 and of its profit and cash flows for the year then ended in accordance with International Financial Reporting Standards.
+
+Basis for Qualified Opinion
+
+1.0
+
+Government rental debtors – UGX.93,398,362,595
+
+Several Government Ministries, Departments and Agencies (MDAs) as well as Statutory Corporations rent UCAA premises. Accordingly, UCAA annually charges these organisations various rental fees depending on the size of the rental space occupied. A total of UGX.93,398,362,595 was outstanding in arrears of unremitted rental space with eleven Government entities for over two years.
+
+In addition, UCAA did not have any tenancy agreements with these Government bodies specifying the terms and conditions of tenancy. There was therefore no basis upon which Uganda Civil Aviation Authority (UCAA) continued to recognise these accounts receivable in their books of Accounts. On consultation with the respective Government agencies, it was noted that the amounts were not reflected in their financial statements. The UGX.93,398,362,595 owed in unremitted fees for rental space represents 70.8% of the total Government debtors of the Authority that currently stand at UGX.131,813,734,000 as per note 26 of the adjusted financial statements of 30 th June 2020.
+
+
+
+
+
+
+
+
+
+
+
+2.0
+
+Long outstanding uncollected funds – UGX.38,000,000,000
+
+The Authority entered into an agreement with the Ministry of Defence to undertake rehabilitation of Nakasongola and Gulu Aerodromes in 2015. A total of UGX.38,000,000,000 was spent on this activity and recognized in the financial statements. Management explained that UCAA had undertaken the rehabilitation on behalf of Government and UCAA was expecting the amount to be reimbursed by the Ministry of Defence.
+
+In line with my report of the previous year 2018/2019, Management did not provide evidence that Government has made a commitment to reimburse the amount. There was no Memorandum of Understanding/agreement between the two parties or written commitment to reimburse the amount within specified timelines, nor was there a payment plan availed as justification for the recognition of the receivable in the financial statements.
+
+In absence of any basis of recognition, the disclosed accounts receivable in the Authority’s financial statements could be misstated by UGX 38,000,000,000.
+
+3.0
+
+Overstatement of trade payables – UGX.711,161,871
+
+The financial statements disclosed trade and other payables of UGX.12,367,293,000 as per note 21, page 37. However, the aging report as at 30 th June 2020 indicated an amount of UGX.11,656,131,129. The inconsistencies have led to a misstatement of UGX.711,161,871 which may lead the users to making sub optimal decisions.
+
+It was further noted that 83.8% of UGX 11,656,131,129 ie UGX 9,773,326,309 was overdue by over 60 days. Delay to settle trade creditor’s results in reputational damage to the Authority and may also lead to interest charges on the unpaid invoices, exposure to the risks of law suits and its attendant costs.
+
+4.0
+
+Unexplained revenue from Aircraft licenses - UGX 234,731,751
+
+Review of the trial balance for the period ended 30 th June 2020, revealed that the Authority collected UGX 366,660,839 as revenue from aircraft licences. However, from the consolidated quarter reports and re-computation done, it was established that a sum of UGX 131,929,088 was reported as revenue arising from the different aircraft licences. This left UGX 234,731,751 unsupported. I was unable to confirm the correctness of the amount disclosed in the financial statement and there is a possibility of misstatement of revenue.
+
+
+
+
+
+
+
+
+
+
+
+(together the Group) in accordance with the Constitution of the Republic of Uganda (1995) as amended, the National Audit Act, 2008, the International Organization of Supreme Audit Institutions (INTOSAI) Code of Ethics, the International Ethics Standards Board for Accountants Code of Ethics for Professional Accountants (Parts A and B) (IESBA Code), and other independence requirements applicable to performing audits of Financial Statements in Uganda. I have fulfilled my other ethical responsibilities in accordance with the IESBA Code, and in accordance with other ethical requirements applicable to performing audits in Uganda.
+
+Key Audit Matters
+
+Key audit matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were addressed in the context of my audit of the financial statements as a whole, and in forming my opinion thereon, and I do not provide a separate opinion on these matters. In addition to the matters described in the Basis for Qualified Opinion section, I have determined the matters described below to be key audit matters communicated in my report.
+
+6.0
+
+Implementation of the approved budget
+
+Paragraph 4.3.7.2 of the UCAA Financial Policies and Procedure Manual, 2016 entrusts the Finance Department with the responsibility of preparing and consolidating budget performance reports of UCAA. To enable HOD’s supervise expenditures of their directorate, Director Finance (DF) shall be required to provide to HOD’s, monthly and cumulative figures of income and expenditure for comparison against annual estimates for each cost centre under each directorate. Every month, the Management Accountant prepares budget- monitoring reports and submits them to the Area Managers for review, cost control, planning and decision-making.
+
+In addition, quarterly and annual reports are prepared containing information regarding the cumulative year to date actual, cumulative year to date budget, year to date Variance; and explanations of significant variances and any corrective measures taken where necessary. These shall be deliberated on and sent to the Board through the Accounting Officer for action.
+
+For the year under review, the Authority budget and work plans were prepared presented to the Board, deliberated on and approved by the Minister of Works and Transport. The FPPM clearly requires implementation of the budget to be strictly based on the approved work plans, procurement plans and recruitment plans.
+
+
+
+
+
+
+
+
+
+
+
+UCAA is mandated to coordinate and oversee Uganda's aviation industry, including licensing, regulation, air search and rescue, air traffic control, ownership of airports and aerodromes, within Ugandan and complying with international aviation law.
+
+To achieve this mandate, the UCAA planned to implement a number of both recurrent and development deliverables under various departments. A review of the Authority budgets revealed that UCAA had an approved budget of UGX 265Bn out of which UGX 204.73 was realized. Table 1 below shows a summary of the key deliverables of UCAA for the financial year 2019/20.
+
+Table1: Showing key deliverables for UCAA for the year
+
+Item	Amount (UGX’000)	Percentage	
+Land and Buildings	9,035,666	4.56	
+Roads, carpark and fencing	191,811	0.100	
+Furniture and fittings	4,591,605	2.31	
+Employment costs	104,148,828	52.51	
+Finance income and costs	10,657,138	5.37	
+Other operating expenses	44,114,020	22.24	
+Repairs and Maintenance	11,340,370	5.72	
+Income tax paid	14,288,418	7.20	
+Totals	198,430,350	100	
+
+
+
+
+The UCAA planned to achieve its deliverables through implementation of one hundred and seventy-four (174) outputs with a budget of UGX 265Bn from internal revenue sources and GoU Support). I sampled seventy-one (71) outputs worth UGX 60.63Bn, representing 23% of the total budget for review as summarized in Table 2 below.
+
+Table 2: Showing planned and sampled outputs
+
+Total Number Outputsof	Number of outputs sampled	Total budget of the sampled outputs (UGX) Bn	Actual expenditure of the sampled output	% budget allocation of sampled outputs in relation to net budget	
+174	71	60.63	55.8Bn	23%	
+
+
+
+
+No	Observation	Recommendation	
+6.1	Implementation of the strategic planoverall Government National Development Plan (NDP II) expired at the end of FY 2019/20. In line with the NDP II, the UCAA had an approved strategic plan for the period 2018/2019-2022/2023, which set out both the long term and short term targets to be achieved during the duration of the strategic plan. This being the second year of implementation of the UCAA’s strategic plan, I undertook an assessmentThe	I advised the Accounting Officer to fast track execution of all the EIA project expansion projects and engage the Central government for adequate funding	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	noted that at the time of the audit (June 2020), out of the planned eight (8) strategic targets/goals, no target had been fully achieved; all the 8 were partially achieved as summarised in Table 3 below.3: Extent of achievement of 2018/19-2022/2023 strategic planLevel of performance No by of 2019/2020the end1 2 3Fully achieved Partially achieved Not achieved TotalNo of goals /objectivesstrategic % of total number of strategic objectives0 8 0 80 100 0 100Accounting Officer explained that the underperformance was due to the Entebbe International Airport (EIA) expansion construction projects that are still ongoing, limited GoU funding for land acquisition and the gradual response to the ICAO audit recommendations.Iof the achievement of its strategic targets/goals so far. TableThe						for land acquisition.	
+No								
+1								
+2								
+3								
+								
+Accounting Officer explained that the underperformance was due to the Entebbe International Airport (EIA) expansion construction projects that are still ongoing, limited GoU funding for land acquisition and the gradual response to the ICAO audit recommendations.The								
+6.2	reviewed the revenue estimates, revenue sources and rates charged at vote level for the financial year 2019/2020 and noted that the entity budgeted to collect total revenue of UGX 265bn during the year under review. Out of this, UGX 204.73bn was collected, representing a performance of 77.3% of the target. Included in the shortfall is Aeronautical revenue amounting to UGX 59,740,719,658 (22.5% of total budgeted revenue). Shortfalls the implementation of planned activities at Government wide level.in revenue collections affectAccounting Officer explained that the underperformance was due to the effect of COVID-19 lockdown which led to closing the EIA operations from 20 th March 2020 till past the end of the FY 2019/2020. This greatly affected the aeronautical revenue base which is the major contributor to UCAA’s revenue thus the underperformance.of GoU receiptsentity budgeted to receive UGX 3bn and UGX 6.211Bn was warranted, resulting into an excess funding of UGX 3.211bn which is 107% of the budget.Revenue Performance- of RevenueIPerformanceThePerformanceThe						advised the Accounting Officer to develop strategies to reorient the Authority performance alongside the pandemic effect and plan for recovery.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.3	Under absorption of fundsof the total receipts for the financial year of UGX 204.73billion, UGX. 198.36billion was spent by the entity resulting in an unspent balance of UGX 6.37billion representing an absorption level of 97%. Refer to table 4 below;4: Showing UCAA Funding for the FY 2019/2020APP EST (A) (UGX billion) 265RECEIPT (B) (UGX billion)204.730Expenditure (C) billion) 198.36(UGXUnspent (B-C) billion) 6.37(UGX% absorption97absorption of released funds results in non-implementation of planned activities during the year.The Accounting Officer explained that under absorption of funds was caused by the lockdown effect.Out TableUnder							Iinadvised the Accounting Officer to implement the activities the current period, while complying with the SOPs instituted by both the MoH and ICAO following the re-opening of the Airport operations.	
+									
+									
+									
+6.4	Quantification of outputs/activities55 of the budget execution circular for the financial year 2019/2020 states that the Accounting Officer is required to submit quarterly performance reports by the 30 th day of the first month of the next quarter. These reports should indicate the actual performance against the planned outputs and performance for each quarter, showing the quantity/quality and physical location of the reported outputs against expenditure.of the 71 outputs with expenditure of UGX 55.8Bn sampled for assessment, I reviewed the extent of quantification of outputs and activities and noted the following; Twenty-nine (29) outputs with a total of thirty-seven (37) activities and expenditure worth UGX 41.8Bn were fully quantified. That is, all these outputs were clearly quantified to enable assessment of performance.Twelve (12) outputs with a total of seventy-four (74) activities and expenditure worth UGX 4.9Bn were insufficiently quantified. I observed that out of the seventy-four (74) activities, thirty-seven (37) activities (50%) were quantified while thirty-seven (37) activities (50%) were not clearly quantified to enable assessment of performance.Thirty (30) outputs with a total of thirty-three (33) activities and expenditure worth UGX 9.1Bn were not quantified at all. That is, all the thirty-three (33) activities (100%) within these outputs were not clearly quantified to enable assessment of performance.Refer to Table 5 below for summary of extent of quantification and amounts spent.ParagraphOut							advised that Accounting Officer to quantify activities both in the budget and work plan to facilitate accurate assessment of planned outputs.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 5: Extent of Quantification by activitiesSummary of Performance by Outputs Activity details-AnalysisCategory of outputsNo. of outpu ts sampl ed% of total out- puts sample dExp endi ture UGX Bn% propor tion to total expen ditureTotal no of activiti es in the output sNo. of Fully Quanti fied activiti esFully quantified outputsInsufficientl y quantified outputsOutputs not quantifiedTotal307129 40.8 41.8 74.9 37 37 12 16.9 4.9 8.8 74 37 3742 8.1 16.3 33 0100 55.8 100 144 74No of activ ities not fully quan tifie d0% of quantif ication of activiti es per categor y of output100 5033 070observed that in cases where outputs were either partially or not quantified, Management reported performance in generic ways such as the supervision of the construction of a Security search park by IBB where it was stated that the project was substantively completed and under defects liability, without specifying number/quantities achieved.to plan and report on the quality/quantity of activities implemented renders it difficult to establish the reasonableness of individual activity costs for each planned output which curtails effective accountability when funds are subsequently spent. Further, without clearly and fully quantified outputs, I could not ascertain the level of achievement of these outputs and whether funds appropriated by Board and released were spent and the intended objectives achieved. No explanations were given to this effect.IFailure												
+												
+												
+												
+												
+												
+												
+												
+												
+6.5 Implementation of quantified outputsassessed the implementation of twenty-nine (29) outputs that were fully quantified with a total of thirty-Three (33) activities worth UGX 41.8Bn and noted the following;Three (3) outputs with a total of six (6) activities worth UGX 38.7Bn were fully implemented. The entity implemented all the six (6) activities (100%) within these outputs.Two (2) outputs with a total of seven (7) activities worth UGX 0.126Bn were partially implemented. Of the seven (7) activities, the entity did not fully implement any of the activities.Twenty (20) outputs with a total of twenty (20) activities worth 3Bn were not implemented at all.to Table 6 for summary of extent of implementation and amounts spentI   Refer											I advised the Accounting Officer to comply with the SOPs instituted by both the MoH and ICAO following the re-opening of the Airport operations. In addition, also advised the Accounting Officer to follow up with Ministry of Finance on the GoU support to the Authority.I	
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 6 Showing level of implementation of Fully Quantified outputsSummary of Performance by Output Category No of of output output s% of imple menta tion3 224Fully implement ed outputs Partially Implemen ted outputs Outputs Not Implemen ted Total10 6.982.8Expe ndit ure UGX Bn% prop ortio n to total expe ndit ureActivity details-Analysis Tota No No. l no of Of of Fully parti activ impl ally ities eme impl nted eme activ nted ities activ ities38.7 92.6 60.126 76000.3 73 7.2 20 0 0 20No of activ ities that wer e not impl eme nted 00Extent of imple menta tion of activiti es per catego ry of output 1000 0 29 100 41.8 100 33 6 7 20Non-implementation of planned activities implies that the expected services to the beneficiary communities were not attained. For example, the entity did not Re-build 2 piers, procure 1 new life raft, and procure 300 lounge seats among others. Details are in Appendix I.Accounting Officer explained that failure to implement all planned activities and outputs fully was due to COVID-19 lockdown effect and failure of the MoFPED to meet all the GoU support funding.The													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+6.6 Diversion and irregular reallocations/Mischarges – UGX.1,290,000,000noted that funds to the tune of UGX 1,290,000,000 were irregularly diverted from the activities on which they were budgeted and spent on other activities contrary to based practices. Mischarge/diversion of funds impacts on the implementation of planned activities. Further, the diversions and reallocations cause misrepresentation in the financial statements as expenses are accumulated on approved codes where actual expenditure was not incurred.I												I advised the Accounting Officer that the Authority should develop a more realistic budget to avoid significant deviations from the annually planned activities.	
+													
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current debtors’ policy, the provision for bad debts currently stands at UGX.91,822,553,757 on the outstanding amount of UGX.143,942,249,671. Of the total provisions, UGX.88,882,658,241 represents 100% provision on the debts that have been outstanding for over one year.
+
+Due to failure to institute and pursue a stringent recovery policy, the Authority is at risk of accumulating bad debts and eventual write offs.
+
+Management explained that 88% of the amount indicated for 100% provision for bad debts relates to Government debtors which they do not write off but pursue the Government to clear balances on behalf of the MDAs and make deductions at source. The remaining 12% relates to debtors that have been outstanding for a period of over 6 years, where it has become uneconomical to follow these up. Management explained that they are currently waiting for a Board resolution to have some of the debts written off.
+
+I advised the Accounting Officer to consider revising the debtors’ policy to enhance control over management of debtors. This will require reviewing the profiling of the debtors, reviewing the credit limits and allowable payment periods and collection mechanisms.
+
+Other Matter
+
+In addition to the matters raised above, I consider it necessary to communicate the following matters other than those presented or disclosed in the financial statements;
+
+8.0
+
+Contract Management of the advertising space
+
+According to the contract signed between Civil Aviation Authority and a Media network, CAA was to pay the provider the sum of 15% of the gross turnover sold or collected for a period of three (3) years. All contracts were to be signed between CAA and the client and witnessed by the representative of the marketing agency to ensure transparency. All payments were to be payable to CAA who would pay commission to the agency. The agency was to submit quarterly invoices to CAA for the commission gained on the gross business turnover for the period.
+
+Contrary to the general conditions of the contract, the following anomalies were noted;
+
+
+
+
+
+
+
+
+
+
+
+Analysis of the receivables schedule revealed that the advertising agent’s outstanding balance of UGX 3,800,000,000 as of 30 th June 2019 had increased by UGX 749,196,414 to UGX 4,549,196,414 by 30 th June 2020. The amount outstanding in the previous year of UGX 3,800,000,000 remained uncollected throughout the FY 2019/2020.
+
+The irregular procurement, poor contract management and renewal of the Media’s network contract after failing to meet the set performance levels exposed UCAA to the risk of additional poor performance by the Agent. UCAA continued to register low revenue performance from advertising and a total of UGX 4,549,196,414 remained unremitted by the Agent by the end of the financial year. The outstanding balance from advertising agency is likely to become uncollectible.
+
+Management explained that UCAA, through its external lawyers is doing all it can to ensure that the contract is streamlined. A copy of the demand notice and intention to sue has been served to the Media Company. I advised Management to streamline the management of the contract and to follow up for recovery of the entire outstanding amount from the agent.
+
+9.0
+
+Delayed revision of Financing Agreement for Exim Bank loan on Upgrading and Expansion of the Entebbe International Airport Phase I Project
+
+UCAA entered into an agreement with China Communications Construction Company (CCCC) on 8 th October 2014 for the upgrading and expansion of the EIA Phase I. To obtain funding for this project, the Government of Uganda (GoU) represented by Ministry of Finance Planning and Economic Development (MoFPED) entered into a concessional loan agreement not exceeding Japanese Yuan One Billion, two hundred and sixty million (¥ 1,260,000,000), equivalent to USD Two Hundred Million ($200,000,000) with the Export-Import (EXIM) Bank of China on 31 st March 2015 with the following key terms and conditions;
+
+a) Interest charged at 2% per annum. b) The rate for management fees at 0.25% c) The rate applicable to commitment fees at 0.25% d) Maturity period for the facility is two hundred forty (240) months, among which the grace period is eighty four (84) months and the repayment period one hundred and fifty six (156) months. e) The borrower was to pay to the lender a management fee on the aggregate amount of the facility equal to ¥ 3,150,000 an equivalent of USD 500,000 in one lump sum within 30 days after the effective date of the agreement but not later than the first disbursement. f) The principal sum to be repaid in 26 equal instalments on each repayment date of the principal and interest, after the grace period of 84 months (7 years). g) During the availability period, the borrower is to pay semi-annually to the lender a commitment fee calculated at 0.25% per annum. h) The borrower shall pay interest on the principal amount drawn on the actual number of days elapsed, on a 360 day year.
+
+
+
+
+
+
+
+
+
+
+
+Nonetheless, UCAA was not prepared to meet the terms of the loan agreement among which is the running annual interest payment. Several meetings were held with the MoFPED, MoWT and UCAA. Resolutions were made among which; was to have a Ugandan team headed by Uganda’s Ambassador to China, to engage Exim bank for a renegotiation of the loan terms and conditions. At the time, the Exim Bank had halted payments to the Contractor CCCC.
+
+As part of the re-negotiations the bank resumed paying the contractor, an Escrow account was opened, and is now operational. The renegotiated terms were to be formalized into an addendum agreement. However, the addendum to the contract terms had not been made by the time of this audit.
+
+There appears to be laxity by the two parties to pursue the matter to its conclusion. On the part of UCAA, there is still lack of clarity as to who is to meet the running loan interest payment obligation and the subsequent principal loan repayment upon expiry of the 7 year grace period.
+
+The Authority may not be in position to meet the EXIM bank loan obligations as they follow due. The Authority is bearing a contingency risk of EXIM bank stopping the loan disbursements and freezing its accounts in future and taking over Entebbe International Airport (EIA) administration for a considerable period of time in efforts to recover its investment.
+
+Management responded that renegotiations are still being pursued so that Ministry of Finance can conclude with EXIM bank.
+
+I advised Management and the Board to pursue the matter further with the responsible authorities and engage all the key stakeholders to ensure that the addendum to the contract terms is put in place.
+
+10.0 Idle Capital Investment - UGX 4,716,479,582
+
+The UCAA undertook a project to construct a Security Search Park, Shelter and Road at EIA. The project was intended to improve Security checking experience for accessing the Airport. The project was first Committed and budgeted for in the FY 2013/2014 but remained unimplemented till FY 2018/2019 when works commenced. The works were executed by an International Company at a contract price of UGX.4,716,479,582.
+
+
+
+
+
+
+
+
+
+
+
+Management explained that UGX 3,792,124,901 was paid for executed works as per the certificates raised. However, there are disputed variations that are being discussed with the contractor under an arbitrator appointed UIPE.
+
+I advised the Accounting Officer to fast track completion of the project with all its sub components.
+
+Other information
+
+The Directors are responsible for the other information. The other information comprises the statement of responsibilities of the Board of Directors and the commentaries by the Head of Accounts and the Director General, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a material misstatement of this other information; I am required to report that fact. I have nothing to report in this regard.
+
+Responsibilities of Directors for the Financial Statements
+
+The Directors are responsible for the preparation and fair presentation of the Financial Statements in accordance with International Financial Reporting Standards and the requirements of the Civil Aviation Authority Act, Cap 354 of the Laws of Uganda, and for such internal control as the directors determine is necessary to enable the preparation of Financial Statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the Financial Statements, the directors are responsible for assessing the Group’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the Group or to cease operations, or have no realistic alternative but to do so. The Directors are responsible for overseeing the Group’s financial reporting process.
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those 14
+
+
+
+
+
+
+
+
+
+
+
+risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group’s internal control.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+
+- Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Authority’s ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+I communicate with the Directors regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that I identify during my audit.
+
+I also provide the Directors with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with him/her all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Directors, I determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, I determine that a matter should not be communicated in my report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+- I have obtained all the information and explanations which to the best of my knowledge and belief were necessary for the purpose of my audit;
+- In my opinion, proper books of account have been kept by the Authority, so far as appears from my examination of those books; and
+- The Authority's statement of financial position and statement of financial performance are in agreement with the books of account.
+
+
+
+
+
+
+
+
+
+
+
+Report on Compliance with Legislation
+
+In accordance with Section 19 (1) of the National Audit Act, 2008, I report to you, based on my work described on the audit of Financial Statements, that; except for the matters raised in compliance with legislation section below, and whose effect has been considered in forming my opinion on financial statements, the activities, financial transactions and information reflected in the financial statements that have come to my notice during the audit, are in all material respects, in compliance with the authorities which govern them.
+
+The material findings in respect of the compliance criteria for the applicable subject matters are as follows;
+
+11.0 Management of Government Vehicles (Fleet Management)
+
+Over the years, there has been increasing demand for accountability and better management of public resources by various stakeholders in Uganda. Management of government vehicles (Fleet management) is faced with a number of challenges, such as: inability to respond to national emergencies, like COVID 19; inability to support the delivery of public service by government entities; high government expenditure on purchase of vehicles; misuse of government vehicles; inaccurate vehicle management records; and a general lack of a comprehensive and standard government fleet management policy.
+
+Subsequently, I developed procedures in order to assess the adequacy of government fleet management system in the delivery of Government service, and to identify any impediments and make recommendations for improvement. Specifically, the audit was intended to ascertain whether government Vehicles were/are:
+
+- Acquired in compliance with Government vehicle acquisition guidelines;
+- Comprehensively recorded in the assets register to ensure their proper management;
+- Adequately allocated, operated and utilized to enable delivery of public service;
+- Properly and regularly maintained to achieve optimal performance, increased useful lives and reduced running costs; and
+- Disposed in compliance with PPDA guidelines, and disposal proceeds are properly accounted for.
+
+No	Key Observations	Audit Recommendation	
+11.1 i.	of Motor Vehiclesthe three financial years: 2017/18; 2018/2019 and 2019/20, Uganda Civil Aviation planned to spend UGX 3,496,872,947 on acquisition of motor vehicles but spent UGX 9,500,336,099 leading to an excess funding of UGX 6,003,463,152.noted that all motor vehicles acquisitions though planned, had excessive delays in procurement processIAcquisition FundingDuring	I advised the Accounting Officer to liaise with the relevant authorities and address the bottlenecks in the procurement process, to ensure	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	making it difficult to align the actual acquisitions to the planned acquisitions in a given year. This led to encroachment on funds earmarked for other interventions that had been planned for the FYs 2017/2018 and 2018/2019responded that the delays are due to the lengthy procurement process which includes among others the fulfilment of PPDA standard timelines, approvals from external stake holders such as public service, Solicitor General, URA which UCAA has no control over, as such; the completion of such capital procurements most times gets realized in the subsequent year/s. Furthermore, some of the specialized procurements such as Fire Trucks may require 6 -12 months of the Manufacturing process and will always spill over to other Financial Years.Management	that the motor vehicle expenditures in a financial year are aligned with the planned activities.	
+11.2	of fleet management policy and standardized fleet guidelinesthe entity14.2.4(h) of the financial procedures manual requires transport management policy to guide the management of all UCAA fleet which includes motor vehicles, marines and motorcycles.to develop a fleet/the audit it was established that the entity maintained a fleet of 92 automobiles ranging from motor vehicles, fire trucks, marine equipment, and motor cycles. I however, noted that the Authority did not have an approved policy and guidelines for fleet management. It was noted that the Authority had a draft fleet policy, which the entity was in the process of formalizing, and have it approved by the Board. I also noted that the Authority did not have any standardization guidelines set out in their draft Fleet Management Policy.Failure to have a Fleet Management Policy affects the entity’s ability to address fleet challenges which may not be envisaged in the General Terms and Conditions, and the Collective Bargaining Agreement.responded that they will proceed to formalize the fleet Management policy by undertaking management review of the final draft and obtaining Board Approval.Lack SectionDuringTheManagement	I advised the Accounting Officer to expedite the process of developing the fleet policy and formulation of fleet management guidelines for approval the Board to streamline the management of fleet and minimize misuse and wastage of the company resources.by in order	
+11.3	Support to Entity Service Delivery20.2 of the draft Fleet Management Policy provides for long term allocation which shall apply to the operational critical vehicles required to be available to perform their operational function on a twenty four (24) hour basis. These include; the Fire service vehicles, the Ambulances, the “Follow-Me” vehicles, Apron Management vehicles, Bird hazard vehicle, Police vehicles, Aviation Security vehicles, Radar and Control Tower operations vehicles.review of the vehicle allocation to key service centres in the Authority revealed that some departments or unitsASection	advised the Accounting Officer to adequately plan for gaps in vehicle allocation for critical departments to ensure smooth running of operations.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	were not adequately allocated vehicles.allocation of vehicles to the departments/units impacts negatively on the performance of staff in those department/units in the delivery of services.Accounting Officer explained that the entity maintains a fleet/Vehicle allocation matrix that is aligned to all user Directorates/Departments requirements. The matrix is utilized in gap assessment and planning for the required vehicles during the budgeting phase.InadequateThe		
+11.4	4 of the Financial Policies and Procedures Manual stipulates the procedures for to be followed to prepare the annual budget like asset maintenance, and assess the functionality, utilization, and physical and financial performance of assets held.for expenditure itemsthe Authority realized and spent areview of the approved work plan and budget revealed that total of UGX.3,336,756,058 against the vehicle repairs and maintenance budget of UGX 7,241,515,000 for the 3 FYs 2017/18, 2018/2019, and 2019/202 reflecting an under funding to the tune of UGX 3,868,758,942, which is 27.56% of the budgeted asset maintenance funds. It was further noted that in the 3 years under review, only eleven (11) new vehicles were acquired.annual average vehicle maintenance cost per vehicle increased by UGX 4,432,429 (40%) from UGX 11,075,875 in FY 2017/18 to UGX 15,508,304 in FY 2019/2020. This signifies high cost of vehicle maintenance partly caused by the aging number of the fleet as illustrated by the small number of vehicle replacements.acknowledged that a number of its fleet is aged/aging and due for replacement. As such, provisions to replace the fleet have been made with consideration of the revenue budget performance/projections over the period.Adequacy of Vehicle Maintenance fundingASectionTheManagement	advised the Accounting Officer to consider acquiring new vehicles and disposing of those that have exceeded their useful life so as to reduce on the maintenance cost of old vehicles.I	
+11.5	Repairs of old vehiclesFinancial Policies and Procedures Manual provides for vehicles to be depreciated at 25% constituting 4 years of their useful life. Section 11.1.1 of the Fleet Management Policy also requires vehicles which have been damaged in an accident to be disposed of if the estimated cost of repair exceeds 25% of the current Authority's original cost replacement figure.of the Asset Register revealed that the entity maintained vehicles which had exceeded their useful life. As such the running costs of these vehicles were high and there was no evidence of revaluation of vehicles. The entity spent a total of UGX.3,336,756,058 over the 3 years on repairs of on average 89 automobiles thus,TheReview	advised the Accounting Officer to devise means of securing funds to replace the old fleet.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	resulting into a maintenance cost of UGX.37,491,641.appreciated that maintaining a fleet of old vehicles leads to increased annual maintenance costs of the fleet and has therefore continued to plan for replacement of the fleet with consideration of the revenue budget performance/projections over the period. For example, all the capital procurements for vehicles that were ongoing in March 2020 were suspended due to the impact of the COVID -19 pandemic on the revenue budget performance. There is however a plan to obtain at least 24 Vehicles at UGX 13.4 Bn by June 2021 as evidenced in the approved budget. The organization has also planned for 9 additional Vehicles at UGX 2.6 Bn in the provisions of the budget for the FY 2021/22.Management		
+11.6	Grounded Vehicles - Non-compliance with disposal conditions14.2.5 of the Financial Policies and Procedures Manual requires all assets that have been set aside to be disposed of to be done in accordance with the PPDA Act and Board of survey report.15-Assets held for sale and discontinued operations; also provides conditions on how an asset treated for sale should be. Some of these include sourcing an active buyer for the asset in the period and this should be done within one year or the asset should be revalued and re-instated into the main property, plant and equipment schedule.was noted that whereas the entity had set aside 13 grounded vehicles for disposal; the process of had not been initiated. In addition, the vehicles in question were not included in the Board of survey report.to include these assets in the Board of Survey report indicates that the exercise was not comprehensively handled resulting in errors and omissions. The failure to revalue the Authority’s assets register and the Statement of Financial position. Further, the vehicles deteriorate in value due to being grounded for long.these assets meant understating bothexplained that they are committed to ensuring that timely vehicle disposals are carried out and in accordance with the PPDA guidelines. Management has indeed disposed 18 of its aged fleet in the period 2017/18 -2019/2020 and is already in the process of carrying out another disposal by December 2020.Section IFRSIt FailureManagement	advised the Accounting officer to ensure that grounded vehicles are properly disposed of as set out in the PPDA guidelines.I	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+accounts, it is also good practice to use revenue collection accounts strictly for revenue collection purposes only. It was noted that UCAA opened and maintained 11 bank accounts comprising of debtor’s collection accounts, collection accounts, operation accounts and escrow accounts. Refer to the Table 8 below;
+
+Table 8: Collections and withdrawals from the Sales Collection Accounts
+
+S/No.	Account Title	Bank	Type ofAccount	Account No.	
+1.	Debtorsaccountscollection	Standard Chartered Bank	Dollar Account	8705611826500	
+2.	Collection account	Stanbic Bank	UGX Account	9030005648296	
+3.	Collection account	Stanbic Bank	Dollar Account	9030008017467	
+4.	Collection account	Orient Bank	Dollar Account	10535802020507	
+5.	Collection account	Orient Bank	UGX Account	10535802010107	
+6.	Operational accounts	Stanbic BankEntebbe	Dollar Account	9030008066190	
+7.	Operational accounts	StanbicKampalaBank	Pound Account	9030008662966	
+8.	Operational accounts	Citi Bank	UGX Account	0100363001	
+9.	Operational accounts	StanbicEntebbeBank	UGX Account	9030005968193	
+10.	Loan account	Stanbic CAA Escrow	Dollar Account	90300012656229	
+11.	Loan account	Stanbic CAA Escrow	UGX Account	9030012448170	
+
+
+
+
+Analysis of the account transactions revealed that the Authority was making payments (withdrawals) from the collection accounts in Orient Bank, instead of transferring the funds to be spent from the operational accounts. Accordingly, UGX.20,163,664,339 was spent from the Orient shilling collection account and UGX.3,162,568,065 was spent from the Orient dollar collection account.
+
+Recording of financial transactions and reconciliations become difficult resulting in errors, omissions and misstatements of the financial statements.
+
+Management explained that the terms of the loan from EXIM BANK as dictated require them to maintain Escrow accounts with both collections and operation transactions for easy monitoring hence the Stanbic Escrow UGX and USD Accounts. While for proximity and convenience purposes given the many transactions that take place at the airport, Orient Bank is maintained as an alternative to Stanbic bank. Management will pursue to opening Orient operations accounts and effect transfers so that there is no more spending on collection accounts.
+
+
+
+
+
+
+
+
+
+
+
+On the contrary, whereas Vivo Energy, Total Ltd and Mogas provided jet fuel to the aircrafts for which the Authority charges 5 cents per US gallon uplifted, UCCA did not have any concession agreements with these fuel operators as required. Audit further noted that the price charged for each gallon had not been revised for a long time in spite of the changes in Government policy and the economic environment. There was no evidence that the Authority has also carried out any benchmarking with regional authorities to ascertain how the concession processes are handled.
+
+UCAA runs a risk of not realizing fair share of the revenue from the aviation fuel. In addition, without concession agreements, UCAA does not have a basis to take remedial action for non-compliance by the operators.
+
+Management explained that fuel companies cite competition law which bars them from disclosing information relating to their dealings with other players. The mentioned studies were done on all UCAA charges where UCAA ended up charging $0.05 per gallon. The benchmark was also done within the region to ascertain what other airports are charging.
+
+However, on my further inquiry, I noted that the rates were set over ten years ago and have not been reviewed.
+
+I advised the Accounting Officer to enter into supply contracts with the fuel operators as required by the ICAO policies and procedures. In addition, I advised the Accounting Officer to review the rates chargeable to ensure that they are in line with the regional market conditions.
+
+14.0 Unplanned procurements
+
+Regulation 3(1)and (2) of the Public Procurement and Disposal of Public Assets (Procuring and Disposing Entities) Regulations, 2014 requires the Procurement and Disposal Unit for each financial year to; prepare an annual procurement plan for the procuring and disposing entity using the procurement plans of the user departments, and that the user department shall, based on the approved budget of the Procuring and Disposing entity, prepare the procurement plan for the user department and submit it to the Procurement and Disposal Unit.
+
+Procurement file	Description	Supplier	Contract price (UGX)	
+CAA/WRKS/19- 20/00031	Construction of emergency car park at EIA	Abu-baker Technical Services & General services Ltd	2,088,702,865	
+CAA/WRKS/18- 19/00051	Grading and construction of RESA for runway 17 and 35 at EIA	Consolidated contractors Ltd	1,561,236,518	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAA/NCONS/18- 19/00462	A retreat was organized for the UCAA Board of Directors to completely discuss the report and advise management accordingly. This was to consider the final job evaluation report other pertinent Human resource matters.and	Mestil hotel	35,000,000	
+CAA/SUPLS/15- 16/00070	Remote Control System for AGL for Soroti Aerodrome.	Soroti Aerodrome	430,000,000	
+Total			4,114,939,383	
+
+
+
+
+Unplanned procurements stifle implementation of other planned activities and could lead to diversion of funds thus affecting the Authority’s budget performance.
+
+Management explained that the unplanned procurements were considered and approved by Management as essential and a must do.
+
+I advised Management to ensure proper and adequate procurement planning and budgeting.
+
+15.0 Unjustified direct procurements - UGX 3,037,247,829
+
+Section 85 (1&2) of the PPDA Act, 2003 provides that direct procurement is a sole source procurement method for procurement requirements where exceptional circumstances prevent the use of competition and shall be used to achieve efficient and timely procurement, where the circumstances do not permit a competitive method. In addition regulation 8(2) of the Public Procurement and Disposal of Public Assets (Rules And Methods For Procurement of Supplies, works and non- consultancy services) Regulations, 2014 requires a recommendation of the Procurement and Disposal Unit to use an emergency situation as the criterion for determining the choice of a procurement method and shall include a comprehensive justification for its use, stating the reasons that give rise to the emergency situation.
+
+Contrary to the above regulations, UGX 3,037,247,829 was paid out to several suppliers using direct procurement method instead of open bidding in contravention of the procurement guidelines. The practice limits competition and may result in the entity not achieving value for money.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendices Appendix I: Implementation of the approved budget
+
+Sub progra mme	Output	Activities/ key performan ce targets	Are there clear targets and perform ance indicato rs to measur e progres s (yes/no ) if no, give reason	Planned Target for the financial year (A)	Budgeted amount UGX (000) B	Revised Budget UGX (000) C	Amount released (000) D	Amount spent UGX (000) E	Achieved target by Financial year end (Annual Performance report)F	Output varianc e (A-F)	Imple mentat ion status ( Fully (F), Partiall y (P), or Not Imple mente d (NI)	Was the activity reporte d on in the periodi c monito ring reports - (Yes/N o) If no, give reason	Is the perform ance of the activity accurate ly reported in the annual perform ance reports (yes/No ) if no, give reason	Audit observatio n	
+Aerodro me Engineer ing Planning and Develop ment	To provide a supporting role in the supply of security equipment for the new cargo terninal	providing a supporting role by confirming availability of adequate space & procurement for security equipment for the new cargo terminal	yes	5X-rays, 3WTMD, 20HHMD Procured	5,000,000	5,000,000	5,000,000	1,000,000	nil	5X-rays, 3WTMD20HHM D not Procure d	Not impleme nted	yes	yes (it was initiated but was rejected due to insufficie nt funds)	1bn diverted to creation of offices on 3 rd floor of the PTB. In addition, audit could not confirm the availability of the remaining 4bn which could have been entirely diverted.	
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me Engineer ing Planning and Develop ment	Supervision of Airport expansion project	Coordinate with the consultant and play the role of day- to-day managemen t	yes (partially)	Project Components completed: Cargo centre Apron 1 Expansion RNWY 12/30 and its TXWYS, Aprons 2 & 4	2,000,000	2,000,000	2,000,000	574,500	Project is still ongoing . By 30th June 2020, it was at 4th certificate	Could not be ascertai ned	Partially Implem ented	yes	No. The Partial deliverabl e was not quantified in the M&E report		
+Aerodro me Engineer ing Planning and Develop ment	Design Consultancy for the modification of existing passenger terminal building	Preparation of EOI. Preparation of TORs for design consultancy. Support the procurement of the consultant.	Yes(Parti ally)	TORs for EOI developed and Evaluation of EOI received by end of Q2. Consultant procured by Q4	1,000,000	1,000,000	nil	nil	Project was rejected due tolack of market survey	Design Consult ancy for the modifica tion of existing passeng er terminal building not done	Not impleme nted	yes	yes		
+Aerodro me Engineer ing Planning and Develop ment	To manage the design and construction of the Cargo Commercial Centre.	Client - consultant's meetings, site meetings, site inspections , stakeholder engagement	yes	20% progress on the Construction of the Cargo Commercial Centre	$6Mn (2018/2019) Funds	$6Mn or 22,200,000	35,404,001.55	35,404,001 .55	20% progress on the construction of the cargo commercial centre was done	0	fully impleme nted	yes	yes		
+Aerodro me Engineer ing Planning and Develop ment	Expansion of Offices at Marine North.	Participate in the pre bid meeting. Supervision of the construction works	yes	30% progress in the construction works by Q4	800,000	800,000	0	nil	Project was not executed as it was still under procurement	30% progres s in the construc tion works by Q4 not done	Not impleme nted	no	no		
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me Engineer ing Planning and Develop ment	To provide a supporting role in the review of floor layout of the CAA Headquarters.	Participate in the review of the work of the consultant	no	Review the existing space use at the Head Office. Review space requirement as provided by DHRA Review of the consultant’s proposals. Make recommendations.	2018/19 budget	nil	nil	nil	Was not executed	Review the existing space use at the Head Office. Review space require ment as provide d by DHRA Review of the consulta nt's proposal s. Make recomm endatio ns all not done	Not impleme nted	No	No		
+Aerodro me Engineer ing Planning and Develop ment	To supervise the construction of a security search park by IBB	Construction supervision	No	Completion of the road structure for the security search park and handover of Phase 1 by 31st July 2019	4,716,000 (FY 2018/2019)	4,716,000	4,716,000	3,357,557. 77	Project was substantively completed and under defects liability.	0	Fully Implem ented	yes	yes	However, UGX 1,122,642.2 32 due to the contractor remained unpaid by 30th June2020. This could not be traced into the deposits schedule leading to understatem ent of the payables and SFP.	
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me Engineer ing Planning and Develop ment	To supervise the construction of 10 Nos. security guard houses at EIA by Butambala Steel Construction	construction supervision	yes	Completion of 10Nos guard houses as per contract by 30 th October 2019	129,861.262 (FY 2018/2019)	128,861.26	126,540.62	126,540.62	05 guard houses completed	05 guardho uses	Partially Implem ented	Yes	No (This activity was not reported on)	Audit inspections revealed that only 5 guard houses had been constructed	
+Aerodro me mainten ance	Upgrade of power supply in the main substations to 8-10MVA for new PTB by CCCC.	Bench Marking Design and design review. Develop Specification s. Market survey. Procurement . Manufacturi ng, Testing, Training, Commissioni ng	yes	• 1 Bench Mark report • 1 preliminary design report • 1 detailed design report • 1 Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	5,000,000	5,000,000	0	0	Project was initiated on 13/01/2020 but got stuck at Bid submission	• 1 Bench Mark report • 1 prelimin ary design report • 1 detailed design report • 1 Specific ations and BoQ docume nt • 1 FAT report • 1 Training report • 1 commis sioning report Not achieve d.	Not impleme nted	yes	yes		
+
+
+
+
+26
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me mainten ance	120Kva UPS for Baggage Handling System (UPS)	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	yes (partially)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	430,000	430,000	578,477.70	578,477.70	Completed and installed.	0	fully impleme nted	Yes	yes	By 30/06/2020, had not been commissione d and end users were yet to be trained.	
+Aerodro me mainten ance	Boom Lift Maintenance platform /truck Lighting System Maintenance (top up)	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	Yes(Parti ally)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	300,000	300,000	nil	nil	ongoing services	Could not be ascertai ned	Partially Implem ented	Yes	yes		
+
+
+
+
+27
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me mainten ance	Automatic voltage regulator 250kVA for HQTrs	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	yes (partially)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	100,000	100,000	nil	nil	Procurement was added by 30/06/2020	• Specific ations and BoQ docume nt • 1 FAT report • 1 Training report • 1 commis sioning report , all not done	Not impleme nted	Yes	yes		
+Aerodro me mainten ance	Overhaul of obsolete 11Kv EIA Main power supply Ring Main Phase 3	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	yes (partially)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	1,600,000	1,600,000	nil	nil	By 30th June 2020, the project was at procurement bid submission	• Specific ations and BoQ docume nt • 1 FAT report • 1 Training report • 1 commis sioning report were all not done	Not impleme nted	yes	yes		
+
+
+
+
+28
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me mainten ance	UPS for Aero bridges 60KVA	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	yes (partially)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	400,000	400,000	nil	nil	Initiated on 05/01/2020, pre-bid meeting held on 27/02/2020. Project stuck on evaluation	ations and BoQ docume nt • 1 FAT report • 1 Training report • 1 commis sioning report were all not doneSpecific	Not impleme nted	yes	yes		
+Aerodro me mainten ance	Upgrade of Public Address System with automated information announcement s	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	yes (partially)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	1,000,000	1,000,000	nil	nil	Initiated on 13/12/2019. Pre-bid meeting held on 3rd/03/2020.650Mn was re- allocated to G77 SummitUGX	• Specific ations and BoQ docume nt • 1 FAT report • 1 Training report • 1 commis sioning report were all not done	Not impleme nted	yes	yes		
+
+
+
+
+29
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me mainten ance	EOC video wall.	Develop Specification s, Market survey, ProcurementManufacturi ng, Testing, Training, Commissioni ng	yes (partially)	• Specifications and BoQ document • 1 FAT report • 1 Training report • 1 commissioning report	350,000	350,000	nil	nil	Initiated on 5/12/2019 and by 30/06/2020, was at Evaluation stage. However, market survey gave 400Mn, thus the project shall require additional funding.	ations and BoQ docume nt • 1 FAT report • 1 Training report • 1 commis sioning report were all not doneSpecific	Not impleme nted	yes	yes		
+Aerodro me mainten ance	Improvements of the BHS.	Develop ToR for consultancy for improvemen t of BHS at EIA. Report on improvemen t requirement s. Procurement . Modification and Improvemen ts. Testing. Training	yes	• 1 ToR • Specifications and BoQ document • 1 Training report • 1 commissioning report consultant report on improvement of BHS • 1 consultant report • 1 BHS system improvement report	700,000	700,000	nil	nil	On going	Could not be ascertai ned	Partially Implem ented	Yes	No, The percentag e achieved was not reported on, the report just indicated that its ongoing.		
+Civil Engineer ing Mainten ance	Open lounges and tilling	Open lounges and tilling	yes	1 ToR Specifications and BoQ	2,000,000	2,000,000	2,000,000	2,000,000	Not initiated since the funds were re- allocated to car park	1 ToR Specific ations and BoQ were not done	Not impleme nted	yes	yes		
+
+
+
+
+30
+
+
+
+
+
+
+
+
+
+
+
+Civil Engineer ing Mainten ance	Refurbishment of Approach jetty at 17 side of the main runway	Bench Marking, Design, Develop specification s, Market survey, ProcurementConstruction .	yes	• 1 Bench Mark report • 1 preliminary design report • 1 detailed design report • 1 Specifications and BoQ document	3,800,000	3,800,000	3,800,000	3,800,000	Not initiated as the funds were reallocated to remote control monitoring system	• 1 Bench Mark report • 1 prelimin ary design report • 1 detailed design report • 1 Specific ations and BoQ docume nt were all not done	Not impleme nted	yes	yes	Funds were reallocated to remote control monitoring system	
+Civil Engineer ing Mainten ance	Grading of RESA for runway 17	Grading of RESA for runway 17	yes	1 Specifications and BoQ document.	1,000,000	1,000,000	1,561,237	1,561,237	Contract was signed on 10th/01/2019. By inspection time had been completed.	0	Fully Implem ented	Yes	yes		
+Aerodro me Rescue and Fire Fighting equipme nt	Major foam tender	Procure 01 major tender -EIA	yes	1	4,500,000	4,500,000	nil	nil	Initiated but advert was run with wrong specifications and corrected by a memo on 26th/05/2020.	Procure 01 major tender - EIA was not done	Not impleme nted	yes	yes		
+Aerodro me Rescue and Fire Fighting equipme nt	Fire Training Ground	Construct 01 fire training ground - EIA	yes	1	1,000,000	1,000,000	nil	nil	It was not undertaken	Constru ct 01 fire training ground - EIA was not done	Not impleme nted	yes	yes		
+
+
+
+
+31
+
+
+
+
+
+
+
+
+
+
+
+Aerodro me Rescue and Fire Fighting equipme nt	Satellite Station	Construct 01 satellite station - EIA	yes	1	2,000,000	2,000,000	nil	nil	Specifications developed By 30/06/2020, was still at BOQ development	Constru ct 01 satellite station - EIA was not done.	Not impleme nted	yes	yes		
+Maritime Search and Rescue	Rescue boats (RIB)	Procure 01 RIB	yes	1	1,500,000	1,500,000	17,400,000	1,740,000	Procure 01 RIB Completed	0	fully impleme nted	Yes	yes		
+Maritime Search and Rescue	Rebuilding and modification of crumbling 2 piers phase 2	Conduct 01 rebuilding of 02 piers	yes	2	300,000	300,000	nil	nil	Initiated but the procurement was rejected by Finance due to insufficient funds on 06/10/2019.	Conduct 01 rebuildi ng of 02 piers was not done	Not impleme nted	yes	yes		
+Maritime Search and Rescue	Maritime office expansion at Maritime north	Carry out 01 expansion of Marine north	yes	1	800,000	800,000	nil	nil	Initiated and was awaiting signing of the Architectural designs	Carry out 01 expansi on of Marine north was not done	Not impleme nted	yes	yes		
+Maritime Search and Rescue	New life rafts to replace old ones	Procure 01 new life rafts	yes	1	600,000	600,000	nil	nil	Initiated and certified by Finance on 19th/05/2020.	Procure 01 new life rafts not done	Not impleme nted	yes	yes		
+Operatio ns	Lounge seats	Procure lounge seats	yes	300 pieces procured	500,000	500,000	.nil	nil	At Bid submission.	300 pieces procure d was not done.	Not impleme nted	yes	yes		
+Operatio ns	Trolleys	Procure trolleys	yes	100 pieces procured	120,000	120,000	nil	nil	At Solicitor General approval stage.	100 pieces procure d was not done	Not impleme nted	yes	yes		
+
+
+
+
+32
+
+
+
+
+
+
+
+
+
+
+
+Operatio ns	Operationaliza tion of apron tower	Operationali zation of apron tower	No	Apron Tower Operational	100,000	271,000	nil	nil	At contract level by Jan. 2020	Apron Tower Operati onal not done	Not impleme nted	yes	yes		
+Regional Airports Departm ent	To relocate Lira Airfield to the new site at Anai). FY 2019/2020- 500Mn, FY 2018/2019 – 1Bn, & FY 2017/2018 – 1.6Bn.	Carryout Cadastral, TopographicGeotechnical Survey, Environment al Impact assessment and Resettlemen t Action Plan. Design Airport Infrastructur e and Facilities, Develop BOQs and procure contractor for works Commence construction works.	Yes(Parti ally)	Cadastral, topographic, Geotechnical survey report and RAP produced by 30th March 2020. Oversight for the Design of Airport infrastructure, development of BOQ and procurement of contractor provided by 31st March 2020. Works commenced by 30th June 2020	500,000	500,000	mil	nil	Initiated but remained un concluded by year end	Cadastr al, topogra phic, Geotech nical survey report and RAP produce d by 30th March 2020. Oversig ht for the Design of Airport infrastru cture, develop ment of BOQ and procure ment of contract or provide d by 31st March 2020. Works commen ced by 30th June 2020	Not impleme nted	yes	yes		
+
+
+
+
+33
+
+
+
+
+
+
+
+
+
+
+
+	was not done.					
+Regional Airports Departm ent	Construction of a perimeter fence.	Repair runway 18/36 at Kisoro Airfield. Repairs of the Apron and taxiway.	no	Works commenced by 30th March 2020. Repair works contractor procured by 30th June 2020. Works commence by July 2020. FY – 3.280Bn (FY 2019/2020; & 1.6Bn)	4,800,000	4,800,000	nil	mil	nil	(Works commen ced by 30th March 2020. Repair works contract or procure d by 30th June 2020. Works commen ce by July 2020.)T his was not done.	Not impleme nted	No	No		
+
+
+
+
+34
+
+
+
+
+
+
+
+
+
+
+
+Regional Airports Departm ent	Procure contractor for works for installation of security lights	Procure contractor for works for installation of security lights	yes	Contract signed by 30th March 2020 and lights installed by 30th June 2020 (Soroti, Jinja, Arua, Gulu, Kasese and Kisoro).	350,000	350,000	nil	nil	nil	Contract signed by 30th March 2020 and lights installed by 30th June 2020 (Soroti, Jinja, Arua, Gulu, Kasese and Kisoro). This was not done.	Not impleme nted	No	No		
+Regional Airports Departm ent	To Construct perimeter fence at Arua	Construct perimeter fence at Arua	No	Constructing perimeter fence at Arua Airport by Lodina (To be completed by 30th April 2020)	1,000,000	1,000,000	140,471.75	280,943.50	Not done due to land wrangles	Constru cting perimet er fence at Arua Airport by Lodina (To be complet ed by 30th April 2020) was not done	Not impleme nted	yes	yes		
+
+
+
+
+35
+
+
+
+
+
+
+
+
+
+
+
+Regional Airports Departm ent	To Construct perimeter fence at Gulu	construct perimeter fence at Gulu	No	Constructing perimeter fence at Gulu Airport. By Gets Technical Services Completed by 30th June 2020	687,929	687,829	178,147.08	280,943.50	Not done due to land wrangles	Constru cting perimet er fence at Gulu Airport. By Gets Technic al Services Complet ed by 30th June 2020. This was not done	Not impleme nted	No	No		
+Regional Airports Departm ent	To Construct perimeter fence at Tororo	Construct Perimeter fence at Tororo	No	Constructing perimeter fence at Tororo Airport. By Afro General Builders (To be completed by 30th March 2020)	nil	nil	519,963.01	613,556.35	This was not done due to land wrangles	Constru cting perimet er fence at Tororo Airport. By Afro General Builders (To be complet ed by 30th March 2020) This was not done	Not impleme nted	No	No		
+Regional Airports Departm ent	Coordinate with CEEE to supervise the delivery and installation of the AGL	Coordinate with CEEE to supervise the delivery and installation of the AGL	No	Proper installation made. (Soroti)	2,528,443	2,528,443	2,528,443.33	2,528,443. 33	Not implemented. Yet to be installed awaiting ATC system	Proper installati on made. (Soroti) This was not done	Not impleme nted	No	No		
+
+
+
+
+36
+
+
+
+
+
+
+
+
+
+
+
+Economi c Regulati on	Automate the Air Services Licensing and Aircraft clearance processes.	Automate the Air Services Licensing and Aircraft clearance processes.	No	ASL and Aircraft clearance system Integrated with KOICA AODB System.	230,000				It was not undertaken	ASL and Aircraft clearanc e system Integrat ed with KOICA AODB System. This was not done	Not impleme nted	No	No		
+Governm ent support to UCAA- DAAS (Security Systems )	Security Search Park	shelter, equipment, Civil infrastructur e & electronical works	No	shelter, equipment, Civil infrastructure & electronical works	70,797,200	nil	nil	nil	It was not undertaken	shelter, equipm ent, Civil infrastru cture & electroni cal works. This was not done	Not impleme nted	no	yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Perimeter Security lighting and Fencing of regional airports	Perimeter Security lighting and Fencing of regional airports	No	nil	11,955,200	11,520,000	nil	nil	It was not undertaken, it was not funded by central government.	Could not be ascertai ned	Not impleme nted	Yes	yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Security Electronic Surveillance System	Security Electronic Surveillance System	No	nil	8,163,160	7,866,000	nl	nil	It was not funded by the central government.	Could not be ascertai ned	Not impleme nted	yes	yes	The planned government support was not secured.	
+
+
+
+
+37
+
+
+
+
+
+
+
+
+
+
+
+Governm ent support to UCAA- DAAS (Security Systems )	Security Screening and scanning equipment	Security Screening and scanning equipment	No	nil	9,340,000	9,000,000	nil	nil	It was not funded by the central government.	Could not be ascertai ned	Not impleme nted	Yes	Yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Security Integrated Communicatio n System	Security Integrated Communicati on System	No	nil	4,482,200	4,320,000	Nil	nil	It was not funded by the central government.	Could not be ascertai ned	Not impleme nted	Yes	yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Access Control System	Access Control System	no	nil	4,109,600	3,960,000	Nil	Nil	It was not funded by the central government.	Could not be ascertai ned	Not impleme nted	yes	yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Security Integrated Management Building System	Security Integrated Management Building System	no	nil	4,670,000	4,500,000	Nil	Nil	It was not funded by the central government.	Could not be ascertai ned	Not impleme nted	Yes	yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Security Equipment for Cargo Centre	Security Equipment for Cargo Centre	No	nil	15,000,000	nil	nil	nil	nil	Could not be ascertai ned	Not impleme nted	No	No	The planned government support was not secured.	
+
+
+
+
+38
+
+
+
+
+
+
+
+
+
+
+
+Governm ent support to UCAA- DAAS (Security Systems )	Security Lighting of the Perimeter fence at EIA	Security Lighting of the Perimeter fence at EIA	No	nil	12,000,000	Nil	Nil	Nil	Nil	Could not be ascertai ned	Not impleme nted	No	No	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Improvement of Security and street lighting at EIA	Improvemen t of Security and street lighting at EIA	No	nil	1,200,000	Nil	Nil	Nil	Nil	Could not be ascertai ned	Not impleme nted	No	No	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Land Acquisition	Land Acquisition	No	nil	53,000,000	53,000,000	2,053,000	2,053,000	It was underfunded by the central government	Could not be ascertai ned	Not impleme nted	Yes but the proporti on of money attained was not reporte d on in the M&E reports	yes	The planned government support was not secured.	
+
+
+
+
+39
+
+
+
+
+
+
+
+
+
+
+
+Governm ent support to UCAA- DAAS (Security Systems )	Taxes relating to upgrade and expansion of EIA	Taxes relating to upgrade and expansion of EIA	No	nil	29,514,400	55,440,000	nil	nil	It was not reported on	Could not be ascertai ned	Not impleme nted	No.M&E report was silent on how much taxes MOFPE D paid on Behalf of UCAA in light of EIA expansi on project.	No	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Airport Expansion Projects	Airport Expansion Projects	No	nil	224,160,000	216,000,000	Nil	Nil	It was not reported on	Could not be ascertaii ned	Not impleme nted	No	No, It was Not reported on	The planned government support was not secured.	
+Enhance ment of ANS operatio ns	Replacement of Antenna System for Soroti DVOR	Replacement of Antenna System for Soroti DVOR	No	nil	1,500,000	Nil	nil	nil	Project was initiated on 23/03/2020 but had challenges with market surveys and approval by DG. Failure to undertake the project affected the DANS operations	Could not be ascertai ned	Not impleme nted	Yes	yes	The planned government support was not secured.	
+
+
+
+
+40
+
+
+
+
+
+
+
+
+
+
+
+Governm ent support to UCAA- DAAS (Security Systems )	Replacement of ATC recorder at EIA	Replacement of ATC recorder at EIA	No	nil	1,800,000	Nil	nil	nil	Initiated on 19/03/2020. Failure to undertake the project affected the DANS operations	Could not be ascertai ned	Not impleme nted	Yes	yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Optimization of VHF coverage (Phase 1)	Optimization of VHF coverage (Phase 1)	No	nil	4,000,000	Nil	Nil	Nil	Initiated on 16/10/2019. In PDU awaiting return of Bids. Failure to undertake the project affected the DANS operations	Could not be ascertai ned	Not impleme nted	Yes	Yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	NRP Integration with existing Surveillance Systems	NRP Integration with existing Surveillance Systems	No	nil	500,000	Nil	Nil	Nil	Not initiated by PDU. Funds were re- allocated to KARIBUNI	Could not be ascertai ned	Not impleme nted	Yes	Yes	The planned government support was not secured.	
+Governm ent support to UCAA- DAAS (Security Systems )	Replacement of Kasese NDB with DVOR/DME	Replacement of Kasese NDB with DVOR/DME	No	nil	3,500,000	Nil	nil	nil	Initiated on 24/03/2020. Market survey report value was greater than budgeted funds.	Could not be ascertai ned	Not impleme nted	Yes	Yes	The planned government support was not secured.	
+Transitio n from AIS to AIM	Surveying Consultancy for registration of 4 CAA Surveyors	Surveying Consultancy for registration of 4 CAA Surveyors	No	nil	324,159	Nil	nil	nil	Projected was initiated on 12/11/2019. Rejected by the CC on 28/01/2020 with a recommendatio n for the users to follow the	Could not be ascertai ned	Not impleme nted	Yes	Yes		
+
+
+
+
+41
+
+
+
+
+
+
+
+
+
+
+
+	known registration process.						
+Transitio n from AIS to AIM	Procure Surveying Instruments	Procure Surveying Instruments	No	nil	794,159	Nil	Nil	Nil	Initiated on 24/01/2020 and was at CC stage by 30th/06/2020	Could not be ascertai ned	Not impleme nted	Yes	Yes		
+Impleme ntation of PBN	Redesign of Flight procedures for Entebbe following introduction of Runway End Safety Area (RESA)	Redesign of Flight procedures for Entebbe following introduction of Runway End Safety Area (RESA)	No	nil	280,000	Nil	Nil	nil	By 30th June 2020, project was found not to be required because the runway dimensions shall not change yet the user department had not written to the Management to close the project officially.	Could not be ascertai ned	Not impleme nted	Yes	Yes		
+KOICA Counter part funding	Accessories of KOICA Systems	Accessories of KOICA Systems	No	nil	100,000	100,000	Nil	Nil	By 30/06/2020, Access control for TOCC & the 3KOICA training rooms were completed on 18/02/2020. Supply of rugged handheld devices was awarded in March 2020. Public address system for the 3 KOICA training rooms was at Evaluation stage by March	Could not be ascertai ned	Not impleme nted	Yes	yes		
+
+
+
+
+42
+
+
+
+
+
+
+
+
+
+
+
+	2020. Supply and fixing burglar proofing and fixing windows was completed at a cost of 8,090,670.						
+KOICA Counter part funding	Furnishing of the TOCC after Expansion	Furnishing of the TOCC after Expansion	No	nil	150,000	nil	nil	nil	Completed in February 2020, however the contractor had not been paid by 30th June 2020.	Could not be ascertai ned	Not impleme nted	Yes	Yes		
+KOICA Counter part funding	Integration of Legacy systems to KOICA Systems	Integration of Legacy systems to KOICA Systems	No	nil	650,000	Nil	Nil	nil	At CC stage. CC rejected the procurement due to technical analysis of all the bidders who had passed the preliminary stage and further requested to be updated on the Air conditioning system and standalone units within the Terminal building	Could not be ascertai ned	Not impleme nted	yes	yes		
+Software solutions requirem ent	Upgrade DPHS to CUPPS platform Phase II	Upgrade DPHS to CUPPS platform Phase II	Yes	1	555,000	555,000	nil	nil	Initiated on 10th/12/2019 but later stalled.	1	Not impleme nted	yes	yes		
+Software solutions requirem ent	SUN System Upgrade	SUN System Upgrade	yes	1	320,000	320,000	nil	nil	Not initiated because it was in the budget but not in the procurement	1	Not impleme nted	Yes	yes		
+
+
+
+
+43
+
+
+
+
+
+
+
+
+
+
+
+	plan.						
+Hardwar e solutions requirem ents	Deploy tools for ICT Innovation Centre	Deploy tools for ICT Innovation Centre	No	1	148,000	148,000	nil	nil	Initiated on 15/10/2019. By 30/06/2020, it was at evaluation stage.	1	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Extend the CCTV & Access Control Infrastructure	Extend the CCTV & Access Control Infrastructur e	yes	1	1,000,000	1,000,000	nil	nil	Initiated on 20th/11/2019. By 30/06/2020, it was at CC stage.	1	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Deploy desktop Computers with UPS	Deploy desktop Computers with UPS	yes	47	258,500	258,500	nil	nil	Initiated on 10/12/2019. By 30/06/2020 was at bidding stage	47	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Deploy Laptops with Carry case	Deploy Laptops with Carry case	yes	12	133,200	133,200	nil	nil	Initiated on 10/12/2019. 30/06/2020 it was at bidding stage	12	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Deploy IP phones (no. 25)	Deploy IP phones (no. 25)	yes	25	55,500	55,500	nil	nil	Initiated on 18/01/2020. By30/06/2020, it was at CC stage.	25	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Scanner & Accessories for Pass Office & IARM – no 2	Scanner & Accessories for Pass Office & IARM – no 2	yes	2	7,400	7,400	nil	nil	Initiated on 10/12/2019 but was not concluded by 30/06/2019	2	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Projector & Accessories for PDU & IARM – no 2	Projector & Accessories for PDU & IARM – no 2	yes	2	10,000	10,000	nil	nil	Initiated on 10/12/2019 but was not concluded by 30/06/2019	2	Not impleme nted	yes	yes		
+
+
+
+
+44
+
+
+
+
+
+
+
+
+
+
+
+Hardwar e solutions requirem ents	Workstation Monitors for Cartographic Unit – “32-34” – no.4	Workstation Monitors for Cartographic Unit – “32- 34” – no.4	yes	4	22,200	22,200	nil	nil	Initiated on 10th December 2019 and had not been concluded by 30/06/2020	4	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	High-end Vm ware Host Servers – no 2	High-end Vm ware Host Servers – no 2	yes	2	95,000	95,000	nil	nil	Initiated on 18/09/2019. CC resolved to retender due to high cost.	2	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Extend networks to other upcountry Aerodromes	Extend networks to other upcountry Aerodromes	yes	1	277,500	277,500	nil	nil	Was not initiated because they never got input from the user department	1	Not impleme nted	yes	yes		
+Hardwar e solutions requirem ents	Extension of parks to new cargo areas	Extension of parks to new cargo areas	yes	1	1,000,000	1,000,000	nil	nil	Not initiated as funds were reallocated to construction of offices.	1	Not impleme nted	yes	yes		
+Director ate of Safety, Security and Economi c Regulati on (DSSER)	Integration of ASL and Aircraft Clearance System with KOICA – AODB System.	Integration of ASL and Aircraft Clearance System with KOICA – AODB System.	No	nil	230,000	230,000	nil	nil	It was not initiated	Could not be ascertai ned	Not impleme nted	yes	yes		
+Director ate of Safety, Security and Economi c Regulati on (DSSER)	Electronic Licensing and Foiling System	Electronic Licensing and Foiling System	No	nil	60,000	60,000	nil	nil	Initiated. Pre- bid meeting held on 31/10/2019. The PDU halt the procurement on grounds that budgeted amount was too low.	Could not be ascertai ned	Not implmen ted	yes	yes		
+
+
+
+
+45
+
+
+
+
+
+
+
+
+
+
+
+Fleet manage ment	2 new vehicles for Kidepo and Pakuba	2 new vehicles for Kidepo and Pakuba	No	nil	186,800	186,800	nil	nil	It was not undertaken	Could not be ascertai ned	Not impleme nted	yes	yes		
+Fleet manage ment	2 - New Double Cabin pickups	2 - New Double Cabin pickups	No	nil	410,960	410,960	nil	mil	It was not undertaken	Could not be ascertai ned	Not impleme nted	yes	yes		
+Fleet manage ment	Ambulances - Airside	Ambulances - Airside	No	nil	450,000	450,000	nil	nil	It was not undertaken	Could not be ascertai ned	Not impleme nted	Yes	yes		
+Fleet manage ment	AVPOL vehicle to replace UAJ 621X	AVPOL vehicle to replace UAJ 621X	No	nil	250,000	250,000	nil	nil	It was not undertaken	Could not be ascertai ned	Not impleme nted	yes	yes		
+Fleet manage ment	Marine Trailer	Marine Trailer	No	nil	186,000	186,000	nil	nil	It was not undertaken	Could not be ascertai ned	Not impleme nted	yes	Yes		
+Fleet manage ment	Fleet tracking system	Fleet tracking system	No	Nil	6,724.80	6,724.80	nil	nil	It was not undertaken	Could not be ascertai ned	Not impleme nted	yes	yes		
+					514,649,235	423,150,918	78,006,282	55,899,20 1							
+
+
+
+
+46
+
+
+
+
+
+
+
+
+
+
+

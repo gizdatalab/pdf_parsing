@@ -1,0 +1,1296 @@
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA RAILWAYS CORPORATION
+
+FOR THE YEAR ENDED 30 TH JUNE 2021
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+list of Acronym - 2
+Qualified Opinion - 3
+Basis for Qualified Opinion - 3
+  1.0 Overstatement of Non-current assets - 3
+  2.0 Unsupported GoU equipment loans - 3
+  3.0 Un-supported interest payable on GoU equipment loans - 4
+  4.0 Trade and Other payables - 4
+  5.0 Trade and Other receivables - 5
+Key Audit Matter - 5
+  6.0 Implementation of the approved budget - 6
+Emphasis of Matter - 11
+Financial analysis and assessment of the Corporation’s performance 11 7.0
+  8.0 Non-impairment of assets - 11
+Other Matter - 12
+  9.0 Lack of Land titles - UGX 91,832,636,500 - 12
+Other Information - 12
+Directors Responsibilities for the Financial Statements - 12
+Auditor General’s Responsibilities for the audit of the Financial Statements - 13
+Other Reporting Responsibilities - 14
+Report on the Audit of Compliance with Legislation - 14
+  10.0 Supply, delivery, training and commissioning of four (4) used locomotives - 14
+  11.0 Concession agreement for Pamba ferry - 17
+  12.0 Subdivision and transfer of FRV 220 Folio 13 in Lira City - 17
+Sale of URC land by Jinja Municipal Council 18 13.0
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ACRONYM
+
+Acronym	Meaning	
+BOD	Board of Directors	
+FY Financial year		
+GOU	Government of Uganda	
+IFRS	International financial reporting standards	
+IAS International accounting standard		
+IT	Information Technology	
+LPOs Local Purchase Orders		
+MD	Managing Director	
+MoFPED	Ministry of Finance, Planning and Economic Development	
+MOU	Memorandum of Understanding	
+NDP	National Development Plan	
+NPA	National Planning Authority	
+UGX Uganda Shillings		
+URC	Uganda Railways Corporation	
+KRC	Kenya Railways Corporation	
+RVR Rift Valley Railways		
+PAYE	Pay as You Earn	
+PPE	Property Plant and Equipment	
+PS/ST	Permanent Secretary / Secretary to the Treasury	
+NSSF	National Social Security Fund	
+PERD Act	Public Enterprises Reform and Divestiture Act	
+PFM	Public Financial Management Act	
+PFM	Public Financial Management Regulations	
+UGX	Uganda Shillings	
+VAT	Value Added Tax	
+WHT Withholding tax		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF UGANDA RAILWAYS CORPORATION FOR THE YEAR ENDED 30 TH JUNE 2021
+
+THE RT. HON. SPEAKER OF PARLIAMENT Qualified Opinion
+
+I have audited the accompanying financial statements of Uganda Railways Corporation
+
+which comprise the statement of Financial Position as at 30 th June 2021, and the Statement of Comprehensive Income, Statement of Changes in Equity and Statement of Cash Flows together with other accompanying statements for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, except for the possible effect of the matters described in the Basis for
+
+Qualified Opinion section of my report, the financial statements present fairly, in all material
+
+respects, the financial position of Uganda Railways Corporation as at 30 th June 2021 and the results of its operations and cash flows for the period then ended, in accordance with the International Financial Reporting Standards and the Uganda Corporation Act, Cap 331 of the Laws of Uganda.
+
+Basis for Qualified Opinion 1.0 Overstatement of Non-current assets
+
+The Statement of Financial Position reflected that the Corporation had Non-current
+
+assets worth UGX.3,525,540,249,000 as at 30 th June 2021. However, the review on
+
+Note 9 which contains the details of the Non-current assets indicated that the above figure included a total of UGX.6,012,000,000 in respect of Kabalega ferry (UGX.5,760,000,000) and Barbus ferry (UGX.252,000,000) which sunk under water
+
+twenty five years and sixteen years respectively.
+
+Since the ferries have been out of use under water for a long time without retrieval and cannot be disposed of while under water, it cannot be determined whether they
+
+still hold the value indicated to the Corporation.
+
+The Accounting Officer explained that the amounts were based on valuation by an independent Valuer in 2017-2018. Although the ships sunk and were submerged,
+
+they were considered to still have value because they are made of steel.
+
+The Accounting Officer further explained that they have received offers from the public to
+
+
+
+
+
+
+
+
+
+
+
+In my previous report, I indicated that out of this loan amount, loans totalling UGX.16,511,595,000 (other than the Spanish Government loan) were not supported
+
+and did not show any movement over the last four (4) years. The loans still remained un-supported and I was again unable to establish whether the outstanding amounts were fairly stated in the financial statements.
+
+The Accounting Officer explained that the equipment was sourced and bought by GOU and given to URC for which subsequent on-lending agreements were not availed apart
+
+from the Spanish Loan. In addition, GOU paid off the foreign donors and URC has not
+
+received any demand notes over the years. Although URC continued to request for
+
+supporting documents from MoFPED, they were not availed. URC indicated that follow
+
+up was on with the Accountant General to convert the loans into Equity.
+
+However, I noted that the status quo remained the same by the close of the year under review.
+
+I advised the Accounting Officer to obtain a written confirmation from the Ministry of Finance and Accountant General regarding the settlement of the loans and subsequently initiate write off from URC books of accounts.
+
+3.0 Un-supported interest payable on GoU equipment loans
+
+The Statement of Financial Position also reflects interest arising from loans that was yet to be cleared by URC amounted to UGX.9,511,880,000. However, this balance has
+
+been outstanding over several years without any movement. The status quo still
+
+remained the same by the close of the year under review. This interest payable was not supported by any original documentation as observed earlier and I was again
+
+unable to confirm whether this reported outstanding obligation was genuine.
+
+The Accounting Officer explained that this relates to interest accumulated on Equipment Loans stated in paragraph 2.0 above. URC indicated that follow up with the Accountant General to convert the liability into Equity.
+
+I advised the Accounting Officer to indicate to the Ministry of Finance and the
+
+Accountant General the importance of the decision to have the loans appropriately recognized in URC books of accounts.
+
+
+
+
+
+
+
+
+
+
+
+I advised the Accounting Officer to fast track the Board approval to ensure that the
+
+un-supported liabilities are removed from the financial statements.
+
+5.0 Trade and Other receivables
+
+The Statement of Financial Position indicated that the Corporation had Trade and Other Receivables of UGX.75,637,890,000 as at 30th June 2021. However, the
+
+review of Note 13 which contains the details of the Receivables reflects that the above includes UGX.69,516,000,000 due from Government in respect of the Nsambya land. This amount has remained un-paid to URC for too long despite Government having disposed of the land to the public long ago implying that the Corporation may never
+
+be compensated for its land.
+
+In my previous report, I reported that trade and other receivables worth
+
+UGX.11,217,376,390 lacked supporting documents such as tenancy agreements, concession agreements and invoices. In the absence of supporting documentation, the
+
+existence of the receivables could not be confirmed and their eventual collection seemed remote.
+
+The Accounting Officer then explained that the Board Paper for write off of the
+
+receivables had been prepared. The Accounting Officer further explained that part of the receivables relate to hire of the dry dock and would be reclassified as a Contingent
+
+Asset as Management was not certain that it would be recovered. The Accounting
+
+Officer explained that part of the receivables was a pre-concession trade receivable
+
+which related to unpaid VAT on concession fees under arbitration.
+
+Whereas the Accounting Officer explained that they had requested for Board approval
+
+for writing off the UGX.11,217,376,390, I noted that the status quo remained the
+
+same by the close of the year under review.
+
+I advised the Accounting Officer to fast track the Board approval to ensure that the
+
+un-supported receivables are removed from the financial statements.
+
+I conducted my audit in accordance with International Standards of Supreme Audit Institutions
+
+(ISSAIs). My responsibilities under those standards are further described in the Auditor’s
+
+Responsibilities for the Audit of the Financial Statements section of my report. I am independent of the Uganda Railways Corporation in accordance with the Constitution of the Republic of Uganda (1995) as amended, the National Audit Act, 2008, the International
+
+
+
+
+
+
+
+
+
+
+
+determined the matters described below to be key audit matters communicated in my report.
+
+6.0 Implementation of the approved budget
+
+Section 20 (2) of the Uganda Railways Corporation (URC) Act (Cap 331 of the Laws of
+
+Uganda) requires the URC Board to ensure that the undertakings of the Corporation are; (a) developed in a manner consistent with economic policy of Government and,
+
+(b) operated efficiently and economically and administered financially in accordance with sound commercial principles.
+
+Paragraph 3.1.7 of the URC Financial and Accounting Manual 2007 requires the URC
+
+Chief Executive as the Accounting Officer, to ensure that resources are utilised efficiently and in accordance with approved procedures, work plans, and budgets.
+
+I am aware that the Covid-19 Pandemic continues to significantly affect the
+
+implementation of several activities. Consequently, a number of activities were not
+
+implemented due to budget shortfalls and lockdown measures instituted to control the
+
+spread of the pandemic. It is against this background that the implementation of the
+
+budget was again considered a key audit area during the office-wide planning for the current audit year.
+
+Uganda Railways Corporation (URC) was established under URC Act, 1992 cap 331, Laws of Uganda to carry out construction, operation and maintenance of railway,
+
+marine and road services both in and outside Uganda for the carriage of goods and
+
+passengers. URC undertakes its operations mainly at its offices in Kampala, with stations across the country in the area coverage of the Meter Gauge.
+
+The principal activities of URC as stipulated by section 3 of the URC Act are;
+
+- The construction, operation and maintenance of railway, marine and road services both inside and outside Uganda for the carriage of goods and passengers,
+- The carrying out, subject to the said Act, of such activities that are conducive or incidental to the attainment of the object above.
+
+To achieve this mandate, URC planned to implement both recurrent and development
+
+activities. A review of the entity’s work plan and budgets revealed that the entity had an approved budget of UGX.120.49bn, out of which UGX 54.6bn was realised. Table 1 below shows a summary of the key outputs of the Corporation for the financial year 2020/21:
+
+No.	Details	Budget(‘000’)UGX	Cumulative percentage share of the total approved budget	
+1	Track Infrastructure Maintenance	2,765,950	1.03	
+2	Building Infrastructure Maintenance	109,989	1.07	
+3	Administrative	422,340	1.23	
+4	Railway Development	38,437	1.24	
+5	Building Infrastructure	6,651,873	3.73	
+6	Enforcing Land Interests	100,000	3.76	
+7	Track Infrastructure	4,435,175	5.42	
+8	URC capacity building project	40,000,000	20.34	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9	Locomotives Maintenance	464,500	20.51	
+10	Fuel Supplies	7,893,831	23.46	
+11	Wagons Maintenance	7,234,280	26.16	
+12	Maintenance of Machinery, Plants, Breakdown & Mechanical Handling Cranes	1,460,000	26.70	
+13	Maintenance of Electrical Installations	1,040,451	27.09	
+14	Maintenance of Marine Vessels & Port Facilities	2,595,460	28.06	
+15	Maintenance of Motor Vehicles	298,980	28.17	
+16	Training	258,000	28.26	
+17	Support Trains Operations	214,560	28.34	
+18	Administrative Functions	259,200	28.44	
+19	Procurement of FourLocomotives(4) Mainline	42,000,000	44.11	
+20	Procurement of Two (2) Reach Stackers	6,000,000	46.35	
+21	Procurement of Five (5) Double Cabin Pick - Ups	1,000,000	46.72	
+22	Rehabilitation(Comprising of 160 Tank Wagons)of 250 Wagons	35,039,800	59.79	
+23	Rehabilitation of 4 Locomotives	8,640,000	63.01	
+24	Rehabilitation of One Break Down Crane	2,400,000	63.91	
+25	Rehabilitation of Ten (10) Passenger Coaches	4,800,000	65.70	
+26	RemanufacturingLocomotivesof Seven (7)	56,000,000	86.59	
+27	Rehabilitation of Plants / Machinery	2,000,000	87.34	
+28	Administration and Supervision	300,020	87.45	
+29	Management of Foreign Networks	108,780	87.49	
+30	Yards and Terminals Activities	15,624	87.50	
+31	Port Activities	1,738,000	88.14	
+32	Planning and Control Activities	43,120	88.16	
+33	Asset Management	28,980,000	98.97	
+34	Operations Compliance	804,880	99.27	
+35	Commuter Operations	60,000	99.29	
+36	Safety, Health And Environment (SHE) Activities	475,540	99.47	
+37	Management and Control Of Cargo Tracking System	1,060,000	99.87	
+38	Accidents and Incidents Management	359,127	100.00	
+
+
+
+
+No	Observation	Recommendati on	
+6.1	Existence of a strategic business plan that is aligned to NDP-III Paragraph 5 of the budget execution circular for the financial year 2020/2021 cites poor alignment of Government Budgets with the National Development Plans. The PS/ST urges Accounting Officers to ensure that all activities for Financial Year 2020/2021 are	I commended the Accounting Officer for the compliance with the NPA certification	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	aligned with NDP III and implemented accordingly. Regulation 26 (1) of the National Planning Authority (development of Plans) regulations require entities to submit to NPA their five-year development plans for certification before approval.of the certificate of compliance for the annual budget FY 2020/21 assessment report issued by NPA indicated that overall, URC Annual Budget was satisfactory at 96.8%. In particular, the vote was 100% and 92.5% compliant in alignment of the BFP and Annual Budget and projects respectively. I also noted that whereas NPA indicated in its certificate of compliance report for the year under review that URC registered alignment of its strategic plan on all its NDPIII indicators and timelines, interviews with Management and document reviews indicated that the URC strategic plan for the period 2020/2021-2024/2025 is not yet approved by URC Board.Review									requirement.	
+6.2	Revenue Performance The URC budgeted to realize UGX.120.49 Bn out of which UGX.54.6 Bn was realized, resulting in a shortfall of UGX.65.89bn, which is 54.69% of the budget. Revenue shortfalls affect the implementation of planned activities.Accounting Officer explained that the performance results during the period were severely impacted by the COVID-19 situation that affected transit cargo operations.The									I advised the Accounting Officer to devise business strategies for implementation when the lockdown eases, to enhance operational revenues.	
+6.3	Budgeting for business activitiesreviewed the extent of quantification of business outputs and activities for a sample of one hundred forty six (146) outputs with a total of one hundred forty six (146) activities with an approved budget of UGX 73.7 bn representing 61% of the authority’s approved total budget of 120.49bn and noted the following;  One hundred forty three (143) outputs with a total of one hundred forty three (143) activities were fully quantified. Table 3 below refers.Table 3: showing the extent of quantification of outputs Activity details-Analysis Catego ry output sof% prop ortio n to total expe nditu reTotal no of activ ities in the outp utsNo. of Fully Quan tified activ itiesNo of activ ities not fully quan tifiedNo. of outpu ts sampl edExp endi ture UGX Bn% of quanti ficatio n of activiti es per catego ry of output Fully 143 73.7 61 1436 143 0 100 quantifi ed outputsnoted that the URC had unit cost estimates at activity level. However, expenditures were not reported at activity level to provide a inputs, processes, outputs and intermediate outcomes realized during the year.link betweenII									I commended the Accounting Officer for the compliance. I however advised the Accounting Officer to prepare expenditures at activity to provide linkage between activities,level	
+										processesoutputs.and	
+											
+											
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.4	Implementation of quantified business outputs I assessed the implementation of One hundred forty three(143) outputs that were fully quantified with a total of one hundred forty three (143) activities and noted that;  Fifty one (51) outputs with (51) activities were fully implemented. That is all the fifty one (51) activities within this output were fully implemented. Thirty five (35) outputs with thirty five (35) activities were partially implemented.Fifty seven (57) outputs with fifty seven (57) activities were not implemented.level of implementation of FullyTot al no of act ivit iesNo of Fully impl eme nted activ itiesNo. Of partiall y implem ented activiti esNo of activiti es that were not imple mente dExtent of impleme ntation of activities per category of outputTable 4 below refers.ofCategor y output4 Showing Quantified outputs % of imp lem ent atio nNo of out put s51 35.6 51 51 0 0 100 35 24.5 35 0 35 0 5057 39.8 57 0 0 57Total 100 51 35 5714 314 30of the key activities that were not implemented are;1. Sleeper Reconditioning 2. Drainage Improvement and Culvert Construction 3. Tororo Station Roof Repairs 4. Kampala Station Fencing 5. Sanitary Improvement (5 Stance Toilet at Selected stations) 6. Rehabilitation of Steel Mill Jinja sidingNon-implementation of planned activities the expected services to the beneficiary communities were not attained.implies thatAccounting Officer explained that implementation of budget outputs was affected by lack of sufficient funding. The AccountingFully implem ented outputs 1Partially Implem ented outputs 2Outputs Not Implem ented 3TableSomeThe									I advised the Accounting Officer to fast track his promise of engaging GoU for sufficient funding so that URC delivers its mandate to enable the public to fully benefit from the projects/ programs by Government.	
+											
+											
+											
+											
+											
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Officer explained that URC Management will continue engaging the GoU for funding.
+
+6.6 Achievement of intended services from implemented I advised the outputs- Accounting Officer I undertook an assessment to establish if there was service to continue delivery from a sample of outputs that were implemented and engaging GoU for noted the following (Table 5); - sufficient funding so that URC Table 5: Service delivery from planned outputs delivers its Output details Activities/Details Audit comments mandate to 3000 Sleepers Sleeper Sleeper Reconditioning enable the public Recovered And Reconditioning was not undertaken to fully benefit Reconditioned Under from the projects/ Framework Contract programs by Railway Drainage Drainage Drainage not improved Government. Improved And Improvement And and culvert not Culverts Installed Culvert Construction constructed Tororo Station Roof Tororo Station Roof Tororo Station Roof Repaired Repairs Repairs not undertaken Entire Kampala Kampala Station Kampala Station was not Station Area Fenced Fencing fenced Off 5 Stanced Latrine Sanitary Constructed At Kasese Improvement Stations (5 Stance Toilet At Select Station)
+
+Sanitary improvement was not undertaken
+
+Steel Mill Jinja Siding Rehabilitation Of Steel Mills Siding not Rehabilitated And Steel Mill Jinja rehabilitated Reopened Siding Output
+
+81. 10% of civil works No civil works were done Construction/rehabilit on 22 kms of ation of Railway Namanve-Kampala- infrastructure Kyengera completed.
+
+The failure to achieve the intended services from the outputs negates the purpose of budgeting and implementing these activities.
+
+The Accounting Officer explained that implementation of budget outputs was affected by lack of sufficient funding. The Accounting Officer explained that URC Management will continue engaging the GoU for funding.
+
+
+
+
+
+
+
+
+
+
+
+financial information and casts doubt on the reliability and authenticity of the information (both Financial and Non-financial) presented by the entity.
+
+The Accounting Officer explained that the inconsistencies are caused by the amount spent in the annual performance report being on a cash basis while that in the financial statements being on an accrual basis.
+
+Emphasis of Matter
+
+Without modifying my opinion, I would like to draw the readers’ attention to the
+
+following matter(s) which have been disclosed in the financial statements of the
+
+Corporation:
+
+7.0
+
+Financial analysis and assessment of the Corporation’s performance
+
+I carried out financial analysis of URC financial performance and observed that the Corporation made a loss for the year under review amounting to UGX 37,783,152,000 and the previous year, the Corporation made a loss of UGX66,151,318,000. On review of the operating margin, I observed that the costs before considering interest and
+
+taxes exceeded revenue for the year. I also observed that due to the loss incurred, the
+
+Corporation generated a negative return on assets of 1.03%, and the previous year, the Corporation made a negative return on assets of 1.7%. Further, the Corporation
+
+also delays to collect its funds held with debtors.
+
+The Corporation’s losses and the ratios computed are an indication that Uganda
+
+Railways Corporation is not performing well in terms of profitability and ability to sustain provision of services without further Government intervention for funding and
+
+Management strategies to improve revenue generation.
+
+The Accounting Officer explained that the performance results during the period were
+
+severely impacted by the COVID-19 situation that affected transit cargo operations.
+
+I advised the Accounting officer to ensure that strategies are devised even during COVID-19 challenges to improve the revenue generating potential of the Corporation, while putting in place cost cutting mechanisms. I also advised the Accounting Officer to engage Government on further financing to be able to cover the current operating
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer then explained that this exercise had been started and a Board of Survey was also set up during the year 2019/2020. He further explained that this
+
+exercise progressed slowly because of the pandemic and would be completed in the year 2020/21.
+
+However, the follow up of this matter indicated that the exercise was still incomplete and now Management plans to carry out the exercise in 2022/2023. The Non-current
+
+assets may therefore not have been disclosed at realistic values.
+
+I advised the Accounting Officer to ensure that the exercise is carried out as soon as possible so that non-current assets are presented at the correct carrying values.
+
+Other Matter
+
+In addition to the matters raised above, I consider it necessary to communicate the
+
+following matter other than those presented or disclosed in the financial statements;
+
+9.0 Lack of Land titles - UGX 91,832,636,500
+
+In my previous report, I noted that Uganda Railways Corporation land worth
+
+UGX.91,832,636,500 lacked land titles as evidence of URC’s rights to own and use the property. Management’s efforts to secure the land titles appear remote. Lack of land
+
+titles has led to heavy encroachment and grabbing of the Corporation’s land.
+
+The Accounting Officer explained that Management was pursuing the titling of land in various locations. Regarding Nalukolongo Workshop land worth UGX.75,113,745,000. The Accounting Officer further explained that Management sought the intervention
+
+and assistance of the Solicitor General’s office to help them acquire title to the land on
+
+which the workshop and its ancillary developments are situated. The Accounting
+
+Officer also explained that measures to stop further encroachment were in place.
+
+I advised the Accounting Officer to continue following up on the interventions and have all the titles processed for URC land.
+
+Other Information
+
+The Directors are responsible for the other information. The other information comprises the statement of responsibilities of the Board of Directors and the commentaries by the Head of Accounts and the Managing Director (Accounting Officer), and other supplementary
+
+
+
+
+
+
+
+
+
+
+
+and International Financial Reporting Standards on Accrual basis of Accounting and for such
+
+internal controls as management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the Directors are responsible for assessing the Corporation’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless
+
+management either intends to liquidate the Corporation or to cease operations, or have no
+
+realistic alternative but to do so.
+
+The Directors are responsible for overseeing the Corporation’s financial reporting process.
+
+Auditor General’s Responsibilities for the audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as
+
+a whole are free from material misstatement, whether due to fraud or error, and to issue an
+
+auditor’s report that includes my opinion. Reasonable assurance is a high level of assurance,
+
+but is not a guarantee that an audit conducted in accordance with ISSAIs will always detect
+
+a material misstatement, when it exists. Misstatements can arise from fraud or error and are
+
+considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain professional scepticism throughout the audit. I also:-
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for
+
+my opinion. The risk of not detecting a material misstatement resulting from fraud is
+
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of
+
+expressing an opinion on the effectiveness of the Corporation’s internal control.
+
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+
+- Conclude on the appropriateness of Directors’ use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty
+
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+
+
+
+
+
+
+
+
+
+
+I communicate with the Directors regarding, among other matters, the planned scope and
+
+timing of the audit and significant audit findings, including any significant deficiencies in
+
+internal control that I identify during my audit.
+
+I also provide the Directors with a statement that I have complied with relevant ethical
+
+requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Directors, I determine those matters that were of
+
+most significance in the audit of the financial statements of the current period and are
+
+therefore the key audit matters. I describe these matters in my auditor’s report unless law
+
+or regulation precludes public disclosure about the matter or when, in extremely rare
+
+circumstances, I determine that a matter should not be communicated in my report because
+
+the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Reporting Responsibilities
+
+As required by the Uganda Railways Corporation Act and the National Audit Act, I report to you, based on my audit, that, except for the effect of the matters raised in the preceding paragraphs:
+
+- I have obtained all the information and explanations which to the best of my knowledge and belief were necessary for the purpose of my audit;
+- In my opinion, proper books of account have been kept by the Corporation, so far as appears from my examination of those books; and
+- The Corporation's statement of financial position and statement of financial performance are in agreement with the books of account.
+
+Report on the Audit of Compliance with Legislation
+
+In accordance with Section 19 (1) of the National Audit Act, 2008, I report to you, based on
+
+my work described on the audit of Financial Statements, that; except for the matters raised
+
+in compliance with legislation section below, and whose effect has been considered in forming my opinion on financial statements, the activities, financial transactions and information reflected in the financial statements that have come to my notice during the audit, are in all material respects, in compliance with the authorities which govern them.
+
+
+
+
+
+
+
+
+
+
+
+However I noted that the bidder did not comply with some requirements within the bid document which were supposed to be the basis of evaluation. Despite the non- compliance at preliminary stage, the bid was evaluated at the Technical stage contrary to the regulations. Details in Table 7 below:
+
+Table 7: Non-compliance with specification requirements for locomotives
+
+		Management Response	
+Specification includingTechnical required applicable standards	Compliancespecification offeredof the	Technical Literature on specifications offered in Column C	
+The Diesel Engines of the Locomotives are expected to Comply with the requirements of at Emission standards or Equivalentleast,Tier-2	Do not Comply; The locomotives are fitted with EMD 16-645 E3B engines that are Tier 0+ to the centre	TierThe EMD 16-645-E3B are not -2 emission standard but zero plus standard. Tier -2 engines can only operate on high quality low Sulphur diesel which is not readily available in Uganda. Thus the EMD 16-645 E3B engines match the quality of fuel here.	
+Engine Speed range between 1,000-1,800 rpm	Not Compliant, EMD 16- 6453BE engine; RPM range 200 idle to 950 Maximum	This was a typo as the low speed range of 200 to 1000 rpm is appropriate for big engines.	
+Sand box Capacity; 700kg (Minimum)	Not Compliant, Standard 8x35kg sand boxes=280kg. Larger Sandboxes will be manufactured, 2x50kg plus 6x100kg=700kg	Sand boxes were modified to capacity as indicated in the bid.	
+Fuel tanks are expected to be provided with calibrated fuel gauge with an accuracy capacity of 95%	if requiredIt is not standard on the locomotives of this supplier, but OEM fuel gauges N- Gauge are available to be fitted and displayed on the LDU for URC cost. Note it is not a consumption flow-meter, merely a fuel level gauge.	fuel tanks sightThe have calibrated glass gauges from which fuel in the loco can be read.	
+theheavy dutyBattery The locomotives are expected to have storage batteries with high efficiency and adequate capacity for starting, lighting and other purposes necessary for controls of Low maintenance Ni-Cd batteries are preferred.locomotive.	New D/M390 lead acid batteries the locomotives have proved to be effective for around 3 years. Alternative batteries specified can be fitted with additional cost for URCfitted thatto	Acid batteries are good enough and acceptable.	
+Control Systems The Locomotives are expected to be of single driver cabin positioned at the front end of the locomotive, fitted with dual operating controls.cabin is expected to be fitted with two fans, shatter proof window, rear view mirrorThe	The company is not able to fit dual operating controls. The locomotives have right sided drivers positions only.fans but air-conditioning fitted. Shutter proof windows fitted and door glasses. No rear mirror but can be installed in line withNo	Right sided drivers position will suffice.conditioner is a better alternative.Air	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+includeitems on the driver cabin to sun visors on windscreen, charging sockets for mobile phones and walk talkie and able to maintain noise level of less than 85 Db AS PER UIC 651cabin to permitdriving controls are expected to be arranged on both sides of the the locomotive to be operated from either side of the cabin with equal commission.and door glasses. OtherAll	fitted.sun visors but rolling blinds Charging socket can be added but not standard. 2 way radio can be installed by URC at own cost and specifications. The locomotive cab passed safety and noise compliance during new product launch and used by 7 other national railway operators.Right side onlyrequirements. NoNo,	blinds instead of sun visors is okay and noise levels are within the specs.Rolling	
+Safety Devices -Speed recorder that permits the locomotive driver to enter his particulars such as name, number, grades and others for identification purpose.	Not available	Manual system is in place to capture loco driver details and entered into Translogic system.	
+Gauges and indicators Lubricating oil pressure gauges	Not displayed		
+Super Structure Static air extractor shall be provided on the cabin roof	None	The Air Conditioner was considered a better option.	
+and Number A chart giving particulars of the colour coding for the pipe work shall be mounted at an open area in engine compartment of the LocomotiveMarking	standard but can beadded in visible sections.No		
+Training of maintenance personnel Training of maintenance staff shall be conducted in the four (4) main depots of URC-That is Kampala, Nalukolongo, Jinja and Tororo	No. Catered for Kampala only	URC does not have maintenance personnel at Kampala and Jinja. Tororo has only 1 staff. So the training was restricted to Nalukolongo Workshop and upcountry staff travel to Kampala for the training.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Accounting Officer further explained that the limiting turning curvature for the 98
+
+class locomotives is 26 degrees whereas the existing railway triangle had some sections with sharper curvature of less than 26 degrees presumably because the existing triangle design considered the existing locomotive fleet prior to purchase of the new locomotives with different design specifications to safely change direction at
+
+the triangle. The physical constraints of the triangle including 2 bridges over Nakivubo channel, high voltage electricity transmission line pylon and the Kampala Flyover Project Right of Way have limited any possible improvements in the triangle alignment to relax the limiting curvature. As an alternative, the railway U-turn section within the
+
+Kampala yard with fewer physical constraints but more involving in terms of earthworks and resources than the triangle is now being assessed for alignment improvement to allow the new locomotives change direction.
+
+The Corporation will therefore have to incur unplanned expenditure to provide for a turning point at the Kampala Station. In addition, the locomotives will not be able to turn at the Kasese and Tororo Stations where turning provisions also exist without
+
+further modifications because of their incompatible designs.
+
+I advised the Accounting Officer to always ensure that Evaluation Committees check for bids’ responsiveness to the criteria set in the bid documents and recommend only fully responsive bids for award of contracts.
+
+11.0 Concession agreement for Pamba ferry
+
+On 18 th May 2020, the Minister of State for Transport signed an agreement between
+
+the Government of Uganda and Mango Tree (U) Ltd, witnessed by the MD URC to
+
+formalise and define the collaboration between the first party and second party for the rehabilitation and upgrade of the vessel without recourse to public funds in furtherance of the existing mutually-beneficial relationship between the second party
+
+and the Government of Uganda.
+
+Inspection to the site revealed that the vessel was still grounded after a year of
+
+signing the agreement.
+
+A review of MOU also revealed that the financial terms were not clear to either party
+
+to the agreement which may be to the disadvantage of the Corporation. Apart from
+
+the MoU, no any other documentation was availed pertaining the transaction and operationalization of the vessel.
+
+
+
+
+
+
+
+
+
+
+
+It is alleged that an officer who was by then acting on behalf of the Corporation
+
+Secretary forged the signature of the then Managing Director to transfer the title to one Ocen Joseph on 17th January 2018. The said land was subdivided into plots 41-
+
+63, 52-62, 42-50 and the titles were being processed.
+
+The Corporation does not monitor its land and may lose this land.
+
+The Accounting Officer explained that the matter is under investigation.
+
+I advised the Accounting Officer to put a caveat on the land as soon as possible to stop the subdivision.
+
+13.0
+
+Sale of URC land by Jinja Municipal Council
+
+Uganda Railways Corporation has 43 acres around the old station area in Jinja
+
+Municipal Council. Out of this land, the Municipal grabbed 6.3 acres and gave it out to developers.
+
+I noted that the Municipal Council illegally sold out land to fifty eight (58) persons who
+
+have since put up structures, some of them shown in figure below. The structures
+
+mainly constitute of family homes. The land is also still in the asset register of URC.
+
+The Corporation does not monitor its land and may lose this land.
+
+The Accounting Officer explained that they are taking action on the matter through
+
+court procedures.
+
+I advised the Accounting Officer to follow up the matter to conclusion.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+
+
+
+
+
+
+
+
+
+
+APPENDICES: Appendix 1: Extent of delivery of planned outputs
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Track Infrastructure Maintenance	All Routine And Appropriate Track Maintenance Activities Completed In Time	Routine Track Maintenance (SME)	2,765,950	586,882	facilitateThere was no performance target set to performance measurement. However, Audit noted that 4 No. Call Off Orders were completed	
+	All Requisite Safety Wear Made Available To Track Maintenance Staff	Purchase Of PPEs			Requisite Safety Wear not availed To Track Maintenance Staff	
+	3000 Sleepers Recovered And Reconditioned Under Framework Contract	Sleeper Reconditioning			Sleeper Reconditioning was not undertaken	
+	Railway DrainageAnd Culverts InstalledImproved	Drainage Improvement And Culvert Construction			Drainage not improved and culvert not constructed	
+	Level Crossing At Mbale And Malaba Resurfaced	Level Crossing Maintenance			Level crossings was rehabilitated	
+	Track Consumables Purchased	Purchase Of Consumbables (Operation & Maintenance Of Track Equipments, Track Consumables)			Track consumables not procured	
+	Weed Killer Purchased	Purchase Of Weed Killer (Non Selective Herbicide)			facilitateThere was no performance target set to performance measurement. However, Audit noted that Weed killer was procured and applied	
+	Lubricating Grease Purchased	Purchase Of Grease Graphite (Curve Lubrication)			Lubricating grease not procured	
+
+
+
+
+19
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Monthly Accident Engineers DoneInspections Attendance AndAnd By Inspectors	Routine Line Participating Development (Local Travel)Inspection, In Railway Programs			facilitateThere was no performance target set to performance measurement. However, Audit noted that Inspections of railways programs was undertaken	
+Building Infrastructure Maintenance	Tororo Station Roof Repaired	Tororo Station Roof Repairs	109,989	1,559,872	Tororo Station Roof Repairs not undertaken	
+	Water Bills Verified And Paid	Utilities (Water Bills)			facilitateThere was no performance target set to performance measurement. However, Audit noted that Water bills were verified and paid	
+Administrative	All Requisite Stationery Made Available	Purchase Of Stationery	422,340	197,315	There was no performance target set to performance measurement. However, Audit noted that Stationery was procuredfacilitate	
+	Staff Trained In Appropriate And Relevant Areas	Staff Training			There was no performance target set to performance measurement. However, Audit noted that Staff training was undertaken by Technical Assistance to URC funded by EUfacilitate	
+	Engineering Services; Design, Consultancy Provided	Professional(Engineering Consultancy)Services			Engineering Services not provided	
+	Subscriptions For Registered Engineers And Surveyors Updated	Renewal OfSubscriptions for 2 engineersProfessional			for the twoUIPE/ERB subscriptions were renewed registered engineers under the civil department ( Eng. Geofrey Obara and Brina Eng. Sempebwa)	
+Railway Development	Technical Support To On- Going Projects/Programs (SGR,	Participate RailwayDevelopment Programs As AndIn	38,437	43,646	There was no performance target set to facilitate performance	
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Gulu ICD, Bukasa Inland Port, Tororo-Gulu Line Rehabilitation) Provided And Regional Summits/Workshops Attended	When(Travel Abroad)Requested			measurement. However, Audit noted that Technical support was provided	
+Building Infrastructure	Tororo Station Fenced	Tororo Station Fencing	6,651,873	230,583	Tororo station not fenced	
+	Tororo Locoshed Rehabilitated	Rehabilitation Of Tororo Locoshed			Tororo Locoshed not rehabilitated	
+	Entire Kampala Station Area Fenced Off	Kampala Station Fencing			Kampala Station not fenced	
+	5 Stanced Latrine Constructed At Kasese Stations	Sanitary Improvement (5 Stance Toilet At Select Station)			Sanitary improvement not undertaken	
+	Port Bell Pier Winch And Guides Repaired	Repairs To Port Bell Pier Winch And Guides			Port Bell Pier not repaired	
+	Port Bell Mechanical Workshop Asbestos Roof Replaced	Port Bell Mechanical Workshop Removal Of Asbestos Roof			Port Bell Mechanical workshop repairs not undertaken	
+Enforcing Land Interests	All MapsDigitized In Central RegistryAnd Drawings	DigitizationRecordsOfDrawing	100,000	76,140	Drawings records not digitized	
+Track Infrastructure	AssortedPurchasedTrack Materials	Purchase Of Track Fittings (2 Way Keys, Distance Pieces, F Clips (I & O), Clip Bolts And Nuts)	4,435,175	380,236	Assorted Track Materials not procured	
+	Track Ballast Purchased	Purchase Of Track Ballast			Ballast were not procured	
+	Timber Sleepers Purchased	Purchase Of Timber Sleepers			facilitateThere was no performance target set to performance measurement. However, Audit noted that Timber sleepers were delivered After financial year end	
+	Steel Mill Jinja Siding	Rehabilitation Of Steel Mill			Steel Mills Siding not rehabilitated	
+
+
+
+
+21
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Rehabilitated And Reopened	Jinja Siding				
+URC capacity building project	Output 81: Construction/rehabilitation of Railway infrastructure	10% of civil works on 22 kms of Namanve-Kampala-Kyengera completed.	40,000,000	12,940,000	No civil works were done	
+Locomotives Maintenance	Adequate Maintenance Spares Parts & Materials.	Procurement Of Maintenance And Repair Spares Parts & Materials (A - G Service Kits)	464,500	3,038,522	A-E Service Kits for 73/74XX Locos Procured	
+	Adequate Brake Block For Trains Operations.	Procurement 2000 Locomotives Composite Brake BlocksOf			200 brake blocks shipped out of a batch of 5,000 procured	
+	AdequateConsumables.Workshops	+(OxgenProcurement Of Workshops Consumables & Acetyne Accessories, Welding Rods, Cotton Waste, Parafin, White Spirit, MS Plates, Round & Twisted Bars, Fastings, Paints, Gasket Materials)			facilitatewas no performance target set to performance measurement. However, Audit noted that Workshops Consumables (Oxgen & Acetyne + Accessories, Welding Rods, Cotton Waste, Parafin, White Spirit, MS Plates, Round & Twisted Bars, Paints, Gasket Materials) Were procuredFastings,There	
+	AdequateMaintenance.Lubricants For	Procurement Of(Quarterly)Lubricants			locomotive Lubricants Procured quarterly	
+	Adequate Locomotives Tyres And Gipson Rings For Retyring.	Procurement Of 100 Locomotives Tyres & 50 Gipson Rings.			100 Locomotives Tyres & 50 Gipson Rings procured.	
+	Adequate Sand NeededLocomotives Operation.In	Procurement Of 500 Cubic Meters Of Sand (125 Cubic			500 Cubic Meters Of Sand (125 Cubic Meters Quarterly)	
+
+
+
+
+22
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Meters Quarterly)			Were procured.	
+14 Henschel Locomotives + Four (4) 3000 HP Mainline Locomotives Good Mechanical Conditions.In	Shopping Of The Locomotives As Per The Maintenance Plan, Conducting Incoming Inspections To Determine The Scope Of The Maintenance & Repairs Required, Carrying Out Maintenance Or Repairs Tasks Required And Ensuring Quality Control & Quality Assurance.			522 DTRS services, 3 A services, 7 Bservices,6Cservices,6-D services,4 EServices,136 Repairs Conducted. (8 Shunting, 2 Mainline URC Locos & 2 KRC Locos Maintained)	
+	Retyring Of Locomotives With Worn Out Tyres			facilitateThere was no performance target set to performance measurement. However, Audit noted that 19 Loco wheelsets retyred	
+	Inspections Of URC Locos In KRC Network			URC Locos In KRC Network not inspected.	
+Fuel Supplies	Adequate Fuel For Operations.	Procurement Of Fuel For Locomotives	7,893,831	5,173,160	facilitateThere was no performance target set to performance measurement. However, Audit noted that 1,220,788 Ltrs of diesel procured	
+	Adequate Fuel For Operations.	Procurement Of Fuel For Marine Vessels			There was no performance target set to performance measurement. However, Audit noted that 328,700 Ltrs of diesel procuredfacilitate	
+	Adequate Fuel For Operations.	Procurement Of Fuel For Motor Vehicles			There was no performance target set to performance measurement. However, Audit noted that Procurement of fuel andfacilitate	
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+contract management conducted	
+AdequateStandby Generators.Fuel For The	Procument OfStandby GeneratorsFuel For			facilitateThere was no performance target set to performance measurement. However, Audit noted that 32,680 Ltrs of diesel procured	
+Wagons Maintenance	Adequate Maintenance Spares Parts & Materials.	Local Procurement Of CXR Repair & Overhaul Spares Parts.	7,234,280	1,024,788	Local Procurement Of CXR Repair & Overhaul Spares Parts carried out.	
+	Adequate Wagons & Couches Tyres And Gipson Rings For Retyring.	Procurement Of 750 Tyres & 100 Gipson Rings.			750 Tyres & 100 Gipson Rings procured.	
+	Adequate Brake Block For Trains Operations.	Procurement Of 8000 Wagons Composite Brake Blocks			the contractThe procurement of 8000 wagons composite Brake Blocks was not done. However, for supply of 5,000 Wagon brake blocks was signed	
+	Adequate Maintenance Spares Parts & Materials.	Spares PartsLocal Procurement Of CXR Repair & Materials (Oxygen & Acetyne + Accessories, Welding Rods, Cotton Waste, Parafin, White Spirit, MS Plates, Round + Twisted Bars, Angles, Fastings, Paints, Gasket Materials)			There was no target set to facilitate performance measurement. However, audit noted that CXR spare parts and consumables wereprocuredand an assortment and consumables were procuredof spares	
+	A Fleet Of 1000 Wagons In Good Mechanical Conditions.	Conducting Trains Incoming & Outgoing Inspections, Wagons & Coaches Inspections To Determine The Tyre Of The Maintenance Repairs Required, Out Maintenance Or Repair Tasks& Carrying			There was no target set to facilitate performance measurement. However, audit noted that Trains Incoming & outgoing inspections wereconducted, A & B Wagon examinations + Light and Heavy Casual repairs were carried out, 41 A	
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+And Ensuring Quality Control & Quality Assurance.			Examinations, 48 B-examinations, 229 Light casual Repairs and 34 Heavy Casual repairs were carried out.	
+	Quarterly Inspections Of URC Wagons Throughout URC, KRC & TRC Networks			Quarterly Inspections Of URC Wagons Throughout URC, KRC & TRC Networks was not done	
+Maintenance Of Machinery, Plants, Breakdown & Mechanical Handling Cranes	Workshop Machinery, Plants And Breakdown & Mechanical Handling Cranes In Good Mechanical Condition	Procurement Of Spares And Materials For The Maintenance Of Workshop Machinery, Plants And Breakdown & Mechanical Handling Cranes	1,460,000	70,837	There was no target set to facilitate performance measurement. However, audit noted that procurement of spares for plant and machinery Was done. Routine inspections, services and repairs of plant and machinery, break down and mechanical handling cranes were Carried out.	
+		OfRoutine Inspections, Service & Repairs Workshop Machinery, Plants And Break Down & Mechanical Handling Cranes			There was no target set to facilitate performance measurement. However, audit noted that 89 Monthly services, 54 Quarterly services, 10 bi-annual services, 24 annual services and 15 breakdown repairs were carried out on Machinery equipment	
+Maintenance Of InstallationsElectrical	Electrical Installations In Good Functional State	Procurement OfInstallations RequirementsElectrical	1,040,451	0	There was no target set to facilitate performance measurement. However, audit noted that Electrical materials for various depots procured	
+		Routine AndMaintenance & Repairs OfInspections			There was no target set to facilitate performance measurement. However,	
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Electrical Installations			Electrical inspectionsaudit noted that routine Inspections & Maintenance of wasconducted at Kampala, NLK,JJS & TOR depots	
+Maintenance Of Marine Vessels & Port Facilities	Marine Vessels (MV Kaawa & The Floating Dock) And Port Facilities In Good Mechanical Condition	Procurement OfSpare PartsRequisite	2,595,460	420,280	There was no target set to facilitate performance measurement. However, audit noted that assorted spares for MV Kaawa Maintenance were procured	
+		ProcurementLubricantsOfVessel			There was no target set to facilitate performance measurement. However, audit noted that vessel Lubricants were Procured	
+		Procurement Of Marine Surveyor For MV Kaawa & The Floating Dock			Marine surveyor wasProcured.5 year docking survey was conducted	
+		Routine Inspections, Services & Repairs Of Marine Vessels & Port Facilities			Routine Inspections, services & repairs of marine vessels & port facilities not conducted	
+Maintenance Of VehiclesMotor	Well - Maintained 14 URC Motor Vehicles Fleet	Routine Inspections And Management Of Service & Repair Of URC Motor Vehicles	298,980	1,045	Routine Inspections & maintenance of motor vehicles conducted. 10 URC Motor Vehicles maintained	
+Training	Competent And Skilled Staff	Training Of Staff & Technical Personnel (ICT, Management, Enhancement Of Technical Maintenance Knowledge & Skills, Enhanced Motor Vehicles Driving Skills)	258,000	265,299	There was no target set to facilitate performance measurement. However, audit noted training undertaken under the EU capacity building project and 8 staff trained.that Staff	
+		Training Of Engineers Under			Training Of Engineers Under UIPE	
+
+
+
+
+26
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+UIPEDevelopment ProgramsProfessional			Professional Development Programs was Not done	
+Support Trains Operations	Prompt Clearances & Investigations Of All Incidents And Accidents.	AccidentRecoveries (Inland Travel)Attendance And	214,560	0	toincidents and 10 accidentsThere was no target set to facilitate performance measurement. However, audit noted that accident and Incidents wereattended Accordingly. 62 attended to.	
+Administrative Functions	Quarterly Inspections Reports Of Assets	Routine(Inland, KR & TR)Inspections	259,200	31,344	Routine Inspections (Inland, KR & TR) carried out.	
+	Supplies,ConsultanciesServices&	Procurements Evaluations, Managements)(Initiations, Contract			The procurement was not carried out. However, Various bid evaluations and contact management were Undertaken.	
+Procurement Of Four Mainline Locomotives(4)	Four (4) Mainline Locomotives	Preparations Of Bidding Documents, Evaluation Of Bids, Selection Of The Best Bidders, Contract Signing	42,000,000	10,208,000	Evaluation of bids and Contract signing Completed. Pre-shipment Completed.inspection alsoused 3000HP Mainline Locos procured.Four	
+		Procurement Of A Consultant For Inspections & Testing Of The Locomotives Prior To Delivery.			A Consultant was not procured For Inspections & Testing Of The Locomotives Prior To Delivery. Audit noted however that the activity was done by URC staff.	
+		CommissioningLocomotives.OfThe			Locomotives were not commissioned.	
+
+
+
+
+27
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Procurement Of Two (2) Reach Stackers	Two (2) Reach Stackers	Preparations Of Bidding Documents, Evaluation Of Bids, Selection Of The Best Bidders, Contract Signing	6,000,000	1,000,0000	The two reach stackers were not procures however, Evaluation of bids and Contract signing completed. Pre-shipment completed.inspection also	
+		Inspections, Testing & Commissioning Of The Reach Stackers.			Inspections, Testing & Commissioning Of The Reach Stackers Not done	
+Procurement Of Five (5) Double Cabin Pick - Ups	Five (5) Double Cabin Pick - Ups	Preparations Of Bidding Documents, Evaluation Of Bids, Selection Of The Best Bidders, Contract Signing	1,000,000	0	Bidding Documents, Evaluation Of Bids, Selection Of The Best Bidders, Contract Signing not done	
+		Inspections, Testing & Commissioning Of The Motor Vehicles			Inspections, Testing & Commissioning Of The Motor Vehicles Not done	
+250Rehabilitation Of Wagons (Comprising Of 160 Tank Wagons)	250 Wagons Rehabilitated	Assesment Of Wagons For Rehabilitation	35,039,800	0	Assesment Of WagonsRehabilitation not doneFor	
+		Procument Of Requiste Spare Parts & Materials			Procument Of Requiste Spare Parts & Materials Not done	
+		ProcurementContractorOfLabor			Labor contractor not procured	
+		ImplementationRehabilitation WorksOfThe			Rehabilitation works not implemented	
+Rehabilitation Of Locomotives4	4 Locomotives Rehabilitated	Re-Assessment Of Rehabilitations Requirements Of The 4 Locomotives	8,640,000	0	Re-assessment Of Rehabilitations Requirements Of The 4 Locomotives not done	
+		Procurement OfSpare Parts & MaterialsRequisite			Requisite Spare Parts & Materials not procured	
+		Implementation OfRehabilitation WorksThe			Rehabilitationimplemented.worksnot	
+
+
+
+
+28
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Rehabilitation Of One Break Down Crane	One Break Down Crane Rehabilitated	Assessment Of The Rehabilitations Requirements	2,400,000	0	Rehabilitation requirementsassessednot	
+		Procurement Of Requisite Spare Parts & Materials			Requisite Spare Parts & Materials not procured	
+		Execution Of The Rehabilitation Works			Rehabilitation Works not executed	
+Rehabilitation Of Ten Passenger Coaches(10)	10 PassengerRehabilitatedCoaches	Assessment Of The Rehabilitations Requirements	4,800,000	0	Rehabilitation requirements were not assessed	
+		Procurement Of Requisite Spare Parts & Materials			Requisite Spare Parts & Materials not procured	
+		Execution OfRehabilitation WorksThe			Rehabilitation works not executed	
+Remanufacturi ng Of Seven (7) Locomotives	7 Remanufactured RepoweredLocomotives And	Procurement Of A Reputable Locomotives Remanufacturer	56,000,000	0	Reputable LocomotivesRemanufacturer not procured	
+		Execution Of The Locomotives Remanufacturing Works			Locomotives Remanufacturing Works not executed	
+Rehabilitation Of Plants Machinery/	DefectiveRehabilitatedMachinery/Plants	AssessmentRehabilitation RequirementsOfThe	2,000,000	0	RehabilitationassessedRequirements not	
+		Procurement OfSpare Parts & MaterialsRequisite			Requisite Spare Parts & Materials not procured	
+		Execution OfRehabilitation WorksThe			Rehabilitation works not executed	
+Administration And Supervision	Plans And Budgets	DevelopingPlans And BudgetsDepartmental	300,020	24,596	There was no target set to facilitate performance measurement of this target. However, audit noted that departmental plans and budgets were developed	
+		ImplementDecisions And TasksManagement			There was no target set to facilitate performance measurement of this target. However, audit noted that Management decisions and tasks	
+
+
+
+
+29
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+were implemented.	
+OverseeActivitiesDepartmental			There was no target set to facilitate performance measurement of this target. However, audit noted that Departmental Activities supervised	
+Reports Submitted	ReportingPerformance To ManagementOperations			There was no target set to facilitate performance measurement of this target. However, audit noted that Operations performance was reported to management	
+Staff Appraisals	AppraisalsPerformanceOfStaff			There was no target set to facilitate performance measurement of this target. However, audit noted that Staff appraisals were conducted	
+Trainings Held	Staff Training Needs Planning			There was no target set to facilitate performance measurement of this target. However, audit noted that staff trainings was conducted in Dar- es-salam funded by EU and Tanzania	
+Staff Welfare	Staff Entertainment			Staff Entertainment not conducted.	
+Management Of NetworksForeign	ActiveMeetingsParticipationIn	Organize Verification Meetings	108,780	33,416	There was no target set to facilitate performance measurement of this target. However, audit noted that most of the meetings were held virtually with reduced the costs	
+		CoordinateMeetingsJoint Technical			There was no target set to facilitate performance measurement of this target. However, audit noted that Joint Technical Meetings were Coordinated	
+
+
+
+
+30
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Coordinate CEO's Meetings			There was no target set to facilitate performance measurement of this target. However, audit noted that CEOs meeting were Coordinated	
+Organising Daily Operations Meetings With Sister Networks			There was no target set to facilitate performance measurement of this target. However, audit noted that Daily Operations Meetings With Sister Networks were organised	
+Coordinate Operations With Sister Net Works			Operations With Sister Net Works Coordinated	
+Yards Terminals ActivitiesAnd	Ontime Trains Movement And Cargo Handling	Trains Marshalling	15,624	42,200	There was no target set to facilitate performance measurement of this target. However, audit noted that Trains Marshalling was conducted	
+		Shunting (PlacingWithdrawing Wagons)And			There was no target set to facilitate performance measurement of this target. However, audit noted that Shunting (Placing And Withdrawing Wagons) was carried out	
+		Reception And Dispatch Of Trains			There was no target set to facilitate performance measurement of this target. However, audit noted that Reception And Dispatch Of Trains was carried out	
+		Container And General Cargo Handling			There was no target set to facilitate performance measurement of this target. However, audit noted that container Cargo Handling was carried outAnd General	
+		Timely Trains Movement			Timely Trains Movement carried out	
+
+
+
+
+31
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Port Activities	Ontime Vessel Handling And Movement	Receive And Dispatch Of Vessels	1,738,000	0	There was no target set to facilitate performance measurement of this target. However, audit noted that Vessels were received and dispatched	
+		Non-Rail Cargo Handling			There was no target set to facilitate performance measurement of this target. However, audit noted that Non-Rail Cargo Handling was conducted	
+	Clear And Clean Ports	Shoreline AndManagementSud			Shoreline And Sud Management not conducted	
+	Assets In Place	Port Production Planning And Inter-Port Coordination			There was no target set to facilitate performance measurement of this target. However, audit noted that Port Production Planning And Inter- Port Coordination was conducted	
+		Purchase Of Commuter Boat			Commuter Boat not purchased	
+		Purchase Of Patrol Boat			Patrol Boat not purchased	
+		FuelSystemsOffloading/Pumping			Fuel Offloading/Pumping Systems not conducted	
+		Firefighting System At Ports And Terminals			Firefighting System At Ports And Terminals not conducted	
+Planning And Control Activities	Trains Plans And Reports	Trains Planning	43,120	42,200	There was no target set to facilitate performance measurement of this target. However, audit noted that Trains Planning was conducted	
+
+
+
+
+32
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Trains Movement			There was no target set to facilitate performance measurement of this target. However, audit noted that Trains Movement was conducted	
+Trains And Vessels Monitoring			There was no target set to facilitate performance measurement of this target. However, audit noted that Trains And Vessels were Monitored	
+Organizing Daily Planning And Operations Meeting			Daily Planning And Operations Meeting Organized	
+Keep Records On Accidents And Incidents			There was no target set to facilitate performance measurement of this target. However, audit noted that Records On Accidents And Incidents were kept	
+Updating Internal Stakeholders On Operations Activities			There was no target set to facilitate performance measurement of this target. However, audit noted that Internal stakeholders were updated on operations activities	
+Asset Management	QuickTurnaroundRollingStock	Monitor Wagon Turn Around	28,980,000	0	There was no target set to facilitate performance measurement of this target. However, audit noted that Wagon Turn Around was monitored	
+		MonitorAroundLocomotive Turn			There was no target set to facilitate performance measurement of this target. However, audit noted that Locomotive around was monitoredturn	
+
+
+
+
+33
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Manage Accident Response			There was no target set to facilitate performance measurement of this target. However, audit noted that Accident response was managed	
+Operations Compliance	Standardized Operations	Trains Inspection	804,880	0	There was no target set to facilitate performance measurement of this target. However, audit noted that trains were Inspected	
+		VesselSurveysInspectionsAnd			There was no target set to facilitate performance measurement of this target. However, audit noted that Vessel was inspected and Surveyed	
+		Yards And Siding Compliance			There was no target set to facilitate performance measurement of this target. However, audit noted that Yards And Siding Compliance was conducted	
+		System Compliance			There was no target set to facilitate performance measurement of this target. However, audit noted that’s System Compliance was conducted	
+		StandardRegulations ComplianceRulesAnd			There was no target set to facilitate performance measurement of this target. However, audit noted that standard Rules And Regulations Compliance was carried out	
+		Review And Harmonize Railway Operating Rules And General Rules			Railway Operating Rules And General Rules reviewed and harmonized	
+Commuter Operations	OptimizedOperationsCommuter	Collect Ticket Revenue	60,000	118,979	Ticket Revenue collected	
+		Account For Ticket Revenues			Ticket Revenues accounted for	
+
+
+
+
+34
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Passenger Customer Care			Passenger Customer Care	
+Safety, Health And Environment (SHE) Activities	Safe And Risk Free Operations	Level Crossing Management	475,540	0	There was no target set to facilitate performance measurement of this target. However, audit noted that level Crossing Management was carried out	
+		Organize Daily Safety Briefs			Daily safety briefs organized	
+		Providing Staff With Ppes			Staff not provided With PPEs	
+		Regular Safety Compliance Inspections			SafetyThere was no target set to facilitate performance measurement of this target. However, audit noted that Regular Compliance Inspections were conducted	
+		Periodical Safety Trainings			There was no target set to facilitate performance measurement of this target. However, audit noted that 1 training done out of two	
+		Drafting OperationsMarines Safety ManualAnd			Operations And Marines Safety Manual not drafted	
+Management And Control Of Cargo Tracking System	Cargo Visibility And Tracking	Daily System Update	1,060,000	0	There was no target set to facilitate performance measurement of this target. However, audit noted that Daily System was Updated	
+		System Compliance			System Compliance conducted	
+		Joint Procurement Of A Tracking System With TRC			Joint Procurement Of A Tracking System With TRC Not conducted	
+		Review To An Independent Control Of The System From NRBHave			Review To Have An Independent Control Of The System From NRB Not conducted	
+
+
+
+
+35
+
+
+
+
+
+
+
+
+
+
+
+Program	Output	Planned Target For The FY 20/21	Budgeted Amount UGX (‘000’)	Expenditure amount UGX (‘000’)	Achieved Target By Financial Year End	
+Accidents And Incidents Management	ProperHandling And ManagementAccident/Incident	ConstitutingCommitteeAn Accidents	359,127	55,672	An Accidents Committee was constituted	
+		AccidentReportingInvestigation And			There was no target set to facilitate performance measurement. However, audit noted that accidents were investigated and reported	
+		SuperviseActivitiesAccidentSite			There was no target set to facilitate performance measurement. However, audit noted that accident Site Activities were supervised	
+		CoordinateIncidentsAccidents And			There was no target set to facilitate performance measurement. However, audit noted that Accidents And Incidents were coordinated	
+		Post-Accident Management			There was no target set to facilitate performance measurement. However, audit that Post-Accident Management was conductednoted	
+Coordination Of DepartmentsOther	InformationAvailabilityFlowAnd	Updating Internal Stakeholders On Operations Activities	0	0	There was no target set to facilitate performance measurement. However, audit Internal Stakeholders updated on operations activitiesnoted that	
+		Organizing Daily Planning And Operations Meeting			DailyMeeting were organizedPlanning And Operations	
+
+
+
+
+36
+
+
+
+
+
+
+
+
+
+
+
+Appendix II. Land encroachment observed during field inspection.
+
+Remarks	Observation	
+Namanve station- Has acreage of 2.75 along the railway line but the whole railway reserve corridor was seen to be heavily encroached. Efforts by the entity to have the encroachers defeated were futile as the situation seemed to be more political because they were claiming to pay rent to Railway Police, revenue which was unknown to URC.was claimed that the encroachers are brought by the Railway Police.It		
+Market encroachment in Gulu along the line. A market was illegally established but with temporary structures. No action has been taken. -No revenue is being collected from this market.		
+Extra structures built by tenants illegally in the quarters and not paying rent- Jinja		
+Busoga loop line along Iganga road Volume 203 Folio 20, Kigulu at Iganga	URC land under the Busoga loop line on 34.59 acres to Iganga station Kigulu is all heavily encroached after the whole railway line was vandalized. The land currently has structures with people staying there but no action taken.	
+Plot 19/25 Atwala Road in Lira city seated on 24 acres.	The area had 40 units of URC but none of them were paying any rent to URC because they said they did not have any tenancy agreement with them the whole time they were staying there. The estates noted that he was waiting for authorization to allow him to start collecting the rent.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remarks
+
+Encroachment along the Kawolo railway line in the corridor
+
+Kasese railway station has an estimated illegal encroachers of 242 households and some with permanent and temporary structures including churches and Schools
+
+Observation
+
+New illegal building on railways land at kasese station
+
+Illegal church on he railway Other illegal structures on railway land land at kasese station
+
+
+
+
+
+
+
+
+
+
+
+Remarks	Observation		
+			
+Kamwenge Railway station			
+	a railway inGardens in formation/line Kamwenge	Destroyed Railway formation/lines in Kamwenge	
+Mityana			
+	vandalised formation/line inGardens in railway Mityana	Part offormation in mityana.the destroyed railway	
+Remarks	Observations		
+Some of the tenants occupying URC houses but not paying rent. Some of them had erected extra structures on the land. No action had been taken by URC			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A house constructed on URC open space land. No action had been taken by URC		
+Property was initially rented to Laibi divison, who later rented it out to Awere S S when they left. The school is not paying any rent to URC and yet they have tenants on the property as shown in the picture		
+Northern Business Institute occupies 0.618 hectares of property. It has two different fields and a pitch and is not paying rent to URC		
+Property occupies 3.6 acres of land. Has a coca cola store, NRM office, parking yard for lorries and other vehicles, kiosks and other small businesses. The tenant is supposed to pay a small value of UGX 150,000 but is not paying rent.		
+
+
+
+
+
+
+
+
+
+
+
+
+
+

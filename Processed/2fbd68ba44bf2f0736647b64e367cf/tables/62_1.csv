@@ -1,0 +1,15 @@
+,No.,Items,Location Chainage,Unit,Drawings/ Specification s,Field checks/ measurements (averaged where necessary),Conformity
+0,4) TANK ROAD (0.34KM), , , , , , 
+1,1,Kerb-Kerb road width,0+060,m,9.55,9.54,Ok
+2, , ,0+100,m,9.55,9.56,OK
+3, , ,0+120,m,9.55,9.55,OK
+4, , ,0+160, ,9.55,9.55,OK
+5, , ,0+220,m,9.55,9.55,OK
+6,2,Asphalt Concrete Width,0+060,m,9.0,8.97,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec.
+7, , ,0+100,m,9.0,9.0,OK
+8, , ,0+120,m,9.0,9.0,OK
+9, , ,0+160,m,9.0,8.98,Ok
+10, , ,0+220,m,9.0,9.0,OK
+11,3,Asphalt Concrete Thickness,0+020;LHS;SH,mm,50.0,48.0,OK
+12, , ,0+120;LHS;CLE,mm,50.0,50.0,Ok
+13, , ,0+230;RHS;CW,mm,50.0,60.0,Ok

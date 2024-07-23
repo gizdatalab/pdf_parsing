@@ -1,0 +1,5 @@
+,Payment Date,Disbursed Amount ($),Exchange Rate (UGX),Equivalent UGX,Amount Utilized (UGX),Percentage of utilization %
+0,01/07/2018,"45,580","3,884.29","177,045,938", , 
+1,16/10/2018,"29,000","3,783.88","109,732,520", , 
+2,16/10/2018,-20,"3,793.88","-75,678", , 
+3,Totals,"74,560", ,"286,702,781","50,032,011",17.5

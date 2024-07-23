@@ -1,0 +1,24 @@
+,KALANGALA HEALTH CENTER IV,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,A - THEATRE, , , , , , 
+1,Name of Equipment,Quantit y,Use/Purpose,Actual/ Availabl e,Existen ce,Conditi on,Remar ks
+2,C/s sets (caesarean sets),5,For C-Section operations,4,4,Working, 
+3,Oxygen cylinders (large size),3,For administration of Oxygen,3,3, , 
+4,Hernia sets,4,For operation and management of Hernia,1,1, , 
+5,D&C sets,3,Used for dilatation and curettage,0,0, , 
+6,MVA,3,For manual volume aspiration,0,0, , 
+7,Ambu bag, , , , , , 
+8,1. Neonatal,2,Used to provide positive pressure ventilation,0,0, , 
+9,2. Adult,2,Used to provide positive pressure ventilation,1,1, , 
+10,Penguin sucker,2,Helps in clearing the babies airway,0,0, , 
+11,Nasal oxygen prongs,10,Used to deliver supplementary oxygen,6,6, ,Single use
+12,Laparotomy set,2,Surgical incision into the abdomen for evacuation or preparation for surgery,2,2,Not in use,In main theatre
+13,Pulse oximeter,2,Non-invasive method for monitoring oxygen levels,2,2,1 working,1 faulty
+14,Suction machine, , , , , , 
+15,1. Manual,1,Extraction of mucus and other fluids,1,1,faulty, 
+16,2. Electric,1,Extraction of mucus and other fluids,3,3,faulty, 
+17,Boyle’s machine bp calf,5,For administering anaesthesia,1,1, , 
+18,Anaesthetic trolley,1,For administering anaesthesia,1,1, , 
+19,Oxygen concentrator,10,For administering oxygen,4,4,1 working,3 faulty
+20,Portable operating light,2,Provide light during operations,2,2, , 
+21,Laryngoscope,1,Used for examining the larynx,1,1, , 
+22,Blood pressure,2,Measuring pressure,2,2, , 

@@ -1,0 +1,12 @@
+,No.,Items,Location Chainag e,Unit,Drawings/ Specification s,Field checks/ measurements (averaged where necessary),Conformity
+0,8) NYERERE AVENUE (0.88KM), , , , , , 
+1,1,Kerb-Kerb road width,0+080,m,9.55,9.57,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+2, , ,0+140,m,9.55,9.72,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+3, , ,0+280,m,9.55,9.53,Ok
+4, , ,0+440,m,9.55,9.5,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec
+5, , ,0+780,m,9.55,9.55,OK
+6,2,Asphalt Concrete Width,0+080,m,9.0,9.02,OK
+7, , ,0+140,m,9.0,9.1,OK
+8, , ,0+280,m,9.0,8.98,Ok
+9, , ,0+440,m,9.0,9.0,OK
+10, , ,0+620,m,9.0,9.1,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec

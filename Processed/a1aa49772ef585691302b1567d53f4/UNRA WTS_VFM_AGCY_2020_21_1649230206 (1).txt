@@ -1,0 +1,1268 @@
+THE REPUBLIC OF UGANDA
+
+REPORT OF THE AUDITOR GENERAL ON THE FINANCIAL STATEMENTS OF THE UGANDA NATIONAL ROADS AUTHORITY (UNRA) FOR THE FINANCIAL YEAR
+
+ENDED 30 TH JUNE 2021
+
+OFFICE OF THE AUDITOR GENERAL UGANDA
+
+
+
+
+
+
+
+
+
+
+
+Contents
+LIST OF ACRONYMS - 3
+Qualified Opinion - 4
+Basis for Qualified Opinion - 4
+  1.0 Unauthorized inter-project funds reallocation - 4
+Diversion of funds for employee costs 5 2.0
+Key Audit Matters - 5
+Implementation of the Approved Budget 2020/2021 5 3.0
+4.0 Compensations /Acquisition of Right of Way for selected Road Projects undertaken By
+UNRA ………………………………………………………………………………………………………………………… - 17
+Emphasis of Matter - 26
+  5.0 Payables - UGX 215,059,225,419 - 26
+Loss of funds in interest on delayed payment of contractors 27 6.0
+Other Information - 27
+Management Responsibilities for the Financial Statements - 27
+Auditor’s Responsibilities for the Audit of the Financial Statements - 28
+Other Reporting Responsibilities - 29
+Report on the Audit of Compliance with Legislation - 29
+Delayed valuation of infrastructure assets - UGX 10,417,198,881,566 29 7.0
+  8.0 Delayed completion of road projects - 30
+Civil Cases arising from failure to return residual titles – UGX 6.991bn 30 9.0
+
+2
+
+
+
+
+
+
+
+
+
+
+
+LIST OF ACRONYMS
+
+Acronym	Meaning	
+BEC	Budget Execution Circular	
+Bn	Billion	
+CGV	Chief Government Valuer	
+GoU	Government of Uganda	
+IESBA	International Ethics Standards Board for Accountants	
+IFMS	Integrated Financial Management System	
+INTOSAI	International Organization of Supreme Audit Institutions	
+IPC	Interim Payment Certificate	
+ISSAIs	International Standards of Supreme Audit Institutions	
+KJE	Kampala-Jinja Expressway	
+Km	Kilometre	
+MDAs	Ministries, Departments and Agencies	
+MoFPED	Ministry of Finance, Planning and Economic Development	
+MoLHUD	Ministry of Lands, Housing and Urban Development	
+MTEF	Medium Term Expenditure Framework	
+NAA	National Audit Act	
+NDP	National Development Plan	
+NHCC	National Housing and Construction Corporation	
+NTR	Non-Tax Revenue	
+OAG	Office of the Auditor General	
+PAPs	Project Affected Persons	
+PBS	Program Budgeting System	
+PDU	Procurement & Disposal Unit	
+PFMA	Public Finance Management Act	
+PFMR	Public Finance Management Regulations	
+PPDA	Public Procurement & Disposal of Public Assets	
+PS/ST	Permanent Secretary / Secretary to the Treasury	
+RoW	Right of Way	
+TI	Treasury Instructions	
+Trn	Trillion	
+UCF	Uganda Consolidated Fund	
+UGX	Uganda Shilling	
+UNRA	Uganda National Roads Authority	
+URF	Uganda Rod Fund	
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF THE AUDITOR GENERAL ON THE AUDIT OF FINANCIAL STATEMENTS OF THE UGANDA NATIONAL ROADS AUTHORITY (UNRA) FOR THE FINANCIAL YEAR
+
+ENDED 30 TH JUNE, 2021
+
+THE RT. HON. SPEAKER OF PARLIAMENT
+
+Qualified Opinion
+
+I have audited the accompanying financial statements of the Uganda National Roads Authority (UNRA) which comprise the Statement of Financial Position as at 30 th June 2021, the Statement
+
+of Financial Performance, Statement of Changes in Equity and Statement of Cash Flows together with other accompanying statements for the year then ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+In my opinion, except for the possible effects of the matters described in the Basis for Qualified
+
+Opinion section, the financial statements of the Uganda National Roads Authority for the financial year ended 30 th June 2021 are prepared, in all material respects, in accordance with
+
+Section 51 of the Public Finance Management Act, 2015 and the Financial Reporting Guide, 2018.
+
+Basis for Qualified Opinion 1.0 Unauthorized inter-project funds reallocation
+
+A total of UGX 124,367,095,163 representing 21.58% of the spent funds for the sampled
+
+planned outputs was diverted from the budgeted projects to other projects contrary to the
+
+above provision. There was no evidence that the reallocations/diversions of such
+
+magnitude were authorized either by Parliament or the relevant funders. In addition,
+
+following the reallocation/diversion of funds in the 4 th Quarter of the year, the initial
+
+approved work plan was not revised to indicate new targets for projects where the funds
+
+were reallocated/ diverted to and from. As such, I could not link the actual expenditure
+
+with the project’s targets for which funds were diverted.
+
+Unauthorised reallocations/diversion of funds is in contravention with the Public Finance Management Regulations and Treasury Accounting Instructions. The diversion also
+
+impacts negatively on planned activities, leading to failure to achieve intended planning objectives.
+
+The Accounting Officer explained that diversion of funds was caused by the inadequate MTEFs for planned projects coupled with the good performance of some contractors on various projects. Therefore to avoid payment of interest due to delayed payments to the
+
+contractors, funds were transferred from slow moving projects to fast moving projects to avoid creating liabilities for Government.
+
+The circumstances under which Management made reallocations/diversions are noted however, I advised the Accounting Officer to ensure that where budget variations are inevitable, the Accounting Officer to seek approvals for reallocations and accordingly
+
+adjust the planned targets.
+
+4
+
+
+
+
+
+
+
+
+
+
+
+2.0 Diversion of funds for employee costs
+
+According to the financial statements, the Accounting Officer reported to have spent
+
+UGX.98,394,210,384 on employee costs. However, the review of the payments file
+
+indicated that out of the above amount, actual expenditure on salaries and related costs was UGX 93,704,505,990. The rest of the salary funds amounting to UGX.4,689,704,394 were actually spent on settlement of civil works obligations.
+
+Given that there was no arrears in-respect of employee costs that were reported, there
+
+appeared to have been over-budgeting for employee costs. Further, the excess funds
+
+were diverted from the salary provisions to capital development activities. The diversion of
+
+funds led to a misreporting in the financial statements of UGX 4,689,704,394.
+
+The Accounting officer explained that budgeting for employee costs was consistent with
+
+the approved employee recruitment plan and the existing UNRA staff structure. As part of
+
+rationalization of agencies, The Ministry of Public Service wrote to UNRA freezing
+
+recruitment of new staff, replacement of those who left and those who passed on. The
+
+surplus funds on employee costs that arose out of failure to recruit were used to pay debt on capital development activities.
+
+I advised the Accounting Officer to endeavour to seek the necessary authority to reallocate funds. I also advised the Accounting Officer to ensure that the reporting in the
+
+financial statements is made in accordance with the expenditure.
+
+I conducted my audit in accordance with International Standards of Supreme Audit Institutions
+
+(ISSAIs). My responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of my report. I am independent of
+
+the Uganda National Roads Authority in accordance with the Constitution of the Republic of Uganda (1995) as amended, the National Audit Act, 2008, the International Organization of Supreme Audit Institutions (INTOSAI) Code of Ethics, the International Ethics Standards Board for Accountants Code of Ethics for Professional Accountants (Parts A and B) (IESBA Code), and other
+
+independence requirements applicable to performing audits of Financial Statements in Uganda. I
+
+have fulfilled my other ethical responsibilities in accordance with the IESBA Code, and in accordance with other ethical requirements applicable to performing audits in Uganda.
+
+I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my qualified opinion.
+
+Key Audit Matters
+
+Key Audit Matters are those matters that, in my professional judgment, were of most significance in my audit of the financial statements of the current period. These matters were
+
+addressed in the context of my audit of the financial statements as a whole, and in forming my opinion thereon, and I do not provide a separate opinion on these matters. In addition to the
+
+matters described in the Basis for Qualified Opinion Section, I have determined the matters
+
+described below to be key audit matters communicated in my report.
+
+3.0 Implementation of the Approved Budget 2020/2021
+
+On the 24 th of April 2020, Parliament approved the annual budget for MDAs and LGs that
+
+contained the specific resource envelope allocated to each vote to implement agreed on
+
+outputs. Subsequently, the PS/ST issued a Budget Execution Circular that communicated
+
+5
+
+
+
+
+
+
+
+
+
+
+
+the budget strategy, policy, and administrative issues to guide the budget implementation for the financial year 2020/2021.
+
+During my overall risk assessment exercise, I noted that MDAs and LGs are still
+
+experiencing challenges in implementing the budgets approved by parliament and policy
+
+guidance’s issued by PS/ST, which has continued to affect the performance and credibility of the budget negatively. These challenges include; lack of strategic plans that are aligned to the National Development Plans, underperformance of revenue, implementation of off-
+
+budget activities, under absorption of funds, insufficient quantification of outputs, partial and non-implementation of outputs, diversion of funds and challenges in budget monitoring and reporting of performance.
+
+I am aware that the Covid-19 Pandemic continues to significantly affect the
+
+implementation of several activities. Consequently, a number of activities were not
+
+implemented due to budget cuts and lockdown measures instituted to control the spread
+
+of the pandemic. It is against this background that the implementation of the budget was
+
+again considered a key audit area during the office-wide planning for the current audit year.
+
+The Uganda National Roads Authority was established by an Act of Parliament (The UNRA Act 2006) due to Government of Uganda’s road sector reforms aimed at the
+
+commercialization of road management. UNRA became operational in July 2008 and, as
+
+an organization, it has been in operation for thirteen years. The organization is charged
+
+with the responsibility of developing, maintaining, and operating the national roads
+
+network, rendering advisory services to Government on policy matters concerning roads,
+
+and assisting in the coordination and implementation of policy relating to roads.
+
+To achieve its mandate, the UNRA planned to implement both recurrent and capital
+
+development activities. A review of the entity’s ministerial statement and budgets revealed
+
+that the entity had an approved budget of UGX 3.918trillion, out of which UGX 3.787trillion was warranted. The table below shows a summary of the key outputs of the
+
+UNRA for the financial year 2020/21.
+
+Project	Output	Approved budget UGX (‘000’)	Cumulative percentage share of the total sampled budget	
+Development Project : 0265 Upgrade Atiak - Moyo-Afoji (104km)	Output: 04 51 80 National Road Construction/Rehabilitation (Bitumen Standard)	28,257,223	1.13	
+	Output: 045101 Monitoring and Capacity Building Support	50,000	1.13	
+Project:0267 Improvement of Ferry Services	Output: 045177 Purchase of Specialized Machinery & Equipment	29,684,110	2.32	
+	Output: 45101 Monitoring and Capacity Building Support	450,000	2.34	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	18,150,000	3.07	
+Project:0952 Design Masaka-Bukakata road	45101 Monitoring and Capacity Building Support	175,233	3.07	
+	Output: 45180 National Road Construction/Rehabilitation	61,332,272	5.53	
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+Project	Output	Approved budget UGX (‘000’)	Cumulative percentage share of the total sampled budget	
+(Bitumen Standard)			
+Project:1034 Design of Mukono-Katosi-Nyenga (72km)	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	24,505,415	6.51	
+	Output: 45101 Monitoring and Capacity Building Support	10,000	6.51	
+Project:1035 Design Mpigi-Kabulasoka- Maddu (135 km)	Output: 45101 Monitoring and Capacity Building Support	70,000	6.51	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	28,000,000	7.63	
+Project:1040 Design Kapchorwa-Suam road (77km)	Output: 45101 Monitoring and Capacity Building Support	300,000	7.64	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	108,116,731	11.97	
+Project:1041 Design Kyenjojo-Hoima- Masindi-Kigumba (238km)	Output: 45101 Monitoring and Capacity Building Support	303,281	11.98	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	113,222,370	16.52	
+Project:1176 Hoima- Wanseko Road (83Km)	Output: 45101 Monitoring and Capacity Building Support	3,720,600	16.66	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	995,906,625	56.53	
+Development Project : 1277 Kampala Northern Bypass Phase 2	Output: 45101 Monitoring and Capacity Building Support	20,000	56.53	
+	Output: 04 51 80 National Road Construction/Rehabilitation (Bitumen Standard)	55,000,000	58.73	
+Project:1281 Tirinyi- Pallisa-Kumi/Kamonkoli Road	Output: 45101 Monitoring and Capacity Building Support	100,000	58.73	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	156,141,500	64.98	
+Project:1402 Rwenkunye- Apac- Lira-Acholibur road	Output: 45101 Monitoring and Capacity Building Support	100,000	64.99	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	118,071,060	69.71	
+Project:1506 Land Acquisition	Output: 45101 Monitoring and Capacity Building Support	5,619,275	69.94	
+	Output: 45171 Acquisition of Land by Government	436,188,970	87.40	
+Project:1616 Retooling of Uganda National Roads Authority	Output: 45172 Government Buildings and Administrative Infrastructure	26,275,000	88.45	
+	Output: 45176 Purchase of Office and ICT Equipment, including Software	18,269,820	89.18	
+	Output: 45177 Purchase of Specialised Machinery & Equipment	36,677,200	90.65	
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+Project	Output	Approved budget UGX (‘000’)	Cumulative percentage share of the total sampled budget	
+Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	1,183,400	90.69	
+Project:1322 Upgrading of Muyembe-Nakapiripirit (92 km)	Output: 45101 Monitoring and Capacity Building Support	100,000	90.70	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	84,920,905	94.10	
+Project:1313 North Eastern Road-Corridor Asset Management Project	Output: 45101 Monitoring and Capacity Building Support	126,600	94.10	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	77,328,575	97.20	
+Project:1404 Kibuye- Busega- Mpigi	Output: 45101 Monitoring and Capacity Building Support	10,000	97.20	
+	Output: 45180 National Road Construction/Rehabilitation (Bitumen Standard)	70,026,603	100	
+
+
+
+
+During the financial year 2020/21, the UNRA planned to implement one (1) Programme with an approved budget of UGX 3.918Tn. For this assessment, sixteen (16) projects and thirty five (35) outputs under the Programme were sampled with an approved budget of UGX.2.498Tn representing 63.8% of the Authority’s approved budget.
+
+From the procedures undertaken, I noted the following:
+
+No	Observation	Recommendation	
+3.1	Existence of Strategic plans that are aligned to NDP-IIIParagraph 5 of the budget execution circular for the financial year 2020/2021 cites poor alignment of Government Budgets with the National Development Plans. The PS/ST urges Accounting Officers to ensure that all activities for Financial Year 2020/2021 are aligned with NDP III and implemented accordingly. Regulation 26 (1) of the National Planning Authority (development of Plans) regulations require entities to submit to NPA their five-year development plans for certification before approval.being the first year of implementation of the NDP-III, the entity was expected to prepare a strategic plan aligned to NDP III and ensure that the plan is approved. The strategic plan would then form the basis of the preparation of the entity’s annual plans.Accounting Officer explained that UNRA prepared its CSP 2020/21 – 2024/25, which was approved by the Board of Directors in December 2020, as required by the UNRA Act 2006. In July 2020, Government, through the NPA, inaugurated the NDPIII. As such, all MDAs were required to update and realign their CSP to the NDPIII. UNRA commenced the review and received the written approval by NPA in September 2021.ThisThe	The Accounting Officer is commended on this achievement	
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+3.2	I reviewed the NTR estimates, revenue sources and rates charged at vote level for the financial year 2020/2021 and noted that UNRA did not forecast the NTR to be collected during the year. In addition, there was no documented revenue collection plan detailing how much to be collected, revenue sources and the assigned revenue collector for each source. However, UNRA collected a total of UGX3,894,306,295 during the year.Failure to set NTR collection targets in the budget affects assessment of revenue performance to ascertain whether the forecasted revenue was realized as planned and managed as per the established laws and guidelines constrains Government’s commitment in the provision of quality services to the citizenry through revenue mobilization and collection.for development purposes. This furtherI also established that MoFPED set a target of UGX.10.76bn to be collected in NTR by UNRA during the year under review. In this regard, only UGX.3.89bn was collected, leading to a shortfall of UGX.6.87bn. The Authority failed to meet the MoFPED revenue collection target by 63.8%.of GoU receiptsThe UNRA budgeted to receive UGX. 3,918.151bn out of which UGX. 3,787.289bn was availed, resulting in a shortfall of UGX 130.863bn, which is 3.34% of the budget. Revenue shortfalls affect the implementation of planned activities.Revenue Performance Performance of NTRThe Accounting Officer explained that Ministry of Finance has now allowed UNRA to plan for NTR. With effect from FY 2022/23, UNRA will plan and budget for NTR. The target by MoFPED indicated in the finding was not communicated to UNRA.Performance	I advised the Accounting Officer to always ensure that is forecasted and indicated the budget.NTR inAccounting Officer was also advised to collect revenue in accordance with agreed targets or provide explanations where there are significant deviations from agreed targets.The	
+3.3	Quantification of outputs/activitiesSection 13 (15, b) of the PFMA 2015 states that a policy statement submitted by a vote shall contain the annual and three months’ work plans, outputs, targets and performance indicators of the work plans. . Regulation 11 (3) of PFMR 2016 requires that a vote prepares a work plan that indicates the outputs of the vote for the financial year; the indicators to be used to gauge the performance of the outputs and funds allocated to each activity.To assess the performance of an output, all activities supporting the output must be quantified.I reviewed the extent of quantification of outputs and activities for the entity’s sampled thirty five (35) outputs with a total of seventy eight (78) activities with an approved budget of UGX 2.498trillion representing 63.8% of the entity’s approved total budget and noted the following; Thirty five (35) outputs with a total of seventy eight (78) activities and expenditure worth UGX 2.498trillion were fully quantified. That is, all the seventy eight (78) activities (100%) within these outputs	I advised the Accounting Officer to ensure that unit costing at activity level is provided to facilitate linkage of inputs to expenditure and physical achievements to establish value for money in budget execution.	
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+
+were clearly quantified to enable the assessment of performance. Details in Table 1 below Table 1: Showing the extent of quantification by outputsCategor y of outputsNo. of output s sampl edExpen diture UGX Bn% propo rtion to total expen ditureTotal no of activi ties in the outpu tsNo. of Fully Quan tified activi tiesNo of activi ties not fully quan tified35 2,498. 71.3 78 78 0 412% of quantifi cation of activitie s per categor y of output Fully 100 quantifie d outputsI noted that UNRA did not have unit cost estimates at activity level to provide a link between inputs, processes, outputs and intermediate outcomes realized during the year.The Accounting Officer explained that the unit cost is provided for in the work plan, where we indicate the expected output and total cost, by inference the unit cost is obtainable and this is per the template of the budget system.											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+3.4 Implementation of quantified outputsI assessed the implementation of thirty five (35) outputs that were fully quantified with a total of seventy eight (78) activities worth UGX 2.498trillion and noted that;Nineteen (19) outputs were fully implemented, fourteen (14) outputs were partially achieved and two (2) outputs were not implemented at all Table 2; Showing level of implementation of Fully Quantified outputsCategory of outputNo of outp uts% of imple ment ationNo of Fully imple mente d activit iesNo. Of partiall y implem ented activiti esNo of activitie s that were not impleme ntedExtent of implement ation of activities per category of output19 54.3 33 0 0 10014 40 10 22 11 50Fully impleme nted outputs 1 Partially Impleme nted outputs 2										I advised the Accounting Officer to ensure that outputs are implemented in accordance with approved plans and where changes are made, the plans should be revised accordingly.	
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+
+
+
+
+1 Fully implemented output -All the activities within the outputs are fully implemented 2 Partially implemented Output-Activities within the output are either; Fully implemented, partially implemented or not implemented 10
+
+
+
+
+
+
+
+
+
+
+
+Outputs Not
+
+2 5.7 0 0 2 0
+
+Impleme
+
+nted 3
+
+Total 35 100 43 22 13
+
+Non-implementation of planned activities implies that the expected services to the beneficiary communities were not attained. For example, the UNRA did not implement the following planned activities despite having received the required funds:
+
+1. Procurement of rescue and support under the improvement of ferry services
+2. Construction of 10 km - equivalents along package 6 (Karugutu - Ntoroko and Kabwoya - Buhuka)
+3. Construction of 10 km - equivalents along Rwenkunye- Apac- Lira- Acholibur road
+4. Civil works for the construction of UNRA offices.
+5. Works for construction of Kamdini Weigh station.
+6. Design and Build of Ibanda Weigh station
+7. Rehabilitation of 40km equivalents along North Eastern Road- Corridor Asset Management Project
+
+The Accounting Officer explained that the non-implementation of some key activities was due to inadequate MTEFs for other planned projects coupled with the good performance of their contractors on the various projects. Therefore to avoid payment of interest due to delayed payments to the contractors, funds were transferred from slow moving projects to fast moving projects to avoid creating liabilities for Government. This was however not supported with a revised work plan.
+
+The Accounting Officer also provided the following reasons for non- implementation of the sampled projects:
+
+i. Procurement of rescue and support under the improvement of ferry services: The initial plan was to procure the rescue boats off the shelf. However, this was changed due to the need to customize the rescue boats to the specific needs of the different ferry routes. The customization process delayed hence resulting into delayed procurement.
+
+ii. Construction of 10 km - equivalents along package 6 (Karugutu - Ntoroko and Kabwoya - Buhuka): This was caused by delayed procurement.
+
+iii. Construction of 10 km - equivalents along Rwenkunye- Apac- Lira- Acholibur road There was need to update the design. This has since been finalized and designs issued to the contractor and works are ongoing.
+
+iv. Civil works for the construction of UNRA offices Delayed Procurement – The procurement method was initially started as design and build, Management later noted that it was not
+
+3 Outputs not implemented-All the activities within the output not implemented at all 11
+
+
+
+
+
+
+
+
+
+
+
+the best procurement method. This had to be reinitiated as admeasurement with Employers design.v. Works for construction of Kamdini Weigh station. The delay was due to the need to standardize the design in line with the requirement of tripartite transporters facilitation program.vi. Rehabilitation of 40km equivalents along North Eastern Road- Corridor Asset Management Project There was a delay in approval of changes in scope arising out design changes due to increase in traffic along the road and a delay in approval of the ESIA for the road and sources of materials by World Bank.					
+3.5Achievement of intended services from implemented outputs-I undertook an assessment to establish if there has been service delivery from a sample of outputs that were implemented and noted delays in completion of the activities and achievement of the outputs. The implication is that the services have yet to be delivered to the intended beneficiary communities. Table 3 below refers.Table 3: Achievement of intended services Output Planned Target FY 20/21Audit remarksOutput: 45180 National Road Construction /Rehabilitatio n (Bitumen Standard)Construction of Wanseko Ferry landing site. Construction of the BKK ferry landing site. 15.6 km- equivalents rehabilitated on Nakawa - Jinja road section 29 km-equivalents constructed2km-equivalents(Hoima-37 constructed on Package Butiaba-Wanseko (111km)). 20 km-equivalents constructed along Muyembe- Nakapiripirit (92 km)I noted that works were at 58% level of completion82% of construction works were not implementedI noted only 4km were rehabilitated. 25.6% of the planned target was achieved.equivalent of the were not10.11km planned distance constructed 12.14km equivalents were not constructedI noted that only 4.91km were constructed; 15.09km of the plan were not constructed.failure to achieve the intended services from the implemented outputs negates the purpose of planning and budgeting.The Accounting Officer gave the following explanations for the delays in implementation of the sampled works: i. Construction of Wanseko Ferry landing site: The works stopped at 58% because of the rising water levels, the water levels are still high and the works are still suspended.The				I advised the Accounting Officer to urgently address the anomalies/ gaps noted in the implementation of these outputs to enable the community fully benefit the projects/programs implemented Government.fromby	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+ii. Construction of the BKK ferry-landing site: The works were affected by rising water levels, land acquisition and effects of Covid-19 lockdown.15.6 km- equivalents rehabilitated on Nakawa - Jinja road section: This was affected by delayed procurement due to change in the scope of works.37 km-equivalents constructed on Package 2 (Hoima-Butiaba- Wanseko (111km)): The works were affected by the rise in water level on Lake Albert that submerged Butiaba-link and Wanseko.20 km-equivalents constructed along Muyembe-Nakapiripirit (92 km): The project was affected by inadequate mobilization by the contractor, abnormal rainfall and effects of COVID-19 lockdown.iii. iv.v.							
+3.6 Submission of Quarterly Performance Reports-Paragraph 8.12 (4,5,6) of the Treasury Instruction 2017, require the Accounting Officer to prepare reports for each quarter of the Financial Year in respect of the vote for which he/she is responsible. These reports shall contain financial and non-financial information on the performance of the vote and shall be submitted to Treasury not later than 15 days after the end of each quarter.I noted that the entity submitted performance report after the deadline given for submission of the reports. Table 4 below shows the delays per quarter on submission of budget performance reports;Table 4: Submission of Quarterly Performance Reports No DetailsQuarter One Quarter Two Quarter Three Quarter FourDeadline for submission 15/10/2020 15/01/2021 15/04/2021Actual date of submission 30/11/2020 4/02/2021 30/04/2021Comment (submitted in time/ delayed) Delayed Delayed Delayed15/07/2021 30/07/2021 Delayedto submit performance reports in time and failure to prepare monitoring reports contravenes the Treasury Instructions and affect timely tracking and evaluation of performance.The Accounting Officer explained that due to changes in the system, there were inconsistences that needed to be reconciled and agreed to be worked upon in Q1 hence the late submission.1 2 34Failure						I advised the Accounting Officer to ensure that performance reports prepared submitted in time.are and	
+							
+							
+							
+							
+							
+							
+							
+							
+3.7 Accuracy of Performance reports submittedFrom my review of the annual performance reports and physical inspections/verification of outputs reported, I noted inconsistencies in the reported performance. Examples are shown in Table 5 below:						I advised the Accounting Officer to ensure accurate performance reporting. There is need for UNRA Management to	
+							
+
+
+
+
+13
+
+
+
+
+
+
+
+
+
+
+
+	Table 5: Accuracy of performance reports Output Amount Spent Audit Remarks Project as reported in the performance report (UGX) 3,885,417,00016,335,000,000 Whereas UNRA-0265 Upgrade Atiak Moyo- Afoji (104km)04 51 80 National Road Constructio n/ Rehabilitati on (Bitumen Standard) 45180 National Road Constructio n/Rehabilit ation (Bitumen Standard)0952 120,386,000 Design Masaka- Bukakata road45101 Monitoring and Capacity Building Support26,020,000,000 Whereas UNRA1040 290,000,000 Design Kapchor wa-Suam road (77km)19,239,121,000 Whereas UNRA45180 National Road Constructio n/Rehabilit ation (Bitumen Standard)45101 Monitoring and Capacity Building Support45180 National Road Constructio n/Rehabilit ation (Bitumen Standard)the output,Whereas UNRA reported to have spent UGX 3,885,417,000 on UGX 1,812,414,763 representing 46.65% of reported expenditure was diverted and only UGX 2,073,002,237 was actually spent on the output under this project.thereported to have spent UGX 16,335,000,000 on the output, UGX 14,317,363,462 representing 87.65% of the reported expenditure was diverted and only UGX 2,017,636,538 was actually spent on the output under this project. Whereas UNRA to have spent UGX 120,386,000 on the output, UGX 74,120,905 representing 61.57% of the reported expenditure was diverted and only UGX 46,265,095 was actually spent on the output under this project.reportedof thereported to have spent UGX 26,020,000,000 on the output, UGX 230,187,445 representing 0.88% reported expenditure was diverted and only UGX 25,789,812,555 was actually spent on the output under this project. Whereas UNRA to have spent UGX 290,000,000 on the output, UGX 19,058,322 representing 6.57% of the reported expenditure was diverted and only UGX 270,941,678 was actually spent on the output under this project.reportedreported to have spent UGX 19,239,121,000 on the output, UGX 10,765,812,357 representing 55.9% of the reported expenditure was diverted and only UGX 8,473,308,643 was actually spent on the output under this						toengage MoFPED in relation the source of what PBS captures as the expenditure to avoid inaccurate performance reporting especially caused by mischarged expenditure.	
+Project								
+-0265 Upgrade Atiak Moyo- Afoji (104km)								
+								
+0952 Design Masaka- Bukakata road								
+								
+1040 Design Kapchor wa-Suam road (77km)								
+								
+
+
+
+
+14
+
+
+
+
+
+
+
+
+
+
+
+	project.			
+1041 Design Kyenjojo- Hoima- Masindi- Kigumba (238km)	45101 Monitoring and Capacity Building Support	293,281,000	thetheoutput,Whereas UNRA reported to have spent UGX 293,281,000 on UGX 127,888,139 representing 43.6% of reported expenditure was diverted and only UGX 165,392,861 was actually spent on the output under this project.			
+	45180 National Road Constructio n/Rehabilit ation (Bitumen Standard)	7,313,820,000	the output,Whereas UNRA reported to have spent UGX 7,313,820,000 on UGX 6,471,948,276 representing 88.49% of reported expenditure was diverted and only UGX 841,871,724 was actually spent on the output under this project.the			
+1176 Hoima- Wanseko Road (83Km)	45101 Monitoring and Capacity Building Support	3,656,001,000	Whereas UNRA to have spent UGX 3,656,001,000 on UGX 481,242,072 representing 13.16% of reported expenditure was diverted and only UGX 3,174,758,928 was actually spent on the output under this project.reportedthe output,the			
+	45180 National Road Constructio n/Rehabilit ation (Bitumen Standard)	251,200,000,000	Whereas UNRA reported to have spent UGX 251,200,000,000 on the output, UGX 5,206,711,952 representing 2.07% of the reported expenditure was diverted and only UGX 245,993,288,048 was actually spent on the output under this project.			
+1281 Tirinyi- Pallisa- Kumi/Ka monkoli Road	45101 Monitoring and Capacity Building Support	175,406,000	Whereas UNRA to have spent UGX 175,406,000 on the output, UGX 74,063,364 representing 42.2% of the reported expenditure was diverted and only UGX 101,342,636 was actually spent on the output under this project.reported			
+	45180 National Road Constructio n/Rehabilit ation (Bitumen Standard)	38,896,475,000	reported to have spent UGX 38,896,475,000 on the output, UGX 3,893,113,898 representing 10.01% of the reported expenditure was diverted and only UGX 35,003,361,102 was actually spent on the output under this project.Whereas UNRA			
+1616 Retooling of Uganda	45172 Governmen t Buildings and Administrat	23,647,500,000	reported to have spent UGX 23,647,500,000 on the output, UGX 22,094,632,790 representing 93.4% of theWhereas UNRA			
+
+
+
+
+15
+
+
+
+
+
+
+
+
+
+
+
+National ive reported expenditure was Roads Infrastruct diverted and only UGX Authority ure 1,552,867,210 was actually spent on the output under this project. 45176 18,269,820,000 Whereas UNRA reported to Purchase of have spent UGX Office and 18,269,820,000 on the output, ICT UGX 6,163,528,048 Equipment, representing 33.7% of the including reported expenditure was Software diverted and only UGX 12,106,291,952 was actually spent on the output under this project. 45177 33,000,810,000 Whereas UNRA reported to Purchase of have spent UGX Specialised 33,000,810,000 on the output, Machinery UGX 19,349,687,705 & representing 58.6% of the Equipment reported expenditure was diverted and only UGX 13,651,122,295 was actually spent on the output under this project. 1313 45101 88,000,000 Whereas UNRA reported to North Monitoring have spent UGX 88,000,000 on Eastern and the output, UGX 4,229,365 Capacity representing 16.17% of the Road- Building reported expenditure was Corridor Support diverted and only UGX Asset 73,770,635 was actually spent Manage on the output under this ment
+
+project. Project 45180 2,946,060,000 Whereas UNRA reported to National have spent UGX 2,946,060,000 Road on the output, UGX Constructio 2,255,520,325 representing n/Rehabilit 76.56% of the reported ation expenditure was diverted and (Bitumen only UGX 690,539,675 was Standard) actually spent on the output under this project. 45180 2,200,162,000 Whereas UNRA reported to National have spent UGX 2,200,162,000 Road on the output, UGX Constructio 2,051,759,444 representing n/Rehabilit 93.25% of the reported ation expenditure was diverted and (Bitumen only UGX 148,402,556 was Standard) actually spent on the output under this project
+
+Inaccurate reporting of performance misleads the users of the financial information and casts doubt on the reliability and authenticity of the information (both Financial and Non-financial) presented by the entity.
+
+Management explained that PBS directly picks the performance expenditure numbers from IFMS and no authorization is granted to amend or pass adjustments caused by mischarge in either PBS or IFMS.
+
+16
+
+
+
+
+
+
+
+
+
+
+
+4.0 Compensations /Acquisition of Right of Way for selected Road Projects undertaken By UNRA
+
+The Uganda National Roads Authority (UNRA) is a Government agency mandated to develop and maintain the national roads network, advise the Government on general roads policy, contribute to the addressing of national transport concerns, and perform certain other functions.
+
+The acquisition of Right of Way (RoW) through compensation of Project Affected
+
+Persons (PAPs) is a key process in all major road projects undertaken by UNRA. Over the last three financial years 2018/19, 2019/20 and 2020/21, Parliament appropriated through UNRA’s Annual Budget, specific funding for compensation of Project Affected Persons, amounting to UGX 1,090 billion. This is approximately 11% of UNRA’s total Budget for the period. The Table below provides the funding for the three years.
+
+Financial Year	Approved Budget	Revised Budget	Warrants	Expenditure	
+2018/19	245.2	265.8	265.8	269	
+2019/20	408.7	408.7	408.7	409.1	
+2020/21	436.2	392.6	392.6	407.8	
+TOTAL	1,090.10	1,067.10	1,067.10	1,085.90	
+
+
+
+
+During my overall risk assessment exercise, I noted that UNRA is experiencing challenges in acquisition of right of way for various road projects and this has led to
+
+delayed implementation of the projects. According to the NDP III, the huge costs associated with compensation of Project Affected Persons (PAPs) escalate costs of
+
+infrastructure. Government has also lost land (right of way) along existing transport infrastructure to encroachers.
+
+It is upon these challenges that for the audit year 2020/21, an audit theme on
+
+Compensations/ Acquisition of Right of Way was developed and focused on two infrastructure projects under UNRA: the Kampala – Jinja Expressway and Hoima –
+
+Butiaba – Wanseko (one of the critical oil roads) for the three financial years: 2018/19, 2019/20 to 2020/21. The details relating to the selected road projects are shown in the
+
+Table below:
+
+No	Particulars	Kampala - Jinja Expressway	Hoima - Wanseko	
+1	Road Length	105.1 km	111 km	
+	Funding Agency	GoU and a Concessionaire through a PPP arrangement	GoU and Exim Bank of China	
+2.	Contract Amount (civil works)	n/a*	USD 179,538,545.59	
+3	Commencement of works (date)	n/a*	16 th April 2018	
+4	Original completion date	n/a*	16 th April 2021	
+5	Revised completion date	n/a*	10 th January 2022	
+6	Supervising contract Amount	n/a*	n/a**	
+7	Total Number of PAPs assessed to date	5,111	3,938	
+8	Number of PAPs compensated to date	3,474	3,487	
+9	Total Approved Compensation	UGX 432,220,889,273	UGX 39,363,141,405	
+
+
+
+
+17
+
+
+
+
+
+
+
+
+
+
+
+	Value			
+10	Amount paid in compensation to date	UGX 339,649,744,303	UGX 34,164,323,369	
+11	Number of Outstanding PAPs to date (30/6/2021)	1,637	451	
+12	Amount outstanding for PAPs (30/6/2021)	UGX 92,571,144,970	UGX 5,198,818,036	
+
+
+
+
+*The contractor had not yet been procured at the time of the audit. **There is no contract as the Supervision is being done In-House.
+
+The overall audit objective was to ascertain whether the compensation process of the Project Affected Persons (PAPs) under the selected infrastructure projects is implemented in accordance with the compensation guidelines and other Government
+
+legal frameworks to enable efficient and effective acquisition of ROW and subsequent service delivery.
+
+I developed audit procedures to undertake the audit of compensation of the PAPs. I reviewed guidelines on compensation of PAPs, I carried document review covering; Resettlement Action Plans (RAPs), Valuation reports, PAPs files, payment vouchers and
+
+other documents I found necessary in the circumstances. I also undertook field
+
+inspections and carried out interviews with UNRA Managers and PAPs.
+
+From the procedures undertaken, I noted the following:
+
+No	Observation	Recommendation	
+4.1	Identification of PAPs		
+4.1.1	Public Legal Notification and Gazette of Land for Public UseSection 5 of the Land Acquisition Act CAP 226, 1965 requires that after the publication of a declaration in respect of any land, the assessment officer shall cause a notice to be published in the Gazette and exhibited at convenient places on or near the land. A copy of the published notice is also served on the registered proprietor of the land. The notice shall indicate a day when all persons having an interest in the land should appear personally or by agent before the assessment officer.I noted that for the Hoima-Butiaba-Wanseko Road Project, UNRA did not submit a request to the Ministry of Lands to declare the land identified for the road project as land of interest. It was also noted that there was no evidence that the assessor’s notice for the project was published in the Gazette, contrary to the Act. This could have been an oversight by Management. As a result, some PAPs proceeded to sell their land or process titles on the project land. This is likely to emanate into PAP grievances, court battles and/or escalated entitlements.The Accounting Officer explained that a Request to Gazette the Hoima Butiaba road was made to Ministry of Lands Housing and Urban Development (MLHUD) as procedurally required in January 2020.However, the gazette instrument did not come through and the UNRA Legal team is following up on the same along with other new submissions.I noted that although the request to Gazette was made to MLHUD in January 2020, this was about five years after the first valuation report had	I advised the Accounting Officer to always ensure that the assessment officer causes a notice to be published in the Gazette and exhibited at convenient places on or near any land immediately after the publication of a declaration that the land is required by the Government for a public purpose.	
+
+
+
+
+18
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+been approved in August 2016, yet the request to Gazette ought to be made prior to assessment of the affected persons and assets.		
+4.2	Valuation of Project Affected Properties/ Assets		
+4.2.1	Approval of Valuation Reports by Chief Government Valuer (CGV)According to the Guidelines for Compensation under Land Acquisition (GCALA) 2017, the assessment officer is required to assess all affected properties and/or assets and compile valuation reports which have to be approved and endorsed by the Chief Government Valuer (CGV).For the KJE Project, by 30 th June 2021, UNRA had prepared valuation reports for project areas falling under volumes 1, 2, 3, 4, 6 and 7 and these reports were approved and endorsed by the CGV. Valuation of areas under volumes 5 and 8 is ongoing while the valuation and assessment for volume 9 had not commenced as the design was yet to be finalized. Over the period 2016/17 to 2020/21, cash compensation amounts totalling UGX 432.22 billion were approved by the Chief Government valuer for 5,111 PAPs under the six volumes.For the Hoima-Butiaba-Wanseko Project, Valuation reports were prepared for the project affected areas and these were approved and endorsed by the CGV. According to the valuation reports, approved compensation amounts were totalling UGX 39.36 billion for 3,938 PAPs.	The Accounting Officer was commended for the observation and is urged to continue complying with the law and compensations guidelines on this matter.	
+4.2.2	Consistent Application of Valuation Rates with Land BoardsSection 59 (1) (e) and (f) of the Land Act Cap 227 provides that a District Land Board (DLB) shall compile and maintain a list of rates of compensation payable in respect of crops, buildings of a non-permanent nature and any other thing prescribed and that the Board shall review the list of rates of compensation referred to in paragraph (e) every year.A review of the valuation reports for Hoima-Wanseko and KJE Projects revealed that the sampled PAPs (221 for Hoima-Wanseko and 234 for KJE) were assessed using valuation rates that were consistent from the approved crops, plants and trees rates issued by the relevant District Land Boards. For Hoima-Wanseko, it was established that UNRA applied the moderated compensation rates for Hoima and Buliisa districts during the financial year 2017/18 and 2018/ 19 when the 5 valuation reports were compiled. These values for crops, plant and trees were consistently applied across for all the 221 sampled PAPs along the road alignment. For KJE, approved compensation rates from Kampala District Land Board, Mukono District and Buikwe District were applied for crops and structures for financial years 2016/17 and 2018/19.		
+4.3	Timeliness and accountability of compensations (cash and resettlement)		
+	the KJE Project, payments totalling UGX 339.65 billion were made to 3,474 PAPs over the five financial years 2016/17 to 2020/21. The percentage of the so far approved compensation amount that had been paid by the time of audit was 79%. Regarding the Hoima-Butiaba-Wanseko Project, a total of UGX 34.16 billion was paid out to 3,487 PAPs over a period of four financial years 2017/18 to 2020/21. The percentage of estimated compensation amount that had beenRegarding	I advised the Accounting Officer to consider engaging more staff during survey and valuation process to minimize on the errors	
+
+
+
+
+19
+
+
+
+
+
+
+
+
+
+
+
+No Observation Recommendation												
+paid by theRoad Projecta supportingAppendix I procedure compensation valuation months.to Wanseko, the sampled,229 the specifiedRoad ProjectKJE Hoima- Butiaba- Wansekoin identification awards, such as among PAPs and not becorridor in construction 21% of the than 6 impedeKJE Hoima- Butiaba - Wansek oFrom DelayedContraryDelaysThe4.3.1		time ofTotal Appro ved PAPs	audit was 87%.No. of PAPs paidNo. of outst andi ng PAPs		The TableApproved Compens ation Amount (UGX Bn)		refers.Total Amou nt Paid (UGX Bn)	Total Amount pending paymen t (UGX Bn)		Perc enta ge Pay ment Prog ress	during PAPs identification. I also advised the Accounting Officer to consider using escrow accounts with district local governments for the absentee land lords and PAPs where funds may be deposited and aid fast land acquisition.	
+		5,111 3,474 1,637 432.22 339.65 92.57 79%										
+		3,938 3,487 451 39.36 34.16 5.20 87%										
+		of the payment schedules of the compensated PAPs and documentation, the following observations were made:of cash compensations to PAPs										
+		of the GCALA 2017 on the Compulsory Land Acquisition Process, No. 11 requires to arbitration, and resettlement, the period from the approval of the report to payment of compensation awards shall not exceed 6that with considerationthe above, I noted that out of the sampled 221 PAPs for Hoima- 134 PAPs with properties worth UGX 6.2 billion were paid after six-month period. For KJE project, out of 234 PAPs PAPs with properties worth UGX 70.2 billion were paid after six-month period. The Table below refers.										
+		Sampled no. of PAPs		Period of Payment from CGV approval date								
+												
+		Less than months6				More than months but than 1 year6 less			More than 1 year			
+		234 5				32			197			
+		221 87				20			114			
+		payment of PAPs was attributed to inadequacies in PAP and valuation that resulted in disputes and rejection of by PAPs to provide requisite information and documents account details, powers of attorney, letters of administration to warrant payments. It was also attributed to absentee land lords whose valuations were ready for disclosure but could in time.for the Hoima-Wanseko Project has full access to the project spite of the delays in payment. For the KJE Project, the works are planned to commence in January 2022. However, approved compensation amount has not yet been paid with less to the scheduled commencement date which is likely to handover of the project corridor and timely commencement										
+
+
+
+
+below
+
+review
+
+Payment
+
+specified
+
+delays bank others
+
+traced contractor
+
+months timely
+
+20
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+of works.Accounting Officer gave the following reasons for the delays: Following approval of reports by the Chief Government Valuer (CGV), UNRA undertakes the process of Identification, Verification and Disclosure (IVD) prior to effecting compensation payment. In this process, the PAPS are required to provide documents confirming ownership and identity and they are also disclosed to awards and only sign if they are satisfied with the award.Following IVD however, a number of issues arise that usually delay submission of PAP’s files for payment include; 1. Lack of proper ownership documents, for example; sales agreements, letters of administration, and others. 2. Ownership disputes especially for untitled interests like Kibanja or customary land. 3. Absenteeism. 4. Rejection of compensation awards by PAPs that lead to review of the complaint to ascertain validity. UNRA has therefore adopted a process of negotiating with some PAPs for access prior to payment, where land is urgently required. As and when the PAPs are able to avail documents, or resolve disputes, payments are then made, subject to availability of funds.Furthermore, UNRA proactively engages the PAPs to aid quick resolution of disputes by arranging mediation meetings if cases are outside court or apply to have monies deposited in court pending determination of rightful owner by court. UNRA has also been working out MoUs with Justice center where PAPs who cannot afford to process documents like letters of administration are assisted by the Justice centers.The		
+4.3.2	According to the GCALA 2017 (p9), international best practices require that displaced persons and communities be compensated for the loss of developments at replacement cost and other assistance be provided to help them improve their standards of living and livelihoods.UNRA Land Acquisition and Resettlement Policy (LARP) (P51) requires the RAP team to engage with households that were identified as being vulnerable in order to discuss and agree on how to assist them to restore their living standards and livelihoods to pre-project levels or better. The policy provides for two components of assistance, that is; physical resettlement and livelihood restoration.resettlement or in-kind compensation shall be provided through a process which shall include; (i) the procurement of a contractor for the construction of replacement houses (where applicable), site preparation, house design etc. (ii) the identification of replacement land which will follow an in-fill approach and be led by the affected household (i.e. they will be able to identify their preferred site, after which UNRA will secure for them). According to the KJE RAP Implementation Progress report of May 2020 – August 2021, a total of 219 PAPs require physical resettlement withDelayed Progress of Physical Resettlement on KJE project ThePhysical	I advised the Accounting Officer to expedite the process of engaging a provider to build the resettlement houses in order to ensure the vulnerable PAPs vacate the project area to allow for timely commencement of works on the KJE Project.that	
+
+
+
+
+21
+
+
+
+
+
+
+
+
+
+
+
+No Observation Recommendation									
+majority being within Volume 5. From discussions with UNRA officials, it was revealed that by the time of the audit, 13 resettlement sites had been identified and these were being assessed for suitability.was noted that although the process of engaging a provider to support UNRA in developing housing options and building the agreed resettlement houses was initially scheduled to be completed by December 2020, no contractor had been procured for this purpose by the time of the audit in September 2021, implying a delay of over 9 months. The planned completion date for this activity has been revised to May 2022, yet civil works are scheduled to commence in January 2022. As a result, these 219 PAPs who were to be physically resettled were still residing within the project area and there is a risk that physical resettlement will not be completed in time before the commencement of works in January 2022.to the Accounting Officer, the implementation of the Physical Resettlement component of the RAP could not commence until detailed assessment of the vulnerable persons requiring physical resettlement was completed. The study is being carried out in conjunction with the EU support under “No-one Worse off Project” by Cities Alliance. UNRA is also working closely with the Directorate of Housing in the Ministry of Lands to provide technical assistance to guide the successful implementation of the physical resettlement process.ItAccording									
+4.4 Status of acquired land for the projects and resettlement of PAPs									
+I advised the Accounting Officer to engage with Ministry of Lands, Housing and Urban Development on the required taxes or duties for transfer of the titles to UNRA and to make the necessary budget provisions in order to secure legal ownership of the land acquired for the various projects.Status of Receipt and Transfer of Land titles for fully acquired plotsAccording to the UNRA LARP 4 , titling shall involve subdivision, mutation of the Right of Way, transfer of the resultant Right of Way Certificate of Title registered interest from the PAPs to UNRA and return of the PAPs residual title where applicable. The RAP team shall return the residual titles to the PAPs within six months from the time of payment and obtain the consolidated title for the Right of Way.As at 30 th June 2021, it was noted that for both the KJE Project and the Hoima-Wanseko Project, titling of the acquired land was still incomplete. The Table below refers.No of Titles expectedNo of Titles received by UNRANo. of Titles NOT YET received by UNRANo of Titles to be directly transferred to UNRANo of Titles transferre d to UNRA990 649 341 21523 9 14 230 0of the 990 titles expected for KJE Project, only 649 (66%) had beenProjectKampala Jinja Expressw ay Hoima- Butiaba- Wanseko4.4.1Out									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+
+
+
+4 Para 5.8, p59-60 22
+
+
+
+
+
+
+
+
+
+
+
+No Observation				Recommendation	
+received by UNRA. On the other hand, out of the 23 titles expected for Hoima-Wanseko Project, only 9 (39%) had been received by UNRA. The incomplete titling was attributed to: PAPs having lost their titles and still processing special titles; titles held in court due to ongoing civil suits; titles held by absentee land lords whose whereabouts are not known.It was also noted that for both projects, there has been no progress in transfer of titles received. According to UNRA, transfer of titles had been put on hold as UNRA deliberates on whether to pay the taxes charged or seek for waiver from the MoFPED.The Accounting Officer explained that when UNRA attempted to transfer the titles to UNRA names in 2019, they were advised to pay stamp duty which was a sum that had not been budgeted for and as such could not have title transfers done. Considering the budget implications in light of the number of titles to be transferred, UNRA was therefore advised to seek a waiver from PS/ST and if not possible request for the budget line accordingly and this is to be pursued by Management within this year.					
+4.4.2Status of Vacation of Acquired LandSection 5.9.2.1 of the UNRA LARP 2019 states upon confirmation of receipt of compensation payments by the PAPs, the vacation notices that were issued to every PAP shall be triggered and the PAPs requested to vacate the compensated land and assets.Out of the 69 PAPs properties physically inspected in the KJE project area, it was noted that 59 properties had been fully paid for by UNRA. Out of these, 49 properties had been vacated by the PAPs while 10 properties had not yet been vacated and there were signs of on-going activities such as farming, brick making and in some cases structures still in place. The Table below gives a summary of land vacation:Status of Vacation Number of PAPs propertiesnon-vacation of some of the paid properties is attributed to UNRA failing to enforce the vacation notices. Additionally, the GCALA, 2017 requires the acquiring entity to establish a strong and representative committee within the affected communities and to work with this committee to discourage land speculation and encroachment. However, no such committees were set up in the project areas hence leaving the properties susceptible to encroachers.to secure corridors and project sites may result in delays in project implementation. The Accounting Officer explained that the delayed vacation of the ROW byProperties paid for and vacated by the PAPs and no ongoing activities Properties paid for but not yet vacated and there is ongoing activityProperties not yet paid for and not yet vacated Total Inspected49 10 10 69 TheFailure				I advised the Accounting Officer to ensure that representative committees always within affected communities to stop encroachment on the acquired land.are up projectset	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+PAPs who were compensated was due to COVID-19 restrictions that inhibited ability of the PAPs to resettle themselves outside of the right of way.. Subsequently, there were a number of requests for grace periods by PAPs which could not be ignored by UNRA given the challenges that Covid 19 presented to people, PAPs being no exception. However, all the PAPs falling in this category are being followed up and are all expected to vacate the ROW by the end of year 2021.		
+4.4.3	Demarcation of acquired landAccording to the GCALA, 2017 the acquiring entity is required to demarcate the required project area using clearly identified erected markers and geo- reference these in the presence of local authorities and representatives.In line with this, Section 5.9.2.1 of the UNRA LARP 2019 states that as soon as possible and in any case not later than one month after the clearing of the right of way, the cleared right of way shall be demarcated by pillars and/or trees and the enforcement team shall be tasked to patrol the areas actively to avoid intruders.However, out of the 20 villages in the KJE Project area where inspected properties were located, it was noted that only 8 villages had clearly identified markers, demarcating the acquired right of way. In the remaining 12 villages, there were no signs of demarcation of the right of way on properties that had been fully paid for and acquired. The failure to clearly demarcate the right of way leaves the acquired land open to encroachment.The Accounting Officer explained that the installation of Marker Posts to demarcate the extent of the UNRA ROW is being done progressively after the PAPs have vacated the site and the Right of Way cleared. The plan is to demarcate the entire right of way after its fully compensated and cleared and all areas that are not yet demarcated shall also have the marker stones installed in due course. The land acquisition team is working closely with enforcement team to secure the acquired Right of Way.	I advised the Accounting Officer to ensure that the acquired sections of the project area are demarcated with clearly identified erected markers.	
+4.4.4	Access of the Right of Way on Hoima-Wanseko ProjectThrough inspection of the whole road stretch from Kilometre 00+00 to 93+400 and the two T offs to Biiso and Butiaba, I established that the contractor had obtained full access to the land traversing these kilometres of the road. Full access for the carriage way had been obtained and the road works were completed in most of the road sections save for the T off to Butiaba. It was further established that the contractor had also erected mark posts on both sides along the stretch of the road to mark off the limits of the road reserve.Management of UNRA credited this to the negotiations that were made earlier with the communities and sensitization made to them about the benefits of having the road and the developments that it would bring to the communities.	I commend the Accounting Officer for having ensured the contractor obtains the right of way to expedite the construction works.	
+4.4.5	Wasteful expenditureThe inspection of the entire road stretch from Hoima to Wanseko fishing village revealed that 14 PAPs on the right hand side of the road between chainage 16+900 – 17+015 along the main stretch and chainage 4+200 –	I advised the Accounting Officer to have the land titled, secured and clearly marked off	
+
+
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+4+500 along UGX.168,431,608 were outside the road alignment.the Biiso link who were compensated a total ofIt was further observed that these areas were not demarcated by UNRA even though they were already compensated for. At chainage 16+900 – 17+015 in Kigorobya I village, PAP buildings that had been constructed beyond the road reserve mark post at 30 meters had been demolished but the land was not secured by UNRA and was still open to encroachment.Management explained that at chainage 17+100 in Kigorobya I village, Katana Catholic Church refused the road to traverse the Church compound and the road alignment had to be changed. Between chainage 4+200 - 4+500 along the Biiso loop, the design engineer realized that the Biiso link was joining the main stretch of Hoima - Wanseko at 90 degrees making a blind spot. This also necessitated realignment of Biiso loop to avoid the blind spot for road safety reasons.However, I noted that all this was done after the PAPs along the initial road design had been compensated making the compensation expenditure of UGX 168,431,608 to be wasteful.The Accounting Officer indicated that this land shall be titled and demarcated as part of the ROW and UNRA shall use the land for wellness areas or dispose of it.	to avoid future encroachment. I also advised the Accounting Officer to ensure that all grievances are solved to commencement of the payment process.prior	
+4.3.4.6	Compensation of PAPs on Public Land under KJE Volume 5 Part of the land gazetted for the KJE road project is Public land along the greater Kasokoso slum (chainage 0+000(KSB) to 1+000 and 3+600 to 8+600). It was established by UNRA that NHCC holds a freehold title over this public land but which title is registered in the names of Kireka Estates Limited. The land is also occupied by sitting tenants whom NHCC attempted to evict but was unsuccessful.UNRA initiated the census and socioeconomic survey of PAPs on this land, the sitting tenants disputed NHCC ownership of the land and claimed to be bona fide occupants on the land with an entitlement to compensation.to comply witha letter dated 30 th June 2021 (Ref. UNRA/DNPE/KJE-SG/6/21), UNRA sought the guidance of the Solicitor General on how to handle the compensation and resettlement in light of the challenges and disputes. In response to UNRA’s request, the Solicitor General advised that:- As per the loan agreement between Government of Uganda and African Development Bank for financing the KJE Project, the Government agreed the International Financial Corporation Performance Standards (IFC PS). According to the IFC PS 5 which is applicable to land acquisition and compensation of the Project Affected Persons, PAPs who have no recognizable legal right or claim to the land or assets they occupy or use shall be offered resettlement housing with security of tenure and for those PAPs who own developments on the land before the eligibility cut-off date shall be compensated for the loss of the developments at full replacement cost. Therefore, all sitting tenants are eligible for compensation even though they have no legal entitlement as per the Laws of Uganda.WhenIn	I await the Accounting Officer’s implementation of the guidance given by the Solicitor General.	
+
+
+
+
+25
+
+
+
+
+
+
+
+
+
+
+
+No	Observation	Recommendation	
+- Regarding the public land, the Solicitor General advised that the freehold title held by NHCC is valid as per section 59 of the Land Act. NHCC has a legally recognized right to the land and is therefore entitled to compensation for the land and any developments it owns on the land.- The Solicitor General also guided that the compensation amounts to be awarded should be in accordance with valuations determined by the CGV.In line with this, UNRA is in the process of carrying out valuation of all affected land and assets under this volume. The Accounting Officer explained that the Solicitor General responded to UNRA's request for guidance on payment of compensation to PAPs on Public land and that UNRA will proceed as guided by the Solicitor General.		
+
+
+
+
+Emphasis of Matter
+
+Without modifying my opinion, I would like to draw the readers’ attention to the following
+
+matter(s) which have been disclosed in the financial statements of the Authority:
+
+5.0 Payables - UGX. 215,059,225,419
+
+The Authority had an outstanding balance of UGX 215,059,225,419 in terms of payables at the year end. This figure increased by UGX 73,885,957,262 (52.3%) from the previous year’s amount of UGX 141,173,268,157. It is observed that the bulk of this amount is
+
+comprised of unpaid certificates to contractors which yield interest due to delayed payments.
+
+The rise in the payables position is an indication that UNRA is operating beyond its means
+
+and thus implementing a deficit budget. It also points to weaknesses in cash flow management as demonstrated by the over UGX600 billion held in advances to contractors
+
+for works yet to be done while about 30% of the same amount is held as liabilities for
+
+payments due to various contractors. There is a risk of incurring wasteful expenditure in
+
+form interest and litigation costs, as shown in paragraph 6.0.
+
+The Accounting Officer explained that UNRA operates multiyear budgets for construction projects where the budget is released in annual instalments. Some project certificates are
+
+submitted in the last month of the year and with verification and approval taking 60 days to complete, while some certificates may be received but not paid by the cut-off date at the end of the FY. Such form the arrears that are carried over to the following FY. As part
+
+of improvement in cash management, UNRA has undertaken a number of procedures to
+
+accelerate recovery of advances from contractors by putting a ceiling of not more than
+
+15% advance on the contract sum and recovery from the first IPC/ invoice.
+
+I await the result of the interventions Management is going to put in place to accelerate
+
+recovery of advances as a means of ensuring that UNRA rationalizes the resources available. The advances to contractors can be minimized to ensure that certificates due
+
+for payment are settled, to avoid loss of public funds in payments for interest and penalties.
+
+26
+
+
+
+
+
+
+
+
+
+
+
+6.0
+
+Loss of funds in interest on delayed payment of contractors
+
+A review of the UNRA expenditure files, Interim Payment Certificates and interviews revealed that the Authority made payments amounting to UGX 17,078,565,465 as interest
+
+on delayed payments of advances and IPCs invoices from various projects.
+
+The Authority incurred wasteful expenditure to a tune of UGX17bn due to delayed settlement of invoices from contractors. This was a loss to Government. The interest
+
+expenditure was included as part of the annual expenditure for the year.
+
+The Accounting Officer explained that interest costs arise due to inadequate funding in relation to the stock of road development /maintenance projects that UNRA is managing.
+
+At the end of the financial year, there are more IPCs for works approved than available
+
+funds. UNRA Management always requests for supplementary funding from Ministry of Finance. Some requests are approved while others are not due to inadequate funds at the Treasury.
+
+I advised the Accounting Officer to:
+
+i. Improve the Authority’s cash flow management by rationalizing available resources,
+
+especially reduction of advances payments to settle outstanding claims.
+
+ii. Improve the Authority’s budgeting process and liaison with relevant authorities such Parliament and Ministry of Finance for adequate financial resource allocation.
+
+Other Information
+
+The Accounting Officer of UNRA is responsible for the other information. The other information comprises the statement of responsibilities of the Accounting Officer and the commentaries by the Head of Accounts and the Accounting Officer, and other supplementary information. The other information does not include the financial statements and my auditors’ report thereon. My
+
+opinion on the financial statements does not cover the other information and I do not express an audit opinion or any form of assurance conclusion thereon.
+
+In connection with my audit of the financial statements, my responsibility is to read the other information and, in doing so, consider whether the other information is materially consistent with the financial statements or my knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work I have performed, I conclude that there is a
+
+material misstatement of this other information; I am required to report that fact. I have
+
+nothing to report in this regard.
+
+Management Responsibilities for the Financial Statements
+
+Under Article 164 of the Constitution of the Republic of Uganda, 1995 (as amended) and Section 45 of the Public Finance Management Act, 2015, the Accounting Officer is accountable to Parliament for the funds and resources of the Authority.
+
+The Accounting Officer is also responsible for the preparation of financial statements in accordance with the requirements of the Public Finance Management Act, 2015, and the
+
+Financial Reporting Guide, 2018 and for such internal control as management determines necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+
+27
+
+
+
+
+
+
+
+
+
+
+
+In preparing the financial statements, the Accounting Officer is responsible for assessing the Authority’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting, unless the Accounting Officer
+
+has a realistic alternative to the contrary.
+
+The Accounting Officer is responsible for overseeing the Authority’s financial reporting process. Auditor’s Responsibilities for the Audit of the Financial Statements
+
+My objectives are to obtain reasonable assurance about whether the financial statements as a
+
+whole are free from material misstatement, whether due to fraud or error and to issue an
+
+auditor’s report that includes my opinion. Reasonable assurance is a high level of assurance but
+
+is not a guarantee that an audit conducted in accordance with ISSAIs will always detect a
+
+material misstatement, when it exists. Misstatements can arise from fraud or error and are
+
+considered material if, individually or in aggregate, they could reasonably be expected to influence the economic decisions of users, taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISSAIs, I exercise professional judgement and maintain
+
+professional scepticism throughout the audit. I also;
+
+ Identify and assess the risks of material misstatement of the financial statements, whether
+
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for my opinion.
+
+The risk of not detecting a material misstatement resulting from fraud is higher than for
+
+one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+
+an opinion on the effectiveness of the Authority’s internal control.
+
+ Evaluate the appropriateness of accounting policies used and the reasonableness of
+
+accounting estimates and related disclosures made by the management.
+
+ Conclude on the appropriateness of management’s use of the going concern basis of
+
+accounting and, based on the audit evidence obtained, whether a material uncertainty
+
+exists related to events or conditions that may cast significant doubt on the Authority’s
+
+ability to continue as a going concern. If I conclude that a material uncertainty exists, I am required to draw attention in my auditor’s report to the related disclosures in the financial
+
+statements or, if such disclosures are inadequate, to modify my opinion. My conclusions are based on the audit evidence obtained up to the date of my auditor’s report. However, future events or conditions may cause the Authority to cease to continue as a going
+
+concern.
+
+ Evaluate the overall presentation, structure and content of the financial statements,
+
+including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+I communicate with the Accounting Officer regarding, among other matters, the planned scope
+
+and timing of the audit and significant audit findings, including any significant deficiencies in
+
+internal control that I identify during my audit.
+
+28
+
+
+
+
+
+
+
+
+
+
+
+I also provide the Accounting Officer with a statement that I have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on my independence, and where applicable, related safeguards.
+
+From the matters communicated with the Accounting Officer, I determine those matters that
+
+were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. I describe these matters in my auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare
+
+circumstances, I determine that a matter should not be communicated in my report because
+
+the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+Other Reporting Responsibilities
+
+In accordance with Section 19 (1) of the National Audit Act, 2008, I report to you, based on my
+
+work described on the audit of Financial Statements, that; except for the matters raised in
+
+compliance with legislation section below, and whose effect has been considered in forming my opinion on financial statements, the activities, financial transactions and information reflected in the financial statements that have come to my notice during the audit, are in all material respects, in compliance with the authorities which govern them.
+
+Report on the Audit of Compliance with Legislation
+
+In accordance with Section 13 of the NAA 2008, I have a responsibility to report material
+
+findings on the compliance of the Authority with specific matters in key legislations. I performed
+
+procedures primarily to identify findings but not to gather evidence to express assurance.
+
+The material findings in respect of the compliance criteria for the applicable subject matters are
+
+as follows;
+
+7.0
+
+Delayed valuation of infrastructure assets - UGX 10,417,198,881,566
+
+The value of the Authority’s infrastructure assets at the end of the financial year (page 51
+
+of the financial statements) was disclosed as UGX10,417,198,881,566.
+
+However, contrary to the requirement of Financial Management and Accounting Policies and Procedures Manual 2017 (paragraph 10:2:x) to revalue the assets every three years, I was not availed with any valuation report for the infrastructure assets to confirm that
+
+the assets had ever been valued.
+
+Management explained that infrastructure revaluation figures were for disclosure
+
+purposes and that the disclosures in the notes do not affect the face of the financial
+
+statements. In preparation of the financial statements, we followed the Accountant General guidelines. In an event of a contradiction between our policy and the Accountant General instructions, the former takes precedence as stated in our manual section 4.0
+
+(applicable laws and guiding principles).
+
+However, audit noted that the assets that were a subject of revaluation are partly included in the figure of Non Produced Assets in the Statement of Financial Position and
+
+fully included in note 22 of the financial statements. They are not just for disclosure as
+
+29
+
+
+
+
+
+
+
+
+
+
+
+stated by Management. Management has not complied with the UNRA policy on valuation
+
+to obtain correct asset values for the period.
+
+I advised the Accounting Officer to always endeavour to revalue infrastructure assets in
+
+accordance with the policy. In the alternative, the Accounting Officer may consider
+
+revision of the policy in case the requirement is not practicable in the current UNRA
+
+circumstances.
+
+8.0 Delayed completion of road projects
+
+The review of the June 2021 road construction status report and contract management files revealed that 35 road projects with a total contract value of USD.398,427,063.99 and UGX. 149,739,813,845 that were to be completed during the year were still on –
+
+going by the close of the year.
+
+Delayed completion of road projects increases the administrative costs of delivering the projects.
+
+The Accounting Officer explained that the delay to complete the projects was due to a
+
+number of factors that included; inadequate mobilization by some contractors, abnormal
+
+rains, delayed acquisition of Right Of Way and the effects of COVID-19 that resulted into nationwide lockdown. For projects not completed on time, the contractors were/ will be charged liquidated damages in accordance with the Contract conditions.
+
+I noted the Accounting Officer’s response and await action to be taken to strengthen the
+
+timelines of delivery of projects.
+
+9.0
+
+Civil Cases arising from failure to return residual titles – UGX 6.991bn
+
+According to the UNRA Land Acquisition and Resettlement Policy 2019 (p 59-60), “titling of acquired land is to commence as soon as UNRA has received confirmation that the related compensation has been received by the former registered proprietor. Properties
+
+that are only partially acquired are to be subdivided in that respect and residual titles shall
+
+be returned to the PAPs within six months from the time of payment”.
+
+However, the review of the civil cases against UNRA as at 30 th June 2021 indicated that
+
+three civil cases in Table below were brought against UNRA due to its failure to return residue land titles to the registered proprietors.
+
+SN	Date	Case	Summary & Status	Course Of Action	
+	29/11/20	CIVIL SUIT NO. 861 OF 2020 WU KUN VERSUS UNRA	residual title forThe Plaintiff’s claim arising out of the Authority’s alleged illegal possession and/or retention of his land comprised in LRV 4266 Folio 24 Kyadondo Block 209 Plots 428, 430, 432, 442, 457, 467 & 463 at Kalerwe - Bwaise along Kampala Northern Bypass road measuring 0.908 hectares (2.24 acres). He seeks general damages of UGX 6,181,398,000 for loss of business, interest on general damages, an order that UNRA hands over the residual certificate of title, costs of the suit and any	Mediation is on-going.	
+
+
+
+
+30
+
+
+
+
+
+
+
+
+
+
+
+	other relief that Court may deem fit.		
+	23/9/20	CIVIL SUIT NO. 299 OF 2020 DR. KASOZI CHARLES MUSISI VERSUS UNRA & ATTORNEY GENERAL	The Plaintiff’s claim is that the Authority obtained his land title for land comprised in Busiro Block 333 Plot 670 at Kyengera - Nkokonjeru A Zone, Wakiso District for purposes of mutating and subdividing the area acquired for road construction. The title has not been returned and the Plaintiff has suffered financial loss for which he seeks general damages. He seeks declarations that the Authority’s actions have caused financial loss and retarded planned developments, an order compelling UNRA to return the title, an order for payment of UGX.800,000,000 as damages and compensation for business loss and an order for payment of interest on the business loss at 25% and costs of the suit.	Mediation is on-going.	
+	21/4/21	CIVIL SUIT NO. 330 OF 2021 BENJAMIN BUGINGO & BUGINGO JACK VERSUS UNRA, NEW PLAN LTD & THE REGISTRAR OF TITLES	The Plaintiff’s claim is that the defendants have failed to return the certificate of title for land comprised in Kyadondo Block 167 Plot 275 which was acquired for Gayaza - Kalagi road construction. That by letter dated 19 th August 2020, UNRA promised to secure a special certificate of title but failed to deliver. They seek a declaration that the defendants were negligent when they lost/failed to return the title, an order for immediate return of the title or in the alternative an order for obtaining a special certificate of title, special damages of UGX 10,000,000, general damages, interest and costs of the suit.	No mediation/he aring date fixed.	
+
+
+
+
+In the event that the courts rule in favor of these claimants, there is a risk of significant
+
+financial loss to Government in terms of damages sought which claimants are totaling at
+
+approximately UGX 6.991 billion.
+
+The Accounting Officer explained that the subdivision of land titles by UNRA has continued to be a challenge despite several efforts made to find solutions. The causes of
+
+delays in the subdivision of titles are;
+
+1. Slow response from the respective Ministry of Lands Zonal offices after submitting
+
+Job record Jacket (JRJ);
+
+2. Mismatch of information in the MoLHUD LIS system compared to what is picked on
+
+ground and what is captured on the titles created; and,
+
+3. Overlapping titles on the cadastral maps of the titles in the Right Of Way.
+
+The Accounting Officer further explained that UNRA has had several engagements with
+
+the MoLHUD and this subsequently resulted in establishment of a sub MZO at UNRA in 2018 but this has not helped speed up the process as had been anticipated. More
+
+recently, following an assessment of risk of the delayed return of titles by UNRA early this
+
+year, several proposals for new solutions were made and currently, UNRA is having engagements with different MDAs facing the same problem of titles to consider a holistic
+
+proposal to be presented before cabinet for approval.
+
+31
+
+
+
+
+
+
+
+
+
+
+
+The engagement UNRA is making with other MDAs facing similar challenges in respect of titling is commended and I await the outcome of these engagements. The Accounting Officer should ensure the Authority adheres to the requirements for titling in the Land Acquisition and Resettlement Policy in order to protect Government from avoidable
+
+financial loss due to litigation.
+
+John F.S. Muwanga
+
+AUDITOR GENERAL
+
+27 th December, 2021
+
+32
+
+
+
+
+
+
+
+
+
+
+

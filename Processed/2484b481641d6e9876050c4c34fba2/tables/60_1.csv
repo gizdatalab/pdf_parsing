@@ -1,0 +1,12 @@
+,No.,Items,Location Chainage,Unit,Drawings/ Specification s,Field checks/ measurements (averaged where necessary),Conformity
+0,1) SIR SAMUEL BAKER (1.28KM), , , , , , 
+1,1,Ker-Kerb road width,0+060,m,9.55,9.55,Ok
+2, , ,0+140,m,9.55,9.49,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec.
+3, , ,0+180,m,9.55,9.48,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec.
+4, , ,0+260,m,9.55,9.52,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec.
+5, , ,0+340,m,9.55,9.56,Ok
+6,2,Asphalt Concrete Width,0+060,m,9.0,9.04,Not Ok; non-compliant with Clause 7304(b) of the Gen. Spec.
+7, , ,0+140,m,9.0,9.0,Ok
+8, , ,0+180,m,9.0,9.0,Ok
+9, , ,0+260,m,9.0,9.02,Ok
+10, , ,0+340,m,9.0,9.01,Ok
